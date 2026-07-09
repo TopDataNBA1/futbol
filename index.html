@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TOP DATA INTERNATIONAL</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0A0D12;
+    --surface:#131822;
+    --surface-2:#1B2230;
+    --border:#232B3A;
+    --gold:#D8A73D;
+    --gold-dim:#8A6B2A;
+    --live:#33D6A6;
+    --text:#EDEFF3;
+    --text-dim:#8A93A6;
+    --text-faint:#5B6478;
+    --radius:10px;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+    min-height:100vh;
+    -webkit-font-smoothing:antialiased;
+  }
+  .display{font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:0.04em;}
+  .mono{font-family:'IBM Plex Mono',monospace;}
+
+  a{color:inherit;}
+
+  /* ---------- HEADER ---------- */
+  header{
+    position:sticky; top:0; z-index:50;
+    background:rgba(10,13,18,0.92);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+  }
+  .header-inner{
+    max-width:1180px; margin:0 auto; padding:14px 20px;
+    display:flex; align-items:center; justify-content:space-between; gap:16px;
+  }
+  .brand{display:flex; align-items:baseline; gap:10px;}
+  .brand h1{font-size:22px; font-weight:600; letter-spacing:0.08em;}
+  .brand h1 span{color:var(--gold);}
+  .brand .tag{font-size:11px; color:var(--text-faint); letter-spacing:0.12em;}
+  .status{display:flex; align-items:center; gap:8px; font-size:12px; color:var(--text-dim);}
+  .live-dot{
+    width:8px; height:8px; border-radius:50%; background:var(--live);
+    box-shadow:0 0 0 0 rgba(51,214,166,0.6);
+    animation:pulse 1.8s infinite;
+  }
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(51,214,166,0.55);}
+    70%{box-shadow:0 0 0 8px rgba(51,214,166,0);}
+    100%{box-shadow:0 0 0 0 rgba(51,214,166,0);}
+  }
+  .live-label{color:var(--live); font-weight:600; letter-spacing:0.08em; font-size:11px;}
+
+  /* ---------- TABS ---------- */
+  .tabs{
+    max-width:1180px; margin:22px auto 0; padding:0 20px;
+    display:flex; gap:8px;
+  }
+  .tab-btn{
+    font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:0.06em;
+    font-size:13px; font-weight:500;
+    background:transparent; border:1px solid var(--border); color:var(--text-dim);
+    padding:10px 18px; border-radius:999px; cursor:pointer;
+    transition:all .15s ease;
+  }
+  .tab-btn:hover{color:var(--text); border-color:var(--text-faint);}
+  .tab-btn.active{
+    background:var(--gold); color:#161207; border-color:var(--gold); font-weight:600;
+  }
+
+  main{max-width:1180px; margin:0 auto; padding:22px 20px 80px;}
+  .view{display:none;}
+  .view.active{display:block;}
+
+  /* ---------- RECENT MOVES ---------- */
+  .moves-list{display:flex; flex-direction:column; gap:12px;}
+  .move-card{
+    display:flex; gap:14px;
+    background:var(--surface); border:1px solid var(--border); border-left:3px solid var(--gold);
+    border-radius:var(--radius); padding:14px 16px;
+    animation:fadein .4s ease;
+  }
+  @keyframes fadein{from{opacity:0; transform:translateY(4px);} to{opacity:1; transform:translateY(0);}}
+  .move-collage{
+    flex:0 0 110px; width:110px; height:74px; border-radius:6px; overflow:hidden;
+    background:var(--surface-2); display:flex; align-items:center; justify-content:center;
+  }
+  .move-collage img{width:100%; height:100%; object-fit:cover; display:block;}
+  .move-collage.empty::after{content:'⚽'; font-size:22px; opacity:.35;}
+  .move-body{flex:1; min-width:0;}
+  .move-text{font-size:14.5px; line-height:1.5; color:var(--text);}
+  .move-meta{margin-top:6px; font-size:11px; color:var(--text-faint);}
+  .empty-state{
+    text-align:center; padding:60px 20px; color:var(--text-dim);
+  }
+  .empty-state .big{font-size:15px; margin-bottom:6px; color:var(--text);}
+  .empty-state .small{font-size:12.5px; color:var(--text-faint);}
+
+  /* ---------- FILTER BAR ---------- */
+  .filter-bar{
+    display:flex; flex-wrap:wrap; gap:22px; align-items:flex-end;
+    background:var(--surface); border:1px solid var(--border); border-radius:var(--radius);
+    padding:16px 18px; margin-bottom:18px;
+  }
+  .filter-group{display:flex; flex-direction:column; gap:7px;}
+  .filter-group label{
+    font-size:10.5px; letter-spacing:0.1em; text-transform:uppercase; color:var(--text-faint);
+    font-weight:600;
+  }
+  .segmented{display:flex; background:var(--surface-2); border-radius:8px; padding:3px; gap:2px;}
+  .segmented button{
+    font-family:'Inter',sans-serif; font-size:12.5px; font-weight:500;
+    background:transparent; border:none; color:var(--text-dim);
+    padding:7px 13px; border-radius:6px; cursor:pointer; transition:all .15s ease;
+  }
+  .segmented button.active{background:var(--gold); color:#161207; font-weight:600;}
+  .segmented button:hover:not(.active){color:var(--text);}
+
+  /* ---------- RANK CLUSTER (signature element) ---------- */
+  .rank-cluster{display:flex; flex-direction:column; gap:2px; font-family:'Oswald',sans-serif;}
+  .rank-row{display:flex; align-items:center; gap:6px; font-size:12px; line-height:1.3;}
+  .rank-row .scope{
+    width:15px; font-size:10px; color:var(--text-faint); text-align:center; flex-shrink:0;
+  }
+  .rank-row .n{font-weight:600; color:var(--text);}
+  .rank-row.g .n{color:var(--gold); font-weight:700; font-size:13px;}
+  .rank-row .flag{font-size:12px;}
+
+  /* ---------- TABLE ---------- */
+  .table-wrap{
+    background:var(--surface); border:1px solid var(--border); border-radius:var(--radius);
+    overflow:auto;
+  }
+  table{width:100%; border-collapse:collapse; font-size:13px; min-width:760px;}
+  thead th{
+    position:sticky; top:0; background:var(--surface-2);
+    text-align:left; padding:10px 12px; font-size:10.5px; letter-spacing:0.08em;
+    text-transform:uppercase; color:var(--text-faint); font-weight:600;
+    border-bottom:1px solid var(--border); white-space:nowrap;
+  }
+  tbody td{
+    padding:9px 12px; border-bottom:1px solid var(--border); vertical-align:middle;
+    white-space:nowrap;
+  }
+  tbody tr:hover{background:var(--surface-2);}
+  tbody tr:last-child td{border-bottom:none;}
+  .player-cell{display:flex; flex-direction:column; gap:1px;}
+  .player-name{font-weight:600; color:var(--text); font-size:13.5px;}
+  .player-country{font-size:11px; color:var(--text-dim); display:flex; align-items:center; gap:5px;}
+  .stat-main{font-family:'Oswald',sans-serif; font-weight:600; font-size:15px; color:var(--gold);}
+  .dim{color:var(--text-dim); font-family:'IBM Plex Mono',monospace; font-size:12px;}
+  .badge-active{
+    display:inline-block; width:6px; height:6px; border-radius:50%;
+    background:var(--live); margin-left:6px; vertical-align:middle;
+  }
+
+  footer{
+    text-align:center; padding:30px 20px 50px; color:var(--text-faint); font-size:11.5px;
+  }
+
+  @media (max-width:640px){
+    .brand h1{font-size:17px;}
+    .move-collage{flex:0 0 84px; width:84px; height:56px;}
+    .filter-bar{gap:14px; padding:14px;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="brand">
+      <h1>TOP DATA <span>INTERNATIONAL</span></h1>
+      <span class="tag">CAPS &amp; GOALS RECORD TRACKER</span>
+    </div>
+    <div class="status">
+      <span class="live-dot"></span>
+      <span class="live-label">LIVE</span>
+      <span id="last-updated">Last update: --:--</span>
+    </div>
+  </div>
+  <div class="tabs">
+    <button class="tab-btn active" data-view="moves">⚽ Recent Moves</button>
+    <button class="tab-btn" data-view="rankings">📊 Live Rankings</button>
+  </div>
+</header>
+
+<main>
+
+  <!-- ================= RECENT MOVES ================= -->
+  <section id="view-moves" class="view active">
+    <div class="moves-list" id="moves-list">
+      <div class="empty-state">
+        <div class="big">⏳ Loading recent moves…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= LIVE RANKINGS ================= -->
+  <section id="view-rankings" class="view">
+    <div class="filter-bar">
+      <div class="filter-group">
+        <label>Sorted by</label>
+        <div class="segmented" id="filter-sort">
+          <button class="active" data-value="Partits">Caps</button>
+          <button data-value="Gols">Goals</button>
+        </div>
+      </div>
+      <div class="filter-group">
+        <label>Show</label>
+        <div class="segmented" id="filter-show">
+          <button class="active" data-value="all">All</button>
+          <button data-value="active">Active</button>
+        </div>
+      </div>
+      <div class="filter-group">
+        <label>Ranking</label>
+        <div class="segmented" id="filter-top">
+          <button class="active" data-value="0">All</button>
+          <button data-value="10">Top 10</button>
+          <button data-value="25">Top 25</button>
+          <button data-value="100">Top 100</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr id="table-head"></tr>
+        </thead>
+        <tbody id="table-body">
+          <tr><td colspan="8" style="padding:40px; text-align:center; color:var(--text-dim);">⏳ Loading rankings…</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<footer>Data sourced from Wikipedia · Updated automatically from live match monitoring</footer>
+
+<script>
+/* ============================================================
+   DATA LOADING
+   Expects "baseline.json" (official Wikipedia snapshot) and
+   "data.json" (live overlay + notifications) in the same folder.
+   ============================================================ */
+
+let BASELINE = { Partits: {}, Gols: {} };
+let DATA = { notificacions: [], baseline: { Partits: {}, Gols: {} } };
+let MERGED = { Partits: [], Gols: [] };
+
+const FLAGS = {
+  "Argentina":"AR","Brazil":"BR","Uruguay":"UY","Paraguay":"PY","Chile":"CL","Bolivia":"BO","Peru":"PE","Colombia":"CO","Ecuador":"EC","Venezuela":"VE",
+  "Spain":"ES","Portugal":"PT","France":"FR","Germany":"DE","England":"GB","Italy":"IT","Netherlands":"NL","Belgium":"BE","Switzerland":"CH","Austria":"AT",
+  "Poland":"PL","Sweden":"SE","Norway":"NO","Denmark":"DK","Czech Republic":"CZ","Slovakia":"SK","Slovenia":"SI","Hungary":"HU","Serbia":"RS","Croatia":"HR",
+  "Ukraine":"UA","Wales":"GB-WLS","Scotland":"GB-SCT","Republic of Ireland":"IE","Northern Ireland":"GB-NIR","Iceland":"IS","Finland":"FI","Greece":"GR",
+  "Turkey":"TR","Russia":"RU","Albania":"AL","North Macedonia":"MK","Montenegro":"ME","Kosovo":"XK","Bulgaria":"BG","Cyprus":"CY","Israel":"IL","Georgia":"GE",
+  "Armenia":"AM","Azerbaijan":"AZ","Kazakhstan":"KZ","Belarus":"BY","Moldova":"MD","Lithuania":"LT","Latvia":"LV","Estonia":"EE","Luxembourg":"LU","Malta":"MT",
+  "Faroe Islands":"FO","Gibraltar":"GI","Andorra":"AD","San Marino":"SM","Liechtenstein":"LI","Romania":"RO","Bosnia and Herzegovina":"BA",
+  "Mexico":"MX","United States":"US","Canada":"CA","Costa Rica":"CR","Honduras":"HN","Panama":"PA","Jamaica":"JM","Curacao":"CW","Trinidad and Tobago":"TT",
+  "Guatemala":"GT","El Salvador":"SV","Nicaragua":"NI","Haiti":"HT","Suriname":"SR","Cuba":"CU","Dominican Republic":"DO","Bahamas":"BS",
+  "Morocco":"MA","Algeria":"DZ","Tunisia":"TN","Egypt":"EG","Senegal":"SN","Nigeria":"NG","Ghana":"GH","Ivory Coast":"CI","Cameroon":"CM","Mali":"ML",
+  "South Africa":"ZA","Cape Verde":"CV","DR Congo":"CD","Congo":"CG","Zambia":"ZM","Uganda":"UG","Guinea":"GN","Gabon":"GA","Angola":"AO","Mozambique":"MZ",
+  "Kenya":"KE","Tanzania":"TZ","Burkina Faso":"BF","Benin":"BJ","Togo":"TG","Namibia":"NA","Botswana":"BW","Zimbabwe":"ZW","Ethiopia":"ET","Sudan":"SD",
+  "Libya":"LY","Mauritania":"MR","Niger":"NE","Rwanda":"RW","Madagascar":"MG","Liberia":"LR","Sierra Leone":"SL","Gambia":"GM","Mauritius":"MU",
+  "Japan":"JP","South Korea":"KR","North Korea":"KP","China":"CN","Australia":"AU","Saudi Arabia":"SA","Iran":"IR","Iraq":"IQ","Qatar":"QA",
+  "United Arab Emirates":"AE","Jordan":"JO","Uzbekistan":"UZ","Oman":"OM","Bahrain":"BH","Kuwait":"KW","Lebanon":"LB","Syria":"SY","Palestine":"PS",
+  "Yemen":"YE","Afghanistan":"AF","India":"IN","Thailand":"TH","Vietnam":"VN","Indonesia":"ID","Malaysia":"MY","Singapore":"SG","Philippines":"PH",
+  "Myanmar":"MM","Cambodia":"KH","Laos":"LA","Bangladesh":"BD","Nepal":"NP","Maldives":"MV","Sri Lanka":"LK","Pakistan":"PK","Mongolia":"MN",
+  "Kyrgyzstan":"KG","Tajikistan":"TJ","Turkmenistan":"TM","Hong Kong":"HK","Macau":"MO","Chinese Taipei":"TW","Brunei":"BN","Guam":"GU",
+  "New Zealand":"NZ","Fiji":"FJ","Papua New Guinea":"PG","Vanuatu":"VU","New Caledonia":"NC","Tahiti":"PF","Solomon Islands":"SB","Samoa":"WS",
+  "American Samoa":"AS","Cook Islands":"CK","Tonga":"TO"
+};
+
+function flagEmoji(pais){
+  const code = FLAGS[pais];
+  if(!code || code.length !== 2) return "";
+  return String.fromCodePoint(...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65));
+}
+
+function ordinal(n){
+  n = parseInt(n,10);
+  const mod100 = n % 100;
+  if(mod100 >= 10 && mod100 <= 20) return n + "th";
+  switch(n % 10){
+    case 1: return n + "st";
+    case 2: return n + "nd";
+    case 3: return n + "rd";
+    default: return n + "th";
+  }
+}
+
+async function loadData(){
+  try{
+    const [baselineResp, dataResp] = await Promise.all([
+      fetch('baseline.json').then(r => r.ok ? r.json() : {Partits:{},Gols:{}}).catch(() => ({Partits:{},Gols:{}})),
+      fetch('data.json').then(r => r.ok ? r.json() : {notificacions:[],baseline:{Partits:{},Gols:{}}}).catch(() => ({notificacions:[],baseline:{Partits:{},Gols:{}}})),
+    ]);
+    BASELINE = baselineResp;
+    DATA = dataResp;
+  }catch(e){
+    console.error("Error loading data", e);
+  }
+  mergeData();
+  renderMoves();
+  renderRankingsHead();
+  renderRankingsBody();
+  updateTimestamp();
+}
+
+function mergeData(){
+  for(const cat of ["Partits","Gols"]){
+    const base = BASELINE[cat] || {};
+    const viu = (DATA.baseline && DATA.baseline[cat]) || {};
+    const noms = new Set([...Object.keys(base), ...Object.keys(viu)]);
+    const llista = [];
+    for(const nom of noms){
+      const d = { ...(base[nom] || {}), ...(viu[nom] || {}) };
+      d.nom = nom;
+      llista.push(d);
+    }
+    llista.sort((a,b) => (b.valor||0) - (a.valor||0));
+    MERGED[cat] = llista;
+  }
+}
+
+function computeRanks(cat){
+  const llista = MERGED[cat];
+  const global = {}, conf = {}, pais = {};
+  let rankGlobal = 0, lastValGlobal = null;
+
+  llista.forEach((j, i) => {
+    if(j.valor !== lastValGlobal){ rankGlobal = i + 1; lastValGlobal = j.valor; }
+    global[j.nom] = rankGlobal;
+  });
+
+  const perConf = {};
+  llista.forEach(j => { (perConf[j.confederacio] = perConf[j.confederacio] || []).push(j); });
+  for(const c in perConf){
+    let r = 0, last = null;
+    perConf[c].forEach((j,i) => { if(j.valor !== last){ r = i+1; last = j.valor; } conf[j.nom] = r; });
+  }
+
+  const perPais = {};
+  llista.forEach(j => { (perPais[j.pais] = perPais[j.pais] || []).push(j); });
+  for(const p in perPais){
+    let r = 0, last = null;
+    perPais[p].forEach((j,i) => { if(j.valor !== last){ r = i+1; last = j.valor; } pais[j.nom] = r; });
+  }
+
+  return { global, conf, pais };
+}
+
+/* ---------------- RECENT MOVES ---------------- */
+function renderMoves(){
+  const el = document.getElementById('moves-list');
+  const notifs = [...(DATA.notificacions || [])].sort((a,b) => (b.ts||0) - (a.ts||0));
+  if(notifs.length === 0){
+    el.innerHTML = `<div class="empty-state">
+      <div class="big">No moves yet</div>
+      <div class="small">New caps, goals and records will appear here as matches are played.</div>
+    </div>`;
+    return;
+  }
+  el.innerHTML = notifs.map(n => {
+    const time = n.ts ? new Date(n.ts*1000).toLocaleString('en-GB', {day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}) : '';
+    const collage = n.collage
+      ? `<div class="move-collage"><img src="${n.collage}" loading="lazy" alt=""></div>`
+      : `<div class="move-collage empty"></div>`;
+    return `<div class="move-card">
+      ${collage}
+      <div class="move-body">
+        <div class="move-text">${n.text}</div>
+        <div class="move-meta">${time}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+/* ---------------- RANKINGS ---------------- */
+let estatFiltres = { sort: 'Partits', show: 'all', top: 0 };
+
+function renderRankingsHead(){
+  const thead = document.getElementById('table-head');
+  if(estatFiltres.sort === 'Partits'){
+    thead.innerHTML = `<th>#</th><th>Player</th><th>Country</th><th>Caps</th><th>Debut</th><th>Latest</th>`;
+  }else{
+    thead.innerHTML = `<th>#</th><th>Player</th><th>Country</th><th>Goals</th><th>Caps</th><th>Goals/Match</th><th>Career Span</th><th>Date of 50th Goal</th>`;
+  }
+}
+
+function rankClusterHTML(nom, ranks, pais){
+  const g = ranks.global[nom], c = ranks.conf[nom], p = ranks.pais[nom];
+  const flag = flagEmoji(pais);
+  return `<div class="rank-cluster">
+    <div class="rank-row g"><span class="scope">G</span><span class="n">${ordinal(g)}</span></div>
+    <div class="rank-row"><span class="scope">C</span><span class="n">${ordinal(c)}</span></div>
+    <div class="rank-row"><span class="scope flag">${flag}</span><span class="n">${ordinal(p)}</span></div>
+  </div>`;
+}
+
+function renderRankingsBody(){
+  const tbody = document.getElementById('table-body');
+  const cat = estatFiltres.sort;
+  let llista = MERGED[cat];
+  const ranks = computeRanks(cat);
+
+  if(estatFiltres.show === 'active'){
+    llista = llista.filter(j => j.actiu);
+  }
+  if(estatFiltres.top > 0){
+    llista = llista.filter(j => ranks.global[j.nom] <= estatFiltres.top);
+  }
+
+  if(llista.length === 0){
+    tbody.innerHTML = `<tr><td colspan="8" style="padding:40px; text-align:center; color:var(--text-dim);">No players match this filter.</td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = llista.map(j => {
+    const flag = flagEmoji(j.pais);
+    const activeDot = j.actiu ? '<span class="badge-active" title="Active"></span>' : '';
+    const cluster = rankClusterHTML(j.nom, ranks, j.pais);
+    if(cat === 'Partits'){
+      return `<tr>
+        <td>${cluster}</td>
+        <td class="player-cell"><span class="player-name">${j.alias || j.nom}${activeDot}</span></td>
+        <td class="player-country">${flag} ${j.pais}</td>
+        <td class="stat-main">${j.valor}</td>
+        <td class="dim">${j.inici || '—'}</td>
+        <td class="dim">${j.final || '—'}</td>
+      </tr>`;
+    }else{
+      return `<tr>
+        <td>${cluster}</td>
+        <td class="player-cell"><span class="player-name">${j.alias || j.nom}${activeDot}</span></td>
+        <td class="player-country">${flag} ${j.pais}</td>
+        <td class="stat-main">${j.valor}</td>
+        <td class="dim">${j.caps != null ? j.caps : '—'}</td>
+        <td class="dim">${j.gpm != null ? j.gpm : '—'}</td>
+        <td class="dim">${(j.inici||'—')}–${(j.final||'—')}</td>
+        <td class="dim">${j.data_50e_gol || '—'}</td>
+      </tr>`;
+    }
+  }).join('');
+}
+
+function updateTimestamp(){
+  const t = document.getElementById('last-updated');
+  const now = new Date();
+  t.textContent = 'Last update: ' + now.toLocaleTimeString('en-GB', {hour:'2-digit', minute:'2-digit'});
+}
+
+/* ---------------- UI WIRING ---------------- */
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+    document.getElementById('view-' + btn.dataset.view).classList.add('active');
+  });
+});
+
+function wireSegmented(id, key, after){
+  document.querySelectorAll(`#${id} button`).forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll(`#${id} button`).forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      estatFiltres[key] = key === 'top' ? parseInt(btn.dataset.value,10) : btn.dataset.value;
+      after();
+    });
+  });
+}
+wireSegmented('filter-sort', 'sort', () => { renderRankingsHead(); renderRankingsBody(); });
+wireSegmented('filter-show', 'show', renderRankingsBody);
+wireSegmented('filter-top', 'top', renderRankingsBody);
+
+loadData();
+setInterval(loadData, 60000); // refresc automatic cada minut
+</script>
+</body>
+</html>

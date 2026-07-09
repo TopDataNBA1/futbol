@@ -42,16 +42,24 @@
     border-bottom:1px solid var(--border);
   }
   .header-inner{
-    max-width:1180px; margin:0 auto; padding:14px 20px;
-    display:flex; align-items:center; justify-content:space-between; gap:16px;
+    max-width:1180px; margin:0 auto; padding:20px 20px 14px;
+    display:flex; flex-direction:column; align-items:center; gap:6px; text-align:center;
   }
-  .brand{display:flex; align-items:baseline; gap:10px;}
-  .brand h1{font-size:22px; font-weight:600; letter-spacing:0.08em;}
-  .brand h1 span{color:var(--gold);}
-  .brand .tag{font-size:11px; color:var(--text-faint); letter-spacing:0.12em;}
-  .status{display:flex; align-items:center; gap:8px; font-size:12px; color:var(--text-dim);}
+  .brand-title{
+    font-family:'Oswald',sans-serif; font-weight:700; text-transform:uppercase;
+    font-size:32px; letter-spacing:0.06em;
+    background:linear-gradient(180deg, #FFFFFF 0%, #C7CDD9 100%);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+    text-shadow:0 2px 18px rgba(216,167,61,0.15);
+  }
+  .brand-title span{
+    background:linear-gradient(180deg, #F0C158 0%, var(--gold) 100%);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .brand-tag{font-size:12px; color:var(--text-dim); letter-spacing:0.1em;}
+  .status{display:flex; align-items:center; gap:6px; font-size:11.5px; color:var(--text-faint); margin-top:2px;}
   .live-dot{
-    width:8px; height:8px; border-radius:50%; background:var(--live);
+    width:7px; height:7px; border-radius:50%; background:var(--live);
     box-shadow:0 0 0 0 rgba(51,214,166,0.6);
     animation:pulse 1.8s infinite;
   }
@@ -128,36 +136,49 @@
   .segmented button:hover:not(.active){color:var(--text);}
 
   /* ---------- RANK CELLS ---------- */
-  .rank-cell{font-family:'Oswald',sans-serif; font-weight:600; font-size:13.5px; color:var(--text); white-space:nowrap;}
-  .rank-cell.global{color:var(--gold); font-weight:700; font-size:15px;}
-  .rank-cell .conf-label{color:var(--text-dim); font-weight:500; font-size:11.5px; margin-left:4px;}
-  .rank-cell .flag{font-size:14px; margin-right:5px;}
+  .rank-cell{font-family:'Oswald',sans-serif; font-weight:600; font-size:10.5px; color:var(--text); white-space:nowrap;}
+  .rank-cell.global{color:var(--gold); font-weight:700; font-size:12px;}
+  .rank-cell .conf-label{color:var(--text-dim); font-weight:500; font-size:9px; margin-left:2px;}
 
   /* ---------- TABLE ---------- */
   .table-wrap{
     background:var(--surface); border:1px solid var(--border); border-radius:var(--radius);
     overflow:auto;
   }
-  table{width:100%; border-collapse:collapse; font-size:13px; min-width:760px;}
+  table{width:100%; border-collapse:collapse; font-size:10px; min-width:0; table-layout:fixed;}
   thead th{
     position:sticky; top:0; background:var(--surface-2);
-    text-align:left; padding:10px 12px; font-size:10.5px; letter-spacing:0.08em;
+    text-align:right; padding:5px 3px; font-size:8px; letter-spacing:0.02em;
     text-transform:uppercase; color:var(--text-faint); font-weight:600;
-    border-bottom:1px solid var(--border); white-space:nowrap;
+    border-bottom:1px solid var(--border); white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
   }
   tbody td{
-    padding:9px 12px; border-bottom:1px solid var(--border); vertical-align:middle;
-    white-space:nowrap;
+    padding:4px 3px; border-bottom:1px solid var(--border); vertical-align:middle;
+    white-space:nowrap; text-align:right; overflow:hidden; text-overflow:ellipsis;
   }
+  thead th:nth-child(2), tbody td:nth-child(2){
+    text-align:left; white-space:normal; line-height:1.15;
+  }
+  thead th:nth-child(4), tbody td:nth-child(4){
+    text-align:left;
+  }
+  thead th:nth-child(1), tbody td:nth-child(1){width:11%;}
+  thead th:nth-child(2), tbody td:nth-child(2){width:17%;}
+  thead th:nth-child(3), tbody td:nth-child(3){width:16%;}
+  thead th:nth-child(4), tbody td:nth-child(4){width:25%;}
+  thead th:nth-child(5), tbody td:nth-child(5){width:11%;}
+  thead th:nth-child(6), tbody td:nth-child(6){width:10%;}
+  thead th:nth-child(7), tbody td:nth-child(7){width:10%;}
   tbody tr:hover{background:var(--surface-2);}
   tbody tr:last-child td{border-bottom:none;}
-  .player-name{font-weight:600; color:var(--text); font-size:13.5px;}
-  .stat-main{font-family:'Oswald',sans-serif; font-weight:600; font-size:15px; color:var(--gold);}
-  .dim{color:var(--text-dim); font-family:'IBM Plex Mono',monospace; font-size:12px;}
+  .player-name{font-weight:600; color:var(--text); font-size:11.5px;}
+  .stat-main{font-family:'Oswald',sans-serif; font-weight:600; font-size:12.5px; color:var(--gold);}
+  .dim{color:var(--text-dim); font-family:'IBM Plex Mono',monospace; font-size:10px;}
   .badge-active{
     display:inline-block; width:6px; height:6px; border-radius:50%;
-    background:var(--live); margin-left:6px; vertical-align:middle;
+    background:var(--live); margin-left:4px; vertical-align:middle;
   }
+  .flag-img{vertical-align:middle; border-radius:2px; margin-right:2px; width:14px; height:11px;}
 
   footer{
     text-align:center; padding:30px 20px 50px; color:var(--text-faint); font-size:11.5px;
@@ -174,14 +195,12 @@
 
 <header>
   <div class="header-inner">
-    <div class="brand">
-      <h1>TOP DATA <span>FUTBOL</span></h1>
-      <span class="tag">INTERNATIONAL CAPS &amp; GOALS RECORD TRACKER</span>
-    </div>
+    <h1 class="brand-title">TOP DATA <span>FUTBOL</span></h1>
+    <span class="brand-tag">International caps &amp; goals record tracker</span>
     <div class="status">
       <span class="live-dot"></span>
       <span class="live-label">LIVE</span>
-      <span id="last-updated">Last update: --:--</span>
+      <span id="last-updated">· Last update: --:--</span>
     </div>
   </div>
   <div class="tabs">
@@ -235,7 +254,7 @@
           <tr id="table-head"></tr>
         </thead>
         <tbody id="table-body">
-          <tr><td colspan="9" style="padding:40px; text-align:center; color:var(--text-dim);">⏳ Loading rankings…</td></tr>
+          <tr><td colspan="7" style="padding:40px; text-align:center; color:var(--text-dim);">⏳ Loading rankings…</td></tr>
         </tbody>
       </table>
     </div>
@@ -279,10 +298,37 @@ const FLAGS = {
   "American Samoa":"AS","Cook Islands":"CK","Tonga":"TO"
 };
 
-function flagEmoji(pais){
+const FIFA_CODES = {
+  "Argentina":"ARG","Brazil":"BRA","Uruguay":"URU","Paraguay":"PAR","Chile":"CHI","Bolivia":"BOL","Peru":"PER","Colombia":"COL","Ecuador":"ECU","Venezuela":"VEN",
+  "Spain":"ESP","Portugal":"POR","France":"FRA","Germany":"GER","England":"ENG","Italy":"ITA","Netherlands":"NED","Belgium":"BEL","Switzerland":"SUI","Austria":"AUT",
+  "Poland":"POL","Sweden":"SWE","Norway":"NOR","Denmark":"DEN","Czech Republic":"CZE","Slovakia":"SVK","Slovenia":"SVN","Hungary":"HUN","Serbia":"SRB","Croatia":"CRO",
+  "Ukraine":"UKR","Wales":"WAL","Scotland":"SCO","Republic of Ireland":"IRL","Northern Ireland":"NIR","Iceland":"ISL","Finland":"FIN","Greece":"GRE",
+  "Turkey":"TUR","Russia":"RUS","Albania":"ALB","North Macedonia":"MKD","Montenegro":"MNE","Kosovo":"KVX","Bulgaria":"BUL","Cyprus":"CYP","Israel":"ISR","Georgia":"GEO",
+  "Armenia":"ARM","Azerbaijan":"AZE","Kazakhstan":"KAZ","Belarus":"BLR","Moldova":"MDA","Lithuania":"LTU","Latvia":"LVA","Estonia":"EST","Luxembourg":"LUX","Malta":"MLT",
+  "Faroe Islands":"FRO","Gibraltar":"GIB","Andorra":"AND","San Marino":"SMR","Liechtenstein":"LIE","Romania":"ROU","Bosnia and Herzegovina":"BIH",
+  "Mexico":"MEX","United States":"USA","Canada":"CAN","Costa Rica":"CRC","Honduras":"HON","Panama":"PAN","Jamaica":"JAM","Curacao":"CUW","Trinidad and Tobago":"TRI",
+  "Guatemala":"GUA","El Salvador":"SLV","Nicaragua":"NCA","Haiti":"HAI","Suriname":"SUR","Cuba":"CUB","Dominican Republic":"DOM","Bahamas":"BAH",
+  "Morocco":"MAR","Algeria":"ALG","Tunisia":"TUN","Egypt":"EGY","Senegal":"SEN","Nigeria":"NGA","Ghana":"GHA","Ivory Coast":"CIV","Cameroon":"CMR","Mali":"MLI",
+  "South Africa":"RSA","Cape Verde":"CPV","DR Congo":"COD","Congo":"CGO","Zambia":"ZAM","Uganda":"UGA","Guinea":"GUI","Gabon":"GAB","Angola":"ANG","Mozambique":"MOZ",
+  "Kenya":"KEN","Tanzania":"TAN","Burkina Faso":"BFA","Benin":"BEN","Togo":"TOG","Namibia":"NAM","Botswana":"BOT","Zimbabwe":"ZIM","Ethiopia":"ETH","Sudan":"SDN",
+  "Libya":"LBY","Mauritania":"MTN","Niger":"NIG","Rwanda":"RWA","Madagascar":"MAD","Liberia":"LBR","Sierra Leone":"SLE","Gambia":"GAM","Mauritius":"MRI",
+  "Japan":"JPN","South Korea":"KOR","North Korea":"PRK","China":"CHN","Australia":"AUS","Saudi Arabia":"KSA","Iran":"IRN","Iraq":"IRQ","Qatar":"QAT",
+  "United Arab Emirates":"UAE","Jordan":"JOR","Uzbekistan":"UZB","Oman":"OMA","Bahrain":"BHR","Kuwait":"KUW","Lebanon":"LBN","Syria":"SYR","Palestine":"PLE",
+  "Yemen":"YEM","Afghanistan":"AFG","India":"IND","Thailand":"THA","Vietnam":"VIE","Indonesia":"IDN","Malaysia":"MAS","Singapore":"SIN","Philippines":"PHI",
+  "Myanmar":"MYA","Cambodia":"CAM","Laos":"LAO","Bangladesh":"BAN","Nepal":"NEP","Maldives":"MDV","Sri Lanka":"SRI","Pakistan":"PAK","Mongolia":"MNG",
+  "Kyrgyzstan":"KGZ","Tajikistan":"TJK","Turkmenistan":"TKM","Hong Kong":"HKG","Macau":"MAC","Chinese Taipei":"TPE","Brunei":"BRU","Guam":"GUM",
+  "New Zealand":"NZL","Fiji":"FIJ","Papua New Guinea":"PNG","Vanuatu":"VAN","New Caledonia":"NCL","Tahiti":"TAH","Solomon Islands":"SOL","Samoa":"SAM",
+  "American Samoa":"ASA","Cook Islands":"COK","Tonga":"TGA"
+};
+
+function flagImg(pais){
   const code = FLAGS[pais];
   if(!code || code.length !== 2) return "";
-  return String.fromCodePoint(...[...code.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65));
+  return `<img class="flag-img" src="https://flagcdn.com/20x15/${code.toLowerCase()}.png" alt="" width="20" height="15">`;
+}
+
+function fifaCode(pais){
+  return FIFA_CODES[pais] || (pais || '').slice(0,3).toUpperCase();
 }
 
 function ordinal(n){
@@ -392,7 +438,7 @@ function renderRankingsHead(){
   if(estatFiltres.sort === 'Partits'){
     thead.innerHTML = `<th>Global</th><th>Confed.</th><th>Country</th><th>Player</th><th>Caps</th><th>Debut</th><th>Latest</th>`;
   }else{
-    thead.innerHTML = `<th>Global</th><th>Confed.</th><th>Country</th><th>Player</th><th>Goals</th><th>Caps</th><th>Goals/Match</th><th>Career Span</th><th>Date of 50th Goal</th>`;
+    thead.innerHTML = `<th>Global</th><th>Confed.</th><th>Country</th><th>Player</th><th>Goals</th><th>Career Span</th><th>Date of 50th Goal</th>`;
   }
 }
 
@@ -403,7 +449,7 @@ function rankCellConf(nom, ranks, confederacio){
   return `<span class="rank-cell">${ordinal(ranks.conf[nom])} <span class="conf-label">${confederacio || ''}</span></span>`;
 }
 function rankCellCountry(nom, ranks, pais){
-  return `<span class="rank-cell"><span class="flag">${flagEmoji(pais)}</span>${ordinal(ranks.pais[nom])}</span>`;
+  return `<span class="rank-cell">${flagImg(pais)} ${ordinal(ranks.pais[nom])} <span class="conf-label">${fifaCode(pais)}</span></span>`;
 }
 
 function renderRankingsBody(){
@@ -420,7 +466,7 @@ function renderRankingsBody(){
   }
 
   if(llista.length === 0){
-    const cols = cat === 'Partits' ? 7 : 9;
+    const cols = 7;
     tbody.innerHTML = `<tr><td colspan="${cols}" style="padding:40px; text-align:center; color:var(--text-dim);">No players match this filter.</td></tr>`;
     return;
   }
@@ -447,8 +493,6 @@ function renderRankingsBody(){
         <td>${rPais}</td>
         <td class="player-name">${j.alias || j.nom}${activeDot}</td>
         <td class="stat-main">${j.valor}</td>
-        <td class="dim">${j.caps != null ? j.caps : '—'}</td>
-        <td class="dim">${j.gpm != null ? j.gpm : '—'}</td>
         <td class="dim">${(j.inici||'—')}–${(j.final||'—')}</td>
         <td class="dim">${j.data_50e_gol || '—'}</td>
       </tr>`;

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TOP DATA INTERNATIONAL</title>
+<title>TOP DATA FUTBOL</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -127,15 +127,11 @@
   .segmented button.active{background:var(--gold); color:#161207; font-weight:600;}
   .segmented button:hover:not(.active){color:var(--text);}
 
-  /* ---------- RANK CLUSTER (signature element) ---------- */
-  .rank-cluster{display:flex; flex-direction:column; gap:2px; font-family:'Oswald',sans-serif;}
-  .rank-row{display:flex; align-items:center; gap:6px; font-size:12px; line-height:1.3;}
-  .rank-row .scope{
-    width:15px; font-size:10px; color:var(--text-faint); text-align:center; flex-shrink:0;
-  }
-  .rank-row .n{font-weight:600; color:var(--text);}
-  .rank-row.g .n{color:var(--gold); font-weight:700; font-size:13px;}
-  .rank-row .flag{font-size:12px;}
+  /* ---------- RANK CELLS ---------- */
+  .rank-cell{font-family:'Oswald',sans-serif; font-weight:600; font-size:13.5px; color:var(--text); white-space:nowrap;}
+  .rank-cell.global{color:var(--gold); font-weight:700; font-size:15px;}
+  .rank-cell .conf-label{color:var(--text-dim); font-weight:500; font-size:11.5px; margin-left:4px;}
+  .rank-cell .flag{font-size:14px; margin-right:5px;}
 
   /* ---------- TABLE ---------- */
   .table-wrap{
@@ -155,9 +151,7 @@
   }
   tbody tr:hover{background:var(--surface-2);}
   tbody tr:last-child td{border-bottom:none;}
-  .player-cell{display:flex; flex-direction:column; gap:1px;}
   .player-name{font-weight:600; color:var(--text); font-size:13.5px;}
-  .player-country{font-size:11px; color:var(--text-dim); display:flex; align-items:center; gap:5px;}
   .stat-main{font-family:'Oswald',sans-serif; font-weight:600; font-size:15px; color:var(--gold);}
   .dim{color:var(--text-dim); font-family:'IBM Plex Mono',monospace; font-size:12px;}
   .badge-active{
@@ -181,8 +175,8 @@
 <header>
   <div class="header-inner">
     <div class="brand">
-      <h1>TOP DATA <span>INTERNATIONAL</span></h1>
-      <span class="tag">CAPS &amp; GOALS RECORD TRACKER</span>
+      <h1>TOP DATA <span>FUTBOL</span></h1>
+      <span class="tag">INTERNATIONAL CAPS &amp; GOALS RECORD TRACKER</span>
     </div>
     <div class="status">
       <span class="live-dot"></span>
@@ -241,7 +235,7 @@
           <tr id="table-head"></tr>
         </thead>
         <tbody id="table-body">
-          <tr><td colspan="8" style="padding:40px; text-align:center; color:var(--text-dim);">⏳ Loading rankings…</td></tr>
+          <tr><td colspan="9" style="padding:40px; text-align:center; color:var(--text-dim);">⏳ Loading rankings…</td></tr>
         </tbody>
       </table>
     </div>
@@ -396,20 +390,20 @@ let estatFiltres = { sort: 'Partits', show: 'all', top: 0 };
 function renderRankingsHead(){
   const thead = document.getElementById('table-head');
   if(estatFiltres.sort === 'Partits'){
-    thead.innerHTML = `<th>#</th><th>Player</th><th>Country</th><th>Caps</th><th>Debut</th><th>Latest</th>`;
+    thead.innerHTML = `<th>Global</th><th>Confed.</th><th>Country</th><th>Player</th><th>Caps</th><th>Debut</th><th>Latest</th>`;
   }else{
-    thead.innerHTML = `<th>#</th><th>Player</th><th>Country</th><th>Goals</th><th>Caps</th><th>Goals/Match</th><th>Career Span</th><th>Date of 50th Goal</th>`;
+    thead.innerHTML = `<th>Global</th><th>Confed.</th><th>Country</th><th>Player</th><th>Goals</th><th>Caps</th><th>Goals/Match</th><th>Career Span</th><th>Date of 50th Goal</th>`;
   }
 }
 
-function rankClusterHTML(nom, ranks, pais){
-  const g = ranks.global[nom], c = ranks.conf[nom], p = ranks.pais[nom];
-  const flag = flagEmoji(pais);
-  return `<div class="rank-cluster">
-    <div class="rank-row g"><span class="scope">G</span><span class="n">${ordinal(g)}</span></div>
-    <div class="rank-row"><span class="scope">C</span><span class="n">${ordinal(c)}</span></div>
-    <div class="rank-row"><span class="scope flag">${flag}</span><span class="n">${ordinal(p)}</span></div>
-  </div>`;
+function rankCellGlobal(nom, ranks){
+  return `<span class="rank-cell global">${ordinal(ranks.global[nom])}</span>`;
+}
+function rankCellConf(nom, ranks, confederacio){
+  return `<span class="rank-cell">${ordinal(ranks.conf[nom])} <span class="conf-label">${confederacio || ''}</span></span>`;
+}
+function rankCellCountry(nom, ranks, pais){
+  return `<span class="rank-cell"><span class="flag">${flagEmoji(pais)}</span>${ordinal(ranks.pais[nom])}</span>`;
 }
 
 function renderRankingsBody(){
@@ -426,28 +420,32 @@ function renderRankingsBody(){
   }
 
   if(llista.length === 0){
-    tbody.innerHTML = `<tr><td colspan="8" style="padding:40px; text-align:center; color:var(--text-dim);">No players match this filter.</td></tr>`;
+    const cols = cat === 'Partits' ? 7 : 9;
+    tbody.innerHTML = `<tr><td colspan="${cols}" style="padding:40px; text-align:center; color:var(--text-dim);">No players match this filter.</td></tr>`;
     return;
   }
 
   tbody.innerHTML = llista.map(j => {
-    const flag = flagEmoji(j.pais);
     const activeDot = j.actiu ? '<span class="badge-active" title="Active"></span>' : '';
-    const cluster = rankClusterHTML(j.nom, ranks, j.pais);
+    const rGlobal = rankCellGlobal(j.nom, ranks);
+    const rConf = rankCellConf(j.nom, ranks, j.confederacio);
+    const rPais = rankCellCountry(j.nom, ranks, j.pais);
     if(cat === 'Partits'){
       return `<tr>
-        <td>${cluster}</td>
-        <td class="player-cell"><span class="player-name">${j.alias || j.nom}${activeDot}</span></td>
-        <td class="player-country">${flag} ${j.pais}</td>
+        <td>${rGlobal}</td>
+        <td>${rConf}</td>
+        <td>${rPais}</td>
+        <td class="player-name">${j.alias || j.nom}${activeDot}</td>
         <td class="stat-main">${j.valor}</td>
         <td class="dim">${j.inici || '—'}</td>
         <td class="dim">${j.final || '—'}</td>
       </tr>`;
     }else{
       return `<tr>
-        <td>${cluster}</td>
-        <td class="player-cell"><span class="player-name">${j.alias || j.nom}${activeDot}</span></td>
-        <td class="player-country">${flag} ${j.pais}</td>
+        <td>${rGlobal}</td>
+        <td>${rConf}</td>
+        <td>${rPais}</td>
+        <td class="player-name">${j.alias || j.nom}${activeDot}</td>
         <td class="stat-main">${j.valor}</td>
         <td class="dim">${j.caps != null ? j.caps : '—'}</td>
         <td class="dim">${j.gpm != null ? j.gpm : '—'}</td>

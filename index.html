@@ -9,9 +9,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0A0D12;
-    --surface:#131822;
-    --surface-2:#1B2230;
+    --bg:#12151C;
+    --surface:#1A1F2A;
+    --surface-2:#232937;
+    --row-a:#0B0D12;
+    --row-b:#1C2129;
     --border:#232B3A;
     --gold:#D8A73D;
     --gold-dim:#8A6B2A;
@@ -169,7 +171,9 @@
   thead th:nth-child(5), tbody td:nth-child(5){width:11%;}
   thead th:nth-child(6), tbody td:nth-child(6){width:10%;}
   thead th:nth-child(7), tbody td:nth-child(7){width:10%;}
-  tbody tr:hover{background:var(--surface-2);}
+  tbody tr.row-a{background:var(--row-a);}
+  tbody tr.row-b{background:var(--row-b);}
+  tbody tr:hover{background:var(--surface-2) !important;}
   tbody tr:last-child td{border-bottom:none;}
   .player-name{font-weight:600; color:var(--text); font-size:11.5px;}
   .stat-main{font-family:'Oswald',sans-serif; font-weight:600; font-size:12.5px; color:var(--gold);}
@@ -184,10 +188,24 @@
     text-align:center; padding:30px 20px 50px; color:var(--text-faint); font-size:11.5px;
   }
 
+  .flag-missing{opacity:.4; font-size:11px;}
+
   @media (max-width:640px){
-    .brand h1{font-size:17px;}
+    .brand-title{font-size:24px;}
     .move-collage{flex:0 0 84px; width:84px; height:56px;}
     .filter-bar{gap:14px; padding:14px;}
+
+    /* Sacrifiquem les 2 ultimes columnes (Debut/Latest o Career Span/Date)
+       i donem el seu espai al nom del jugador, que quedava massa retallat */
+    thead th:nth-child(6), tbody td:nth-child(6),
+    thead th:nth-child(7), tbody td:nth-child(7){
+      display:none;
+    }
+    thead th:nth-child(4), tbody td:nth-child(4){width:44%;}
+    thead th:nth-child(1), tbody td:nth-child(1){width:14%;}
+    thead th:nth-child(2), tbody td:nth-child(2){width:22%;}
+    thead th:nth-child(3), tbody td:nth-child(3){width:20%;}
+    thead th:nth-child(5), tbody td:nth-child(5){width:14%;}
   }
 </style>
 </head>
@@ -277,7 +295,7 @@ let MERGED = { Partits: [], Gols: [] };
 
 const FLAGS = {
   "Argentina":"AR","Brazil":"BR","Uruguay":"UY","Paraguay":"PY","Chile":"CL","Bolivia":"BO","Peru":"PE","Colombia":"CO","Ecuador":"EC","Venezuela":"VE",
-  "Spain":"ES","Portugal":"PT","France":"FR","Germany":"DE","England":"GB","Italy":"IT","Netherlands":"NL","Belgium":"BE","Switzerland":"CH","Austria":"AT",
+  "Spain":"ES","Portugal":"PT","France":"FR","Germany":"DE","England":"GB-ENG","Italy":"IT","Netherlands":"NL","Belgium":"BE","Switzerland":"CH","Austria":"AT",
   "Poland":"PL","Sweden":"SE","Norway":"NO","Denmark":"DK","Czech Republic":"CZ","Slovakia":"SK","Slovenia":"SI","Hungary":"HU","Serbia":"RS","Croatia":"HR",
   "Ukraine":"UA","Wales":"GB-WLS","Scotland":"GB-SCT","Republic of Ireland":"IE","Northern Ireland":"GB-NIR","Iceland":"IS","Finland":"FI","Greece":"GR",
   "Turkey":"TR","Russia":"RU","Albania":"AL","North Macedonia":"MK","Montenegro":"ME","Kosovo":"XK","Bulgaria":"BG","Cyprus":"CY","Israel":"IL","Georgia":"GE",
@@ -289,13 +307,21 @@ const FLAGS = {
   "South Africa":"ZA","Cape Verde":"CV","DR Congo":"CD","Congo":"CG","Zambia":"ZM","Uganda":"UG","Guinea":"GN","Gabon":"GA","Angola":"AO","Mozambique":"MZ",
   "Kenya":"KE","Tanzania":"TZ","Burkina Faso":"BF","Benin":"BJ","Togo":"TG","Namibia":"NA","Botswana":"BW","Zimbabwe":"ZW","Ethiopia":"ET","Sudan":"SD",
   "Libya":"LY","Mauritania":"MR","Niger":"NE","Rwanda":"RW","Madagascar":"MG","Liberia":"LR","Sierra Leone":"SL","Gambia":"GM","Mauritius":"MU",
+  "Lesotho":"LS","Malawi":"MW","Eswatini":"SZ","Swaziland":"SZ","Burundi":"BI","Comoros":"KM","Djibouti":"DJ","Somalia":"SO","Eritrea":"ER",
+  "South Sudan":"SS","Chad":"TD","Sao Tome and Principe":"ST","Seychelles":"SC","Equatorial Guinea":"GQ","Guinea-Bissau":"GW",
   "Japan":"JP","South Korea":"KR","North Korea":"KP","China":"CN","Australia":"AU","Saudi Arabia":"SA","Iran":"IR","Iraq":"IQ","Qatar":"QA",
   "United Arab Emirates":"AE","Jordan":"JO","Uzbekistan":"UZ","Oman":"OM","Bahrain":"BH","Kuwait":"KW","Lebanon":"LB","Syria":"SY","Palestine":"PS",
   "Yemen":"YE","Afghanistan":"AF","India":"IN","Thailand":"TH","Vietnam":"VN","Indonesia":"ID","Malaysia":"MY","Singapore":"SG","Philippines":"PH",
   "Myanmar":"MM","Cambodia":"KH","Laos":"LA","Bangladesh":"BD","Nepal":"NP","Maldives":"MV","Sri Lanka":"LK","Pakistan":"PK","Mongolia":"MN",
   "Kyrgyzstan":"KG","Tajikistan":"TJ","Turkmenistan":"TM","Hong Kong":"HK","Macau":"MO","Chinese Taipei":"TW","Brunei":"BN","Guam":"GU",
   "New Zealand":"NZ","Fiji":"FJ","Papua New Guinea":"PG","Vanuatu":"VU","New Caledonia":"NC","Tahiti":"PF","Solomon Islands":"SB","Samoa":"WS",
-  "American Samoa":"AS","Cook Islands":"CK","Tonga":"TO"
+  "American Samoa":"AS","Cook Islands":"CK","Tonga":"TO",
+  /* ---- seleccions historiques / desaparegudes: es fa servir la bandera
+     de la nacio successora mes propera (nomes visual, no oficial) ---- */
+  "West Germany":"DE","East Germany":"DE","Saar":"DE",
+  "Soviet Union":"RU","USSR":"RU","CIS":"RU",
+  "Yugoslavia":"RS","FR Yugoslavia":"RS","Serbia and Montenegro":"RS",
+  "Czechoslovakia":"CZ","North Vietnam":"VN","South Vietnam":"VN","North Yemen":"YE","South Yemen":"YE","Zaire":"CD"
 };
 
 const FIFA_CODES = {
@@ -318,12 +344,18 @@ const FIFA_CODES = {
   "Myanmar":"MYA","Cambodia":"CAM","Laos":"LAO","Bangladesh":"BAN","Nepal":"NEP","Maldives":"MDV","Sri Lanka":"SRI","Pakistan":"PAK","Mongolia":"MNG",
   "Kyrgyzstan":"KGZ","Tajikistan":"TJK","Turkmenistan":"TKM","Hong Kong":"HKG","Macau":"MAC","Chinese Taipei":"TPE","Brunei":"BRU","Guam":"GUM",
   "New Zealand":"NZL","Fiji":"FIJ","Papua New Guinea":"PNG","Vanuatu":"VAN","New Caledonia":"NCL","Tahiti":"TAH","Solomon Islands":"SOL","Samoa":"SAM",
-  "American Samoa":"ASA","Cook Islands":"COK","Tonga":"TGA"
+  "American Samoa":"ASA","Cook Islands":"COK","Tonga":"TGA",
+  "Lesotho":"LES","Malawi":"MWI","Eswatini":"SWZ","Swaziland":"SWZ","Burundi":"BDI","Comoros":"COM","Djibouti":"DJI","Somalia":"SOM","Eritrea":"ERI",
+  "South Sudan":"SSD","Chad":"CHA","Sao Tome and Principe":"STP","Seychelles":"SEY","Equatorial Guinea":"EQG","Guinea-Bissau":"GNB",
+  "West Germany":"FRG","East Germany":"GDR","Saar":"SAA",
+  "Soviet Union":"URS","USSR":"URS","CIS":"CIS",
+  "Yugoslavia":"YUG","FR Yugoslavia":"YUG","Serbia and Montenegro":"SCG",
+  "Czechoslovakia":"TCH","North Vietnam":"VIE","South Vietnam":"VIE","North Yemen":"YEM","South Yemen":"YEM","Zaire":"ZAI"
 };
 
 function flagImg(pais){
   const code = FLAGS[pais];
-  if(!code || code.length !== 2) return "";
+  if(!code) return `<span class="flag-missing" title="${pais}">🏳️</span>`;
   return `<img class="flag-img" src="https://flagcdn.com/20x15/${code.toLowerCase()}.png" alt="" width="20" height="15">`;
 }
 
@@ -471,13 +503,21 @@ function renderRankingsBody(){
     return;
   }
 
+  let valorAnterior = null;
+  let stripe = 'a';
   tbody.innerHTML = llista.map(j => {
+    if(valorAnterior !== null && j.valor !== valorAnterior){
+      stripe = (stripe === 'a') ? 'b' : 'a';
+    }
+    valorAnterior = j.valor;
+    const rowClass = 'row-' + stripe;
+
     const activeDot = j.actiu ? '<span class="badge-active" title="Active"></span>' : '';
     const rGlobal = rankCellGlobal(j.nom, ranks);
     const rConf = rankCellConf(j.nom, ranks, j.confederacio);
     const rPais = rankCellCountry(j.nom, ranks, j.pais);
     if(cat === 'Partits'){
-      return `<tr>
+      return `<tr class="${rowClass}">
         <td>${rGlobal}</td>
         <td>${rConf}</td>
         <td>${rPais}</td>
@@ -487,7 +527,7 @@ function renderRankingsBody(){
         <td class="dim">${j.final || '—'}</td>
       </tr>`;
     }else{
-      return `<tr>
+      return `<tr class="${rowClass}">
         <td>${rGlobal}</td>
         <td>${rConf}</td>
         <td>${rPais}</td>

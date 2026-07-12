@@ -604,6 +604,63 @@
       },
       "ts": 1783896757.600495,
       "collage": "collages\\2a0492ff-7a70-4775-923e-ff8cbfab3c22.webp"
+    },
+    {
+      "id": "5edfe3c6-b939-436e-8526-299680367f42",
+      "text": "Harry Kane (2nd England) surpasses Mart Poom, Gilbert Agius, Rüştü Reçber and Kasper Schmeichel and reaches Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci as 83rd UEFA, 237th global player with 121 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 121,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mart Poom",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Gilbert Agius",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Rüştü Reçber",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Kasper Schmeichel",
+                "pais": "Denmark"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Schmeichel",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Bastian Schweinsteiger",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Leonardo Bonucci",
+                "pais": "Italy"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 83,
+        "rank_global": 237,
+        "ambit": "confederacio"
+      },
+      "ts": 1783896792.6246517,
+      "collage": "collages\\5edfe3c6-b939-436e-8526-299680367f42.webp"
     }
   ],
   "baseline": {
@@ -675,7 +732,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 120,
+        "valor": 121,
         "inici": "2015",
         "final": "2026",
         "actiu": true

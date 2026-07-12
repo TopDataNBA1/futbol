@@ -113,17 +113,13 @@
   .move-text{font-size:14.5px; line-height:1.6; color:var(--text);}
   .move-text b{color:var(--gold); font-weight:600;}
   .move-text .flag-img{margin:0 1px;}
-  .move-meta{
-    margin-top:12px; padding-top:10px; border-top:1px solid var(--border);
-    display:flex; align-items:center; justify-content:space-between;
-    font-size:11.5px; color:var(--text-faint);
+  .move-meta-inline{color:var(--text-faint); font-size:12px; white-space:nowrap;}
+  .move-share-btn{
+    display:inline-flex; align-items:center; justify-content:center;
+    background:none; border:none; color:var(--text-faint); cursor:pointer;
+    padding:0 2px; vertical-align:middle; transition:color .15s ease;
   }
-  .move-share{
-    background:var(--surface-2); border:1px solid var(--border); color:var(--text-dim);
-    padding:5px 11px; border-radius:6px; font-size:11px; cursor:pointer;
-    font-family:'Inter',sans-serif; transition:all .15s ease;
-  }
-  .move-share:hover{color:var(--gold); border-color:var(--gold);}
+  .move-share-btn:hover{color:var(--gold);}
   .empty-state{
     text-align:center; padding:60px 20px; color:var(--text-dim);
   }
@@ -174,6 +170,7 @@
   thead th:nth-child(2), tbody td:nth-child(2){
     text-align:left; white-space:normal; line-height:1.15;
   }
+  thead th:nth-child(3), tbody td:nth-child(3),
   thead th:nth-child(4), tbody td:nth-child(4){
     text-align:left;
   }
@@ -331,7 +328,8 @@ const FLAGS = {
   "American Samoa":"AS","Cook Islands":"CK","Tonga":"TO",
   /* ---- seleccions historiques / desaparegudes: es fa servir la bandera
      de la nacio successora mes propera (nomes visual, no oficial) ---- */
-  "West Germany":"DE","East Germany":"DE","Saar":"DE",
+  "West Germany":"DE","East Germany":"DE","Saar":"DE","FR Germany":"DE","German Democratic Republic":"DE",
+  "Federal Republic of Germany":"DE","Malaya":"MY",
   "Soviet Union":"RU","USSR":"RU","CIS":"RU",
   "Yugoslavia":"RS","FR Yugoslavia":"RS","Serbia and Montenegro":"RS",
   "Czechoslovakia":"CZ","North Vietnam":"VN","South Vietnam":"VN","North Yemen":"YE","South Yemen":"YE","Zaire":"CD"
@@ -366,14 +364,22 @@ const FIFA_CODES = {
   "Czechoslovakia":"TCH","North Vietnam":"VIE","South Vietnam":"VIE","North Yemen":"YEM","South Yemen":"YEM","Zaire":"ZAI"
 };
 
+function _normalitzarPais(s){
+  return (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim().toLowerCase();
+}
+const FLAGS_NORM = {};
+for(const [k, v] of Object.entries(FLAGS)){ FLAGS_NORM[_normalitzarPais(k)] = v; }
+const FIFA_CODES_NORM = {};
+for(const [k, v] of Object.entries(FIFA_CODES)){ FIFA_CODES_NORM[_normalitzarPais(k)] = v; }
+
 function flagImg(pais){
-  const code = FLAGS[pais];
+  const code = FLAGS[pais] || FLAGS_NORM[_normalitzarPais(pais)];
   if(!code) return `<span class="flag-missing" title="${pais}">🏳️</span>`;
   return `<img class="flag-img" src="https://flagcdn.com/20x15/${code.toLowerCase()}.png" alt="" width="20" height="15">`;
 }
 
 function fifaCode(pais){
-  return FIFA_CODES[pais] || (pais || '').slice(0,3).toUpperCase();
+  return FIFA_CODES[pais] || FIFA_CODES_NORM[_normalitzarPais(pais)] || (pais || '').slice(0,3).toUpperCase();
 }
 
 function ordinal(n){
@@ -461,12 +467,8 @@ function tempsRelatiu(ts){
   return Math.floor(dif / 86400) + 'd ago';
 }
 
-function _jugadorAmbBandera(nomHtml, pais){
-  return `${nomHtml} ${flagImg(pais)}`;
-}
-
-function _fmtJugadorsHTML(jugadors){
-  const parts = jugadors.map(j => _jugadorAmbBandera(j.nom, j.pais));
+function _fmtJugadorsHTML(jugadors, ambBanderes){
+  const parts = jugadors.map(j => ambBanderes ? `${j.nom} ${flagImg(j.pais)}` : j.nom);
   if(parts.length === 0) return '';
   if(parts.length === 1) return parts[0];
   return parts.slice(0, -1).join(', ') + ' and ' + parts[parts.length - 1];
@@ -476,7 +478,9 @@ function renderNotifRichHTML(d){
   const paraula = d.categoria === 'Gols' ? 'scorer' : 'player';
   const tipus = d.categoria === 'Gols' ? 'goal' : 'cap';
   const sufixValor = `with ${d.valor} international ${tipus}s.`;
-  const jugadorTxt = _jugadorAmbBandera(`<b>${d.jugador}</b>`, d.pais);
+  // el protagonista NOMES porta bandera al costat del seu rang (Xth <bandera>),
+  // mai repetida al costat del seu propi nom
+  const jugadorTxt = `<b>${d.jugador}</b>`;
   const paisRank = `${ordinal(d.rank_nacional)} ${flagImg(d.pais)}`;
 
   if(!d.accions || d.accions.length === 0){
@@ -485,7 +489,10 @@ function renderNotifRichHTML(d){
          + `${ordinal(d.rank_global)} global ${paraula} ${sufixValor}`;
   }
 
-  const accioTxt = d.accions.map(a => `${a.verb} ${_fmtJugadorsHTML(a.jugadors)}`).join(' and ');
+  // si tots son compatriotes del protagonista, la bandera de cadascun seria
+  // identica a la del rang -> redundant, no la repetim al costat de cada nom
+  const ambBanderesPerNom = d.ambit !== 'compatriota';
+  const accioTxt = d.accions.map(a => `${a.verb} ${_fmtJugadorsHTML(a.jugadors, ambBanderesPerNom)}`).join(' and ');
 
   if(d.ambit === 'compatriota'){
     const ranksTxt = `${paisRank}, ${ordinal(d.rank_confederacio)} ${d.confederacio}, ${ordinal(d.rank_global)} global`;
@@ -525,6 +532,8 @@ function renderMoves(){
     </div>`;
     return;
   }
+const ICONA_SHARE = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>';
+
   el.innerHTML = notifs.map((n, i) => {
     const textHtml = n.dades ? renderNotifRichHTML(n.dades) : (n.text || '');
     const collage = n.collage
@@ -534,11 +543,7 @@ function renderMoves(){
     return `<div class="move-card">
       ${collage}
       <div class="move-body">
-        <div class="move-text">${textHtml}</div>
-        <div class="move-meta">
-          <span>${tempsRelatiu(n.ts)}</span>
-          <button class="move-share" onclick="compartirNotificacio('${textEscapat}', this)">Share</button>
-        </div>
+        <div class="move-text">${textHtml} <span class="move-meta-inline">· ${tempsRelatiu(n.ts)}</span> <button class="move-share-btn" onclick="compartirNotificacio('${textEscapat}', this)" title="Share">${ICONA_SHARE}</button></div>
       </div>
     </div>`;
   }).join('');

@@ -94,23 +94,36 @@
   .view.active{display:block;}
 
   /* ---------- RECENT MOVES ---------- */
-  .moves-list{display:flex; flex-direction:column; gap:12px;}
+  .moves-list{display:flex; flex-direction:column; gap:16px;}
   .move-card{
-    display:flex; gap:14px;
-    background:var(--surface); border:1px solid var(--border); border-left:3px solid var(--gold);
-    border-radius:var(--radius); padding:14px 16px;
+    display:flex; flex-direction:column;
+    background:var(--surface); border:1px solid var(--border);
+    border-radius:var(--radius); overflow:hidden;
     animation:fadein .4s ease;
   }
   @keyframes fadein{from{opacity:0; transform:translateY(4px);} to{opacity:1; transform:translateY(0);}}
   .move-collage{
-    flex:0 0 110px; width:110px; height:74px; border-radius:6px; overflow:hidden;
-    background:var(--surface-2); display:flex; align-items:center; justify-content:center;
+    width:100%; aspect-ratio:3/2; background:var(--surface-2);
+    display:flex; align-items:center; justify-content:center;
+    border-bottom:3px solid var(--gold);
   }
   .move-collage img{width:100%; height:100%; object-fit:cover; display:block;}
-  .move-collage.empty::after{content:'⚽'; font-size:22px; opacity:.35;}
-  .move-body{flex:1; min-width:0;}
-  .move-text{font-size:14.5px; line-height:1.5; color:var(--text);}
-  .move-meta{margin-top:6px; font-size:11px; color:var(--text-faint);}
+  .move-collage.empty::after{content:'⚽'; font-size:32px; opacity:.35;}
+  .move-body{padding:14px 16px;}
+  .move-text{font-size:14.5px; line-height:1.6; color:var(--text);}
+  .move-text b{color:var(--gold); font-weight:600;}
+  .move-text .flag-img{margin:0 1px;}
+  .move-meta{
+    margin-top:12px; padding-top:10px; border-top:1px solid var(--border);
+    display:flex; align-items:center; justify-content:space-between;
+    font-size:11.5px; color:var(--text-faint);
+  }
+  .move-share{
+    background:var(--surface-2); border:1px solid var(--border); color:var(--text-dim);
+    padding:5px 11px; border-radius:6px; font-size:11px; cursor:pointer;
+    font-family:'Inter',sans-serif; transition:all .15s ease;
+  }
+  .move-share:hover{color:var(--gold); border-color:var(--gold);}
   .empty-state{
     text-align:center; padding:60px 20px; color:var(--text-dim);
   }
@@ -192,7 +205,7 @@
 
   @media (max-width:640px){
     .brand-title{font-size:24px;}
-    .move-collage{flex:0 0 84px; width:84px; height:56px;}
+    .move-collage{aspect-ratio:4/3;}
     .filter-bar{gap:14px; padding:14px;}
 
     /* Sacrifiquem les 2 ultimes columnes (Debut/Latest o Career Span/Date)
@@ -437,6 +450,71 @@ function computeRanks(cat){
 }
 
 /* ---------------- RECENT MOVES ---------------- */
+
+function tempsRelatiu(ts){
+  if(!ts) return '';
+  const ara = Date.now() / 1000;
+  const dif = Math.max(0, ara - ts);
+  if(dif < 60) return 'just now';
+  if(dif < 3600) return Math.floor(dif / 60) + 'm ago';
+  if(dif < 86400) return Math.floor(dif / 3600) + 'h ago';
+  return Math.floor(dif / 86400) + 'd ago';
+}
+
+function _jugadorAmbBandera(nomHtml, pais){
+  return `${nomHtml} ${flagImg(pais)}`;
+}
+
+function _fmtJugadorsHTML(jugadors){
+  const parts = jugadors.map(j => _jugadorAmbBandera(j.nom, j.pais));
+  if(parts.length === 0) return '';
+  if(parts.length === 1) return parts[0];
+  return parts.slice(0, -1).join(', ') + ' and ' + parts[parts.length - 1];
+}
+
+function renderNotifRichHTML(d){
+  const paraula = d.categoria === 'Gols' ? 'scorer' : 'player';
+  const tipus = d.categoria === 'Gols' ? 'goal' : 'cap';
+  const sufixValor = `with ${d.valor} international ${tipus}s.`;
+  const jugadorTxt = _jugadorAmbBandera(`<b>${d.jugador}</b>`, d.pais);
+  const paisRank = `${ordinal(d.rank_nacional)} ${flagImg(d.pais)}`;
+
+  if(!d.accions || d.accions.length === 0){
+    return `${ordinal(d.valor)} ${tipus} international for ${jugadorTxt}. `
+         + `${paisRank}, ${ordinal(d.rank_confederacio)} ${d.confederacio}, `
+         + `${ordinal(d.rank_global)} global ${paraula} ${sufixValor}`;
+  }
+
+  const accioTxt = d.accions.map(a => `${a.verb} ${_fmtJugadorsHTML(a.jugadors)}`).join(' and ');
+
+  if(d.ambit === 'compatriota'){
+    const ranksTxt = `${paisRank}, ${ordinal(d.rank_confederacio)} ${d.confederacio}, ${ordinal(d.rank_global)} global`;
+    return `${jugadorTxt} ${accioTxt} as ${ranksTxt} ${paraula} ${sufixValor}`;
+  }else if(d.ambit === 'confederacio'){
+    const prefix = `${jugadorTxt} (${paisRank})`;
+    const ranksTxt = `${ordinal(d.rank_confederacio)} ${d.confederacio}, ${ordinal(d.rank_global)} global`;
+    return `${prefix} ${accioTxt} as ${ranksTxt} ${paraula} ${sufixValor}`;
+  }else{
+    const prefix = `${jugadorTxt} (${paisRank}, ${ordinal(d.rank_confederacio)} ${d.confederacio})`;
+    const ranksTxt = `${ordinal(d.rank_global)} global`;
+    return `${prefix} ${accioTxt} as ${ranksTxt} ${paraula} ${sufixValor}`;
+  }
+}
+
+function compartirNotificacio(text, btn){
+  const url = window.location.href.split('#')[0];
+  if(navigator.share){
+    navigator.share({ text, url }).catch(() => {});
+  }else if(navigator.clipboard){
+    navigator.clipboard.writeText(`${text} ${url}`).then(() => {
+      const original = btn.textContent;
+      btn.textContent = 'Copied!';
+      setTimeout(() => { btn.textContent = original; }, 1500);
+    });
+  }
+}
+window.compartirNotificacio = compartirNotificacio;
+
 function renderMoves(){
   const el = document.getElementById('moves-list');
   const notifs = [...(DATA.notificacions || [])].sort((a,b) => (b.ts||0) - (a.ts||0));
@@ -447,16 +525,20 @@ function renderMoves(){
     </div>`;
     return;
   }
-  el.innerHTML = notifs.map(n => {
-    const time = n.ts ? new Date(n.ts*1000).toLocaleString('en-GB', {day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}) : '';
+  el.innerHTML = notifs.map((n, i) => {
+    const textHtml = n.dades ? renderNotifRichHTML(n.dades) : (n.text || '');
     const collage = n.collage
       ? `<div class="move-collage"><img src="${n.collage}" loading="lazy" alt=""></div>`
       : `<div class="move-collage empty"></div>`;
+    const textEscapat = (n.text || '').replace(/'/g, "\\'");
     return `<div class="move-card">
       ${collage}
       <div class="move-body">
-        <div class="move-text">${n.text}</div>
-        <div class="move-meta">${time}</div>
+        <div class="move-text">${textHtml}</div>
+        <div class="move-meta">
+          <span>${tempsRelatiu(n.ts)}</span>
+          <button class="move-share" onclick="compartirNotificacio('${textEscapat}', this)">Share</button>
+        </div>
       </div>
     </div>`;
   }).join('');

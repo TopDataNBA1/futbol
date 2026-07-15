@@ -770,6 +770,101 @@
       },
       "ts": 1784058338.8961616,
       "collage": "collages\\3c5c9ba4-1376-4cf7-9a23-91bf68365167.webp"
+    },
+    {
+      "id": "86f9e02a-b8e3-4b8b-8f79-b5d45d2da84e",
+      "text": "Harry Kane (2nd England) surpasses Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci and reaches Goran Pandev and Zlatan Ibrahimović as 81st UEFA, 232nd global player with 122 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 122,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Peter Schmeichel",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Bastian Schweinsteiger",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Leonardo Bonucci",
+                "pais": "Italy"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Goran Pandev",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 81,
+        "rank_global": 232,
+        "ambit": "confederacio"
+      },
+      "ts": 1784148704.9763787,
+      "collage": "collages\\86f9e02a-b8e3-4b8b-8f79-b5d45d2da84e.webp"
+    },
+    {
+      "id": "6e9afb8b-f00d-42b9-b038-5e5de065834f",
+      "text": "206th cap international for Lionel Messi. 1st Argentina, 1st CONMEBOL, 2nd global player with 206 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lionel Messi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 206,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 1,
+        "rank_global": 2,
+        "ambit": "cap"
+      },
+      "ts": 1784148705.1503613,
+      "collage": "collages\\6e9afb8b-f00d-42b9-b038-5e5de065834f.webp"
+    },
+    {
+      "id": "14f6ec1b-26c7-4950-a119-e050ea4ebc40",
+      "text": "Nicolás Otamendi (5th Argentina) surpasses Fernando Muslera as 16th CONMEBOL, 98th global player with 138 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Nicolás Otamendi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 138,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Fernando Muslera",
+                "pais": "Uruguay"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 16,
+        "rank_global": 98,
+        "ambit": "confederacio"
+      },
+      "ts": 1784148705.498864,
+      "collage": "collages\\14f6ec1b-26c7-4950-a119-e050ea4ebc40.webp"
     }
   ],
   "baseline": {
@@ -841,7 +936,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 121,
+        "valor": 122,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -850,7 +945,7 @@
         "alias": "Lionel Messi",
         "pais": "Argentina",
         "confederacio": "CONMEBOL",
-        "valor": 205,
+        "valor": 206,
         "inici": "2005",
         "final": "2026",
         "actiu": true
@@ -877,7 +972,7 @@
         "alias": "Nicolás Otamendi",
         "pais": "Argentina",
         "confederacio": "CONMEBOL",
-        "valor": 137,
+        "valor": 138,
         "inici": "2009",
         "final": "2026",
         "actiu": true

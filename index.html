@@ -103,16 +103,23 @@
   }
   @keyframes fadein{from{opacity:0; transform:translateY(4px);} to{opacity:1; transform:translateY(0);}}
   .move-collage{
-    width:100%; aspect-ratio:3/2; background:var(--surface-2);
-    display:flex; align-items:center; justify-content:center;
+    position:relative; width:100%; padding-top:66.666%; /* proporcio 3:2, sempre fiable */
+    background:var(--surface-2);
     border-bottom:3px solid var(--gold);
+    overflow:hidden;
   }
-  .move-collage img{width:100%; height:100%; object-fit:cover; display:block;}
-  .move-collage.empty::after{content:'⚽'; font-size:32px; opacity:.35;}
+  .move-collage img{
+    position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; display:block;
+  }
+  .move-collage.empty::after{
+    content:'⚽'; font-size:32px; opacity:.35;
+    position:absolute; top:50%; left:50%; transform:translate(-50%,-50%);
+  }
   .move-body{padding:14px 16px;}
   .move-text{font-size:14.5px; line-height:1.6; color:var(--text);}
   .move-text b{color:var(--gold); font-weight:600;}
   .move-text .flag-img{margin:0 1px;}
+  .player-mention{white-space:nowrap;}
   .move-meta-inline{color:var(--text-faint); font-size:12px; white-space:nowrap;}
   .move-share-btn{
     display:inline-flex; align-items:center; justify-content:center;
@@ -202,7 +209,7 @@
 
   @media (max-width:640px){
     .brand-title{font-size:24px;}
-    .move-collage{aspect-ratio:4/3;}
+    .move-collage{padding-top:75%;}
     .filter-bar{gap:14px; padding:14px;}
 
     /* Sacrifiquem les 2 ultimes columnes (Debut/Latest o Career Span/Date)
@@ -468,7 +475,10 @@ function tempsRelatiu(ts){
 }
 
 function _fmtJugadorsHTML(jugadors, ambBanderes){
-  const parts = jugadors.map(j => ambBanderes ? `${j.nom} ${flagImg(j.pais)}` : j.nom);
+  const parts = jugadors.map(j => {
+    const contingut = ambBanderes ? `${j.nom} ${flagImg(j.pais)}` : j.nom;
+    return `<span class="player-mention">${contingut}</span>`;
+  });
   if(parts.length === 0) return '';
   if(parts.length === 1) return parts[0];
   return parts.slice(0, -1).join(', ') + ' and ' + parts[parts.length - 1];
@@ -481,12 +491,12 @@ function renderNotifRichHTML(d){
   // el protagonista NOMES porta bandera al costat del seu rang (Xth <bandera>),
   // mai repetida al costat del seu propi nom
   const jugadorTxt = `<b>${d.jugador}</b>`;
-  const paisRank = `${ordinal(d.rank_nacional)} ${flagImg(d.pais)}`;
+  const paisRank = `<span class="player-mention">${ordinal(d.rank_nacional)} ${flagImg(d.pais)}</span>`;
 
   if(!d.accions || d.accions.length === 0){
-    return `${ordinal(d.valor)} ${tipus} international for ${jugadorTxt}. `
+    return `${ordinal(d.valor)} international ${tipus} for ${jugadorTxt}. `
          + `${paisRank}, ${ordinal(d.rank_confederacio)} ${d.confederacio}, `
-         + `${ordinal(d.rank_global)} global ${paraula} ${sufixValor}`;
+         + `${ordinal(d.rank_global)} global ${paraula}.`;
   }
 
   // si tots son compatriotes del protagonista, la bandera de cadascun seria

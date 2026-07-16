@@ -103,13 +103,13 @@
   }
   @keyframes fadein{from{opacity:0; transform:translateY(4px);} to{opacity:1; transform:translateY(0);}}
   .move-collage{
-    position:relative; width:100%; padding-top:66.666%; /* proporcio 3:2, sempre fiable */
-    background:var(--surface-2);
+    width:100%; max-width:600px; margin:0 auto;
+    border-radius:8px; overflow:hidden;
     border-bottom:3px solid var(--gold);
-    overflow:hidden;
   }
-  .move-collage img{
-    position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; display:block;
+  .move-collage img{width:100%; height:auto; display:block;}
+  .move-collage.empty{
+    position:relative; padding-top:66.666%; background:var(--surface-2);
   }
   .move-collage.empty::after{
     content:'⚽'; font-size:32px; opacity:.35;
@@ -209,7 +209,7 @@
 
   @media (max-width:640px){
     .brand-title{font-size:24px;}
-    .move-collage{padding-top:75%;}
+    .move-collage.empty{padding-top:75%;}
     .filter-bar{gap:14px; padding:14px;}
 
     /* Sacrifiquem les 2 ultimes columnes (Debut/Latest o Career Span/Date)
@@ -378,15 +378,32 @@ const FLAGS_NORM = {};
 for(const [k, v] of Object.entries(FLAGS)){ FLAGS_NORM[_normalitzarPais(k)] = v; }
 const FIFA_CODES_NORM = {};
 for(const [k, v] of Object.entries(FIFA_CODES)){ FIFA_CODES_NORM[_normalitzarPais(k)] = v; }
+// claus ordenades de mes llarga a mes curta, per a coincidencies parcials
+// (evita que "Serbia" curt es colgi abans que "Serbia and Montenegro" llarg)
+const _CLAUS_FLAGS_PER_LONGITUD = Object.keys(FLAGS_NORM).sort((a, b) => b.length - a.length);
+const _CLAUS_FIFA_PER_LONGITUD = Object.keys(FIFA_CODES_NORM).sort((a, b) => b.length - a.length);
 
 function flagImg(pais){
-  const code = FLAGS[pais] || FLAGS_NORM[_normalitzarPais(pais)];
+  const paisNorm = _normalitzarPais(pais);
+  let code = FLAGS[pais] || FLAGS_NORM[paisNorm];
+  if(!code){
+    // pedac per a camps "pais" bruts (dos noms enganxats, com "West Germany
+    // Germany"): prova si el text COMENÇA per algun pais conegut
+    const clau = _CLAUS_FLAGS_PER_LONGITUD.find(k => paisNorm.startsWith(k));
+    if(clau) code = FLAGS_NORM[clau];
+  }
   if(!code) return `<span class="flag-missing" title="${pais}">🏳️</span>`;
   return `<img class="flag-img" src="https://flagcdn.com/20x15/${code.toLowerCase()}.png" alt="" width="20" height="15">`;
 }
 
 function fifaCode(pais){
-  return FIFA_CODES[pais] || FIFA_CODES_NORM[_normalitzarPais(pais)] || (pais || '').slice(0,3).toUpperCase();
+  const paisNorm = _normalitzarPais(pais);
+  let codi = FIFA_CODES[pais] || FIFA_CODES_NORM[paisNorm];
+  if(!codi){
+    const clau = _CLAUS_FIFA_PER_LONGITUD.find(k => paisNorm.startsWith(k));
+    if(clau) codi = FIFA_CODES_NORM[clau];
+  }
+  return codi || (pais || '').slice(0,3).toUpperCase();
 }
 
 function ordinal(n){

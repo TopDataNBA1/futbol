@@ -865,6 +865,115 @@
       },
       "ts": 1784148705.498864,
       "collage": "collages\\14f6ec1b-26c7-4950-a119-e050ea4ebc40.webp"
+    },
+    {
+      "id": "4820e4c9-fa31-46ea-88c7-0444fe8e0f15",
+      "text": "Kylian Mbappé (9th France) surpasses Billy Wright, Jürgen Kohler, Mihails Zemļinskis, Sami Hyypiä, Jonatan Johansson, Stiliyan Petrov, Josip Šimunić, Frank Lampard, Tomáš Rosický, Branislav Ivanović, Yuri Zhirkov and Lukas Hradecky and reaches Bobby Charlton, Imants Bleidelis, Giovanni van Bronckhorst, Óscar Sonejee, Joel Lindpere, Aleksandr Dmitrijev, Ivan Rakitić and Aleksandar Mitrović as 176th UEFA, 472nd global player with 106 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 106,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Billy Wright",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Kohler",
+                "pais": "West Germany Germany"
+              },
+              {
+                "nom": "Mihails Zemļinskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Sami Hyypiä",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Jonatan Johansson",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Stiliyan Petrov",
+                "pais": "Bulgaria"
+              },
+              {
+                "nom": "Josip Šimunić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Frank Lampard",
+                "pais": "England"
+              },
+              {
+                "nom": "Tomáš Rosický",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Branislav Ivanović",
+                "pais": "Serbia and Montenegro Serbia"
+              },
+              {
+                "nom": "Yuri Zhirkov",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Lukas Hradecky",
+                "pais": "Finland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bobby Charlton",
+                "pais": "England"
+              },
+              {
+                "nom": "Imants Bleidelis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Giovanni van Bronckhorst",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Óscar Sonejee",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Joel Lindpere",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Aleksandr Dmitrijev",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Ivan Rakitić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Aleksandar Mitrović",
+                "pais": "Serbia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 9,
+        "rank_confederacio": 176,
+        "rank_global": 472,
+        "ambit": "confederacio"
+      },
+      "ts": 1784411143.4360092,
+      "collage": "collages\\4820e4c9-fa31-46ea-88c7-0444fe8e0f15.webp"
     }
   ],
   "baseline": {
@@ -873,7 +982,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 105,
+        "valor": 106,
         "inici": "2017",
         "final": "2026",
         "actiu": true

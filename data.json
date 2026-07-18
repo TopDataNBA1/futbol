@@ -974,6 +974,62 @@
       },
       "ts": 1784411143.4360092,
       "collage": "collages\\4820e4c9-fa31-46ea-88c7-0444fe8e0f15.webp"
+    },
+    {
+      "id": "c4a49458-1bf0-46f8-b062-781a0c1f7f5a",
+      "text": "Kylian Mbappé (1st France) surpasses Aleksandar Mitrović as 12th UEFA, 33rd global scorer with 65 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 65,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Aleksandar Mitrović",
+                "pais": "Serbia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "confederacio"
+      },
+      "ts": 1784415277.2092226,
+      "collage": "collages\\c4a49458-1bf0-46f8-b062-781a0c1f7f5a.webp"
+    },
+    {
+      "id": "720bcc16-5229-4a02-98fc-a6f5754dd39a",
+      "text": "Kylian Mbappé (1st France, 12th UEFA) surpasses Didier Drogba as 33rd global scorer with 66 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 66,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Didier Drogba",
+                "pais": "Ivory Coast"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "global"
+      },
+      "ts": 1784415277.4119096,
+      "collage": "collages\\720bcc16-5229-4a02-98fc-a6f5754dd39a.webp"
     }
   ],
   "baseline": {
@@ -1092,7 +1148,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 64,
+        "valor": 66,
         "inici": "2017",
         "final": "2026",
         "actiu": true,

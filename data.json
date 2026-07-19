@@ -1030,6 +1030,93 @@
       },
       "ts": 1784415277.4119096,
       "collage": "collages\\720bcc16-5229-4a02-98fc-a6f5754dd39a.webp"
+    },
+    {
+      "id": "cfc01045-86f5-4608-9c13-78369867e908",
+      "text": "207th international cap for Lionel Messi. 1st Argentina, 1st CONMEBOL, 2nd global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lionel Messi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 207,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 1,
+        "rank_global": 2,
+        "ambit": "cap"
+      },
+      "ts": 1784490690.0540357,
+      "collage": "collages\\cfc01045-86f5-4608-9c13-78369867e908.webp"
+    },
+    {
+      "id": "f990d846-c6f9-421c-9739-6a077d50ad6c",
+      "text": "Nicolás Otamendi (5th Argentina, 16th CONMEBOL) surpasses Mokhtar Dahari, Hussein Abdulghani, Osama Hawsawi, Marek Hamšík, Peter Pekarík, Sayed Dhiya Saeed and Akram Afif and reaches Giorgos Karagounis, Steven Davis and Ismail Abdullatif as 94th global player with 139 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Nicolás Otamendi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 139,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mokhtar Dahari",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Hussein Abdulghani",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Osama Hawsawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Marek Hamšík",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Peter Pekarík",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Sayed Dhiya Saeed",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Akram Afif",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Giorgos Karagounis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Steven Davis",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Ismail Abdullatif",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 16,
+        "rank_global": 94,
+        "ambit": "global"
+      },
+      "ts": 1784490690.5344944,
+      "collage": "collages\\f990d846-c6f9-421c-9739-6a077d50ad6c.webp"
     }
   ],
   "baseline": {
@@ -1110,7 +1197,7 @@
         "alias": "Lionel Messi",
         "pais": "Argentina",
         "confederacio": "CONMEBOL",
-        "valor": 206,
+        "valor": 207,
         "inici": "2005",
         "final": "2026",
         "actiu": true
@@ -1137,7 +1224,7 @@
         "alias": "Nicolás Otamendi",
         "pais": "Argentina",
         "confederacio": "CONMEBOL",
-        "valor": 138,
+        "valor": 139,
         "inici": "2009",
         "final": "2026",
         "actiu": true

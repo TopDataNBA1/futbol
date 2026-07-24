@@ -1117,6 +1117,34 @@
       },
       "ts": 1784490690.5344944,
       "collage": "collages\\f990d846-c6f9-421c-9739-6a077d50ad6c.webp"
+    },
+    {
+      "id": "89770650-15b0-46d3-ac55-864f6db82215",
+      "text": "Hariss Harun (1st Singapore) surpasses Javad Nekounam as 17th AFC, 47th global player with 150 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 150,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Javad Nekounam",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 17,
+        "rank_global": 47,
+        "ambit": "confederacio"
+      },
+      "ts": 1784897204.787063,
+      "collage": "collages\\89770650-15b0-46d3-ac55-864f6db82215.webp"
     }
   ],
   "baseline": {
@@ -1226,6 +1254,15 @@
         "confederacio": "CONMEBOL",
         "valor": 139,
         "inici": "2009",
+        "final": "2026",
+        "actiu": true
+      },
+      "Hariss Harun": {
+        "alias": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 150,
+        "inici": "2007",
         "final": "2026",
         "actiu": true
       }

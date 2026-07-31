@@ -1194,6 +1194,38 @@
       },
       "ts": 1785159602.2839372,
       "collage": "collages\\1ab1ca83-a9dd-4e63-a250-20fb9e3aa24a.webp"
+    },
+    {
+      "id": "3f0e70e3-e896-4d52-8384-e8c5b6853a15",
+      "text": "Hariss Harun (1st Singapore) reaches Fawzi Bashir and Yasuhito Endō as 15th AFC, 42nd global player with 152 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 152,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Fawzi Bashir",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Yasuhito Endō",
+                "pais": "Japan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 15,
+        "rank_global": 42,
+        "ambit": "confederacio"
+      },
+      "ts": 1785506150.343519,
+      "collage": "collages\\3f0e70e3-e896-4d52-8384-e8c5b6853a15.webp"
     }
   ],
   "baseline": {
@@ -1310,7 +1342,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 151,
+        "valor": 152,
         "inici": "2007",
         "final": "2026",
         "actiu": true

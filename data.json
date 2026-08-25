@@ -448,164 +448,6 @@
       }
     },
     {
-      "id": "aff246ea-d161-427a-8be2-9836471af9ae",
-      "text": "Thibaut Courtois (7th Belgium) surpasses Gheorghe Popescu, David Beckham, Andrejs Rubins and Miralem Pjanić and reaches Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Mateo Kovačić as 103rd UEFA, 289th global player with 116 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Thibaut Courtois",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 116,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Gheorghe Popescu",
-                "pais": "Romania"
-              },
-              {
-                "nom": "David Beckham",
-                "pais": "England"
-              },
-              {
-                "nom": "Andrejs Rubins",
-                "pais": "Latvia"
-              },
-              {
-                "nom": "Miralem Pjanić",
-                "pais": "Bosnia and Herzegovina"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Roland Nilsson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Marcel Desailly",
-                "pais": "France"
-              },
-              {
-                "nom": "Andrea Pirlo",
-                "pais": "Italy"
-              },
-              {
-                "nom": "Kostas Katsouranis",
-                "pais": "Greece"
-              },
-              {
-                "nom": "Mateo Kovačić",
-                "pais": "Croatia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 7,
-        "rank_confederacio": 103,
-        "rank_global": 289,
-        "ambit": "confederacio"
-      },
-      "ts": 1783896757.0492516,
-      "collage": "collages\\aff246ea-d161-427a-8be2-9836471af9ae.webp"
-    },
-    {
-      "id": "b6496804-0dfe-4df2-aeb1-42296d64cab3",
-      "text": "Axel Witsel (2nd Belgium) reaches Pepe as 27th UEFA, 90th global player with 141 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Axel Witsel",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 141,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Pepe",
-                "pais": "Portugal"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 27,
-        "rank_global": 90,
-        "ambit": "confederacio"
-      },
-      "ts": 1783896757.296774,
-      "collage": "collages\\b6496804-0dfe-4df2-aeb1-42296d64cab3.webp"
-    },
-    {
-      "id": "2a0492ff-7a70-4775-923e-ff8cbfab3c22",
-      "text": "Romelu Lukaku (3rd Belgium) surpasses Sargis Hovsepyan, Peter Jehle and Simon Kjær and reaches Xavi, Andreas Isaksson, Wesley Sneijder, Sebastian Larsson, Antoine Griezmann and Teemu Pukki as 43rd UEFA, 136th global player with 133 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Romelu Lukaku",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 133,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Sargis Hovsepyan",
-                "pais": "Armenia"
-              },
-              {
-                "nom": "Peter Jehle",
-                "pais": "Liechtenstein"
-              },
-              {
-                "nom": "Simon Kjær",
-                "pais": "Denmark"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Xavi",
-                "pais": "Spain"
-              },
-              {
-                "nom": "Andreas Isaksson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Wesley Sneijder",
-                "pais": "Netherlands"
-              },
-              {
-                "nom": "Sebastian Larsson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Antoine Griezmann",
-                "pais": "France"
-              },
-              {
-                "nom": "Teemu Pukki",
-                "pais": "Finland"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 3,
-        "rank_confederacio": 43,
-        "rank_global": 136,
-        "ambit": "confederacio"
-      },
-      "ts": 1783896757.600495,
-      "collage": "collages\\2a0492ff-7a70-4775-923e-ff8cbfab3c22.webp"
-    },
-    {
       "id": "5edfe3c6-b939-436e-8526-299680367f42",
       "text": "Harry Kane (2nd England) surpasses Mart Poom, Gilbert Agius, Rüştü Reçber and Kasper Schmeichel and reaches Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci as 83rd UEFA, 237th global player with 121 international caps.",
       "dades": {
@@ -770,55 +612,6 @@
       },
       "ts": 1784058338.8961616,
       "collage": "collages\\3c5c9ba4-1376-4cf7-9a23-91bf68365167.webp"
-    },
-    {
-      "id": "86f9e02a-b8e3-4b8b-8f79-b5d45d2da84e",
-      "text": "Harry Kane (2nd England) surpasses Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci and reaches Goran Pandev and Zlatan Ibrahimović as 81st UEFA, 232nd global player with 122 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Harry Kane",
-        "pais": "England",
-        "confederacio": "UEFA",
-        "valor": 122,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Peter Schmeichel",
-                "pais": "Denmark"
-              },
-              {
-                "nom": "Bastian Schweinsteiger",
-                "pais": "Germany"
-              },
-              {
-                "nom": "Leonardo Bonucci",
-                "pais": "Italy"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Goran Pandev",
-                "pais": "North Macedonia"
-              },
-              {
-                "nom": "Zlatan Ibrahimović",
-                "pais": "Sweden"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 81,
-        "rank_global": 232,
-        "ambit": "confederacio"
-      },
-      "ts": 1784148704.9763787,
-      "collage": "collages\\86f9e02a-b8e3-4b8b-8f79-b5d45d2da84e.webp"
     },
     {
       "id": "6e9afb8b-f00d-42b9-b038-5e5de065834f",
@@ -1318,34 +1111,6 @@
       },
       "ts": 1787693881.199296,
       "collage": "collages\\fbe32d41-d0e9-440a-ad1f-055874a06615.webp"
-    },
-    {
-      "id": "c72c4d9a-0c14-4515-b29a-e6268732130a",
-      "text": "Hariss Harun (1st Singapore) reaches Sami Al-Jaber as 14th AFC, 37th global player with 156 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Hariss Harun",
-        "pais": "Singapore",
-        "confederacio": "AFC",
-        "valor": 156,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Sami Al-Jaber",
-                "pais": "Saudi Arabia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 14,
-        "rank_global": 37,
-        "ambit": "confederacio"
-      },
-      "ts": 1787693984.3074076,
-      "collage": "collages\\c72c4d9a-0c14-4515-b29a-e6268732130a.webp"
     }
   ],
   "baseline": {
@@ -1372,7 +1137,7 @@
         "alias": "Thibaut Courtois",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 116,
+        "valor": 115,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -1390,7 +1155,7 @@
         "alias": "Axel Witsel",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 141,
+        "valor": 140,
         "inici": "2008",
         "final": "2026",
         "actiu": true
@@ -1399,7 +1164,7 @@
         "alias": "Romelu Lukaku",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 133,
+        "valor": 132,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -1417,7 +1182,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 122,
+        "valor": 121,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -1462,7 +1227,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 156,
+        "valor": 155,
         "inici": "2007",
         "final": "2026",
         "actiu": true
@@ -1480,5 +1245,6 @@
         "data_50e_gol": "2025-06-08"
       }
     }
-  }
+  },
+  "ultima_conciliacio": "2026-08-26"
 }

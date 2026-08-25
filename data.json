@@ -1258,6 +1258,38 @@
       },
       "ts": 1786110421.83666,
       "collage": "collages\\fd10f1c2-62de-4231-8804-47901d655c56.webp"
+    },
+    {
+      "id": "123a1fbc-802a-445d-a7eb-47b15068c02f",
+      "text": "Hariss Harun (2nd Singapore, 16th AFC) surpasses Guillermo Ochoa and Aníbal Godoy as 41st global player with 154 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 154,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Guillermo Ochoa",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Aníbal Godoy",
+                "pais": "Panama"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 16,
+        "rank_global": 41,
+        "ambit": "global"
+      },
+      "ts": 1787693677.8155003,
+      "collage": "collages\\123a1fbc-802a-445d-a7eb-47b15068c02f.webp"
     }
   ],
   "baseline": {
@@ -1374,7 +1406,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 153,
+        "valor": 154,
         "inici": "2007",
         "final": "2026",
         "actiu": true

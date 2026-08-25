@@ -1318,6 +1318,34 @@
       },
       "ts": 1787693881.199296,
       "collage": "collages\\fbe32d41-d0e9-440a-ad1f-055874a06615.webp"
+    },
+    {
+      "id": "c72c4d9a-0c14-4515-b29a-e6268732130a",
+      "text": "Hariss Harun (1st Singapore) reaches Sami Al-Jaber as 14th AFC, 37th global player with 156 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 156,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Sami Al-Jaber",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 14,
+        "rank_global": 37,
+        "ambit": "confederacio"
+      },
+      "ts": 1787693984.3074076,
+      "collage": "collages\\c72c4d9a-0c14-4515-b29a-e6268732130a.webp"
     }
   ],
   "baseline": {
@@ -1434,7 +1462,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 155,
+        "valor": 156,
         "inici": "2007",
         "final": "2026",
         "actiu": true

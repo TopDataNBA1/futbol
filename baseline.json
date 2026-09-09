@@ -16,7 +16,7 @@
       "valor": 207,
       "inici": "2005",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Luka Modrić": {
       "alias": "Luka Modrić",
@@ -58,7 +58,7 @@
       "alias": "Hassan Al-Haydos",
       "pais": "Qatar",
       "confederacio": "AFC",
-      "valor": 191,
+      "valor": 188,
       "inici": "2008",
       "final": "2026",
       "actiu": true
@@ -564,8 +564,8 @@
       "confederacio": "CONMEBOL",
       "valor": 147,
       "inici": "2007",
-      "final": "2025",
-      "actiu": false
+      "final": "2026",
+      "actiu": true
     },
     "Robbie Keane": {
       "alias": "Robbie Keane",
@@ -6219,7 +6219,7 @@
       "valor": 125,
       "inici": "2005",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Ali Daei": {
       "alias": "Ali Daei",

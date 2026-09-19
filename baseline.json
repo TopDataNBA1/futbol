@@ -16,7 +16,7 @@
       "valor": 207,
       "inici": "2005",
       "final": "2026",
-      "actiu": false
+      "actiu": true
     },
     "Luka Modrić": {
       "alias": "Luka Modrić",
@@ -844,7 +844,7 @@
       "valor": 140,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Ismail Abdullatif": {
       "alias": "Ismail Abdullatif",
@@ -6219,7 +6219,7 @@
       "valor": 125,
       "inici": "2005",
       "final": "2026",
-      "actiu": false
+      "actiu": true
     },
     "Ali Daei": {
       "alias": "Ali Daei",

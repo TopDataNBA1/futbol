@@ -16,7 +16,7 @@
       "valor": 207,
       "inici": "2005",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Luka Modrić": {
       "alias": "Luka Modrić",
@@ -159,8 +159,8 @@
       "confederacio": "CONMEBOL",
       "valor": 168,
       "inici": "2006",
-      "final": "2026",
-      "actiu": true
+      "final": "2025",
+      "actiu": false
     },
     "Iker Casillas": {
       "alias": "Iker Casillas",
@@ -564,8 +564,8 @@
       "confederacio": "CONMEBOL",
       "valor": 147,
       "inici": "2007",
-      "final": "2026",
-      "actiu": true
+      "final": "2025",
+      "actiu": false
     },
     "Robbie Keane": {
       "alias": "Robbie Keane",
@@ -3084,8 +3084,8 @@
       "confederacio": "UEFA",
       "valor": 114,
       "inici": "2008",
-      "final": "2026",
-      "actiu": true
+      "final": "2024",
+      "actiu": false
     },
     "Nashat Akram": {
       "alias": "Nashat Akram",
@@ -3525,8 +3525,8 @@
       "confederacio": "UEFA",
       "valor": 111,
       "inici": "2008",
-      "final": "2024",
-      "actiu": false
+      "final": "2026",
+      "actiu": true
     },
     "Carlos Valderrama": {
       "alias": "Carlos Valderrama",
@@ -3643,7 +3643,7 @@
       "valor": 110,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Kevin Kilbane": {
       "alias": "Kevin Kilbane",

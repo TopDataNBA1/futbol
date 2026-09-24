@@ -1180,6 +1180,34 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\cc5d0e4d-9e07-4207-9280-883e6388b5ef.webp"
+    },
+    {
+      "id": "a033c9dc-6e0f-4643-bff5-8148a8136e48",
+      "text": "Erling Haaland (1st Norway) reaches Aleksandar Mitrović as 13th UEFA, 35th global scorer with 64 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 64,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Aleksandar Mitrović",
+                "pais": "Serbia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 13,
+        "rank_global": 35,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\a033c9dc-6e0f-4643-bff5-8148a8136e48.webp"
     }
   ],
   "baseline": {
@@ -1326,7 +1354,7 @@
         "alias": "Erling Haaland",
         "pais": "Norway",
         "confederacio": "UEFA",
-        "valor": 63,
+        "valor": 64,
         "inici": "2019",
         "final": "2026",
         "actiu": true

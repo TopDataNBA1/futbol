@@ -1152,6 +1152,34 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\eddebb05-05e6-49ee-910d-94c34f2a6fd2.webp"
+    },
+    {
+      "id": "cc5d0e4d-9e07-4207-9280-883e6388b5ef",
+      "text": "Erling Haaland (1st Norway) surpasses Zlatan Ibrahimović as 14th UEFA, 37th global scorer with 63 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 63,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 14,
+        "rank_global": 37,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\cc5d0e4d-9e07-4207-9280-883e6388b5ef.webp"
     }
   ],
   "baseline": {
@@ -1291,6 +1319,15 @@
         "confederacio": "AFC",
         "valor": 57,
         "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Erling Haaland": {
+        "alias": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 63,
+        "inici": "2019",
         "final": "2026",
         "actiu": true
       }

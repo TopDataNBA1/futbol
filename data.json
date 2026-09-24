@@ -1111,6 +1111,47 @@
       },
       "ts": 1787047200.0,
       "collage": "collages\\fbe32d41-d0e9-440a-ad1f-055874a06615.webp"
+    },
+    {
+      "id": "eddebb05-05e6-49ee-910d-94c34f2a6fd2",
+      "text": "Son Heung-min (2nd South Korea) surpasses Bader Al-Mutawa and reaches Younis Mahmoud and Sardar Azmoun as 21st AFC, 51st global scorer with 57 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 57,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bader Al-Mutawa",
+                "pais": "Kuwait"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Younis Mahmoud",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Sardar Azmoun",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 21,
+        "rank_global": 51,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\eddebb05-05e6-49ee-910d-94c34f2a6fd2.webp"
     }
   ],
   "baseline": {
@@ -1243,8 +1284,17 @@
         "final": "2026",
         "actiu": true,
         "data_50e_gol": "2025-06-08"
+      },
+      "Son Heung-min": {
+        "alias": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 57,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true
       }
     }
   },
-  "ultima_conciliacio": "2026-09-24"
+  "ultima_conciliacio": "2026-09-23"
 }

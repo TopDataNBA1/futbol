@@ -1152,6 +1152,103 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\eddebb05-05e6-49ee-910d-94c34f2a6fd2.webp"
+    },
+    {
+      "id": "cc5d0e4d-9e07-4207-9280-883e6388b5ef",
+      "text": "Erling Haaland (1st Norway) surpasses Zlatan Ibrahimović as 14th UEFA, 37th global scorer with 63 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 63,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 14,
+        "rank_global": 37,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\cc5d0e4d-9e07-4207-9280-883e6388b5ef.webp"
+    },
+    {
+      "id": "a033c9dc-6e0f-4643-bff5-8148a8136e48",
+      "text": "Erling Haaland (1st Norway) reaches Aleksandar Mitrović as 13th UEFA, 35th global scorer with 64 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 64,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Aleksandar Mitrović",
+                "pais": "Serbia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 13,
+        "rank_global": 35,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\a033c9dc-6e0f-4643-bff5-8148a8136e48.webp"
+    },
+    {
+      "id": "81c82897-8993-4a85-82f3-14a08040dbaa",
+      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Clint Dempsey and Axel Witsel and reaches Pepe as 91st global player with 141 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 141,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Clint Dempsey",
+                "pais": "United States"
+              },
+              {
+                "nom": "Axel Witsel",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Pepe",
+                "pais": "Portugal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 91,
+        "ambit": "global"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\81c82897-8993-4a85-82f3-14a08040dbaa.webp"
     }
   ],
   "baseline": {
@@ -1272,6 +1369,15 @@
         "inici": "2007",
         "final": "2026",
         "actiu": true
+      },
+      "Idrissa Gueye": {
+        "alias": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 141,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
       }
     },
     "Gols": {
@@ -1298,12 +1404,12 @@
         "alias": "Erling Haaland",
         "pais": "Norway",
         "confederacio": "UEFA",
-        "valor": 62,
+        "valor": 64,
         "inici": "2019",
         "final": "2026",
         "actiu": true
       }
     }
   },
-  "ultima_conciliacio": "2026-09-25"
+  "ultima_conciliacio": "2026-09-23"
 }

@@ -1251,63 +1251,6 @@
       "collage": "collages\\81c82897-8993-4a85-82f3-14a08040dbaa.webp"
     },
     {
-      "id": "cb830d08-05d7-4453-9824-dbb9293704fd",
-      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Pepe and reaches Abdullah Zubromawi, Marko Kristal, Cafu, Lilian Thuram, Amer Deeb and Michael Mifsud as 85th global player with 142 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Idrissa Gueye",
-        "pais": "Senegal",
-        "confederacio": "CAF",
-        "valor": 142,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Pepe",
-                "pais": "Portugal"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Abdullah Zubromawi",
-                "pais": "Saudi Arabia"
-              },
-              {
-                "nom": "Marko Kristal",
-                "pais": "Estonia"
-              },
-              {
-                "nom": "Cafu",
-                "pais": "Brazil"
-              },
-              {
-                "nom": "Lilian Thuram",
-                "pais": "France"
-              },
-              {
-                "nom": "Amer Deeb",
-                "pais": "Jordan"
-              },
-              {
-                "nom": "Michael Mifsud",
-                "pais": "Malta"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 4,
-        "rank_global": 85,
-        "ambit": "global"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\cb830d08-05d7-4453-9824-dbb9293704fd.webp"
-    },
-    {
       "id": "8e772be7-db79-4701-bd00-43d90ddbb68e",
       "text": "Romelu Lukaku (3rd Belgium) surpasses Sargis Hovsepyan, Peter Jehle and Simon Kjær and reaches Xavi, Andreas Isaksson, Sebastian Larsson and Teemu Pukki as 45th UEFA, 139th global player with 133 international caps.",
       "dades": {
@@ -1363,24 +1306,6 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\8e772be7-db79-4701-bd00-43d90ddbb68e.webp"
-    },
-    {
-      "id": "72a018c3-75a5-4e76-bb0b-62088166fe80",
-      "text": "67th international goal for Kylian Mbappé. 1st France, 12th UEFA, 33rd global scorer.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Kylian Mbappé",
-        "pais": "France",
-        "confederacio": "UEFA",
-        "valor": 67,
-        "accions": [],
-        "rank_nacional": 1,
-        "rank_confederacio": 12,
-        "rank_global": 33,
-        "ambit": "cap"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\72a018c3-75a5-4e76-bb0b-62088166fe80.webp"
     }
   ],
   "baseline": {
@@ -1506,7 +1431,7 @@
         "alias": "Idrissa Gueye",
         "pais": "Senegal",
         "confederacio": "CAF",
-        "valor": 142,
+        "valor": 141,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -1517,7 +1442,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 67,
+        "valor": 66,
         "inici": "2017",
         "final": "2026",
         "actiu": true,
@@ -1543,5 +1468,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-23"
+  "ultima_conciliacio": "2026-09-26"
 }

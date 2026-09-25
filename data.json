@@ -1306,6 +1306,63 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\cb830d08-05d7-4453-9824-dbb9293704fd.webp"
+    },
+    {
+      "id": "8e772be7-db79-4701-bd00-43d90ddbb68e",
+      "text": "Romelu Lukaku (3rd Belgium) surpasses Sargis Hovsepyan, Peter Jehle and Simon Kjær and reaches Xavi, Andreas Isaksson, Sebastian Larsson and Teemu Pukki as 45th UEFA, 139th global player with 133 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Romelu Lukaku",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 133,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Sargis Hovsepyan",
+                "pais": "Armenia"
+              },
+              {
+                "nom": "Peter Jehle",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Simon Kjær",
+                "pais": "Denmark"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Xavi",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Andreas Isaksson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Sebastian Larsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Teemu Pukki",
+                "pais": "Finland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 45,
+        "rank_global": 139,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\8e772be7-db79-4701-bd00-43d90ddbb68e.webp"
     }
   ],
   "baseline": {
@@ -1359,7 +1416,7 @@
         "alias": "Romelu Lukaku",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 132,
+        "valor": 133,
         "inici": "2010",
         "final": "2026",
         "actiu": true

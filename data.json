@@ -1249,6 +1249,63 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\81c82897-8993-4a85-82f3-14a08040dbaa.webp"
+    },
+    {
+      "id": "cb830d08-05d7-4453-9824-dbb9293704fd",
+      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Pepe and reaches Abdullah Zubromawi, Marko Kristal, Cafu, Lilian Thuram, Amer Deeb and Michael Mifsud as 85th global player with 142 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 142,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Pepe",
+                "pais": "Portugal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdullah Zubromawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Marko Kristal",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Cafu",
+                "pais": "Brazil"
+              },
+              {
+                "nom": "Lilian Thuram",
+                "pais": "France"
+              },
+              {
+                "nom": "Amer Deeb",
+                "pais": "Jordan"
+              },
+              {
+                "nom": "Michael Mifsud",
+                "pais": "Malta"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 85,
+        "ambit": "global"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\cb830d08-05d7-4453-9824-dbb9293704fd.webp"
     }
   ],
   "baseline": {
@@ -1374,7 +1431,7 @@
         "alias": "Idrissa Gueye",
         "pais": "Senegal",
         "confederacio": "CAF",
-        "valor": 141,
+        "valor": 142,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -1411,5 +1468,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-25"
+  "ultima_conciliacio": "2026-09-23"
 }

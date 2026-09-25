@@ -1363,6 +1363,24 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\8e772be7-db79-4701-bd00-43d90ddbb68e.webp"
+    },
+    {
+      "id": "72a018c3-75a5-4e76-bb0b-62088166fe80",
+      "text": "67th international goal for Kylian Mbappé. 1st France, 12th UEFA, 33rd global scorer.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 67,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "cap"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\72a018c3-75a5-4e76-bb0b-62088166fe80.webp"
     }
   ],
   "baseline": {
@@ -1499,7 +1517,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 66,
+        "valor": 67,
         "inici": "2017",
         "final": "2026",
         "actiu": true,

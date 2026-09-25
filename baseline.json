@@ -153,6 +153,15 @@
       "final": "2014",
       "actiu": false
     },
+    "Robert Lewandowski": {
+      "alias": "Robert Lewandowski",
+      "pais": "Poland",
+      "confederacio": "UEFA",
+      "valor": 168,
+      "inici": "2008",
+      "final": "2026",
+      "actiu": true
+    },
     "Alexis Sánchez": {
       "alias": "Alexis Sánchez",
       "pais": "Chile",
@@ -170,15 +179,6 @@
       "inici": "2000",
       "final": "2016",
       "actiu": false
-    },
-    "Robert Lewandowski": {
-      "alias": "Robert Lewandowski",
-      "pais": "Poland",
-      "confederacio": "UEFA",
-      "valor": 167,
-      "inici": "2008",
-      "final": "2026",
-      "actiu": true
     },
     "Vitālijs Astafjevs": {
       "alias": "Vitālijs Astafjevs",
@@ -810,6 +810,15 @@
       "final": "2002",
       "actiu": false
     },
+    "Idrissa Gueye": {
+      "alias": "Idrissa Gueye",
+      "pais": "Senegal",
+      "confederacio": "CAF",
+      "valor": 141,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Pepe": {
       "alias": "Pepe",
       "pais": "Portugal",
@@ -836,15 +845,6 @@
       "inici": "2004",
       "final": "2017",
       "actiu": false
-    },
-    "Idrissa Gueye": {
-      "alias": "Idrissa Gueye",
-      "pais": "Senegal",
-      "confederacio": "CAF",
-      "valor": 140,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true
     },
     "Axel Witsel": {
       "alias": "Axel Witsel",
@@ -1305,6 +1305,15 @@
       "final": "2010",
       "actiu": false
     },
+    "Romelu Lukaku": {
+      "alias": "Romelu Lukaku",
+      "pais": "Belgium",
+      "confederacio": "UEFA",
+      "valor": 133,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true
+    },
     "Teemu Pukki": {
       "alias": "Teemu Pukki",
       "pais": "Finland",
@@ -1376,15 +1385,6 @@
       "inici": "2009",
       "final": "2024",
       "actiu": false
-    },
-    "Romelu Lukaku": {
-      "alias": "Romelu Lukaku",
-      "pais": "Belgium",
-      "confederacio": "UEFA",
-      "valor": 132,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
     },
     "Héctor Moreno": {
       "alias": "Héctor Moreno",
@@ -1881,6 +1881,15 @@
       "final": "2006",
       "actiu": false
     },
+    "Kevin De Bruyne": {
+      "alias": "Kevin De Bruyne",
+      "pais": "Belgium",
+      "confederacio": "UEFA",
+      "valor": 125,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true
+    },
     "Mario Frick": {
       "alias": "Mario Frick",
       "pais": "Liechtenstein",
@@ -1914,8 +1923,8 @@
       "confederacio": "CONCACAF",
       "valor": 125,
       "inici": "2008",
-      "final": "2026",
-      "actiu": true
+      "final": "2025",
+      "actiu": false
     },
     "Maxi Pereira": {
       "alias": "Maxi Pereira",
@@ -1979,15 +1988,6 @@
       "inici": "2002",
       "final": "2016",
       "actiu": false
-    },
-    "Kevin De Bruyne": {
-      "alias": "Kevin De Bruyne",
-      "pais": "Belgium",
-      "confederacio": "UEFA",
-      "valor": 124,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
     },
     "Linval Dixon": {
       "alias": "Linval Dixon",
@@ -2160,6 +2160,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Mohamed Salah": {
+      "alias": "Mohamed Salah",
+      "pais": "Egypt",
+      "confederacio": "CAF",
+      "valor": 122,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Kolo Touré": {
       "alias": "Kolo Touré",
       "pais": "Ivory Coast",
@@ -2220,15 +2229,6 @@
       "confederacio": "UEFA",
       "valor": 121,
       "inici": "2015",
-      "final": "2026",
-      "actiu": true
-    },
-    "Mohamed Salah": {
-      "alias": "Mohamed Salah",
-      "pais": "Egypt",
-      "confederacio": "CAF",
-      "valor": 121,
-      "inici": "2011",
       "final": "2026",
       "actiu": true
     },
@@ -3771,6 +3771,15 @@
       "final": "2014",
       "actiu": false
     },
+    "Piotr Zieliński": {
+      "alias": "Piotr Zieliński",
+      "pais": "Poland",
+      "confederacio": "UEFA",
+      "valor": 110,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
+    },
     "Hassan Abdel-Fattah": {
       "alias": "Hassan Abdel-Fattah",
       "pais": "Jordan",
@@ -3932,15 +3941,6 @@
       "inici": "2001",
       "final": "2013",
       "actiu": false
-    },
-    "Piotr Zieliński": {
-      "alias": "Piotr Zieliński",
-      "pais": "Poland",
-      "confederacio": "UEFA",
-      "valor": 109,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true
     },
     "Álex Aguinaga": {
       "alias": "Álex Aguinaga",
@@ -4194,6 +4194,15 @@
       "final": "2017",
       "actiu": false
     },
+    "Kylian Mbappé": {
+      "alias": "Kylian Mbappé",
+      "pais": "France",
+      "confederacio": "UEFA",
+      "valor": 107,
+      "inici": "2017",
+      "final": "2026",
+      "actiu": true
+    },
     "Aaron Mokoena": {
       "alias": "Aaron Mokoena",
       "pais": "South Africa",
@@ -4409,15 +4418,6 @@
       "inici": "1999",
       "final": "2016",
       "actiu": false
-    },
-    "Kylian Mbappé": {
-      "alias": "Kylian Mbappé",
-      "pais": "France",
-      "confederacio": "UEFA",
-      "valor": 106,
-      "inici": "2017",
-      "final": "2026",
-      "actiu": true
     },
     "Aleksandar Mitrović": {
       "alias": "Aleksandar Mitrović",
@@ -5274,6 +5274,15 @@
       "final": "2005",
       "actiu": false
     },
+    "Ryan Mendes": {
+      "alias": "Ryan Mendes",
+      "pais": "Cape Verde",
+      "confederacio": "CAF",
+      "valor": 102,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true
+    },
     "Savo Milošević": {
       "alias": "Savo Milošević",
       "pais": "Serbia and Montenegro",
@@ -5688,15 +5697,6 @@
       "final": "2012",
       "actiu": false
     },
-    "Ryan Mendes": {
-      "alias": "Ryan Mendes",
-      "pais": "Cape Verde",
-      "confederacio": "CAF",
-      "valor": 101,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
-    },
     "Saulius Mikoliūnas": {
       "alias": "Saulius Mikoliūnas",
       "pais": "Lithuania",
@@ -5976,6 +5976,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Alex Iwobi": {
+      "alias": "Alex Iwobi",
+      "pais": "Nigeria",
+      "confederacio": "CAF",
+      "valor": 100,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
+    },
     "Bojan Jokić": {
       "alias": "Bojan Jokić",
       "pais": "Slovenia",
@@ -6128,6 +6137,15 @@
       "inici": "1996",
       "final": "2008",
       "actiu": false
+    },
+    "Moses Simon": {
+      "alias": "Moses Simon",
+      "pais": "Nigeria",
+      "confederacio": "CAF",
+      "valor": 100,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
     },
     "Santokh Singh": {
       "alias": "Santokh Singh",

@@ -1362,6 +1362,87 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\f4f2e3a8-d883-4b9b-8f48-ac604d82ff71.webp"
+    },
+    {
+      "id": "2b0a08ca-672f-4413-897f-c118455d3f18",
+      "text": "Erling Haaland (1st Norway) surpasses Gerd Müller and Robbie Keane as 10th UEFA, 27th global scorer with 69 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 69,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gerd Müller",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Robbie Keane",
+                "pais": "Republic of Ireland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 10,
+        "rank_global": 27,
+        "ambit": "confederacio"
+      },
+      "ts": 1790245080.0,
+      "collage": "collages\\2b0a08ca-672f-4413-897f-c118455d3f18.webp"
+    },
+    {
+      "id": "726cdbd2-1aef-45a6-b404-1d5629d9bae5",
+      "text": "Erling Haaland (1st Norway, 10th UEFA) surpasses Hossam Hassan and Luis Suárez and reaches Abdul Kadir, Piyapong Pue-on and Stern John as 24th global scorer with 70 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 70,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hossam Hassan",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Luis Suárez",
+                "pais": "Uruguay"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdul Kadir",
+                "pais": "Indonesia"
+              },
+              {
+                "nom": "Piyapong Pue-on",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Stern John",
+                "pais": "Trinidad and Tobago"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 10,
+        "rank_global": 24,
+        "ambit": "global"
+      },
+      "ts": 1790248440.0,
+      "collage": "collages\\726cdbd2-1aef-45a6-b404-1d5629d9bae5.webp"
     }
   ],
   "baseline": {
@@ -1733,7 +1814,7 @@
         "alias": "Erling Haaland",
         "pais": "Norway",
         "confederacio": "UEFA",
-        "valor": 68,
+        "valor": 70,
         "inici": "2019",
         "final": "2026",
         "actiu": true

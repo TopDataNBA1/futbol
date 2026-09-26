@@ -2495,6 +2495,75 @@
       },
       "ts": 1790334060.0,
       "collage": "collages\\7e99448b-aa57-4574-9a16-bcf10f5648f8.webp"
+    },
+    {
+      "id": "574f08d1-1540-4b45-9bc3-08eba129a1c8",
+      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Abdullah Zubromawi, Marko Kristal, Cafu, Lilian Thuram, Amer Deeb and Michael Mifsud and reaches Thomas Ravelli, Sergio Busquets, Luis Suárez and Tomás Rincón as 81st global player with 143 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 143,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Abdullah Zubromawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Marko Kristal",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Cafu",
+                "pais": "Brazil"
+              },
+              {
+                "nom": "Lilian Thuram",
+                "pais": "France"
+              },
+              {
+                "nom": "Amer Deeb",
+                "pais": "Jordan"
+              },
+              {
+                "nom": "Michael Mifsud",
+                "pais": "Malta"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Thomas Ravelli",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Sergio Busquets",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Luis Suárez",
+                "pais": "Uruguay"
+              },
+              {
+                "nom": "Tomás Rincón",
+                "pais": "Venezuela"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 81,
+        "ambit": "global"
+      },
+      "ts": 1790335440.0,
+      "collage": "collages\\574f08d1-1540-4b45-9bc3-08eba129a1c8.webp"
     }
   ],
   "baseline": {
@@ -2620,7 +2689,7 @@
         "alias": "Idrissa Gueye",
         "pais": "Senegal",
         "confederacio": "CAF",
-        "valor": 142,
+        "valor": 143,
         "inici": "2011",
         "final": "2026",
         "actiu": true

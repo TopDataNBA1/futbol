@@ -1789,6 +1789,119 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\836dc88b-2b58-4206-ab90-ba28f3298132.webp"
+    },
+    {
+      "id": "43cd0a80-7ca8-4d77-9210-2cc5b6f38f35",
+      "text": "Ehsan Hajsafi (1st Iran) reaches Fawzi Bashir, Yasuhito Endō and Son Heung-min as 16th AFC, 43rd global player with 152 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 152,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Fawzi Bashir",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Yasuhito Endō",
+                "pais": "Japan"
+              },
+              {
+                "nom": "Son Heung-min",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 16,
+        "rank_global": 43,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\43cd0a80-7ca8-4d77-9210-2cc5b6f38f35.webp"
+    },
+    {
+      "id": "9afb3904-5688-47a5-919b-6032b7d969ff",
+      "text": "Mehdi Taremi (6th Iran) surpasses Zuhair Bakheet, Li Weifeng, Jarah Al Ateeqi, Abdulla Al-Marzooqi, Yasser Al-Qahtani, Ki Sung-yueng, Kim Young-gwon and Yapp Hung Fai and reaches Ahmed Al-Dokhi, Hawar Mulla Mohammed, Nashat Akram and Kiran Chemjong as 116th AFC, 346th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Zuhair Bakheet",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Li Weifeng",
+                "pais": "China"
+              },
+              {
+                "nom": "Jarah Al Ateeqi",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Abdulla Al-Marzooqi",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Yasser Al-Qahtani",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Ki Sung-yueng",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Kim Young-gwon",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Yapp Hung Fai",
+                "pais": "Hong Kong"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Ahmed Al-Dokhi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Hawar Mulla Mohammed",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Nashat Akram",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Kiran Chemjong",
+                "pais": "Nepal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 116,
+        "rank_global": 346,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\9afb3904-5688-47a5-919b-6032b7d969ff.webp"
     }
   ],
   "baseline": {
@@ -1995,7 +2108,7 @@
         "alias": "Ehsan Hajsafi",
         "pais": "Iran",
         "confederacio": "AFC",
-        "valor": 151,
+        "valor": 152,
         "inici": "2008",
         "final": "2026",
         "actiu": true
@@ -2004,7 +2117,7 @@
         "alias": "Mehdi Taremi",
         "pais": "Iran",
         "confederacio": "AFC",
-        "valor": 112,
+        "valor": 113,
         "inici": "2015",
         "final": "2026",
         "actiu": true

@@ -3075,6 +3075,83 @@
       },
       "ts": 1790451345.191562,
       "collage": "collages\\c76d0474-9bb0-4d3e-805c-99987be492a6.webp"
+    },
+    {
+      "id": "8b94beea-326c-4f9a-85a2-e8a73acfc645",
+      "text": "Harry Kane (2nd England) surpasses Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci and reaches Goran Pandev and Zlatan Ibrahimović as 81st UEFA, 234th global player with 122 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 122,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Peter Schmeichel",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Bastian Schweinsteiger",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Leonardo Bonucci",
+                "pais": "Italy"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Goran Pandev",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 81,
+        "rank_global": 234,
+        "ambit": "confederacio"
+      },
+      "ts": 1790451370.376593,
+      "collage": "collages\\8b94beea-326c-4f9a-85a2-e8a73acfc645.webp"
+    },
+    {
+      "id": "2ffa8798-3b10-429a-97dd-dfed2241446d",
+      "text": "Harry Kane (1st England, 4th UEFA) surpasses Ali Mabkhout as 8th global scorer with 86 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 86,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ali Mabkhout",
+                "pais": "United Arab Emirates"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 8,
+        "ambit": "global"
+      },
+      "ts": 1790451370.856003,
+      "collage": "collages\\2ffa8798-3b10-429a-97dd-dfed2241446d.webp"
     }
   ],
   "baseline": {
@@ -3146,7 +3223,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 121,
+        "valor": 122,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -3502,6 +3579,15 @@
         "confederacio": "AFC",
         "valor": 59,
         "inici": "2009",
+        "final": "2026",
+        "actiu": true
+      },
+      "Harry Kane": {
+        "alias": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 86,
+        "inici": "2015",
         "final": "2026",
         "actiu": true
       }

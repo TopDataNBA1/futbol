@@ -2557,6 +2557,75 @@
       },
       "ts": 1790335440.0,
       "collage": "collages\\f8295007-6c73-45b6-833e-f277869fc35c.webp"
+    },
+    {
+      "id": "5830f26e-be4c-4911-8b1f-9af15ecbb06c",
+      "text": "Simon Msuva (2nd Tanzania) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré and Achraf Hakimi and reaches Elijah Tana, Ryan Mendes and Ferjani Sassi as 46th CAF, 548th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Simon Msuva",
+        "pais": "Tanzania",
+        "confederacio": "CAF",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Achraf Hakimi",
+                "pais": "Morocco"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              },
+              {
+                "nom": "Ferjani Sassi",
+                "pais": "Tunisia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 46,
+        "rank_global": 548,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\5830f26e-be4c-4911-8b1f-9af15ecbb06c.webp"
     }
   ],
   "baseline": {
@@ -2871,7 +2940,7 @@
         "alias": "Simon Msuva",
         "pais": "Tanzania",
         "confederacio": "CAF",
-        "valor": 102,
+        "valor": 103,
         "inici": "2012",
         "final": "2026",
         "actiu": true

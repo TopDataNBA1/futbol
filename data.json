@@ -2034,6 +2034,103 @@
       },
       "ts": 1790247480.0,
       "collage": "collages\\8cc14748-c989-4b04-82c9-a5a1678a2e54.webp"
+    },
+    {
+      "id": "fc2affb5-edf0-4f15-8702-d207938001f6",
+      "text": "Piotr Zieliński (2nd Poland) surpasses Carmel Busuttil, Fernando Couto, Kevin Kilbane, John Arne Riise, Cesc Fàbregas and Aron Gunnarsson and reaches Andriy Shevchenko, Igor Akinfeev and Gareth Bale as 142nd UEFA, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Piotr Zieliński",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Carmel Busuttil",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Fernando Couto",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Kevin Kilbane",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "John Arne Riise",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Cesc Fàbregas",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Aron Gunnarsson",
+                "pais": "Iceland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Andriy Shevchenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Igor Akinfeev",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Gareth Bale",
+                "pais": "Wales"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 142,
+        "rank_global": 383,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\fc2affb5-edf0-4f15-8702-d207938001f6.webp"
+    },
+    {
+      "id": "36d1e3f1-f602-46e0-a6f6-7cbde5550f03",
+      "text": "Robert Lewandowski (1st Poland, 5th UEFA) surpasses Iván Hurtado and Alexis Sánchez as 17th global player with 169 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Robert Lewandowski",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 169,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Iván Hurtado",
+                "pais": "Ecuador"
+              },
+              {
+                "nom": "Alexis Sánchez",
+                "pais": "Chile"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 17,
+        "ambit": "global"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\36d1e3f1-f602-46e0-a6f6-7cbde5550f03.webp"
     }
   ],
   "baseline": {
@@ -2276,7 +2373,7 @@
         "alias": "Piotr Zieliński",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 110,
+        "valor": 111,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -2285,7 +2382,7 @@
         "alias": "Robert Lewandowski",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 168,
+        "valor": 169,
         "inici": "2008",
         "final": "2026",
         "actiu": true

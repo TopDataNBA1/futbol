@@ -2224,6 +2224,71 @@
       },
       "ts": 1790335380.0,
       "collage": "collages\\2e443012-847e-485b-8268-d3a0c3ece4d8.webp"
+    },
+    {
+      "id": "0f4043c5-e71a-4dc4-8548-f80c04ed29f5",
+      "text": "Kylian Mbappé surpasses Patrick Vieira and reaches Zinedine Zidane as 7th France, 160th UEFA, 439th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 160,
+        "rank_global": 439,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\0f4043c5-e71a-4dc4-8548-f80c04ed29f5.webp"
+    },
+    {
+      "id": "4479b6de-287b-42ca-81fc-a3c0b8146c1a",
+      "text": "Kylian Mbappé (1st France) surpasses Erling Haaland as 12th UEFA, 33rd global scorer with 67 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 67,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Erling Haaland",
+                "pais": "Norway"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "confederacio"
+      },
+      "ts": 1790333640.0,
+      "collage": "collages\\4479b6de-287b-42ca-81fc-a3c0b8146c1a.webp"
     }
   ],
   "baseline": {
@@ -2232,7 +2297,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 107,
+        "valor": 108,
         "inici": "2017",
         "final": "2026",
         "actiu": true
@@ -2576,7 +2641,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 66,
+        "valor": 67,
         "inici": "2017",
         "final": "2026",
         "actiu": true,

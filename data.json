@@ -1256,6 +1256,66 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\ff0ae11b-3754-45e8-9114-441bf6421502.webp"
+    },
+    {
+      "id": "a96c14b3-4d73-492f-949f-fb45119fd973",
+      "text": "Erling Haaland (1st Norway) surpasses Kylian Mbappé as 12th UEFA, 33rd global scorer with 67 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 67,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "confederacio"
+      },
+      "ts": 1790245080.0,
+      "collage": "collages\\a96c14b3-4d73-492f-949f-fb45119fd973.webp"
+    },
+    {
+      "id": "b655cb63-a4a1-4751-9189-30cd1856cbfe",
+      "text": "Erling Haaland (1st Norway) reaches Gerd Müller and Robbie Keane as 10th UEFA, 29th global scorer with 68 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 68,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Gerd Müller",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Robbie Keane",
+                "pais": "Republic of Ireland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 10,
+        "rank_global": 29,
+        "ambit": "confederacio"
+      },
+      "ts": 1790248440.0,
+      "collage": "collages\\b655cb63-a4a1-4751-9189-30cd1856cbfe.webp"
     }
   ],
   "baseline": {
@@ -1519,7 +1579,7 @@
         "alias": "Erling Haaland",
         "pais": "Norway",
         "confederacio": "UEFA",
-        "valor": 66,
+        "valor": 68,
         "inici": "2019",
         "final": "2026",
         "actiu": true

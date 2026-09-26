@@ -1164,6 +1164,95 @@
       },
       "ts": 1790162880.0,
       "collage": "collages\\0bd5f610-76b7-4541-997e-2b04ca184322.webp"
+    },
+    {
+      "id": "d15cc3d8-6a51-4669-bf1f-b4a553cfe228",
+      "text": "Nicolas Hasler (3rd Liechtenstein) surpasses Björn Nordqvist, Kristen Viikmäe, Stipe Pletikosa, Steven Gerrard, Xabi Alonso, Raio Piiroja, Dmitri Kruglov, Sergei Zenjov, Toni Kroos and Dušan Tadić and reaches Gheorghe Popescu, David Beckham, Andrejs Rubins, Miralem Pjanić and Thibaut Courtois as 108th UEFA, 310th global player with 115 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Nicolas Hasler",
+        "pais": "Liechtenstein",
+        "confederacio": "UEFA",
+        "valor": 115,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Björn Nordqvist",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Kristen Viikmäe",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Stipe Pletikosa",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Steven Gerrard",
+                "pais": "England"
+              },
+              {
+                "nom": "Xabi Alonso",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Raio Piiroja",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Dmitri Kruglov",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Sergei Zenjov",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Toni Kroos",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Dušan Tadić",
+                "pais": "Serbia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Popescu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "David Beckham",
+                "pais": "England"
+              },
+              {
+                "nom": "Andrejs Rubins",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Miralem Pjanić",
+                "pais": "Bosnia and Herzegovina"
+              },
+              {
+                "nom": "Thibaut Courtois",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 108,
+        "rank_global": 310,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\d15cc3d8-6a51-4669-bf1f-b4a553cfe228.webp"
     }
   ],
   "baseline": {
@@ -1298,7 +1387,7 @@
         "alias": "Nicolas Hasler",
         "pais": "Liechtenstein",
         "confederacio": "UEFA",
-        "valor": 114,
+        "valor": 115,
         "inici": "2010",
         "final": "2026",
         "actiu": true

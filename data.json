@@ -1806,6 +1806,144 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\1b8ee0c1-81d7-40a8-b63d-e271c9bb7092.webp"
+    },
+    {
+      "id": "f67a3bdc-a534-45d8-8355-cd00e136eaaf",
+      "text": "Lee Jae-sung (10th South Korea) surpasses Wael Sulaiman, Nohair Al-Shammari and Hassan Abdel-Fattah and reaches Totchtawan Sripan, Mehdi Mahdavikia, Yuji Nakazawa, Imran Mohamed, Mohamad Haidar, Mahmoud Al-Mawas and Ali Al-Busaidi as 132nd AFC, 397th global player with 110 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lee Jae-sung",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 110,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Wael Sulaiman",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Nohair Al-Shammari",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Hassan Abdel-Fattah",
+                "pais": "Jordan"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Totchtawan Sripan",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Mehdi Mahdavikia",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Yuji Nakazawa",
+                "pais": "Japan"
+              },
+              {
+                "nom": "Imran Mohamed",
+                "pais": "Maldives"
+              },
+              {
+                "nom": "Mohamad Haidar",
+                "pais": "Lebanon"
+              },
+              {
+                "nom": "Mahmoud Al-Mawas",
+                "pais": "Syria"
+              },
+              {
+                "nom": "Ali Al-Busaidi",
+                "pais": "Oman"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 132,
+        "rank_global": 397,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\f67a3bdc-a534-45d8-8355-cd00e136eaaf.webp"
+    },
+    {
+      "id": "dc7d103a-9e25-48d5-bd58-0ea20743e414",
+      "text": "Son Heung-min (1st South Korea) surpasses Ehsan Hajsafi and reaches Fawzi Bashir and Yasuhito Endō as 16th AFC, 43rd global player with 152 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 152,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ehsan Hajsafi",
+                "pais": "Iran"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Fawzi Bashir",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Yasuhito Endō",
+                "pais": "Japan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 16,
+        "rank_global": 43,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\dc7d103a-9e25-48d5-bd58-0ea20743e414.webp"
+    },
+    {
+      "id": "3da335c2-0463-4416-b764-04784f10c8cb",
+      "text": "Son Heung-min surpasses Cha Bum-kun as 1st South Korea, 18th AFC, 45th global scorer with 59 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 59,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Cha Bum-kun",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 45,
+        "ambit": "compatriota"
+      },
+      "ts": 1790247480.0,
+      "collage": "collages\\3da335c2-0463-4416-b764-04784f10c8cb.webp"
     }
   ],
   "baseline": {
@@ -2030,7 +2168,7 @@
         "alias": "Lee Jae-sung",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 109,
+        "valor": 110,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -2039,7 +2177,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 151,
+        "valor": 152,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -2060,7 +2198,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 58,
+        "valor": 59,
         "inici": "2010",
         "final": "2026",
         "actiu": true

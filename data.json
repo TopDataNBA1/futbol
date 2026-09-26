@@ -1402,6 +1402,75 @@
       },
       "ts": 1790248440.0,
       "collage": "collages\\4bca08bd-23be-4d03-aac5-ac98c1366b67.webp"
+    },
+    {
+      "id": "b4f62016-4410-4f31-8a51-25067cc2d7cd",
+      "text": "Joshua Kimmich (6th Germany) surpasses Gheorghe Popescu, David Beckham, Andrejs Rubins, Miralem Pjanić and Thibaut Courtois and reaches Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Mateo Kovačić as 103rd UEFA, 295th global player with 116 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Joshua Kimmich",
+        "pais": "Germany",
+        "confederacio": "UEFA",
+        "valor": 116,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Popescu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "David Beckham",
+                "pais": "England"
+              },
+              {
+                "nom": "Andrejs Rubins",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Miralem Pjanić",
+                "pais": "Bosnia and Herzegovina"
+              },
+              {
+                "nom": "Thibaut Courtois",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Roland Nilsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Marcel Desailly",
+                "pais": "France"
+              },
+              {
+                "nom": "Andrea Pirlo",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Kostas Katsouranis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Mateo Kovačić",
+                "pais": "Croatia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 103,
+        "rank_global": 295,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\b4f62016-4410-4f31-8a51-25067cc2d7cd.webp"
     }
   ],
   "baseline": {
@@ -1554,7 +1623,7 @@
         "alias": "Joshua Kimmich",
         "pais": "Germany",
         "confederacio": "UEFA",
-        "valor": 115,
+        "valor": 116,
         "inici": "2016",
         "final": "2026",
         "actiu": true

@@ -1999,6 +1999,62 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\34461e98-b883-47fb-b9e6-dd53da3a875f.webp"
+    },
+    {
+      "id": "c0a44132-f0fe-46ef-aec5-a671a2375f49",
+      "text": "Ehsan Hajsafi surpasses Javad Nekounam as 1st Iran, 18th AFC, 48th global player with 150 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 150,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Javad Nekounam",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 48,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\c0a44132-f0fe-46ef-aec5-a671a2375f49.webp"
+    },
+    {
+      "id": "76e0f120-da66-44ec-b0cd-163b3da855f4",
+      "text": "Mehdi Taremi surpasses Mehdi Mahdavikia as 6th Iran, 128th AFC, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mehdi Mahdavikia",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 128,
+        "rank_global": 383,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\76e0f120-da66-44ec-b0cd-163b3da855f4.webp"
     }
   ],
   "baseline": {
@@ -2198,6 +2254,24 @@
         "confederacio": "CAF",
         "valor": 103,
         "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ehsan Hajsafi": {
+        "alias": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 150,
+        "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Mehdi Taremi": {
+        "alias": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 111,
+        "inici": "2015",
         "final": "2026",
         "actiu": true
       }

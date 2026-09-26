@@ -1724,6 +1724,34 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\e2013b15-84dd-48b8-9ab9-414e2ed7fe1d.webp"
+    },
+    {
+      "id": "2d21ae65-2e47-43a0-8beb-61f5746d4cb6",
+      "text": "Franck Kessié (4th Ivory Coast) reaches Abdel-Zaher El-Saqqa as 28th CAF, 358th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Franck Kessié",
+        "pais": "Ivory Coast",
+        "confederacio": "CAF",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdel-Zaher El-Saqqa",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 28,
+        "rank_global": 358,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\2d21ae65-2e47-43a0-8beb-61f5746d4cb6.webp"
     }
   ],
   "baseline": {
@@ -1912,7 +1940,7 @@
         "alias": "Franck Kessié",
         "pais": "Ivory Coast",
         "confederacio": "CAF",
-        "valor": 111,
+        "valor": 112,
         "inici": "2014",
         "final": "2026",
         "actiu": true

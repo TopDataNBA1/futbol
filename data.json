@@ -1385,6 +1385,165 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\734c6515-08ab-463f-8c77-7bc91edbb40e.webp"
+    },
+    {
+      "id": "abecf6f7-0ff5-4962-8530-5f4de6c653d0",
+      "text": "236th international cap for Cristiano Ronaldo. 1st Portugal, 1st UEFA, 1st global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "confederacio": "UEFA",
+        "valor": 236,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 1,
+        "rank_global": 1,
+        "ambit": "cap"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\abecf6f7-0ff5-4962-8530-5f4de6c653d0.webp"
+    },
+    {
+      "id": "4be2f2ba-4bde-4b13-8b97-97a295d04b40",
+      "text": "Ben Davies (4th Wales) surpasses Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer and reaches Franz Beckenbauer, Michael Laudrup, Didier Deschamps, Andi Herzog, Stéphane Chapuisat, Indrek Zelinski, Dejan Stanković, Māris Verpakovskis, Jaroslav Plašil, Vedran Ćorluka, Andrei Agius, Kamil Glik, James McClean and Fedor Černych as 206th UEFA, 548th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ben Davies",
+        "pais": "Wales",
+        "confederacio": "UEFA",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Kenny Dalglish",
+                "pais": "Scotland"
+              },
+              {
+                "nom": "Steve Staunton",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Bülent Korkmaz",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Raúl",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Savo Milošević",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Martin Jørgensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Michał Żewłakow",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Robin van Persie",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Gerard Piqué",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Mario Mutsch",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Birkir Már Sævarsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Andriy Pyatov",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Jóhann Berg Guðmundsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Marcel Sabitzer",
+                "pais": "Austria"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Franz Beckenbauer",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Michael Laudrup",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Didier Deschamps",
+                "pais": "France"
+              },
+              {
+                "nom": "Andi Herzog",
+                "pais": "Austria"
+              },
+              {
+                "nom": "Stéphane Chapuisat",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Indrek Zelinski",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Dejan Stanković",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Māris Verpakovskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Jaroslav Plašil",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Vedran Ćorluka",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Andrei Agius",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Kamil Glik",
+                "pais": "Poland"
+              },
+              {
+                "nom": "James McClean",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Fedor Černych",
+                "pais": "Lithuania"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 206,
+        "rank_global": 548,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\4be2f2ba-4bde-4b13-8b97-97a295d04b40.webp"
     }
   ],
   "baseline": {
@@ -1546,7 +1705,7 @@
         "alias": "Cristiano Ronaldo",
         "pais": "Portugal",
         "confederacio": "UEFA",
-        "valor": 235,
+        "valor": 236,
         "inici": "2003",
         "final": "2026",
         "actiu": true
@@ -1555,7 +1714,7 @@
         "alias": "Ben Davies",
         "pais": "Wales",
         "confederacio": "UEFA",
-        "valor": 102,
+        "valor": 103,
         "inici": "2012",
         "final": "2026",
         "actiu": true

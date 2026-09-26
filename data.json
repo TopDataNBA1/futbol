@@ -2877,6 +2877,42 @@
       },
       "ts": 1790441296.576692,
       "collage": "collages\\736a04bb-19eb-411d-9c9c-837700c7d2d6.webp"
+    },
+    {
+      "id": "c533d3ec-aa0d-4a57-925d-bead80e22008",
+      "text": "Yousef Nasser (3rd Kuwait) surpasses Cha Bum-kun, Son Heung-min and Ali Ashfaq as 18th AFC, 45th global scorer with 59 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Yousef Nasser",
+        "pais": "Kuwait",
+        "confederacio": "AFC",
+        "valor": 59,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Cha Bum-kun",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Son Heung-min",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Ali Ashfaq",
+                "pais": "Maldives"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 18,
+        "rank_global": 45,
+        "ambit": "confederacio"
+      },
+      "ts": 1790445299.571587,
+      "collage": "collages\\c533d3ec-aa0d-4a57-925d-bead80e22008.webp"
     }
   ],
   "baseline": {
@@ -3268,6 +3304,15 @@
         "confederacio": "UEFA",
         "valor": 66,
         "inici": "2019",
+        "final": "2026",
+        "actiu": true
+      },
+      "Yousef Nasser": {
+        "alias": "Yousef Nasser",
+        "pais": "Kuwait",
+        "confederacio": "AFC",
+        "valor": 59,
+        "inici": "2009",
         "final": "2026",
         "actiu": true
       }

@@ -2134,6 +2134,52 @@
       },
       "ts": 1790335380.0,
       "collage": "collages\\d66dc359-f580-4de9-aeac-f28f0e481421.webp"
+    },
+    {
+      "id": "ffd4e3da-4bfc-4023-86ca-f22619f15b36",
+      "text": "Kylian Mbappé reaches Patrick Vieira as 8th France, 169th UEFA, 460th global player with 107 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 169,
+        "rank_global": 460,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\ffd4e3da-4bfc-4023-86ca-f22619f15b36.webp"
+    },
+    {
+      "id": "7d214d87-9be9-4d8a-a2a5-b5c8c6bc2769",
+      "text": "67th international goal for Kylian Mbappé. 1st France, 12th UEFA, 33rd global scorer.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 67,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "cap"
+      },
+      "ts": 1790333640.0,
+      "collage": "collages\\7d214d87-9be9-4d8a-a2a5-b5c8c6bc2769.webp"
     }
   ],
   "baseline": {
@@ -2142,7 +2188,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 106,
+        "valor": 107,
         "inici": "2017",
         "final": "2026",
         "actiu": true
@@ -2405,7 +2451,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 66,
+        "valor": 67,
         "inici": "2017",
         "final": "2026",
         "actiu": true,

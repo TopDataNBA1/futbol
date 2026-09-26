@@ -2387,6 +2387,63 @@
       },
       "ts": 1790334060.0,
       "collage": "collages\\26a13a4c-4d79-4091-8fd2-a8019c7a9e9a.webp"
+    },
+    {
+      "id": "112bc47c-403e-40a9-8b45-29f2dab0b740",
+      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Pepe and reaches Abdullah Zubromawi, Marko Kristal, Cafu, Lilian Thuram, Amer Deeb and Michael Mifsud as 85th global player with 142 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 142,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Pepe",
+                "pais": "Portugal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdullah Zubromawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Marko Kristal",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Cafu",
+                "pais": "Brazil"
+              },
+              {
+                "nom": "Lilian Thuram",
+                "pais": "France"
+              },
+              {
+                "nom": "Amer Deeb",
+                "pais": "Jordan"
+              },
+              {
+                "nom": "Michael Mifsud",
+                "pais": "Malta"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 85,
+        "ambit": "global"
+      },
+      "ts": 1790335440.0,
+      "collage": "collages\\112bc47c-403e-40a9-8b45-29f2dab0b740.webp"
     }
   ],
   "baseline": {
@@ -2512,7 +2569,7 @@
         "alias": "Idrissa Gueye",
         "pais": "Senegal",
         "confederacio": "CAF",
-        "valor": 141,
+        "valor": 142,
         "inici": "2011",
         "final": "2026",
         "actiu": true

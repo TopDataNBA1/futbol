@@ -1902,6 +1902,147 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\9afb3904-5688-47a5-919b-6032b7d969ff.webp"
+    },
+    {
+      "id": "38c73d2c-7909-4b80-b002-add30a84a665",
+      "text": "Lee Jae-sung (10th South Korea) surpasses Totchtawan Sripan, Mehdi Mahdavikia, Yuji Nakazawa, Imran Mohamed, Mohamad Haidar, Mahmoud Al-Mawas and Ali Al-Busaidi and reaches Abdulsalam Jumaa, Mahdi Karim, Zheng Zhi and Zhang Linpeng as 128th AFC, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lee Jae-sung",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Totchtawan Sripan",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Mehdi Mahdavikia",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Yuji Nakazawa",
+                "pais": "Japan"
+              },
+              {
+                "nom": "Imran Mohamed",
+                "pais": "Maldives"
+              },
+              {
+                "nom": "Mohamad Haidar",
+                "pais": "Lebanon"
+              },
+              {
+                "nom": "Mahmoud Al-Mawas",
+                "pais": "Syria"
+              },
+              {
+                "nom": "Ali Al-Busaidi",
+                "pais": "Oman"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdulsalam Jumaa",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Mahdi Karim",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Zheng Zhi",
+                "pais": "China"
+              },
+              {
+                "nom": "Zhang Linpeng",
+                "pais": "China"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 128,
+        "rank_global": 383,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\38c73d2c-7909-4b80-b002-add30a84a665.webp"
+    },
+    {
+      "id": "8c3dd19e-a3c9-4843-ab4a-880f85971619",
+      "text": "Son Heung-min (1st South Korea) surpasses Fawzi Bashir, Yasuhito Endō and Ehsan Hajsafi as 16th AFC, 41st global player with 153 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 153,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Fawzi Bashir",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Yasuhito Endō",
+                "pais": "Japan"
+              },
+              {
+                "nom": "Ehsan Hajsafi",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 16,
+        "rank_global": 41,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\8c3dd19e-a3c9-4843-ab4a-880f85971619.webp"
+    },
+    {
+      "id": "c02eb80b-26eb-428b-8a50-11e508cedcc9",
+      "text": "Son Heung-min (1st South Korea) reaches Mehdi Taremi and Almoez Ali as 16th AFC, 43rd global scorer with 60 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 60,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Mehdi Taremi",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Almoez Ali",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 16,
+        "rank_global": 43,
+        "ambit": "confederacio"
+      },
+      "ts": 1790247480.0,
+      "collage": "collages\\c02eb80b-26eb-428b-8a50-11e508cedcc9.webp"
     }
   ],
   "baseline": {
@@ -2126,7 +2267,7 @@
         "alias": "Lee Jae-sung",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 110,
+        "valor": 111,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -2135,7 +2276,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 152,
+        "valor": 153,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -2264,7 +2405,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 59,
+        "valor": 60,
         "inici": "2010",
         "final": "2026",
         "actiu": true

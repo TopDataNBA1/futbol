@@ -1168,6 +1168,43 @@
       },
       "ts": 1790162880.0,
       "collage": "collages\\ceffaa2c-9dbc-433b-8f7f-269a36904b57.webp"
+    },
+    {
+      "id": "cdea8c64-eeee-42e0-a03d-0b3b4d0bd2e5",
+      "text": "Nicolas Hasler surpasses Franz Burgmeier and reaches Martin Stocklasa as 3rd Liechtenstein, 123rd UEFA, 346th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Nicolas Hasler",
+        "pais": "Liechtenstein",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Martin Stocklasa",
+                "pais": "Liechtenstein"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 123,
+        "rank_global": 346,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\cdea8c64-eeee-42e0-a03d-0b3b4d0bd2e5.webp"
     }
   ],
   "baseline": {
@@ -1302,7 +1339,7 @@
         "alias": "Nicolas Hasler",
         "pais": "Liechtenstein",
         "confederacio": "UEFA",
-        "valor": 112,
+        "valor": 113,
         "inici": "2010",
         "final": "2026",
         "actiu": true

@@ -2764,6 +2764,34 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\e1959b62-0663-417a-8b94-a32e70b6a578.webp"
+    },
+    {
+      "id": "5517bb05-210c-44fb-9460-c26764587b74",
+      "text": "Yousef Nasser reaches Bashar Abdullah as 3rd Kuwait, 44th AFC, 126th global player with 134 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yousef Nasser",
+        "pais": "Kuwait",
+        "confederacio": "AFC",
+        "valor": 134,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bashar Abdullah",
+                "pais": "Kuwait"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 44,
+        "rank_global": 126,
+        "ambit": "compatriota"
+      },
+      "ts": 1790440892.595217,
+      "collage": "collages\\5517bb05-210c-44fb-9460-c26764587b74.webp"
     }
   ],
   "baseline": {
@@ -3105,7 +3133,7 @@
         "alias": "Yousef Nasser",
         "pais": "Kuwait",
         "confederacio": "AFC",
-        "valor": 133,
+        "valor": 134,
         "inici": "2009",
         "final": "2026",
         "actiu": true

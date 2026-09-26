@@ -2665,6 +2665,34 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\0c7a4277-b5f0-4993-b4a2-b04911f7b9b9.webp"
+    },
+    {
+      "id": "65d3ceb2-fef2-4e25-b6ee-9b18ed8ee945",
+      "text": "Marquinhos reaches Thiago Silva as 5th Brazil, 39th CONMEBOL, 346th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Marquinhos",
+        "pais": "Brazil",
+        "confederacio": "CONMEBOL",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Thiago Silva",
+                "pais": "Brazil"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 39,
+        "rank_global": 346,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\65d3ceb2-fef2-4e25-b6ee-9b18ed8ee945.webp"
     }
   ],
   "baseline": {
@@ -2997,7 +3025,7 @@
         "alias": "Marquinhos",
         "pais": "Brazil",
         "confederacio": "CONMEBOL",
-        "valor": 112,
+        "valor": 113,
         "inici": "2013",
         "final": "2026",
         "actiu": true

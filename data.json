@@ -2180,6 +2180,43 @@
       },
       "ts": 1790333640.0,
       "collage": "collages\\7d214d87-9be9-4d8a-a2a5-b5c8c6bc2769.webp"
+    },
+    {
+      "id": "407aa44e-07f1-4481-a526-b30388d00835",
+      "text": "Francisco Calvo surpasses Álvaro Saborío and reaches Rolando Fonseca as 7th Costa Rica, 46th CONCACAF, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Álvaro Saborío",
+                "pais": "Costa Rica"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Rolando Fonseca",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 46,
+        "rank_global": 383,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\407aa44e-07f1-4481-a526-b30388d00835.webp"
     }
   ],
   "baseline": {
@@ -2442,6 +2479,15 @@
         "confederacio": "UEFA",
         "valor": 126,
         "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Francisco Calvo": {
+        "alias": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 111,
+        "inici": "2011",
         "final": "2026",
         "actiu": true
       }

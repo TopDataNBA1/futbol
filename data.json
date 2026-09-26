@@ -1111,6 +1111,59 @@
       },
       "ts": 1787047200.0,
       "collage": "collages\\fbe32d41-d0e9-440a-ad1f-055874a06615.webp"
+    },
+    {
+      "id": "0bd5f610-76b7-4541-997e-2b04ca184322",
+      "text": "Yousef Nasser (4th Kuwait) surpasses Waleed Al-Hayam and Boualem Khoukhi and reaches Lee Woon-jae, Saud Kariri, Amad Al-Hosni and Abdulaziz Hatem as 47th AFC, 139th global player with 133 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yousef Nasser",
+        "pais": "Kuwait",
+        "confederacio": "AFC",
+        "valor": 133,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Waleed Al-Hayam",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Boualem Khoukhi",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Lee Woon-jae",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Saud Kariri",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Amad Al-Hosni",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 47,
+        "rank_global": 139,
+        "ambit": "confederacio"
+      },
+      "ts": 1790162880.0,
+      "collage": "collages\\0bd5f610-76b7-4541-997e-2b04ca184322.webp"
     }
   ],
   "baseline": {
@@ -1445,6 +1498,15 @@
         "confederacio": "CONMEBOL",
         "valor": 112,
         "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Yousef Nasser": {
+        "alias": "Yousef Nasser",
+        "pais": "Kuwait",
+        "confederacio": "AFC",
+        "valor": 133,
+        "inici": "2009",
         "final": "2026",
         "actiu": true
       }

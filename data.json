@@ -2227,6 +2227,75 @@
       },
       "ts": 1790335380.0,
       "collage": "collages\\888fa2a7-1335-4c92-a625-d6ba461f3a4e.webp"
+    },
+    {
+      "id": "0bf6a3d1-5451-405f-a8aa-62d7f921fe45",
+      "text": "Kylian Mbappé surpasses Patrick Vieira and reaches Zinedine Zidane as 7th France, 160th UEFA, 439th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 160,
+        "rank_global": 439,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\0bf6a3d1-5451-405f-a8aa-62d7f921fe45.webp"
+    },
+    {
+      "id": "e9e8a54b-3277-4376-ad6c-7952f6ea7387",
+      "text": "Kylian Mbappé (1st France) reaches Gerd Müller and Robbie Keane as 10th UEFA, 29th global scorer with 68 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 68,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Gerd Müller",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Robbie Keane",
+                "pais": "Republic of Ireland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 10,
+        "rank_global": 29,
+        "ambit": "confederacio"
+      },
+      "ts": 1790333640.0,
+      "collage": "collages\\e9e8a54b-3277-4376-ad6c-7952f6ea7387.webp"
     }
   ],
   "baseline": {
@@ -2235,7 +2304,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 107,
+        "valor": 108,
         "inici": "2017",
         "final": "2026",
         "actiu": true
@@ -2579,7 +2648,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 67,
+        "valor": 68,
         "inici": "2017",
         "final": "2026",
         "actiu": true,

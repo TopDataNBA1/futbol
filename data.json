@@ -1701,6 +1701,111 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\17c2efac-50e1-43b2-8842-fcd8c6465dd0.webp"
+    },
+    {
+      "id": "28308372-013f-44cc-a897-bf7907cf2026",
+      "text": "Ehsan Hajsafi (1st Iran) reaches Son Heung-min as 18th AFC, 46th global player with 151 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 151,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Son Heung-min",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 46,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\28308372-013f-44cc-a897-bf7907cf2026.webp"
+    },
+    {
+      "id": "1b8ee0c1-81d7-40a8-b63d-e271c9bb7092",
+      "text": "Mehdi Taremi (6th Iran) surpasses Abdulsalam Jumaa, Mahdi Karim, Zheng Zhi and Zhang Linpeng and reaches Zuhair Bakheet, Li Weifeng, Jarah Al Ateeqi, Abdulla Al-Marzooqi, Yasser Al-Qahtani, Ki Sung-yueng, Kim Young-gwon and Yapp Hung Fai as 120th AFC, 358th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Abdulsalam Jumaa",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Mahdi Karim",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Zheng Zhi",
+                "pais": "China"
+              },
+              {
+                "nom": "Zhang Linpeng",
+                "pais": "China"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Zuhair Bakheet",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Li Weifeng",
+                "pais": "China"
+              },
+              {
+                "nom": "Jarah Al Ateeqi",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Abdulla Al-Marzooqi",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Yasser Al-Qahtani",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Ki Sung-yueng",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Kim Young-gwon",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Yapp Hung Fai",
+                "pais": "Hong Kong"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 120,
+        "rank_global": 358,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\1b8ee0c1-81d7-40a8-b63d-e271c9bb7092.webp"
     }
   ],
   "baseline": {
@@ -1907,7 +2012,7 @@
         "alias": "Ehsan Hajsafi",
         "pais": "Iran",
         "confederacio": "AFC",
-        "valor": 150,
+        "valor": 151,
         "inici": "2008",
         "final": "2026",
         "actiu": true
@@ -1916,7 +2021,7 @@
         "alias": "Mehdi Taremi",
         "pais": "Iran",
         "confederacio": "AFC",
-        "valor": 111,
+        "valor": 112,
         "inici": "2015",
         "final": "2026",
         "actiu": true

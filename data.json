@@ -1443,6 +1443,63 @@
       },
       "ts": 1790248440.0,
       "collage": "collages\\726cdbd2-1aef-45a6-b404-1d5629d9bae5.webp"
+    },
+    {
+      "id": "2e2743ad-c173-42e3-9af4-c8e3db596993",
+      "text": "Joshua Kimmich (6th Germany) surpasses Karel Poborský, Olof Mellberg, Daniele De Rossi, Giorgio Chiellini and David Alaba and reaches Heinz Hermann and John O'Shea as 96th UEFA, 273rd global player with 118 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Joshua Kimmich",
+        "pais": "Germany",
+        "confederacio": "UEFA",
+        "valor": 118,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Karel Poborský",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Olof Mellberg",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Daniele De Rossi",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Giorgio Chiellini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "David Alaba",
+                "pais": "Austria"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Heinz Hermann",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "John O'Shea",
+                "pais": "Republic of Ireland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 96,
+        "rank_global": 273,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\2e2743ad-c173-42e3-9af4-c8e3db596993.webp"
     }
   ],
   "baseline": {
@@ -1595,7 +1652,7 @@
         "alias": "Joshua Kimmich",
         "pais": "Germany",
         "confederacio": "UEFA",
-        "valor": 117,
+        "valor": 118,
         "inici": "2016",
         "final": "2026",
         "actiu": true

@@ -2369,6 +2369,55 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\4fc00ee3-f3b2-4a48-98ee-33abb495038d.webp"
+    },
+    {
+      "id": "f3111067-f675-43cd-b7c9-e694e09f02c9",
+      "text": "Ryan Mendes (1st Cape Verde) surpasses Elijah Tana and Simon Msuva and reaches Nader El-Sayed, Erasto Nyoni and Youssef Msakni as 43rd CAF, 525th global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ryan Mendes",
+        "pais": "Cape Verde",
+        "confederacio": "CAF",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Simon Msuva",
+                "pais": "Tanzania"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Nader El-Sayed",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Erasto Nyoni",
+                "pais": "Tanzania"
+              },
+              {
+                "nom": "Youssef Msakni",
+                "pais": "Tunisia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 43,
+        "rank_global": 525,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\f3111067-f675-43cd-b7c9-e694e09f02c9.webp"
     }
   ],
   "baseline": {
@@ -2656,7 +2705,7 @@
         "alias": "Ryan Mendes",
         "pais": "Cape Verde",
         "confederacio": "CAF",
-        "valor": 103,
+        "valor": 104,
         "inici": "2010",
         "final": "2026",
         "actiu": true

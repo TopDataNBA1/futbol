@@ -1253,6 +1253,115 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\d15cc3d8-6a51-4669-bf1f-b4a553cfe228.webp"
+    },
+    {
+      "id": "f4f2e3a8-d883-4b9b-8f48-ac604d82ff71",
+      "text": "Moisés San Nicolás (6th Andorra) surpasses Thorbjørn Svenssen, Ioannis Okkas, Dirk Kuyt, Per Mertesacker, Ivica Olić, Martin Škrtel, Henri Anier and Karol Mets and reaches Billy Wright, Jürgen Kohler, Mihails Zemļinskis, Sami Hyypiä, Jonatan Johansson, Stiliyan Petrov, Josip Šimunić, Tomáš Rosický, Branislav Ivanović, Yuri Zhirkov, Domagoj Vida and Lukas Hradecky as 186th UEFA, 501st global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moisés San Nicolás",
+        "pais": "Andorra",
+        "confederacio": "UEFA",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Thorbjørn Svenssen",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Ioannis Okkas",
+                "pais": "Cyprus"
+              },
+              {
+                "nom": "Dirk Kuyt",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Per Mertesacker",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Ivica Olić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Martin Škrtel",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Karol Mets",
+                "pais": "Estonia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Billy Wright",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Kohler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Mihails Zemļinskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Sami Hyypiä",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Jonatan Johansson",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Stiliyan Petrov",
+                "pais": "Bulgaria"
+              },
+              {
+                "nom": "Josip Šimunić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Tomáš Rosický",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Branislav Ivanović",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Yuri Zhirkov",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Domagoj Vida",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Lukas Hradecky",
+                "pais": "Finland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 186,
+        "rank_global": 501,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\f4f2e3a8-d883-4b9b-8f48-ac604d82ff71.webp"
     }
   ],
   "baseline": {
@@ -1396,7 +1505,7 @@
         "alias": "Moisés San Nicolás",
         "pais": "Andorra",
         "confederacio": "UEFA",
-        "valor": 104,
+        "valor": 105,
         "inici": "2012",
         "final": "2026",
         "actiu": true

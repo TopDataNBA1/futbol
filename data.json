@@ -2626,6 +2626,95 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\5830f26e-be4c-4911-8b1f-9af15ecbb06c.webp"
+    },
+    {
+      "id": "2a402e4d-e68b-468b-935a-5614b756ee25",
+      "text": "Hariss Harun (1st Singapore) reaches Sami Al-Jaber as 14th AFC, 37th global player with 156 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 156,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Sami Al-Jaber",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 14,
+        "rank_global": 37,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\2a402e4d-e68b-468b-935a-5614b756ee25.webp"
+    },
+    {
+      "id": "1a7364e9-161f-4a1b-b74b-79a3fb782722",
+      "text": "Safuwan Baharudin (6th Singapore) surpasses Lee Woon-jae, Saud Kariri, Amad Al-Hosni, Yousef Nasser and Abdulaziz Hatem and reaches Hassan Mudhafar, Bashar Abdullah and Taisir Al-Jassim as 44th AFC, 126th global player with 134 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Safuwan Baharudin",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 134,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Lee Woon-jae",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Saud Kariri",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Amad Al-Hosni",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Yousef Nasser",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hassan Mudhafar",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Bashar Abdullah",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Taisir Al-Jassim",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 44,
+        "rank_global": 126,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\1a7364e9-161f-4a1b-b74b-79a3fb782722.webp"
     }
   ],
   "baseline": {
@@ -2742,7 +2831,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 155,
+        "valor": 156,
         "inici": "2007",
         "final": "2026",
         "actiu": true
@@ -2949,7 +3038,7 @@
         "alias": "Safuwan Baharudin",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 133,
+        "valor": 134,
         "inici": "2010",
         "final": "2026",
         "actiu": true

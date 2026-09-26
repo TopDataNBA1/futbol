@@ -2792,6 +2792,63 @@
       },
       "ts": 1790440892.595217,
       "collage": "collages\\5517bb05-210c-44fb-9460-c26764587b74.webp"
+    },
+    {
+      "id": "eb45a64d-e3c0-43ae-99e4-0cefb83a98cb",
+      "text": "Laurent Jans (1st Luxembourg) surpasses Gheorghe Hagi, Petr Čech and Marc Pujol and reaches Peter Shilton, Mario Frick, David Silva and Xherdan Shaqiri as 71st UEFA, 208th global player with 125 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Hagi",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Petr Čech",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Marc Pujol",
+                "pais": "Andorra"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Shilton",
+                "pais": "England"
+              },
+              {
+                "nom": "Mario Frick",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "David Silva",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Xherdan Shaqiri",
+                "pais": "Switzerland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 71,
+        "rank_global": 208,
+        "ambit": "confederacio"
+      },
+      "ts": 1790441271.261024,
+      "collage": "collages\\eb45a64d-e3c0-43ae-99e4-0cefb83a98cb.webp"
     }
   ],
   "baseline": {
@@ -3135,6 +3192,15 @@
         "confederacio": "AFC",
         "valor": 134,
         "inici": "2009",
+        "final": "2026",
+        "actiu": true
+      },
+      "Laurent Jans": {
+        "alias": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "inici": "2012",
         "final": "2026",
         "actiu": true
       }

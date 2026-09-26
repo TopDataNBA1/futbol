@@ -1861,6 +1861,62 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\b5d741ad-10f2-4d2e-97b4-00a989ba4406.webp"
+    },
+    {
+      "id": "45964786-6413-4c0f-a3a1-c085c7629fd1",
+      "text": "Ehsan Hajsafi surpasses Javad Nekounam as 1st Iran, 18th AFC, 48th global player with 150 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 150,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Javad Nekounam",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 48,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\45964786-6413-4c0f-a3a1-c085c7629fd1.webp"
+    },
+    {
+      "id": "80eb6807-8bd8-4438-a005-b57275649aa5",
+      "text": "Mehdi Taremi surpasses Mehdi Mahdavikia as 6th Iran, 128th AFC, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mehdi Mahdavikia",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 128,
+        "rank_global": 383,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\80eb6807-8bd8-4438-a005-b57275649aa5.webp"
     }
   ],
   "baseline": {
@@ -2067,7 +2123,7 @@
         "alias": "Ehsan Hajsafi",
         "pais": "Iran",
         "confederacio": "AFC",
-        "valor": 149,
+        "valor": 150,
         "inici": "2008",
         "final": "2026",
         "actiu": true
@@ -2076,7 +2132,7 @@
         "alias": "Mehdi Taremi",
         "pais": "Iran",
         "confederacio": "AFC",
-        "valor": 110,
+        "valor": 111,
         "inici": "2015",
         "final": "2026",
         "actiu": true

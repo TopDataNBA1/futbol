@@ -2326,6 +2326,34 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\c2bbe18a-7e0f-4f61-9073-d4979dbe115c.webp"
+    },
+    {
+      "id": "4f0060cc-ec8f-4593-b197-03a9e9ef18f3",
+      "text": "Mohamed Salah surpasses Hany Ramzy as 6th Egypt, 12th CAF, 228th global player with 123 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 123,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hany Ramzy",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 12,
+        "rank_global": 228,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\4f0060cc-ec8f-4593-b197-03a9e9ef18f3.webp"
     }
   ],
   "baseline": {
@@ -2604,7 +2632,7 @@
         "alias": "Mohamed Salah",
         "pais": "Egypt",
         "confederacio": "CAF",
-        "valor": 122,
+        "valor": 123,
         "inici": "2011",
         "final": "2026",
         "actiu": true

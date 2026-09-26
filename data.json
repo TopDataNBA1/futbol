@@ -1471,6 +1471,181 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\b4f62016-4410-4f31-8a51-25067cc2d7cd.webp"
+    },
+    {
+      "id": "fb1e58d6-9a07-43d8-9093-bb5f2d5babd6",
+      "text": "235th international cap for Cristiano Ronaldo. 1st Portugal, 1st UEFA, 1st global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "confederacio": "UEFA",
+        "valor": 235,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 1,
+        "rank_global": 1,
+        "ambit": "cap"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\fb1e58d6-9a07-43d8-9093-bb5f2d5babd6.webp"
+    },
+    {
+      "id": "8de44dab-2228-436a-9f88-cfe88d9b3023",
+      "text": "Ben Davies (4th Wales) surpasses Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Henning Berg, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava and Kamil Grosicki and reaches Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer as 220th UEFA, 569th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ben Davies",
+        "pais": "Wales",
+        "confederacio": "UEFA",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Oleg Blokhin",
+                "pais": "Soviet Union"
+              },
+              {
+                "nom": "László Bölöni",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Thomas Häßler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Joe Brincat",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Henning Berg",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Phillip Cocu",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Levan Kobiashvili",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Alyaksandr Kulchy",
+                "pais": "Belarus"
+              },
+              {
+                "nom": "Thomas Sørensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Vasiliy Berezutskiy",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Yossi Benayoun",
+                "pais": "Israel"
+              },
+              {
+                "nom": "Boštjan Cesar",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Emre Belözoğlu",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Vasilis Torosidis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Daniel da Mota",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Saulius Mikoliūnas",
+                "pais": "Lithuania"
+              },
+              {
+                "nom": "Jaba Kankava",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Kamil Grosicki",
+                "pais": "Poland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Kenny Dalglish",
+                "pais": "Scotland"
+              },
+              {
+                "nom": "Steve Staunton",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Bülent Korkmaz",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Raúl",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Savo Milošević",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Martin Jørgensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Michał Żewłakow",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Robin van Persie",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Gerard Piqué",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Mario Mutsch",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Birkir Már Sævarsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Andriy Pyatov",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Jóhann Berg Guðmundsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Marcel Sabitzer",
+                "pais": "Austria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 220,
+        "rank_global": 569,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\8de44dab-2228-436a-9f88-cfe88d9b3023.webp"
     }
   ],
   "baseline": {
@@ -1632,7 +1807,7 @@
         "alias": "Cristiano Ronaldo",
         "pais": "Portugal",
         "confederacio": "UEFA",
-        "valor": 234,
+        "valor": 235,
         "inici": "2003",
         "final": "2026",
         "actiu": true
@@ -1641,7 +1816,7 @@
         "alias": "Ben Davies",
         "pais": "Wales",
         "confederacio": "UEFA",
-        "valor": 101,
+        "valor": 102,
         "inici": "2012",
         "final": "2026",
         "actiu": true

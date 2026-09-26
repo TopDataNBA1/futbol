@@ -2041,6 +2041,99 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\5450a83d-230c-4119-a7a4-6ca323dfff41.webp"
+    },
+    {
+      "id": "c84ad411-4e68-4073-8e86-598de7248f61",
+      "text": "Kevin De Bruyne reaches Eden Hazard as 5th Belgium, 66th UEFA, 196th global player with 126 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 126,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 66,
+        "rank_global": 196,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\c84ad411-4e68-4073-8e86-598de7248f61.webp"
+    },
+    {
+      "id": "d66dc359-f580-4de9-aeac-f28f0e481421",
+      "text": "Romelu Lukaku (3rd Belgium) surpasses Xavi, Andreas Isaksson, Sebastian Larsson and Teemu Pukki and reaches Dorinel Munteanu, Andres Oper, Shay Given, Darijo Srna and Wesley Sneijder as 40th UEFA, 126th global player with 134 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Romelu Lukaku",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 134,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Xavi",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Andreas Isaksson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Sebastian Larsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Teemu Pukki",
+                "pais": "Finland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Dorinel Munteanu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Andres Oper",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Shay Given",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Darijo Srna",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Wesley Sneijder",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 40,
+        "rank_global": 126,
+        "ambit": "confederacio"
+      },
+      "ts": 1790335380.0,
+      "collage": "collages\\d66dc359-f580-4de9-aeac-f28f0e481421.webp"
     }
   ],
   "baseline": {
@@ -2094,7 +2187,7 @@
         "alias": "Romelu Lukaku",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 133,
+        "valor": 134,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -2294,6 +2387,15 @@
         "confederacio": "UEFA",
         "valor": 169,
         "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Kevin De Bruyne": {
+        "alias": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 126,
+        "inici": "2010",
         "final": "2026",
         "actiu": true
       }

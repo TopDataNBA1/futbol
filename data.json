@@ -3038,6 +3038,43 @@
       },
       "ts": 1790451216.245687,
       "collage": "collages\\4ce2c776-2e0b-4c7f-9aa6-81fdf1e874bb.webp"
+    },
+    {
+      "id": "c76d0474-9bb0-4d3e-805c-99987be492a6",
+      "text": "Ricardo Rodriguez (2nd Switzerland) surpasses Anatoliy Tymoshchuk and reaches Hugo Lloris as 19th UEFA, 68th global player with 145 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 145,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Anatoliy Tymoshchuk",
+                "pais": "Ukraine"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hugo Lloris",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 19,
+        "rank_global": 68,
+        "ambit": "confederacio"
+      },
+      "ts": 1790451345.191562,
+      "collage": "collages\\c76d0474-9bb0-4d3e-805c-99987be492a6.webp"
     }
   ],
   "baseline": {
@@ -3127,7 +3164,7 @@
         "alias": "Ricardo Rodriguez",
         "pais": "Switzerland",
         "confederacio": "UEFA",
-        "valor": 144,
+        "valor": 145,
         "inici": "2011",
         "final": "2026",
         "actiu": true

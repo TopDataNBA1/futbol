@@ -1673,6 +1673,34 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\65420977-cfde-44f8-ac98-a59611f18b41.webp"
+    },
+    {
+      "id": "17c2efac-50e1-43b2-8842-fcd8c6465dd0",
+      "text": "Ferjani Sassi reaches Youssef Msakni as 2nd Tunisia, 43rd CAF, 525th global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ferjani Sassi",
+        "pais": "Tunisia",
+        "confederacio": "CAF",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Youssef Msakni",
+                "pais": "Tunisia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 43,
+        "rank_global": 525,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\17c2efac-50e1-43b2-8842-fcd8c6465dd0.webp"
     }
   ],
   "baseline": {
@@ -1870,7 +1898,7 @@
         "alias": "Ferjani Sassi",
         "pais": "Tunisia",
         "confederacio": "CAF",
-        "valor": 103,
+        "valor": 104,
         "inici": "2013",
         "final": "2026",
         "actiu": true

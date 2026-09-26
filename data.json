@@ -2594,6 +2594,55 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\6bb2ae4d-b3b9-47ee-9d1e-fffadb63eac4.webp"
+    },
+    {
+      "id": "c2f560f0-e389-4217-8c8c-d73e1239f3e8",
+      "text": "Marquinhos (6th Brazil) surpasses Carlos Valderrama, José Manuel Rey and Édison Méndez and reaches Diego Forlán and Roque Santa Cruz as 40th CONMEBOL, 358th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Marquinhos",
+        "pais": "Brazil",
+        "confederacio": "CONMEBOL",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Carlos Valderrama",
+                "pais": "Colombia"
+              },
+              {
+                "nom": "José Manuel Rey",
+                "pais": "Venezuela"
+              },
+              {
+                "nom": "Édison Méndez",
+                "pais": "Ecuador"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Diego Forlán",
+                "pais": "Uruguay"
+              },
+              {
+                "nom": "Roque Santa Cruz",
+                "pais": "Paraguay"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 40,
+        "rank_global": 358,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\c2f560f0-e389-4217-8c8c-d73e1239f3e8.webp"
     }
   ],
   "baseline": {
@@ -2919,6 +2968,15 @@
         "confederacio": "AFC",
         "valor": 134,
         "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Marquinhos": {
+        "alias": "Marquinhos",
+        "pais": "Brazil",
+        "confederacio": "CONMEBOL",
+        "valor": 112,
+        "inici": "2013",
         "final": "2026",
         "actiu": true
       }

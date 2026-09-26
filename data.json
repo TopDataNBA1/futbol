@@ -2913,6 +2913,131 @@
       },
       "ts": 1790445299.571587,
       "collage": "collages\\c533d3ec-aa0d-4a57-925d-bead80e22008.webp"
+    },
+    {
+      "id": "a02c8924-2381-46cc-abee-383dee87f3cc",
+      "text": "Ivan Perišić (2nd Croatia) reaches Konstantin Vassiljev as 8th UEFA, 32nd global player with 159 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 159,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Konstantin Vassiljev",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 8,
+        "rank_global": 32,
+        "ambit": "confederacio"
+      },
+      "ts": 1790451215.656695,
+      "collage": "collages\\a02c8924-2381-46cc-abee-383dee87f3cc.webp"
+    },
+    {
+      "id": "567a8555-23d0-4e6a-b280-d1089318e594",
+      "text": "Luka Modrić (1st Croatia, 2nd UEFA) surpasses Bader Al-Mutawa as 3rd global player with 203 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 203,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bader Al-Mutawa",
+                "pais": "Kuwait"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 2,
+        "rank_global": 3,
+        "ambit": "global"
+      },
+      "ts": 1790451215.959733,
+      "collage": "collages\\567a8555-23d0-4e6a-b280-d1089318e594.webp"
+    },
+    {
+      "id": "4ce2c776-2e0b-4c7f-9aa6-81fdf1e874bb",
+      "text": "Mateo Kovačić (5th Croatia) surpasses Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Joshua Kimmich and reaches Karel Poborský, Olof Mellberg, Daniele De Rossi, Giorgio Chiellini and David Alaba as 98th UEFA, 282nd global player with 117 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 117,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Roland Nilsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Marcel Desailly",
+                "pais": "France"
+              },
+              {
+                "nom": "Andrea Pirlo",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Kostas Katsouranis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Joshua Kimmich",
+                "pais": "Germany"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Karel Poborský",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Olof Mellberg",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Daniele De Rossi",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Giorgio Chiellini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "David Alaba",
+                "pais": "Austria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 98,
+        "rank_global": 282,
+        "ambit": "confederacio"
+      },
+      "ts": 1790451216.245687,
+      "collage": "collages\\4ce2c776-2e0b-4c7f-9aa6-81fdf1e874bb.webp"
     }
   ],
   "baseline": {
@@ -3273,6 +3398,33 @@
         "pais": "Estonia",
         "confederacio": "UEFA",
         "valor": 105,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ivan Perišić": {
+        "alias": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 159,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Luka Modrić": {
+        "alias": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 203,
+        "inici": "2006",
+        "final": "2026",
+        "actiu": true
+      },
+      "Mateo Kovačić": {
+        "alias": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 117,
         "inici": "2013",
         "final": "2026",
         "actiu": true

@@ -1930,6 +1930,75 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\e517fd07-beff-45e4-8780-16260ab7bf42.webp"
+    },
+    {
+      "id": "34461e98-b883-47fb-b9e6-dd53da3a875f",
+      "text": "Ferjani Sassi (3rd Tunisia) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré, Ryan Mendes, Simon Msuva and Achraf Hakimi and reaches Elijah Tana as 46th CAF, 548th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ferjani Sassi",
+        "pais": "Tunisia",
+        "confederacio": "CAF",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              },
+              {
+                "nom": "Simon Msuva",
+                "pais": "Tanzania"
+              },
+              {
+                "nom": "Achraf Hakimi",
+                "pais": "Morocco"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 46,
+        "rank_global": 548,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\34461e98-b883-47fb-b9e6-dd53da3a875f.webp"
     }
   ],
   "baseline": {
@@ -2120,6 +2189,15 @@
         "confederacio": "CAF",
         "valor": 110,
         "inici": "2014",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ferjani Sassi": {
+        "alias": "Ferjani Sassi",
+        "pais": "Tunisia",
+        "confederacio": "CAF",
+        "valor": 103,
+        "inici": "2013",
         "final": "2026",
         "actiu": true
       }

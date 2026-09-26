@@ -2146,6 +2146,87 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\474c137c-7060-408e-833f-3034e1ffce1b.webp"
+    },
+    {
+      "id": "8a3b3ea9-caaf-4b47-b78b-caed6930f5bb",
+      "text": "Kevin De Bruyne surpasses Eden Hazard and reaches Toby Alderweireld as 4th Belgium, 62nd UEFA, 185th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 62,
+        "rank_global": 185,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\8a3b3ea9-caaf-4b47-b78b-caed6930f5bb.webp"
+    },
+    {
+      "id": "888fa2a7-1335-4c92-a625-d6ba461f3a4e",
+      "text": "Romelu Lukaku (3rd Belgium) surpasses Dorinel Munteanu, Andres Oper, Shay Given, Darijo Srna and Wesley Sneijder as 40th UEFA, 124th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Romelu Lukaku",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Dorinel Munteanu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Andres Oper",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Shay Given",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Darijo Srna",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Wesley Sneijder",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 40,
+        "rank_global": 124,
+        "ambit": "confederacio"
+      },
+      "ts": 1790335380.0,
+      "collage": "collages\\888fa2a7-1335-4c92-a625-d6ba461f3a4e.webp"
     }
   ],
   "baseline": {
@@ -2199,7 +2280,7 @@
         "alias": "Romelu Lukaku",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 134,
+        "valor": 135,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -2406,7 +2487,7 @@
         "alias": "Kevin De Bruyne",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 126,
+        "valor": 127,
         "inici": "2010",
         "final": "2026",
         "actiu": true

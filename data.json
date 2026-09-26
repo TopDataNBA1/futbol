@@ -1752,6 +1752,43 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\2d21ae65-2e47-43a0-8beb-61f5746d4cb6.webp"
+    },
+    {
+      "id": "836dc88b-2b58-4206-ab90-ba28f3298132",
+      "text": "Ferjani Sassi surpasses Youssef Msakni and reaches Radhi Jaïdi as 1st Tunisia, 39th CAF, 501st global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ferjani Sassi",
+        "pais": "Tunisia",
+        "confederacio": "CAF",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Youssef Msakni",
+                "pais": "Tunisia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Radhi Jaïdi",
+                "pais": "Tunisia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 39,
+        "rank_global": 501,
+        "ambit": "compatriota"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\836dc88b-2b58-4206-ab90-ba28f3298132.webp"
     }
   ],
   "baseline": {
@@ -1949,7 +1986,7 @@
         "alias": "Ferjani Sassi",
         "pais": "Tunisia",
         "confederacio": "CAF",
-        "valor": 104,
+        "valor": 105,
         "inici": "2013",
         "final": "2026",
         "actiu": true

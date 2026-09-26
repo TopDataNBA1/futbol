@@ -3329,6 +3329,131 @@
       },
       "ts": 1790451714.467496,
       "collage": "collages\\21a0c867-3e07-49f9-b665-71747bb94b3a.webp"
+    },
+    {
+      "id": "83e218d6-3a99-42ba-862d-31d77d5e0c67",
+      "text": "Pedro Gallese reaches Roberto Palacios as 4th Peru, 25th CONMEBOL, 179th global player with 128 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 128,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Roberto Palacios",
+                "pais": "Peru"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 25,
+        "rank_global": 179,
+        "ambit": "compatriota"
+      },
+      "ts": 1790457995.715038,
+      "collage": "collages\\83e218d6-3a99-42ba-862d-31d77d5e0c67.webp"
+    },
+    {
+      "id": "4351cc75-01e3-4321-bdb2-d787ea27d4ac",
+      "text": "Yoshimar Yotún (1st Peru, 19th CONMEBOL) surpasses Jeff Agoos, Dorinel Munteanu, Andres Oper, Hassan Mudhafar, Shay Given, Noel Valladares, Darijo Srna, Bashar Abdullah, Jaime Penedo, Wesley Sneijder, Taisir Al-Jassim, Yousef Nasser, Romelu Lukaku, Safuwan Baharudin and Sadio Mané and reaches Walter Centeno and Ahmed Fathy as 124th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Jeff Agoos",
+                "pais": "United States"
+              },
+              {
+                "nom": "Dorinel Munteanu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Andres Oper",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Hassan Mudhafar",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Shay Given",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Noel Valladares",
+                "pais": "Honduras"
+              },
+              {
+                "nom": "Darijo Srna",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Bashar Abdullah",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Jaime Penedo",
+                "pais": "Panama"
+              },
+              {
+                "nom": "Wesley Sneijder",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Taisir Al-Jassim",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Yousef Nasser",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Romelu Lukaku",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Safuwan Baharudin",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Sadio Mané",
+                "pais": "Senegal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Walter Centeno",
+                "pais": "Costa Rica"
+              },
+              {
+                "nom": "Ahmed Fathy",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 19,
+        "rank_global": 124,
+        "ambit": "global"
+      },
+      "ts": 1790457996.01556,
+      "collage": "collages\\4351cc75-01e3-4321-bdb2-d787ea27d4ac.webp"
     }
   ],
   "baseline": {
@@ -3726,6 +3851,24 @@
         "confederacio": "UEFA",
         "valor": 101,
         "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Pedro Gallese": {
+        "alias": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 128,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true
+      },
+      "Yoshimar Yotún": {
+        "alias": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 135,
+        "inici": "2011",
         "final": "2026",
         "actiu": true
       }

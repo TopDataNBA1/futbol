@@ -2324,6 +2324,51 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\c167edfb-769f-4660-a319-77fb1a14705f.webp"
+    },
+    {
+      "id": "4fc00ee3-f3b2-4a48-98ee-33abb495038d",
+      "text": "Mohamed Salah (6th Egypt) surpasses Didier Zokora and Aïssa Mandi and reaches Domingues and Jordan Ayew as 10th CAF, 219th global player with 124 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 124,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Didier Zokora",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Aïssa Mandi",
+                "pais": "Algeria"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Domingues",
+                "pais": "Mozambique"
+              },
+              {
+                "nom": "Jordan Ayew",
+                "pais": "Ghana"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 10,
+        "rank_global": 219,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\4fc00ee3-f3b2-4a48-98ee-33abb495038d.webp"
     }
   ],
   "baseline": {
@@ -2602,7 +2647,7 @@
         "alias": "Mohamed Salah",
         "pais": "Egypt",
         "confederacio": "CAF",
-        "valor": 123,
+        "valor": 124,
         "inici": "2011",
         "final": "2026",
         "actiu": true

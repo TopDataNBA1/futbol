@@ -1784,6 +1784,107 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\226df320-4161-40a2-83c8-169010543f6e.webp"
+    },
+    {
+      "id": "db9be56a-404d-4342-a22d-f64b09036f47",
+      "text": "Dušan Tadić (1st Serbia) surpasses Dino Zoff, Alain Geiger, Frank de Boer, Hakan Şükür, Jon Dahl Tomasson, Juris Laizāns, Nani, Aaron Hughes, Franz Burgmeier, Juraj Kucka and Memphis Depay and reaches Viktor Onopko, Martin Stocklasa, Philipp Lahm, Răzvan Raț, Birkir Bjarnason, Nicolas Hasler and Bernardo Silva as 123rd UEFA, 346th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Dino Zoff",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Alain Geiger",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Frank de Boer",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Hakan Şükür",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Jon Dahl Tomasson",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Juris Laizāns",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Nani",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Aaron Hughes",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Juraj Kucka",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Memphis Depay",
+                "pais": "Netherlands"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Viktor Onopko",
+                "pais": "CIS"
+              },
+              {
+                "nom": "Martin Stocklasa",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Philipp Lahm",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Răzvan Raț",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Birkir Bjarnason",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Nicolas Hasler",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Bernardo Silva",
+                "pais": "Portugal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 123,
+        "rank_global": 346,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\db9be56a-404d-4342-a22d-f64b09036f47.webp"
     }
   ],
   "baseline": {
@@ -1956,6 +2057,15 @@
         "confederacio": "UEFA",
         "valor": 102,
         "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Dušan Tadić": {
+        "alias": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "inici": "2008",
         "final": "2026",
         "actiu": true
       }

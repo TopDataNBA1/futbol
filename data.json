@@ -2296,6 +2296,34 @@
       },
       "ts": 1790333640.0,
       "collage": "collages\\e9e8a54b-3277-4376-ad6c-7952f6ea7387.webp"
+    },
+    {
+      "id": "c167edfb-769f-4660-a319-77fb1a14705f",
+      "text": "Francisco Calvo surpasses Rolando Fonseca as 7th Costa Rica, 45th CONCACAF, 358th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Rolando Fonseca",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 45,
+        "rank_global": 358,
+        "ambit": "compatriota"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\c167edfb-769f-4660-a319-77fb1a14705f.webp"
     }
   ],
   "baseline": {
@@ -2565,7 +2593,7 @@
         "alias": "Francisco Calvo",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 111,
+        "valor": 112,
         "inici": "2011",
         "final": "2026",
         "actiu": true

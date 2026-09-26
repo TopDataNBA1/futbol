@@ -1544,6 +1544,99 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\4be2f2ba-4bde-4b13-8b97-97a295d04b40.webp"
+    },
+    {
+      "id": "907611ce-1685-491e-b45b-38accfe576c3",
+      "text": "Dušan Tadić (1st Serbia) surpasses Viktor Onopko, Martin Stocklasa, Philipp Lahm, Răzvan Raț, Birkir Bjarnason and Bernardo Silva and reaches Björn Nordqvist, Kristen Viikmäe, Stipe Pletikosa, Steven Gerrard, Xabi Alonso, Raio Piiroja, Dmitri Kruglov, Sergei Zenjov, Toni Kroos and Nicolas Hasler as 114th UEFA, 325th global player with 114 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 114,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Viktor Onopko",
+                "pais": "CIS"
+              },
+              {
+                "nom": "Martin Stocklasa",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Philipp Lahm",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Răzvan Raț",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Birkir Bjarnason",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Bernardo Silva",
+                "pais": "Portugal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Björn Nordqvist",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Kristen Viikmäe",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Stipe Pletikosa",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Steven Gerrard",
+                "pais": "England"
+              },
+              {
+                "nom": "Xabi Alonso",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Raio Piiroja",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Dmitri Kruglov",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Sergei Zenjov",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Toni Kroos",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Nicolas Hasler",
+                "pais": "Liechtenstein"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 114,
+        "rank_global": 325,
+        "ambit": "confederacio"
+      },
+      "ts": 1790244000.0,
+      "collage": "collages\\907611ce-1685-491e-b45b-38accfe576c3.webp"
     }
   ],
   "baseline": {
@@ -1723,7 +1816,7 @@
         "alias": "Dušan Tadić",
         "pais": "Serbia",
         "confederacio": "UEFA",
-        "valor": 113,
+        "valor": 114,
         "inici": "2008",
         "final": "2026",
         "actiu": true

@@ -2849,6 +2849,34 @@
       },
       "ts": 1790441271.261024,
       "collage": "collages\\eb45a64d-e3c0-43ae-99e4-0cefb83a98cb.webp"
+    },
+    {
+      "id": "736a04bb-19eb-411d-9c9c-837700c7d2d6",
+      "text": "Karol Mets surpasses Henri Anier as 14th Estonia, 186th UEFA, 501st global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 14,
+        "rank_confederacio": 186,
+        "rank_global": 501,
+        "ambit": "compatriota"
+      },
+      "ts": 1790441296.576692,
+      "collage": "collages\\736a04bb-19eb-411d-9c9c-837700c7d2d6.webp"
     }
   ],
   "baseline": {
@@ -3201,6 +3229,15 @@
         "confederacio": "UEFA",
         "valor": 125,
         "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Karol Mets": {
+        "alias": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 105,
+        "inici": "2013",
         "final": "2026",
         "actiu": true
       }

@@ -1346,6 +1346,62 @@
       },
       "ts": 1790244000.0,
       "collage": "collages\\fa70334c-84d0-4881-adaa-d2315ab820cf.webp"
+    },
+    {
+      "id": "c5b1082d-ad5b-4fed-a6ee-3eebbfe8b62c",
+      "text": "Erling Haaland (1st Norway) surpasses Aleksandar Mitrović as 13th UEFA, 34th global scorer with 65 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 65,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Aleksandar Mitrović",
+                "pais": "Serbia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 13,
+        "rank_global": 34,
+        "ambit": "confederacio"
+      },
+      "ts": 1790245080.0,
+      "collage": "collages\\c5b1082d-ad5b-4fed-a6ee-3eebbfe8b62c.webp"
+    },
+    {
+      "id": "4bca08bd-23be-4d03-aac5-ac98c1366b67",
+      "text": "Erling Haaland (1st Norway) reaches Kylian Mbappé as 12th UEFA, 33rd global scorer with 66 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Erling Haaland",
+        "pais": "Norway",
+        "confederacio": "UEFA",
+        "valor": 66,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 33,
+        "ambit": "confederacio"
+      },
+      "ts": 1790248440.0,
+      "collage": "collages\\4bca08bd-23be-4d03-aac5-ac98c1366b67.webp"
     }
   ],
   "baseline": {
@@ -1717,7 +1773,7 @@
         "alias": "Erling Haaland",
         "pais": "Norway",
         "confederacio": "UEFA",
-        "valor": 64,
+        "valor": 66,
         "inici": "2019",
         "final": "2026",
         "actiu": true

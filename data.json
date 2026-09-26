@@ -2592,6 +2592,79 @@
       },
       "ts": 1790330400.0,
       "collage": "collages\\77d2bc5d-c461-464d-89ab-d108b5506165.webp"
+    },
+    {
+      "id": "7b85c633-8769-4a70-869f-1bb48215e00f",
+      "text": "Hariss Harun (1st Singapore) surpasses Sami Al-Jaber and reaches Sunil Chhetri as 13th AFC, 35th global player with 157 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 157,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Sami Al-Jaber",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Sunil Chhetri",
+                "pais": "India"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 13,
+        "rank_global": 35,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\7b85c633-8769-4a70-869f-1bb48215e00f.webp"
+    },
+    {
+      "id": "0c7a4277-b5f0-4993-b4a2-b04911f7b9b9",
+      "text": "Safuwan Baharudin (6th Singapore) surpasses Hassan Mudhafar, Bashar Abdullah and Taisir Al-Jassim as 44th AFC, 124th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Safuwan Baharudin",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hassan Mudhafar",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Bashar Abdullah",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Taisir Al-Jassim",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 44,
+        "rank_global": 124,
+        "ambit": "confederacio"
+      },
+      "ts": 1790330400.0,
+      "collage": "collages\\0c7a4277-b5f0-4993-b4a2-b04911f7b9b9.webp"
     }
   ],
   "baseline": {
@@ -2708,7 +2781,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 156,
+        "valor": 157,
         "inici": "2007",
         "final": "2026",
         "actiu": true
@@ -2915,7 +2988,7 @@
         "alias": "Safuwan Baharudin",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 134,
+        "valor": 135,
         "inici": "2010",
         "final": "2026",
         "actiu": true

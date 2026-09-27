@@ -6527,6 +6527,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Erling Haaland": {
+      "alias": "Erling Haaland",
+      "pais": "Norway",
+      "confederacio": "UEFA",
+      "valor": 65,
+      "inici": "2019",
+      "final": "2026",
+      "actiu": true
+    },
     "Didier Drogba": {
       "alias": "Didier Drogba",
       "pais": "Ivory Coast",
@@ -6535,15 +6544,6 @@
       "inici": "2002",
       "final": "2014",
       "actiu": false
-    },
-    "Erling Haaland": {
-      "alias": "Erling Haaland",
-      "pais": "Norway",
-      "confederacio": "UEFA",
-      "valor": 64,
-      "inici": "2019",
-      "final": "2026",
-      "actiu": true
     },
     "Aleksandar Mitrović": {
       "alias": "Aleksandar Mitrović",

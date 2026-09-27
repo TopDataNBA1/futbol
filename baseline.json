@@ -16,7 +16,7 @@
       "valor": 207,
       "inici": "2005",
       "final": "2026",
-      "actiu": false
+      "actiu": true
     },
     "Luka Modrić": {
       "alias": "Luka Modrić",
@@ -1701,6 +1701,15 @@
       "final": "2006",
       "actiu": false
     },
+    "Jesús Gallardo": {
+      "alias": "Jesús Gallardo",
+      "pais": "Mexico",
+      "confederacio": "CONCACAF",
+      "valor": 127,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
+    },
     "Sergei Ignashevich": {
       "alias": "Sergei Ignashevich",
       "pais": "Russia",
@@ -1772,15 +1781,6 @@
       "inici": "2001",
       "final": "2017",
       "actiu": false
-    },
-    "Jesús Gallardo": {
-      "alias": "Jesús Gallardo",
-      "pais": "Mexico",
-      "confederacio": "CONCACAF",
-      "valor": 126,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true
     },
     "Eden Hazard": {
       "alias": "Eden Hazard",
@@ -6293,6 +6293,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Harry Kane": {
+      "alias": "Harry Kane",
+      "pais": "England",
+      "confederacio": "UEFA",
+      "valor": 86,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
+    },
     "Ali Mabkhout": {
       "alias": "Ali Mabkhout",
       "pais": "United Arab Emirates",
@@ -6301,15 +6310,6 @@
       "inici": "2009",
       "final": "2023",
       "actiu": false
-    },
-    "Harry Kane": {
-      "alias": "Harry Kane",
-      "pais": "England",
-      "confederacio": "UEFA",
-      "valor": 85,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true
     },
     "Ferenc Puskás": {
       "alias": "Ferenc Puskás",

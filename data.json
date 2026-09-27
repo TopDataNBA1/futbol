@@ -3454,6 +3454,47 @@
       },
       "ts": 1790457996.01556,
       "collage": "collages\\4351cc75-01e3-4321-bdb2-d787ea27d4ac.webp"
+    },
+    {
+      "id": "87259467-ca12-4046-bfa2-8576bb990cd1",
+      "text": "Jesús Gallardo (10th Mexico) surpasses Luis Marín and DaMarcus Beasley and reaches Marcelo Balboa as 28th CONCACAF, 185th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Luis Marín",
+                "pais": "Costa Rica"
+              },
+              {
+                "nom": "DaMarcus Beasley",
+                "pais": "United States"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Marcelo Balboa",
+                "pais": "United States"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 28,
+        "rank_global": 185,
+        "ambit": "confederacio"
+      },
+      "ts": 1790473935.023382,
+      "collage": "collages\\87259467-ca12-4046-bfa2-8576bb990cd1.webp"
     }
   ],
   "baseline": {
@@ -3871,6 +3912,15 @@
         "inici": "2011",
         "final": "2026",
         "actiu": true
+      },
+      "Jesús Gallardo": {
+        "alias": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 127,
+        "inici": "2016",
+        "final": "2026",
+        "actiu": true
       }
     },
     "Gols": {
@@ -3922,5 +3972,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-27"
+  "ultima_conciliacio": "2026-09-26"
 }

@@ -3523,6 +3523,43 @@
       },
       "ts": 1790552825.97802,
       "collage": "collages\\7b749bd3-0feb-4042-a3c9-27abb83f8daa.webp"
+    },
+    {
+      "id": "44b6f4d2-079c-42fc-ab9a-c9047033fa06",
+      "text": "Hariss Harun (1st Singapore) surpasses Sami Al-Jaber and reaches Sunil Chhetri as 13th AFC, 35th global player with 157 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hariss Harun",
+        "pais": "Singapore",
+        "confederacio": "AFC",
+        "valor": 157,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Sami Al-Jaber",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Sunil Chhetri",
+                "pais": "India"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 13,
+        "rank_global": 35,
+        "ambit": "confederacio"
+      },
+      "ts": 1790588990.379388,
+      "collage": "collages\\44b6f4d2-079c-42fc-ab9a-c9047033fa06.webp"
     }
   ],
   "baseline": {
@@ -3639,7 +3676,7 @@
         "alias": "Hariss Harun",
         "pais": "Singapore",
         "confederacio": "AFC",
-        "valor": 156,
+        "valor": 157,
         "inici": "2007",
         "final": "2026",
         "actiu": true

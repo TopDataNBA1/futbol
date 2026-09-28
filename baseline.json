@@ -423,6 +423,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Son Heung-min": {
+      "alias": "Son Heung-min",
+      "pais": "South Korea",
+      "confederacio": "AFC",
+      "valor": 151,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true
+    },
     "Michael Bradley": {
       "alias": "Michael Bradley",
       "pais": "United States",
@@ -449,15 +458,6 @@
       "inici": "1980",
       "final": "2000",
       "actiu": false
-    },
-    "Son Heung-min": {
-      "alias": "Son Heung-min",
-      "pais": "South Korea",
-      "confederacio": "AFC",
-      "valor": 150,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
     },
     "Ehsan Hajsafi": {
       "alias": "Ehsan Hajsafi",
@@ -2880,6 +2880,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Chancel Mbemba": {
+      "alias": "Chancel Mbemba",
+      "pais": "DR Congo",
+      "confederacio": "CAF",
+      "valor": 115,
+      "inici": "2012",
+      "final": "2026",
+      "actiu": true
+    },
     "Bilal Mohammed": {
       "alias": "Bilal Mohammed",
       "pais": "Qatar",
@@ -3023,15 +3032,6 @@
       "inici": "2004",
       "final": "2019",
       "actiu": false
-    },
-    "Chancel Mbemba": {
-      "alias": "Chancel Mbemba",
-      "pais": "DR Congo",
-      "confederacio": "CAF",
-      "valor": 114,
-      "inici": "2012",
-      "final": "2026",
-      "actiu": true
     },
     "Björn Nordqvist": {
       "alias": "Björn Nordqvist",
@@ -3879,6 +3879,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Lee Jae-sung": {
+      "alias": "Lee Jae-sung",
+      "pais": "South Korea",
+      "confederacio": "AFC",
+      "valor": 109,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
+    },
     "Dries Mertens": {
       "alias": "Dries Mertens",
       "pais": "Belgium",
@@ -4049,15 +4058,6 @@
       "inici": "1987",
       "final": "1998",
       "actiu": false
-    },
-    "Lee Jae-sung": {
-      "alias": "Lee Jae-sung",
-      "pais": "South Korea",
-      "confederacio": "AFC",
-      "valor": 108,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true
     },
     "Stephan Lichtsteiner": {
       "alias": "Stephan Lichtsteiner",

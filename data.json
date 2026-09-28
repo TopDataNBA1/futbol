@@ -4770,6 +4770,116 @@
       },
       "ts": 1790534700.0,
       "collage": "collages\\674d6cc2-c187-4ed6-97ca-2e5c97c34da0.webp"
+    },
+    {
+      "id": "340b2d29-387f-409d-90bb-678cc5e3c06c",
+      "text": "Lee Jae-sung (10th South Korea) surpasses Fan Zhiyi, Maher Al-Sayed, Phil Younghusband, Odil Ahmedov and Anas Bani Yaseen and reaches Wael Sulaiman, Nohair Al-Shammari and Hassan Abdel-Fattah as 140th AFC, 421st global player with 109 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lee Jae-sung",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 109,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Fan Zhiyi",
+                "pais": "China"
+              },
+              {
+                "nom": "Maher Al-Sayed",
+                "pais": "Syria"
+              },
+              {
+                "nom": "Phil Younghusband",
+                "pais": "Philippines"
+              },
+              {
+                "nom": "Odil Ahmedov",
+                "pais": "Uzbekistan"
+              },
+              {
+                "nom": "Anas Bani Yaseen",
+                "pais": "Jordan"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Wael Sulaiman",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Nohair Al-Shammari",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Hassan Abdel-Fattah",
+                "pais": "Jordan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 140,
+        "rank_global": 421,
+        "ambit": "confederacio"
+      },
+      "ts": 1790600475.57006,
+      "collage": "collages\\340b2d29-387f-409d-90bb-678cc5e3c06c.webp"
+    },
+    {
+      "id": "9f707761-1f5e-4e2d-a2cd-4dccd2d41cd4",
+      "text": "Son Heung-min (1st South Korea, 18th AFC) surpasses Lothar Matthäus, Michael Bradley and Claudio Bravo and reaches Edin Džeko and Christian Eriksen as 46th global player with 151 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 151,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Lothar Matthäus",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Michael Bradley",
+                "pais": "United States"
+              },
+              {
+                "nom": "Claudio Bravo",
+                "pais": "Chile"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Edin Džeko",
+                "pais": "Bosnia and Herzegovina"
+              },
+              {
+                "nom": "Christian Eriksen",
+                "pais": "Denmark"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 46,
+        "ambit": "global"
+      },
+      "ts": 1790600476.283484,
+      "collage": "collages\\9f707761-1f5e-4e2d-a2cd-4dccd2d41cd4.webp"
     }
   ],
   "baseline": {
@@ -4805,7 +4915,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 150,
+        "valor": 151,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -4814,7 +4924,7 @@
         "alias": "Lee Jae-sung",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 108,
+        "valor": 109,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -5264,5 +5374,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-28"
+  "ultima_conciliacio": "2026-09-27"
 }

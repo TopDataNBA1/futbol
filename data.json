@@ -1113,36 +1113,94 @@
       "collage": "collages\\fbe32d41-d0e9-440a-ad1f-055874a06615.webp"
     },
     {
-      "id": "4479b6de-287b-42ca-81fc-a3c0b8146c1a",
-      "text": "Kylian Mbappé (1st France) surpasses Erling Haaland as 12th UEFA, 33rd global scorer with 67 international goals.",
+      "id": "3fd65531-eb20-4fbf-8501-4801de772ef9",
+      "text": "Harib Al-Saadi (8th Oman) surpasses Mohamed Abd Al-Jawad, Aide Iskandar and Bashar Bani Yaseen and reaches Masami Ihara as 76th AFC, 234th global player with 122 international caps.",
       "dades": {
-        "categoria": "Gols",
-        "jugador": "Kylian Mbappé",
-        "pais": "France",
-        "confederacio": "UEFA",
-        "valor": 67,
+        "categoria": "Partits",
+        "jugador": "Harib Al-Saadi",
+        "pais": "Oman",
+        "confederacio": "AFC",
+        "valor": 122,
         "accions": [
           {
             "verb": "surpasses",
             "jugadors": [
               {
-                "nom": "Erling Haaland",
-                "pais": "Norway"
+                "nom": "Mohamed Abd Al-Jawad",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Aide Iskandar",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Bashar Bani Yaseen",
+                "pais": "Jordan"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Masami Ihara",
+                "pais": "Japan"
               }
             ]
           }
         ],
-        "rank_nacional": 1,
-        "rank_confederacio": 12,
-        "rank_global": 33,
+        "rank_nacional": 8,
+        "rank_confederacio": 76,
+        "rank_global": 234,
         "ambit": "confederacio"
       },
-      "ts": 1790333640.0,
-      "collage": "collages\\4479b6de-287b-42ca-81fc-a3c0b8146c1a.webp"
+      "ts": 1790173800.0,
+      "collage": "collages\\3fd65531-eb20-4fbf-8501-4801de772ef9.webp"
     },
     {
-      "id": "ae300bd0-e9cd-436d-a293-97587babefe1",
-      "text": "Yousef Nasser (4th Kuwait) surpasses Waleed Al-Hayam and Boualem Khoukhi and reaches Lee Woon-jae, Saud Kariri, Amad Al-Hosni, Abdulaziz Hatem and Safuwan Baharudin as 47th AFC, 139th global player with 133 international caps.",
+      "id": "f21c5cb2-1549-4b97-8786-2adecf6288ab",
+      "text": "Jameel Al-Yahmadi surpasses Hani Al-Dhabit and Abdulaziz Al-Muqbali and reaches Mohammed Rabia as 12th Oman, 185th AFC, 606th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jameel Al-Yahmadi",
+        "pais": "Oman",
+        "confederacio": "AFC",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hani Al-Dhabit",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Abdulaziz Al-Muqbali",
+                "pais": "Oman"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Mohammed Rabia",
+                "pais": "Oman"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 12,
+        "rank_confederacio": 185,
+        "rank_global": 606,
+        "ambit": "compatriota"
+      },
+      "ts": 1790173800.0,
+      "collage": "collages\\f21c5cb2-1549-4b97-8786-2adecf6288ab.webp"
+    },
+    {
+      "id": "652aea08-84c5-4030-bea8-44dd5cecb6c6",
+      "text": "Yousef Nasser (4th Kuwait) reaches Lee Woon-jae, Saud Kariri, Amad Al-Hosni, Abdulaziz Hatem and Safuwan Baharudin as 47th AFC, 139th global player with 133 international caps.",
       "dades": {
         "categoria": "Partits",
         "jugador": "Yousef Nasser",
@@ -1150,19 +1208,6 @@
         "confederacio": "AFC",
         "valor": 133,
         "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Waleed Al-Hayam",
-                "pais": "Bahrain"
-              },
-              {
-                "nom": "Boualem Khoukhi",
-                "pais": "Qatar"
-              }
-            ]
-          },
           {
             "verb": "reaches",
             "jugadors": [
@@ -1194,12 +1239,2957 @@
         "rank_global": 139,
         "ambit": "confederacio"
       },
-      "ts": 1790157600.0,
-      "collage": "collages\\ae300bd0-e9cd-436d-a293-97587babefe1.webp"
+      "ts": 1790186400.0,
+      "collage": "collages\\652aea08-84c5-4030-bea8-44dd5cecb6c6.webp"
     },
     {
-      "id": "d8eb3ab9-4e0f-474e-894b-0813ec5f0e47",
-      "text": "Nicolas Hasler surpasses Franz Burgmeier and reaches Martin Stocklasa as 3rd Liechtenstein, 123rd UEFA, 346th global player with 113 international caps.",
+      "id": "0a2208e8-498d-423c-b686-bb6be21db6cb",
+      "text": "Son Heung-min (1st South Korea) surpasses Javad Nekounam and Younis Mahmoud as 18th AFC, 48th global player with 150 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 150,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Javad Nekounam",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Younis Mahmoud",
+                "pais": "Iraq"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 48,
+        "ambit": "confederacio"
+      },
+      "ts": 1790247600.0,
+      "collage": "collages\\0a2208e8-498d-423c-b686-bb6be21db6cb.webp"
+    },
+    {
+      "id": "4802e6d0-1db2-4732-8ded-31b766e9a32a",
+      "text": "Lee Jae-sung surpasses Lee Dong-gook as 10th South Korea, 143rd AFC, 438th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lee Jae-sung",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Lee Dong-gook",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 143,
+        "rank_global": 438,
+        "ambit": "compatriota"
+      },
+      "ts": 1790247600.0,
+      "collage": "collages\\4802e6d0-1db2-4732-8ded-31b766e9a32a.webp"
+    },
+    {
+      "id": "308cc472-b609-4679-bbe4-b34159479244",
+      "text": "189th international cap for Hassan Al-Haydos. 1st Qatar, 4th AFC, 7th global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hassan Al-Haydos",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 189,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 7,
+        "ambit": "cap"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\308cc472-b609-4679-bbe4-b34159479244.webp"
+    },
+    {
+      "id": "f638c07f-62c8-4bd1-9997-668d200d9ab0",
+      "text": "Akram Afif (2nd Qatar) surpasses Ismail Abdullatif as 32nd AFC, 92nd global player with 140 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Akram Afif",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 140,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ismail Abdullatif",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 32,
+        "rank_global": 92,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\f638c07f-62c8-4bd1-9997-668d200d9ab0.webp"
+    },
+    {
+      "id": "54642b33-d056-4c0a-9280-4f5321823bad",
+      "text": "Sayed Dhiya Saeed reaches Ismail Abdullatif as 5th Bahrain, 32nd AFC, 95th global player with 139 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Sayed Dhiya Saeed",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 139,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Ismail Abdullatif",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 32,
+        "rank_global": 95,
+        "ambit": "compatriota"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\54642b33-d056-4c0a-9280-4f5321823bad.webp"
+    },
+    {
+      "id": "416ff0ec-de9d-444b-9bc7-fbf6ae2bfa71",
+      "text": "Waleed Al-Hayam (7th Bahrain) surpasses Arumugan Rengasamy, Kiatisuk Senamuang, Lee Young-pyo and Boualem Khoukhi as 52nd AFC, 149th global player with 132 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Waleed Al-Hayam",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 132,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Arumugan Rengasamy",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Kiatisuk Senamuang",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Lee Young-pyo",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Boualem Khoukhi",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 52,
+        "rank_global": 149,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\416ff0ec-de9d-444b-9bc7-fbf6ae2bfa71.webp"
+    },
+    {
+      "id": "5854b957-b8fb-43cb-aa54-3ae5a75a0696",
+      "text": "Boualem Khoukhi (5th Qatar) surpasses Arumugan Rengasamy, Kiatisuk Senamuang and Lee Young-pyo and reaches Waleed Al-Hayam as 52nd AFC, 149th global player with 132 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Boualem Khoukhi",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 132,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Arumugan Rengasamy",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Kiatisuk Senamuang",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Lee Young-pyo",
+                "pais": "South Korea"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Waleed Al-Hayam",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 52,
+        "rank_global": 149,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\5854b957-b8fb-43cb-aa54-3ae5a75a0696.webp"
+    },
+    {
+      "id": "fcc22190-c5ff-41ae-84cd-9e9a10e9a503",
+      "text": "Karim Boudiaf (5th Qatar) surpasses Cha Bum-kun and Teerasil Dangda and reaches Arumugan Rengasamy, Kiatisuk Senamuang and Lee Young-pyo as 53rd AFC, 155th global player with 131 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karim Boudiaf",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 131,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Cha Bum-kun",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Teerasil Dangda",
+                "pais": "Thailand"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Arumugan Rengasamy",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Kiatisuk Senamuang",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Lee Young-pyo",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 53,
+        "rank_global": 155,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\fcc22190-c5ff-41ae-84cd-9e9a10e9a503.webp"
+    },
+    {
+      "id": "2acc9af2-410b-4ae6-8e75-7fb64f1d645e",
+      "text": "Kamil Al-Aswad (8th Bahrain) surpasses Hassouneh Al-Sheikh, Ali Karimi, Server Djeparov, Mohammed Al-Musalami and Maya Yoshida as 62nd AFC, 179th global player with 128 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kamil Al-Aswad",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 128,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hassouneh Al-Sheikh",
+                "pais": "Jordan"
+              },
+              {
+                "nom": "Ali Karimi",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Server Djeparov",
+                "pais": "Uzbekistan"
+              },
+              {
+                "nom": "Mohammed Al-Musalami",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Maya Yoshida",
+                "pais": "Japan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 62,
+        "rank_global": 179,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\2acc9af2-410b-4ae6-8e75-7fb64f1d645e.webp"
+    },
+    {
+      "id": "2f290505-7b08-4285-865d-b716959e6fe5",
+      "text": "Pedro Miguel reaches Bilal Mohammed as 10th Qatar, 102nd AFC, 310th global player with 115 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Miguel",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 115,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bilal Mohammed",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 102,
+        "rank_global": 310,
+        "ambit": "compatriota"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\2f290505-7b08-4285-865d-b716959e6fe5.webp"
+    },
+    {
+      "id": "58b1df29-076b-48a3-9c4f-0a675872d12f",
+      "text": "Ali Madan (14th Bahrain) surpasses Ahmed Al-Dokhi, Hawar Mulla Mohammed, Nashat Akram and Kiran Chemjong and reaches Indra Sahdan Daud, Ali Rehema, Makoto Hasebe, Jalal Hosseini, Gao Lin and Salem Al-Dawsari as 108th AFC, 323rd global player with 114 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ali Madan",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 114,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ahmed Al-Dokhi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Hawar Mulla Mohammed",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Nashat Akram",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Kiran Chemjong",
+                "pais": "Nepal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Indra Sahdan Daud",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Ali Rehema",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Makoto Hasebe",
+                "pais": "Japan"
+              },
+              {
+                "nom": "Jalal Hosseini",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Gao Lin",
+                "pais": "China"
+              },
+              {
+                "nom": "Salem Al-Dawsari",
+                "pais": "Saudi Arabia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 14,
+        "rank_confederacio": 108,
+        "rank_global": 323,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\58b1df29-076b-48a3-9c4f-0a675872d12f.webp"
+    },
+    {
+      "id": "91d57161-b810-4361-a9eb-67d4b2ad959e",
+      "text": "Almoez Ali (6th Qatar) reaches Cha Bum-kun and Teerasil Dangda as 58th AFC, 165th global player with 130 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Almoez Ali",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 130,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Cha Bum-kun",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Teerasil Dangda",
+                "pais": "Thailand"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 58,
+        "rank_global": 165,
+        "ambit": "confederacio"
+      },
+      "ts": 1790272800.0,
+      "collage": "collages\\91d57161-b810-4361-a9eb-67d4b2ad959e.webp"
+    },
+    {
+      "id": "726ef6da-e36e-463f-a2dd-6cf203335a88",
+      "text": "Joshua Kimmich surpasses Toni Kroos as 6th Germany, 108th UEFA, 310th global player with 115 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Joshua Kimmich",
+        "pais": "Germany",
+        "confederacio": "UEFA",
+        "valor": 115,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Toni Kroos",
+                "pais": "Germany"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 108,
+        "rank_global": 310,
+        "ambit": "compatriota"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\726ef6da-e36e-463f-a2dd-6cf203335a88.webp"
+    },
+    {
+      "id": "808e9bda-400b-47a8-82f1-43cde9722535",
+      "text": "Nicolas Hasler reaches Franz Burgmeier as 4th Liechtenstein, 129th UEFA, 358th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Nicolas Hasler",
+        "pais": "Liechtenstein",
+        "confederacio": "UEFA",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 129,
+        "rank_global": 358,
+        "ambit": "compatriota"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\808e9bda-400b-47a8-82f1-43cde9722535.webp"
+    },
+    {
+      "id": "7a6c698c-8c5d-4316-9d7c-f166b12c3b6f",
+      "text": "Dušan Tadić (1st Serbia) surpasses Andriy Shevchenko, Igor Akinfeev and Gareth Bale and reaches Dino Zoff, Alain Geiger, Frank de Boer, Hakan Şükür, Jon Dahl Tomasson, Juris Laizāns, Nani, Aaron Hughes, Franz Burgmeier, Juraj Kucka, Nicolas Hasler and Memphis Depay as 129th UEFA, 358th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Andriy Shevchenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Igor Akinfeev",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Gareth Bale",
+                "pais": "Wales"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Dino Zoff",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Alain Geiger",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Frank de Boer",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Hakan Şükür",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Jon Dahl Tomasson",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Juris Laizāns",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Nani",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Aaron Hughes",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Juraj Kucka",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Nicolas Hasler",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Memphis Depay",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 129,
+        "rank_global": 358,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\7a6c698c-8c5d-4316-9d7c-f166b12c3b6f.webp"
+    },
+    {
+      "id": "ba349264-0ecf-4de4-b9c3-166de715db94",
+      "text": "Francisco Calvo surpasses Mauricio Solís and reaches Álvaro Saborío as 8th Costa Rica, 49th CONCACAF, 396th global player with 110 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 110,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mauricio Solís",
+                "pais": "Costa Rica"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Álvaro Saborío",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 49,
+        "rank_global": 396,
+        "ambit": "compatriota"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\ba349264-0ecf-4de4-b9c3-166de715db94.webp"
+    },
+    {
+      "id": "4b91da7e-1e2d-4e40-b31c-88911aec0a80",
+      "text": "Moisés San Nicolás (6th Andorra) surpasses Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava and Kamil Grosicki and reaches Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer as 220th UEFA, 569th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moisés San Nicolás",
+        "pais": "Andorra",
+        "confederacio": "UEFA",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Oleg Blokhin",
+                "pais": "Soviet Union"
+              },
+              {
+                "nom": "László Bölöni",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Thomas Häßler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Joe Brincat",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Phillip Cocu",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Levan Kobiashvili",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Alyaksandr Kulchy",
+                "pais": "Belarus"
+              },
+              {
+                "nom": "Thomas Sørensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Vasiliy Berezutskiy",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Yossi Benayoun",
+                "pais": "Israel"
+              },
+              {
+                "nom": "Boštjan Cesar",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Emre Belözoğlu",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Vasilis Torosidis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Daniel da Mota",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Saulius Mikoliūnas",
+                "pais": "Lithuania"
+              },
+              {
+                "nom": "Jaba Kankava",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Kamil Grosicki",
+                "pais": "Poland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Kenny Dalglish",
+                "pais": "Scotland"
+              },
+              {
+                "nom": "Steve Staunton",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Bülent Korkmaz",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Raúl",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Savo Milošević",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Martin Jørgensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Michał Żewłakow",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Robin van Persie",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Gerard Piqué",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Mario Mutsch",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Birkir Már Sævarsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Andriy Pyatov",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Jóhann Berg Guðmundsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Marcel Sabitzer",
+                "pais": "Austria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 220,
+        "rank_global": 569,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\4b91da7e-1e2d-4e40-b31c-88911aec0a80.webp"
+    },
+    {
+      "id": "4539f0c6-56a7-43ed-8f24-1e6b0d1c6c26",
+      "text": "Ben Davies (4th Wales) surpasses Ulf Kirsten, Rúnar Kristinsson, Henning Berg, Dario Šimić, Angelos Basinas, Goce Sedloski, Igors Stepanovs, Damien Duff, Carles Puyol, Arda Turan, Roderick Briffa, Ruslan Rotan, Bojan Jokić, Alexandru Epureanu, Aleksandar Dragović, Grzegorz Krychowiak, Taijo Teniste, Matteo Vitaioli, Lars Gerson, Jóan Símun Edmundsson and Elseid Hysaj and reaches Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava and Kamil Grosicki as 234th UEFA, 606th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ben Davies",
+        "pais": "Wales",
+        "confederacio": "UEFA",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ulf Kirsten",
+                "pais": "East Germany"
+              },
+              {
+                "nom": "Rúnar Kristinsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Henning Berg",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Dario Šimić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Angelos Basinas",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Goce Sedloski",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Igors Stepanovs",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Damien Duff",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Carles Puyol",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Arda Turan",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Roderick Briffa",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Ruslan Rotan",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Bojan Jokić",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Alexandru Epureanu",
+                "pais": "Moldova"
+              },
+              {
+                "nom": "Aleksandar Dragović",
+                "pais": "Austria"
+              },
+              {
+                "nom": "Grzegorz Krychowiak",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Taijo Teniste",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Matteo Vitaioli",
+                "pais": "San Marino"
+              },
+              {
+                "nom": "Lars Gerson",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Jóan Símun Edmundsson",
+                "pais": "Faroe Islands"
+              },
+              {
+                "nom": "Elseid Hysaj",
+                "pais": "Albania"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Oleg Blokhin",
+                "pais": "Soviet Union"
+              },
+              {
+                "nom": "László Bölöni",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Thomas Häßler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Joe Brincat",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Phillip Cocu",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Levan Kobiashvili",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Alyaksandr Kulchy",
+                "pais": "Belarus"
+              },
+              {
+                "nom": "Thomas Sørensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Vasiliy Berezutskiy",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Yossi Benayoun",
+                "pais": "Israel"
+              },
+              {
+                "nom": "Boštjan Cesar",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Emre Belözoğlu",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Vasilis Torosidis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Daniel da Mota",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Saulius Mikoliūnas",
+                "pais": "Lithuania"
+              },
+              {
+                "nom": "Jaba Kankava",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Kamil Grosicki",
+                "pais": "Poland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 234,
+        "rank_global": 606,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\4539f0c6-56a7-43ed-8f24-1e6b0d1c6c26.webp"
+    },
+    {
+      "id": "69a6acde-44d1-48ed-b21e-e85c7cb9ddd9",
+      "text": "234th international cap for Cristiano Ronaldo. 1st Portugal, 1st UEFA, 1st global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "confederacio": "UEFA",
+        "valor": 234,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 1,
+        "rank_global": 1,
+        "ambit": "cap"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\69a6acde-44d1-48ed-b21e-e85c7cb9ddd9.webp"
+    },
+    {
+      "id": "75dd1798-505a-404d-883c-84400d40bc99",
+      "text": "Ehsan Hajsafi surpasses Ali Daei and reaches Javad Nekounam as 1st Iran, 18th AFC, 51st global player with 149 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 149,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ali Daei",
+                "pais": "Iran"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Javad Nekounam",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 51,
+        "ambit": "compatriota"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\75dd1798-505a-404d-883c-84400d40bc99.webp"
+    },
+    {
+      "id": "68d07bdd-31a4-450a-97e2-43a4a579eb5e",
+      "text": "Chancel Mbemba (1st DR Congo) surpasses Max Gradel and reaches Wael Gomaa and Didier Ovono as 24th CAF, 323rd global player with 114 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Chancel Mbemba",
+        "pais": "DR Congo",
+        "confederacio": "CAF",
+        "valor": 114,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Max Gradel",
+                "pais": "Ivory Coast"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Wael Gomaa",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Didier Ovono",
+                "pais": "Gabon"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 24,
+        "rank_global": 323,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\68d07bdd-31a4-450a-97e2-43a4a579eb5e.webp"
+    },
+    {
+      "id": "0c109fb7-5237-48fa-8410-165f57729864",
+      "text": "Mehdi Taremi reaches Mehdi Mahdavikia as 6th Iran, 132nd AFC, 396th global player with 110 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 110,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Mehdi Mahdavikia",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 132,
+        "rank_global": 396,
+        "ambit": "compatriota"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\0c109fb7-5237-48fa-8410-165f57729864.webp"
+    },
+    {
+      "id": "10a5df44-e17c-4f41-a7e2-d4579c37e224",
+      "text": "Franck Kessié (4th Ivory Coast) surpasses Joseph Musonda and reaches Asamoah Gyan as 32nd CAF, 418th global player with 109 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Franck Kessié",
+        "pais": "Ivory Coast",
+        "confederacio": "CAF",
+        "valor": 109,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Joseph Musonda",
+                "pais": "Zambia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Asamoah Gyan",
+                "pais": "Ghana"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 32,
+        "rank_global": 418,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\10a5df44-e17c-4f41-a7e2-d4579c37e224.webp"
+    },
+    {
+      "id": "b5c7e323-bffc-44f7-a830-e36d77d3563d",
+      "text": "Ferjani Sassi (3rd Tunisia) surpasses Joseph Yobo, Seydou Keita, Vincent Enyeama, Ryan Mendes and Jane Thabantso and reaches Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré, Simon Msuva and Achraf Hakimi as 47th CAF, 569th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ferjani Sassi",
+        "pais": "Tunisia",
+        "confederacio": "CAF",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Joseph Yobo",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Seydou Keita",
+                "pais": "Mali"
+              },
+              {
+                "nom": "Vincent Enyeama",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              },
+              {
+                "nom": "Jane Thabantso",
+                "pais": "Lesotho"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Simon Msuva",
+                "pais": "Tanzania"
+              },
+              {
+                "nom": "Achraf Hakimi",
+                "pais": "Morocco"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 47,
+        "rank_global": 569,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\b5c7e323-bffc-44f7-a830-e36d77d3563d.webp"
+    },
+    {
+      "id": "038a95e0-ba82-481f-860a-5b8eccc79d5d",
+      "text": "José María Giménez (9th Uruguay) reaches Luis Capurro, Jorge Soto, Denis Caniza, Roberto Acuña, Robinho and Christian Cueva as 66th CONMEBOL, 645th global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "José María Giménez",
+        "pais": "Uruguay",
+        "confederacio": "CONMEBOL",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luis Capurro",
+                "pais": "Ecuador"
+              },
+              {
+                "nom": "Jorge Soto",
+                "pais": "Peru"
+              },
+              {
+                "nom": "Denis Caniza",
+                "pais": "Paraguay"
+              },
+              {
+                "nom": "Roberto Acuña",
+                "pais": "Paraguay"
+              },
+              {
+                "nom": "Robinho",
+                "pais": "Brazil"
+              },
+              {
+                "nom": "Christian Cueva",
+                "pais": "Peru"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 9,
+        "rank_confederacio": 66,
+        "rank_global": 645,
+        "ambit": "confederacio"
+      },
+      "ts": 1790275500.0,
+      "collage": "collages\\038a95e0-ba82-481f-860a-5b8eccc79d5d.webp"
+    },
+    {
+      "id": "3fd37bdb-32c1-4c12-9ed5-b21bed282a12",
+      "text": "Robert Lewandowski (1st Poland) surpasses Iker Casillas as 5th UEFA, 17th global player with 168 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Robert Lewandowski",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 168,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Iker Casillas",
+                "pais": "Spain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 17,
+        "ambit": "confederacio"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\3fd37bdb-32c1-4c12-9ed5-b21bed282a12.webp"
+    },
+    {
+      "id": "29f2ad6a-1e31-4e2a-9388-1f503a03afec",
+      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Clint Dempsey, Axel Witsel and Akram Afif and reaches Pepe as 91st global player with 141 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 141,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Clint Dempsey",
+                "pais": "United States"
+              },
+              {
+                "nom": "Axel Witsel",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Akram Afif",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Pepe",
+                "pais": "Portugal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 91,
+        "ambit": "global"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\29f2ad6a-1e31-4e2a-9388-1f503a03afec.webp"
+    },
+    {
+      "id": "322769ae-5bd8-4e4c-94d8-2bfc4f4314d5",
+      "text": "Romelu Lukaku (3rd Belgium) surpasses Sargis Hovsepyan, Peter Jehle and Simon Kjær and reaches Xavi, Andreas Isaksson, Sebastian Larsson and Teemu Pukki as 45th UEFA, 139th global player with 133 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Romelu Lukaku",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 133,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Sargis Hovsepyan",
+                "pais": "Armenia"
+              },
+              {
+                "nom": "Peter Jehle",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Simon Kjær",
+                "pais": "Denmark"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Xavi",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Andreas Isaksson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Sebastian Larsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Teemu Pukki",
+                "pais": "Finland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 45,
+        "rank_global": 139,
+        "ambit": "confederacio"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\322769ae-5bd8-4e4c-94d8-2bfc4f4314d5.webp"
+    },
+    {
+      "id": "c7c24eac-b7aa-4b72-83c9-33ddf198bda5",
+      "text": "Kevin De Bruyne (6th Belgium) surpasses Gheorghe Hagi, Petr Čech, Marc Pujol and Laurent Jans and reaches Peter Shilton, Mario Frick, David Silva and Xherdan Shaqiri as 71st UEFA, 208th global player with 125 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Hagi",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Petr Čech",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Marc Pujol",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Laurent Jans",
+                "pais": "Luxembourg"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Shilton",
+                "pais": "England"
+              },
+              {
+                "nom": "Mario Frick",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "David Silva",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Xherdan Shaqiri",
+                "pais": "Switzerland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 71,
+        "rank_global": 208,
+        "ambit": "confederacio"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\c7c24eac-b7aa-4b72-83c9-33ddf198bda5.webp"
+    },
+    {
+      "id": "87223b0f-e545-49d8-9561-eb69de6e9e7b",
+      "text": "Mohamed Salah reaches Hany Ramzy as 6th Egypt, 14th CAF, 234th global player with 122 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 122,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hany Ramzy",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 14,
+        "rank_global": 234,
+        "ambit": "compatriota"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\87223b0f-e545-49d8-9561-eb69de6e9e7b.webp"
+    },
+    {
+      "id": "a6972960-f6b4-42fa-a565-6f29ea5e6657",
+      "text": "Marquinhos (6th Brazil) surpasses Carlos Gamarra and Cristian Rodríguez and reaches Carlos Valderrama, José Manuel Rey and Édison Méndez as 42nd CONMEBOL, 381st global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Marquinhos",
+        "pais": "Brazil",
+        "confederacio": "CONMEBOL",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Carlos Gamarra",
+                "pais": "Paraguay"
+              },
+              {
+                "nom": "Cristian Rodríguez",
+                "pais": "Uruguay"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Carlos Valderrama",
+                "pais": "Colombia"
+              },
+              {
+                "nom": "José Manuel Rey",
+                "pais": "Venezuela"
+              },
+              {
+                "nom": "Édison Méndez",
+                "pais": "Ecuador"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 42,
+        "rank_global": 381,
+        "ambit": "confederacio"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\a6972960-f6b4-42fa-a565-6f29ea5e6657.webp"
+    },
+    {
+      "id": "7fef2a66-c813-4600-8746-6f523080aa90",
+      "text": "Piotr Zieliński surpasses Jakub Błaszczykowski as 2nd Poland, 145th UEFA, 396th global player with 110 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Piotr Zieliński",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 110,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Jakub Błaszczykowski",
+                "pais": "Poland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 145,
+        "rank_global": 396,
+        "ambit": "compatriota"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\7fef2a66-c813-4600-8746-6f523080aa90.webp"
+    },
+    {
+      "id": "121a8045-e03c-4baf-b730-6355c9da0bd3",
+      "text": "Kylian Mbappé reaches Patrick Vieira as 8th France, 169th UEFA, 459th global player with 107 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 169,
+        "rank_global": 459,
+        "ambit": "compatriota"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\121a8045-e03c-4baf-b730-6355c9da0bd3.webp"
+    },
+    {
+      "id": "f5f3e330-5593-4d53-80b0-6f0a3e2cc9d6",
+      "text": "Ryan Mendes (1st Cape Verde) surpasses Joseph Yobo, Seydou Keita, Vincent Enyeama and Jane Thabantso and reaches Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré, Simon Msuva, Ferjani Sassi and Achraf Hakimi as 47th CAF, 569th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ryan Mendes",
+        "pais": "Cape Verde",
+        "confederacio": "CAF",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Joseph Yobo",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Seydou Keita",
+                "pais": "Mali"
+              },
+              {
+                "nom": "Vincent Enyeama",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Jane Thabantso",
+                "pais": "Lesotho"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Simon Msuva",
+                "pais": "Tanzania"
+              },
+              {
+                "nom": "Ferjani Sassi",
+                "pais": "Tunisia"
+              },
+              {
+                "nom": "Achraf Hakimi",
+                "pais": "Morocco"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 47,
+        "rank_global": 569,
+        "ambit": "confederacio"
+      },
+      "ts": 1790361900.0,
+      "collage": "collages\\f5f3e330-5593-4d53-80b0-6f0a3e2cc9d6.webp"
+    },
+    {
+      "id": "4e1e4e1d-8836-47df-aec7-bdc2532d49c2",
+      "text": "Alex Iwobi surpasses Moses Simon as 4th Nigeria, 61st CAF, 645th global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Alex Iwobi",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Moses Simon",
+                "pais": "Nigeria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 61,
+        "rank_global": 645,
+        "ambit": "compatriota"
+      },
+      "ts": 1790361900.0,
+      "collage": null
+    },
+    {
+      "id": "2b941a65-ed55-45fc-8e23-9dd1861fe997",
+      "text": "Moses Simon reaches Alex Iwobi as 4th Nigeria, 61st CAF, 645th global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moses Simon",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Alex Iwobi",
+                "pais": "Nigeria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 61,
+        "rank_global": 645,
+        "ambit": "compatriota"
+      },
+      "ts": 1790361900.0,
+      "collage": null
+    },
+    {
+      "id": "527c4ff6-3e00-4d64-9ea0-d7a480a7e8fb",
+      "text": "Yousef Nasser reaches Bashar Abdullah as 3rd Kuwait, 44th AFC, 126th global player with 134 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yousef Nasser",
+        "pais": "Kuwait",
+        "confederacio": "AFC",
+        "valor": 134,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bashar Abdullah",
+                "pais": "Kuwait"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 44,
+        "rank_global": 126,
+        "ambit": "compatriota"
+      },
+      "ts": 1790438100.0,
+      "collage": "collages\\527c4ff6-3e00-4d64-9ea0-d7a480a7e8fb.webp"
+    },
+    {
+      "id": "ad43507e-f854-437d-a2a2-d7acef218e9b",
+      "text": "Harib Al-Saadi reaches Saad Al-Mukhaini as 7th Oman, 74th AFC, 228th global player with 123 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harib Al-Saadi",
+        "pais": "Oman",
+        "confederacio": "AFC",
+        "valor": 123,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Saad Al-Mukhaini",
+                "pais": "Oman"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 74,
+        "rank_global": 228,
+        "ambit": "compatriota"
+      },
+      "ts": 1790445600.0,
+      "collage": "collages\\ad43507e-f854-437d-a2a2-d7acef218e9b.webp"
+    },
+    {
+      "id": "b7036300-7df0-47bb-8ff3-d1bf76d925c0",
+      "text": "Jameel Al-Yahmadi surpasses Mohammed Rabia and reaches Ismail Al-Ajmi as 11th Oman, 176th AFC, 569th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jameel Al-Yahmadi",
+        "pais": "Oman",
+        "confederacio": "AFC",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mohammed Rabia",
+                "pais": "Oman"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Ismail Al-Ajmi",
+                "pais": "Oman"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 11,
+        "rank_confederacio": 176,
+        "rank_global": 569,
+        "ambit": "compatriota"
+      },
+      "ts": 1790445600.0,
+      "collage": "collages\\b7036300-7df0-47bb-8ff3-d1bf76d925c0.webp"
+    },
+    {
+      "id": "a0bc7016-caf3-4e26-a748-317964578124",
+      "text": "Luka Modrić (1st Croatia, 2nd UEFA) surpasses Bader Al-Mutawa as 3rd global player with 203 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 203,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bader Al-Mutawa",
+                "pais": "Kuwait"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 2,
+        "rank_global": 3,
+        "ambit": "global"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\a0bc7016-caf3-4e26-a748-317964578124.webp"
+    },
+    {
+      "id": "a6718f3f-d1c8-4d22-ad0a-8a8c02bab003",
+      "text": "Ivan Perišić (2nd Croatia) reaches Konstantin Vassiljev as 8th UEFA, 32nd global player with 159 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 159,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Konstantin Vassiljev",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 8,
+        "rank_global": 32,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\a6718f3f-d1c8-4d22-ad0a-8a8c02bab003.webp"
+    },
+    {
+      "id": "d6c5c5c2-5404-4ed7-816f-88239424e7b2",
+      "text": "Ricardo Rodriguez (2nd Switzerland) surpasses Anatoliy Tymoshchuk and reaches Hugo Lloris as 19th UEFA, 68th global player with 145 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 145,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Anatoliy Tymoshchuk",
+                "pais": "Ukraine"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hugo Lloris",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 19,
+        "rank_global": 68,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\d6c5c5c2-5404-4ed7-816f-88239424e7b2.webp"
+    },
+    {
+      "id": "fdca2515-2b65-4ba6-b198-5de964713e87",
+      "text": "Yoshimar Yotún (1st Peru, 19th CONMEBOL) surpasses Jeff Agoos, Dorinel Munteanu, Andres Oper, Hassan Mudhafar, Shay Given, Noel Valladares, Darijo Srna, Bashar Abdullah, Jaime Penedo, Wesley Sneijder, Taisir Al-Jassim, Yousef Nasser and Sadio Mané and reaches Walter Centeno and Ahmed Fathy as 124th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Jeff Agoos",
+                "pais": "United States"
+              },
+              {
+                "nom": "Dorinel Munteanu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Andres Oper",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Hassan Mudhafar",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Shay Given",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Noel Valladares",
+                "pais": "Honduras"
+              },
+              {
+                "nom": "Darijo Srna",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Bashar Abdullah",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Jaime Penedo",
+                "pais": "Panama"
+              },
+              {
+                "nom": "Wesley Sneijder",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Taisir Al-Jassim",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Yousef Nasser",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Sadio Mané",
+                "pais": "Senegal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Walter Centeno",
+                "pais": "Costa Rica"
+              },
+              {
+                "nom": "Ahmed Fathy",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 19,
+        "rank_global": 124,
+        "ambit": "global"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\fdca2515-2b65-4ba6-b198-5de964713e87.webp"
+    },
+    {
+      "id": "6ebfe5d4-c10f-4420-9e2b-1cf2c73d0481",
+      "text": "Pedro Gallese reaches Roberto Palacios as 4th Peru, 25th CONMEBOL, 179th global player with 128 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 128,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Roberto Palacios",
+                "pais": "Peru"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 25,
+        "rank_global": 179,
+        "ambit": "compatriota"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\6ebfe5d4-c10f-4420-9e2b-1cf2c73d0481.webp"
+    },
+    {
+      "id": "99d6c058-c316-48ca-b598-0a73935f8a9f",
+      "text": "Jesús Gallardo (10th Mexico) surpasses Luis Marín and DaMarcus Beasley and reaches Marcelo Balboa as 28th CONCACAF, 184th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Luis Marín",
+                "pais": "Costa Rica"
+              },
+              {
+                "nom": "DaMarcus Beasley",
+                "pais": "United States"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Marcelo Balboa",
+                "pais": "United States"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 28,
+        "rank_global": 184,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\99d6c058-c316-48ca-b598-0a73935f8a9f.webp"
+    },
+    {
+      "id": "2e866e89-aeb5-4063-a2f7-c17d692639ef",
+      "text": "Laurent Jans (1st Luxembourg) surpasses Gheorghe Hagi, Petr Čech and Marc Pujol and reaches Peter Shilton, Mario Frick, David Silva, Xherdan Shaqiri and Kevin De Bruyne as 71st UEFA, 208th global player with 125 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Hagi",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Petr Čech",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Marc Pujol",
+                "pais": "Andorra"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Shilton",
+                "pais": "England"
+              },
+              {
+                "nom": "Mario Frick",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "David Silva",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Xherdan Shaqiri",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Kevin De Bruyne",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 71,
+        "rank_global": 208,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\2e866e89-aeb5-4063-a2f7-c17d692639ef.webp"
+    },
+    {
+      "id": "6735fd84-ae3c-4dd8-80f6-ec6541886866",
+      "text": "Harry Kane (2nd England) surpasses Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci and reaches Goran Pandev and Zlatan Ibrahimović as 81st UEFA, 234th global player with 122 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 122,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Peter Schmeichel",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Bastian Schweinsteiger",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Leonardo Bonucci",
+                "pais": "Italy"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Goran Pandev",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 81,
+        "rank_global": 234,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\6735fd84-ae3c-4dd8-80f6-ec6541886866.webp"
+    },
+    {
+      "id": "722ae079-68aa-44f0-ba95-88de11ec79dd",
+      "text": "Mateo Kovačić (5th Croatia) surpasses Roland Nilsson, Marcel Desailly, Andrea Pirlo and Kostas Katsouranis and reaches Karel Poborský, Olof Mellberg, Daniele De Rossi, Giorgio Chiellini and David Alaba as 98th UEFA, 282nd global player with 117 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 117,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Roland Nilsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Marcel Desailly",
+                "pais": "France"
+              },
+              {
+                "nom": "Andrea Pirlo",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Kostas Katsouranis",
+                "pais": "Greece"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Karel Poborský",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Olof Mellberg",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Daniele De Rossi",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Giorgio Chiellini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "David Alaba",
+                "pais": "Austria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 98,
+        "rank_global": 282,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\722ae079-68aa-44f0-ba95-88de11ec79dd.webp"
+    },
+    {
+      "id": "8feab906-3c58-4173-b2e3-b4afc97d1b65",
+      "text": "Karol Mets surpasses Henri Anier as 14th Estonia, 186th UEFA, 501st global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 14,
+        "rank_confederacio": 186,
+        "rank_global": 501,
+        "ambit": "compatriota"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\8feab906-3c58-4173-b2e3-b4afc97d1b65.webp"
+    },
+    {
+      "id": "b5986717-11d7-4d55-ae94-03198f199635",
+      "text": "Elseid Hysaj (1st Albania) surpasses Ulf Kirsten, Rúnar Kristinsson, Henning Berg, Dario Šimić, Angelos Basinas, Goce Sedloski, Igors Stepanovs, Damien Duff, Carles Puyol, Arda Turan, Roderick Briffa, Ruslan Rotan, Bojan Jokić, Alexandru Epureanu, Aleksandar Dragović, Grzegorz Krychowiak, Taijo Teniste, Matteo Vitaioli, Lars Gerson and Jóan Símun Edmundsson and reaches Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava, Kamil Grosicki and Ben Davies as 234th UEFA, 606th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Elseid Hysaj",
+        "pais": "Albania",
+        "confederacio": "UEFA",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ulf Kirsten",
+                "pais": "East Germany"
+              },
+              {
+                "nom": "Rúnar Kristinsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Henning Berg",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Dario Šimić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Angelos Basinas",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Goce Sedloski",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Igors Stepanovs",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Damien Duff",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Carles Puyol",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Arda Turan",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Roderick Briffa",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Ruslan Rotan",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Bojan Jokić",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Alexandru Epureanu",
+                "pais": "Moldova"
+              },
+              {
+                "nom": "Aleksandar Dragović",
+                "pais": "Austria"
+              },
+              {
+                "nom": "Grzegorz Krychowiak",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Taijo Teniste",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Matteo Vitaioli",
+                "pais": "San Marino"
+              },
+              {
+                "nom": "Lars Gerson",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Jóan Símun Edmundsson",
+                "pais": "Faroe Islands"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Oleg Blokhin",
+                "pais": "Soviet Union"
+              },
+              {
+                "nom": "László Bölöni",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Thomas Häßler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Joe Brincat",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Phillip Cocu",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Levan Kobiashvili",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Alyaksandr Kulchy",
+                "pais": "Belarus"
+              },
+              {
+                "nom": "Thomas Sørensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Vasiliy Berezutskiy",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Yossi Benayoun",
+                "pais": "Israel"
+              },
+              {
+                "nom": "Boštjan Cesar",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Emre Belözoğlu",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Vasilis Torosidis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Daniel da Mota",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Saulius Mikoliūnas",
+                "pais": "Lithuania"
+              },
+              {
+                "nom": "Jaba Kankava",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Kamil Grosicki",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Ben Davies",
+                "pais": "Wales"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 234,
+        "rank_global": 606,
+        "ambit": "confederacio"
+      },
+      "ts": 1790448300.0,
+      "collage": "collages\\b5986717-11d7-4d55-ae94-03198f199635.webp"
+    },
+    {
+      "id": "bff80434-dda7-4009-b9fb-f283d870fb12",
+      "text": "190th international cap for Hassan Al-Haydos. 1st Qatar, 4th AFC, 7th global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hassan Al-Haydos",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 190,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 7,
+        "ambit": "cap"
+      },
+      "ts": 1790524500.0,
+      "collage": "collages\\bff80434-dda7-4009-b9fb-f283d870fb12.webp"
+    },
+    {
+      "id": "b73a9aa6-ce5d-4cd6-b88b-7cdb6383fbca",
+      "text": "Akram Afif (2nd Qatar, 32nd AFC) surpasses Clint Dempsey and Axel Witsel and reaches Pepe and Idrissa Gueye as 91st global player with 141 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Akram Afif",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 141,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Clint Dempsey",
+                "pais": "United States"
+              },
+              {
+                "nom": "Axel Witsel",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Pepe",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Idrissa Gueye",
+                "pais": "Senegal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 32,
+        "rank_global": 91,
+        "ambit": "global"
+      },
+      "ts": 1790524500.0,
+      "collage": "collages\\b73a9aa6-ce5d-4cd6-b88b-7cdb6383fbca.webp"
+    },
+    {
+      "id": "895d9435-07bb-46b0-a0f0-f7633c25a2f9",
+      "text": "Boualem Khoukhi reaches Abdulaziz Hatem as 4th Qatar, 47th AFC, 139th global player with 133 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Boualem Khoukhi",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 133,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 47,
+        "rank_global": 139,
+        "ambit": "compatriota"
+      },
+      "ts": 1790524500.0,
+      "collage": "collages\\895d9435-07bb-46b0-a0f0-f7633c25a2f9.webp"
+    },
+    {
+      "id": "6091fe72-b72e-4bc2-b0bb-c362d3b26ded",
+      "text": "Karim Boudiaf (5th Qatar) surpasses Arumugan Rengasamy, Kiatisuk Senamuang and Lee Young-pyo and reaches Waleed Al-Hayam as 52nd AFC, 149th global player with 132 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karim Boudiaf",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 132,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Arumugan Rengasamy",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Kiatisuk Senamuang",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Lee Young-pyo",
+                "pais": "South Korea"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Waleed Al-Hayam",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 52,
+        "rank_global": 149,
+        "ambit": "confederacio"
+      },
+      "ts": 1790524500.0,
+      "collage": "collages\\6091fe72-b72e-4bc2-b0bb-c362d3b26ded.webp"
+    },
+    {
+      "id": "47ddcf47-3b7c-4946-9926-4e3f20e070c2",
+      "text": "Pedro Miguel surpasses Bilal Mohammed and reaches Wesam Rizik as 9th Qatar, 95th AFC, 295th global player with 116 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Miguel",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 116,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bilal Mohammed",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Wesam Rizik",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 9,
+        "rank_confederacio": 95,
+        "rank_global": 295,
+        "ambit": "compatriota"
+      },
+      "ts": 1790524500.0,
+      "collage": "collages\\47ddcf47-3b7c-4946-9926-4e3f20e070c2.webp"
+    },
+    {
+      "id": "33dd31e0-a949-41e3-b52b-37dd6504fb7b",
+      "text": "Sayed Dhiya Saeed surpasses Ismail Abdullatif as 5th Bahrain, 32nd AFC, 92nd global player with 140 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Sayed Dhiya Saeed",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 140,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ismail Abdullatif",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 32,
+        "rank_global": 92,
+        "ambit": "compatriota"
+      },
+      "ts": 1790532000.0,
+      "collage": "collages\\33dd31e0-a949-41e3-b52b-37dd6504fb7b.webp"
+    },
+    {
+      "id": "8260c3e3-ce8d-45c3-9bc0-c01e001a7c64",
+      "text": "Waleed Al-Hayam (7th Bahrain) surpasses Karim Boudiaf and reaches Lee Woon-jae, Saud Kariri, Amad Al-Hosni, Abdulaziz Hatem, Safuwan Baharudin and Boualem Khoukhi as 47th AFC, 139th global player with 133 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Waleed Al-Hayam",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 133,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Karim Boudiaf",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Lee Woon-jae",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Saud Kariri",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Amad Al-Hosni",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              },
+              {
+                "nom": "Safuwan Baharudin",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Boualem Khoukhi",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 47,
+        "rank_global": 139,
+        "ambit": "confederacio"
+      },
+      "ts": 1790532000.0,
+      "collage": "collages\\8260c3e3-ce8d-45c3-9bc0-c01e001a7c64.webp"
+    },
+    {
+      "id": "f61ee490-ef77-4abc-8b09-e4e2ee7bef4f",
+      "text": "Kamil Al-Aswad (8th Bahrain, 61st AFC) surpasses Roberto Palacios, Juan Arango, Márcio Vieira, Manuel Neuer, Raúl Jiménez and Pedro Gallese and reaches Jorge Campos, Boniek García, Ragnar Klavan, Paolo Guerrero and Guram Kashia as 173rd global player with 129 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kamil Al-Aswad",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 129,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Roberto Palacios",
+                "pais": "Peru"
+              },
+              {
+                "nom": "Juan Arango",
+                "pais": "Venezuela"
+              },
+              {
+                "nom": "Márcio Vieira",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Manuel Neuer",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Raúl Jiménez",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Pedro Gallese",
+                "pais": "Peru"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Jorge Campos",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Boniek García",
+                "pais": "Honduras"
+              },
+              {
+                "nom": "Ragnar Klavan",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Paolo Guerrero",
+                "pais": "Peru"
+              },
+              {
+                "nom": "Guram Kashia",
+                "pais": "Georgia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 61,
+        "rank_global": 173,
+        "ambit": "global"
+      },
+      "ts": 1790532000.0,
+      "collage": "collages\\f61ee490-ef77-4abc-8b09-e4e2ee7bef4f.webp"
+    },
+    {
+      "id": "3f0a3d16-c5de-49c2-9921-7bdf92a79bfb",
+      "text": "Ali Madan reaches Rashid Al-Dosari as 13th Bahrain, 102nd AFC, 310th global player with 115 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ali Madan",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 115,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Rashid Al-Dosari",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 13,
+        "rank_confederacio": 102,
+        "rank_global": 310,
+        "ambit": "compatriota"
+      },
+      "ts": 1790532000.0,
+      "collage": "collages\\3f0a3d16-c5de-49c2-9921-7bdf92a79bfb.webp"
+    },
+    {
+      "id": "4053f1f3-db28-477c-94bf-6c7787d326bd",
+      "text": "Joshua Kimmich (6th Germany) surpasses Gheorghe Popescu, David Beckham, Andrejs Rubins, Miralem Pjanić and Thibaut Courtois and reaches Roland Nilsson, Marcel Desailly, Andrea Pirlo and Kostas Katsouranis as 103rd UEFA, 295th global player with 116 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Joshua Kimmich",
+        "pais": "Germany",
+        "confederacio": "UEFA",
+        "valor": 116,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Popescu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "David Beckham",
+                "pais": "England"
+              },
+              {
+                "nom": "Andrejs Rubins",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Miralem Pjanić",
+                "pais": "Bosnia and Herzegovina"
+              },
+              {
+                "nom": "Thibaut Courtois",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Roland Nilsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Marcel Desailly",
+                "pais": "France"
+              },
+              {
+                "nom": "Andrea Pirlo",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Kostas Katsouranis",
+                "pais": "Greece"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 103,
+        "rank_global": 295,
+        "ambit": "confederacio"
+      },
+      "ts": 1790534700.0,
+      "collage": "collages\\4053f1f3-db28-477c-94bf-6c7787d326bd.webp"
+    },
+    {
+      "id": "880f8081-f6b0-46c4-9aa0-06500ef0e6bb",
+      "text": "Bernardo Silva (5th Portugal) surpasses Viktor Onopko, Martin Stocklasa, Philipp Lahm, Răzvan Raț and Birkir Bjarnason and reaches Björn Nordqvist, Kristen Viikmäe, Stipe Pletikosa, Steven Gerrard, Xabi Alonso, Raio Piiroja, Dmitri Kruglov, Sergei Zenjov and Toni Kroos as 113th UEFA, 323rd global player with 114 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Bernardo Silva",
+        "pais": "Portugal",
+        "confederacio": "UEFA",
+        "valor": 114,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Viktor Onopko",
+                "pais": "CIS"
+              },
+              {
+                "nom": "Martin Stocklasa",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Philipp Lahm",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Răzvan Raț",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Birkir Bjarnason",
+                "pais": "Iceland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Björn Nordqvist",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Kristen Viikmäe",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Stipe Pletikosa",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Steven Gerrard",
+                "pais": "England"
+              },
+              {
+                "nom": "Xabi Alonso",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Raio Piiroja",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Dmitri Kruglov",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Sergei Zenjov",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Toni Kroos",
+                "pais": "Germany"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 113,
+        "rank_global": 323,
+        "ambit": "confederacio"
+      },
+      "ts": 1790534700.0,
+      "collage": "collages\\880f8081-f6b0-46c4-9aa0-06500ef0e6bb.webp"
+    },
+    {
+      "id": "9e8cd207-8926-4712-9d55-12ded3af9352",
+      "text": "Nicolas Hasler surpasses Franz Burgmeier and reaches Martin Stocklasa as 3rd Liechtenstein, 123rd UEFA, 344th global player with 113 international caps.",
       "dades": {
         "categoria": "Partits",
         "jugador": "Nicolas Hasler",
@@ -1228,14 +4218,148 @@
         ],
         "rank_nacional": 3,
         "rank_confederacio": 123,
-        "rank_global": 346,
+        "rank_global": 344,
         "ambit": "compatriota"
       },
-      "ts": 1790244000.0,
-      "collage": "collages\\d8eb3ab9-4e0f-474e-894b-0813ec5f0e47.webp"
+      "ts": 1790534700.0,
+      "collage": "collages\\9e8cd207-8926-4712-9d55-12ded3af9352.webp"
     },
     {
-      "id": "281949a2-542d-4c1b-ab26-44b560f04fdc",
+      "id": "1db9c454-faa6-44f5-894f-29ac865c1059",
+      "text": "Dušan Tadić (1st Serbia) surpasses Dino Zoff, Alain Geiger, Frank de Boer, Hakan Şükür, Jon Dahl Tomasson, Juris Laizāns, Nani, Aaron Hughes, Franz Burgmeier, Juraj Kucka and Memphis Depay and reaches Viktor Onopko, Martin Stocklasa, Philipp Lahm, Răzvan Raț, Birkir Bjarnason and Nicolas Hasler as 123rd UEFA, 344th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Dino Zoff",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Alain Geiger",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Frank de Boer",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Hakan Şükür",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Jon Dahl Tomasson",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Juris Laizāns",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Nani",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Aaron Hughes",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Juraj Kucka",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Memphis Depay",
+                "pais": "Netherlands"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Viktor Onopko",
+                "pais": "CIS"
+              },
+              {
+                "nom": "Martin Stocklasa",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Philipp Lahm",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Răzvan Raț",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Birkir Bjarnason",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Nicolas Hasler",
+                "pais": "Liechtenstein"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 123,
+        "rank_global": 344,
+        "ambit": "confederacio"
+      },
+      "ts": 1790534700.0,
+      "collage": "collages\\1db9c454-faa6-44f5-894f-29ac865c1059.webp"
+    },
+    {
+      "id": "1a547e24-eb4a-483b-b829-7acb6021f47f",
+      "text": "Francisco Calvo surpasses Álvaro Saborío and reaches Rolando Fonseca as 7th Costa Rica, 46th CONCACAF, 381st global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Álvaro Saborío",
+                "pais": "Costa Rica"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Rolando Fonseca",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 46,
+        "rank_global": 381,
+        "ambit": "compatriota"
+      },
+      "ts": 1790534700.0,
+      "collage": "collages\\1a547e24-eb4a-483b-b829-7acb6021f47f.webp"
+    },
+    {
+      "id": "cd80ac8c-ddbc-43a1-9fdc-9a54caebe313",
       "text": "Moisés San Nicolás (6th Andorra) surpasses Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer and reaches Franz Beckenbauer, Michael Laudrup, Didier Deschamps, Andi Herzog, Stéphane Chapuisat, Indrek Zelinski, Dejan Stanković, Māris Verpakovskis, Jaroslav Plašil, Vedran Ćorluka, Andrei Agius, Kamil Glik, James McClean and Fedor Černych as 206th UEFA, 548th global player with 103 international caps.",
       "dades": {
         "categoria": "Partits",
@@ -1372,155 +4496,12 @@
         "rank_global": 548,
         "ambit": "confederacio"
       },
-      "ts": 1790244000.0,
-      "collage": "collages\\281949a2-542d-4c1b-ab26-44b560f04fdc.webp"
+      "ts": 1790534700.0,
+      "collage": "collages\\cd80ac8c-ddbc-43a1-9fdc-9a54caebe313.webp"
     },
     {
-      "id": "77bf3ac4-5540-4aac-9c3a-951253aee6d0",
-      "text": "Erling Haaland (1st Norway) surpasses Aleksandar Mitrović as 13th UEFA, 34th global scorer with 65 international goals.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Erling Haaland",
-        "pais": "Norway",
-        "confederacio": "UEFA",
-        "valor": 65,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Aleksandar Mitrović",
-                "pais": "Serbia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 13,
-        "rank_global": 34,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\77bf3ac4-5540-4aac-9c3a-951253aee6d0.webp"
-    },
-    {
-      "id": "2972e535-0359-4207-917f-621570896b17",
-      "text": "Erling Haaland (1st Norway, 13th UEFA) surpasses Didier Drogba as 34th global scorer with 66 international goals.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Erling Haaland",
-        "pais": "Norway",
-        "confederacio": "UEFA",
-        "valor": 66,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Didier Drogba",
-                "pais": "Ivory Coast"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 13,
-        "rank_global": 34,
-        "ambit": "global"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\2972e535-0359-4207-917f-621570896b17.webp"
-    },
-    {
-      "id": "345fb4c7-7280-4349-b71c-c89262c252dd",
-      "text": "Joshua Kimmich (6th Germany) surpasses Gheorghe Popescu, David Beckham, Andrejs Rubins, Miralem Pjanić and Thibaut Courtois and reaches Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Mateo Kovačić as 103rd UEFA, 295th global player with 116 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Joshua Kimmich",
-        "pais": "Germany",
-        "confederacio": "UEFA",
-        "valor": 116,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Gheorghe Popescu",
-                "pais": "Romania"
-              },
-              {
-                "nom": "David Beckham",
-                "pais": "England"
-              },
-              {
-                "nom": "Andrejs Rubins",
-                "pais": "Latvia"
-              },
-              {
-                "nom": "Miralem Pjanić",
-                "pais": "Bosnia and Herzegovina"
-              },
-              {
-                "nom": "Thibaut Courtois",
-                "pais": "Belgium"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Roland Nilsson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Marcel Desailly",
-                "pais": "France"
-              },
-              {
-                "nom": "Andrea Pirlo",
-                "pais": "Italy"
-              },
-              {
-                "nom": "Kostas Katsouranis",
-                "pais": "Greece"
-              },
-              {
-                "nom": "Mateo Kovačić",
-                "pais": "Croatia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 6,
-        "rank_confederacio": 103,
-        "rank_global": 295,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\345fb4c7-7280-4349-b71c-c89262c252dd.webp"
-    },
-    {
-      "id": "ee826d25-dd2a-4c24-b769-8860bf7e792e",
-      "text": "235th international cap for Cristiano Ronaldo. 1st Portugal, 1st UEFA, 1st global player.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Cristiano Ronaldo",
-        "pais": "Portugal",
-        "confederacio": "UEFA",
-        "valor": 235,
-        "accions": [],
-        "rank_nacional": 1,
-        "rank_confederacio": 1,
-        "rank_global": 1,
-        "ambit": "cap"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\ee826d25-dd2a-4c24-b769-8860bf7e792e.webp"
-    },
-    {
-      "id": "4dabc1bd-0a39-407b-82f6-4e4888242ea7",
-      "text": "Ben Davies (4th Wales) surpasses Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Henning Berg, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava and Kamil Grosicki and reaches Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer as 220th UEFA, 569th global player with 102 international caps.",
+      "id": "57592147-9116-4fde-b061-2bd89c1eb5c5",
+      "text": "Ben Davies (4th Wales) surpasses Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava, Kamil Grosicki and Elseid Hysaj and reaches Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer as 220th UEFA, 569th global player with 102 international caps.",
       "dades": {
         "categoria": "Partits",
         "jugador": "Ben Davies",
@@ -1546,10 +4527,6 @@
               {
                 "nom": "Joe Brincat",
                 "pais": "Malta"
-              },
-              {
-                "nom": "Henning Berg",
-                "pais": "Norway"
               },
               {
                 "nom": "Phillip Cocu",
@@ -1602,6 +4579,10 @@
               {
                 "nom": "Kamil Grosicki",
                 "pais": "Poland"
+              },
+              {
+                "nom": "Elseid Hysaj",
+                "pais": "Albania"
               }
             ]
           },
@@ -1672,2228 +4653,27 @@
         "rank_global": 569,
         "ambit": "confederacio"
       },
-      "ts": 1790244000.0,
-      "collage": "collages\\4dabc1bd-0a39-407b-82f6-4e4888242ea7.webp"
-    },
-    {
-      "id": "fe4c4d39-3453-4a1c-9dff-c46b8734e864",
-      "text": "Dušan Tadić (1st Serbia) surpasses Dino Zoff, Alain Geiger, Frank de Boer, Hakan Şükür, Jon Dahl Tomasson, Juris Laizāns, Nani, Aaron Hughes, Franz Burgmeier, Juraj Kucka and Memphis Depay and reaches Viktor Onopko, Martin Stocklasa, Philipp Lahm, Răzvan Raț, Birkir Bjarnason, Nicolas Hasler and Bernardo Silva as 123rd UEFA, 346th global player with 113 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Dušan Tadić",
-        "pais": "Serbia",
-        "confederacio": "UEFA",
-        "valor": 113,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Dino Zoff",
-                "pais": "Italy"
-              },
-              {
-                "nom": "Alain Geiger",
-                "pais": "Switzerland"
-              },
-              {
-                "nom": "Frank de Boer",
-                "pais": "Netherlands"
-              },
-              {
-                "nom": "Hakan Şükür",
-                "pais": "Turkey"
-              },
-              {
-                "nom": "Jon Dahl Tomasson",
-                "pais": "Denmark"
-              },
-              {
-                "nom": "Juris Laizāns",
-                "pais": "Latvia"
-              },
-              {
-                "nom": "Nani",
-                "pais": "Portugal"
-              },
-              {
-                "nom": "Aaron Hughes",
-                "pais": "Northern Ireland"
-              },
-              {
-                "nom": "Franz Burgmeier",
-                "pais": "Liechtenstein"
-              },
-              {
-                "nom": "Juraj Kucka",
-                "pais": "Slovakia"
-              },
-              {
-                "nom": "Memphis Depay",
-                "pais": "Netherlands"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Viktor Onopko",
-                "pais": "CIS"
-              },
-              {
-                "nom": "Martin Stocklasa",
-                "pais": "Liechtenstein"
-              },
-              {
-                "nom": "Philipp Lahm",
-                "pais": "Germany"
-              },
-              {
-                "nom": "Răzvan Raț",
-                "pais": "Romania"
-              },
-              {
-                "nom": "Birkir Bjarnason",
-                "pais": "Iceland"
-              },
-              {
-                "nom": "Nicolas Hasler",
-                "pais": "Liechtenstein"
-              },
-              {
-                "nom": "Bernardo Silva",
-                "pais": "Portugal"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 123,
-        "rank_global": 346,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\fe4c4d39-3453-4a1c-9dff-c46b8734e864.webp"
-    },
-    {
-      "id": "050ed2aa-dfb0-4485-beea-e1e18036351d",
-      "text": "Franck Kessié (4th Ivory Coast) surpasses Asamoah Gyan and reaches Ahmed El-Kass, François Amégasse and Ahmed Musa as 29th CAF, 397th global player with 110 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Franck Kessié",
-        "pais": "Ivory Coast",
-        "confederacio": "CAF",
-        "valor": 110,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Asamoah Gyan",
-                "pais": "Ghana"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Ahmed El-Kass",
-                "pais": "Egypt"
-              },
-              {
-                "nom": "François Amégasse",
-                "pais": "Gabon"
-              },
-              {
-                "nom": "Ahmed Musa",
-                "pais": "Nigeria"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 4,
-        "rank_confederacio": 29,
-        "rank_global": 397,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\050ed2aa-dfb0-4485-beea-e1e18036351d.webp"
-    },
-    {
-      "id": "3d0f430d-6992-4d40-8a2f-0525ce436b52",
-      "text": "Ferjani Sassi (3rd Tunisia) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré, Ryan Mendes, Simon Msuva and Achraf Hakimi and reaches Elijah Tana as 46th CAF, 548th global player with 103 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Ferjani Sassi",
-        "pais": "Tunisia",
-        "confederacio": "CAF",
-        "valor": 103,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Hosny Abd Rabo",
-                "pais": "Egypt"
-              },
-              {
-                "nom": "Yaya Touré",
-                "pais": "Ivory Coast"
-              },
-              {
-                "nom": "Christopher Katongo",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Joseph Kamwendo",
-                "pais": "Malawi"
-              },
-              {
-                "nom": "Rainford Kalaba",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Charles Kaboré",
-                "pais": "Burkina Faso"
-              },
-              {
-                "nom": "Ryan Mendes",
-                "pais": "Cape Verde"
-              },
-              {
-                "nom": "Simon Msuva",
-                "pais": "Tanzania"
-              },
-              {
-                "nom": "Achraf Hakimi",
-                "pais": "Morocco"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Elijah Tana",
-                "pais": "Zambia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 3,
-        "rank_confederacio": 46,
-        "rank_global": 548,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\3d0f430d-6992-4d40-8a2f-0525ce436b52.webp"
-    },
-    {
-      "id": "37f38d50-d567-4449-9f7a-8f46b6f460e4",
-      "text": "Ehsan Hajsafi surpasses Javad Nekounam as 1st Iran, 18th AFC, 48th global player with 150 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Ehsan Hajsafi",
-        "pais": "Iran",
-        "confederacio": "AFC",
-        "valor": 150,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Javad Nekounam",
-                "pais": "Iran"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 18,
-        "rank_global": 48,
-        "ambit": "compatriota"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\37f38d50-d567-4449-9f7a-8f46b6f460e4.webp"
-    },
-    {
-      "id": "2a987b5f-e9f6-49f2-af4e-7b5d8a97ed00",
-      "text": "Mehdi Taremi surpasses Mehdi Mahdavikia as 6th Iran, 128th AFC, 383rd global player with 111 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Mehdi Taremi",
-        "pais": "Iran",
-        "confederacio": "AFC",
-        "valor": 111,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Mehdi Mahdavikia",
-                "pais": "Iran"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 6,
-        "rank_confederacio": 128,
-        "rank_global": 383,
-        "ambit": "compatriota"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\2a987b5f-e9f6-49f2-af4e-7b5d8a97ed00.webp"
-    },
-    {
-      "id": "50ecf821-2800-45c1-8305-f7e359190992",
-      "text": "Lee Jae-sung (10th South Korea) surpasses Fan Zhiyi, Maher Al-Sayed, Phil Younghusband, Odil Ahmedov and Anas Bani Yaseen and reaches Wael Sulaiman, Nohair Al-Shammari and Hassan Abdel-Fattah as 140th AFC, 421st global player with 109 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Lee Jae-sung",
-        "pais": "South Korea",
-        "confederacio": "AFC",
-        "valor": 109,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Fan Zhiyi",
-                "pais": "China"
-              },
-              {
-                "nom": "Maher Al-Sayed",
-                "pais": "Syria"
-              },
-              {
-                "nom": "Phil Younghusband",
-                "pais": "Philippines"
-              },
-              {
-                "nom": "Odil Ahmedov",
-                "pais": "Uzbekistan"
-              },
-              {
-                "nom": "Anas Bani Yaseen",
-                "pais": "Jordan"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Wael Sulaiman",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Nohair Al-Shammari",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Hassan Abdel-Fattah",
-                "pais": "Jordan"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 10,
-        "rank_confederacio": 140,
-        "rank_global": 421,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\50ecf821-2800-45c1-8305-f7e359190992.webp"
-    },
-    {
-      "id": "c49c3d05-bef5-469d-895a-f7a385ad2748",
-      "text": "Son Heung-min (1st South Korea) surpasses Ehsan Hajsafi as 18th AFC, 46th global player with 151 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Son Heung-min",
-        "pais": "South Korea",
-        "confederacio": "AFC",
-        "valor": 151,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Ehsan Hajsafi",
-                "pais": "Iran"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 18,
-        "rank_global": 46,
-        "ambit": "confederacio"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\c49c3d05-bef5-469d-895a-f7a385ad2748.webp"
-    },
-    {
-      "id": "1759e09f-2c06-4f2a-af82-9611c644b0a8",
-      "text": "Son Heung-min reaches Cha Bum-kun as 1st South Korea, 18th AFC, 47th global scorer with 58 international goals.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Son Heung-min",
-        "pais": "South Korea",
-        "confederacio": "AFC",
-        "valor": 58,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Cha Bum-kun",
-                "pais": "South Korea"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 18,
-        "rank_global": 47,
-        "ambit": "compatriota"
-      },
-      "ts": 1790244000.0,
-      "collage": "collages\\1759e09f-2c06-4f2a-af82-9611c644b0a8.webp"
-    },
-    {
-      "id": "3a205b22-8416-4759-b4ff-f97eee8fbd0c",
-      "text": "Piotr Zieliński (2nd Poland) surpasses Carmel Busuttil, Fernando Couto, Kevin Kilbane, John Arne Riise, Cesc Fàbregas and Aron Gunnarsson and reaches Andriy Shevchenko, Igor Akinfeev and Gareth Bale as 142nd UEFA, 383rd global player with 111 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Piotr Zieliński",
-        "pais": "Poland",
-        "confederacio": "UEFA",
-        "valor": 111,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Carmel Busuttil",
-                "pais": "Malta"
-              },
-              {
-                "nom": "Fernando Couto",
-                "pais": "Portugal"
-              },
-              {
-                "nom": "Kevin Kilbane",
-                "pais": "Republic of Ireland"
-              },
-              {
-                "nom": "John Arne Riise",
-                "pais": "Norway"
-              },
-              {
-                "nom": "Cesc Fàbregas",
-                "pais": "Spain"
-              },
-              {
-                "nom": "Aron Gunnarsson",
-                "pais": "Iceland"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Andriy Shevchenko",
-                "pais": "Ukraine"
-              },
-              {
-                "nom": "Igor Akinfeev",
-                "pais": "Russia"
-              },
-              {
-                "nom": "Gareth Bale",
-                "pais": "Wales"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 142,
-        "rank_global": 383,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\3a205b22-8416-4759-b4ff-f97eee8fbd0c.webp"
-    },
-    {
-      "id": "98eeba94-d06b-47e6-a78f-f49909f7aa14",
-      "text": "Robert Lewandowski (1st Poland, 5th UEFA) surpasses Iván Hurtado and Alexis Sánchez as 17th global player with 169 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Robert Lewandowski",
-        "pais": "Poland",
-        "confederacio": "UEFA",
-        "valor": 169,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Iván Hurtado",
-                "pais": "Ecuador"
-              },
-              {
-                "nom": "Alexis Sánchez",
-                "pais": "Chile"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 5,
-        "rank_global": 17,
-        "ambit": "global"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\98eeba94-d06b-47e6-a78f-f49909f7aa14.webp"
-    },
-    {
-      "id": "cffa35de-b8a7-4ed9-b87d-7cc21d60aaec",
-      "text": "Kevin De Bruyne reaches Eden Hazard as 5th Belgium, 66th UEFA, 196th global player with 126 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Kevin De Bruyne",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 126,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Eden Hazard",
-                "pais": "Belgium"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 5,
-        "rank_confederacio": 66,
-        "rank_global": 196,
-        "ambit": "compatriota"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\cffa35de-b8a7-4ed9-b87d-7cc21d60aaec.webp"
-    },
-    {
-      "id": "2b89fdd7-0714-40ff-a0ba-5193687d8ea8",
-      "text": "Romelu Lukaku (3rd Belgium) surpasses Xavi, Andreas Isaksson, Sebastian Larsson and Teemu Pukki and reaches Dorinel Munteanu, Andres Oper, Shay Given, Darijo Srna and Wesley Sneijder as 40th UEFA, 126th global player with 134 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Romelu Lukaku",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 134,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Xavi",
-                "pais": "Spain"
-              },
-              {
-                "nom": "Andreas Isaksson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Sebastian Larsson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Teemu Pukki",
-                "pais": "Finland"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Dorinel Munteanu",
-                "pais": "Romania"
-              },
-              {
-                "nom": "Andres Oper",
-                "pais": "Estonia"
-              },
-              {
-                "nom": "Shay Given",
-                "pais": "Republic of Ireland"
-              },
-              {
-                "nom": "Darijo Srna",
-                "pais": "Croatia"
-              },
-              {
-                "nom": "Wesley Sneijder",
-                "pais": "Netherlands"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 3,
-        "rank_confederacio": 40,
-        "rank_global": 126,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\2b89fdd7-0714-40ff-a0ba-5193687d8ea8.webp"
-    },
-    {
-      "id": "e3ec4dba-c303-4566-9eb8-a9a95d368d15",
-      "text": "Kylian Mbappé surpasses Patrick Vieira and reaches Zinedine Zidane as 7th France, 160th UEFA, 439th global player with 108 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Kylian Mbappé",
-        "pais": "France",
-        "confederacio": "UEFA",
-        "valor": 108,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Patrick Vieira",
-                "pais": "France"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Zinedine Zidane",
-                "pais": "France"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 7,
-        "rank_confederacio": 160,
-        "rank_global": 439,
-        "ambit": "compatriota"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\e3ec4dba-c303-4566-9eb8-a9a95d368d15.webp"
-    },
-    {
-      "id": "a28b590d-b648-4459-bb31-31336e57abc2",
-      "text": "Francisco Calvo surpasses Álvaro Saborío and reaches Rolando Fonseca as 7th Costa Rica, 46th CONCACAF, 383rd global player with 111 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Francisco Calvo",
-        "pais": "Costa Rica",
-        "confederacio": "CONCACAF",
-        "valor": 111,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Álvaro Saborío",
-                "pais": "Costa Rica"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Rolando Fonseca",
-                "pais": "Costa Rica"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 7,
-        "rank_confederacio": 46,
-        "rank_global": 383,
-        "ambit": "compatriota"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\a28b590d-b648-4459-bb31-31336e57abc2.webp"
-    },
-    {
-      "id": "0ce93fe6-1eb3-483d-afce-6e916fce04e1",
-      "text": "Mohamed Salah surpasses Hany Ramzy as 6th Egypt, 12th CAF, 228th global player with 123 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Mohamed Salah",
-        "pais": "Egypt",
-        "confederacio": "CAF",
-        "valor": 123,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Hany Ramzy",
-                "pais": "Egypt"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 6,
-        "rank_confederacio": 12,
-        "rank_global": 228,
-        "ambit": "compatriota"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\0ce93fe6-1eb3-483d-afce-6e916fce04e1.webp"
-    },
-    {
-      "id": "90845dde-33d2-4d72-a945-41c1ca65bfec",
-      "text": "Ryan Mendes (1st Cape Verde) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré, Simon Msuva and Achraf Hakimi and reaches Elijah Tana and Ferjani Sassi as 46th CAF, 548th global player with 103 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Ryan Mendes",
-        "pais": "Cape Verde",
-        "confederacio": "CAF",
-        "valor": 103,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Hosny Abd Rabo",
-                "pais": "Egypt"
-              },
-              {
-                "nom": "Yaya Touré",
-                "pais": "Ivory Coast"
-              },
-              {
-                "nom": "Christopher Katongo",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Joseph Kamwendo",
-                "pais": "Malawi"
-              },
-              {
-                "nom": "Rainford Kalaba",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Charles Kaboré",
-                "pais": "Burkina Faso"
-              },
-              {
-                "nom": "Simon Msuva",
-                "pais": "Tanzania"
-              },
-              {
-                "nom": "Achraf Hakimi",
-                "pais": "Morocco"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Elijah Tana",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Ferjani Sassi",
-                "pais": "Tunisia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 46,
-        "rank_global": 548,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\90845dde-33d2-4d72-a945-41c1ca65bfec.webp"
-    },
-    {
-      "id": "24727dc3-ae6c-404a-aaf3-eeaa158fb99e",
-      "text": "Alex Iwobi surpasses Moses Simon and reaches Joseph Yobo and Vincent Enyeama as 2nd Nigeria, 57th CAF, 609th global player with 101 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Alex Iwobi",
-        "pais": "Nigeria",
-        "confederacio": "CAF",
-        "valor": 101,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Moses Simon",
-                "pais": "Nigeria"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Joseph Yobo",
-                "pais": "Nigeria"
-              },
-              {
-                "nom": "Vincent Enyeama",
-                "pais": "Nigeria"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 57,
-        "rank_global": 609,
-        "ambit": "compatriota"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\24727dc3-ae6c-404a-aaf3-eeaa158fb99e.webp"
-    },
-    {
-      "id": "b81c41c3-96e8-4fd6-b097-c63c82319b71",
-      "text": "Moses Simon reaches Joseph Yobo, Vincent Enyeama and Alex Iwobi as 2nd Nigeria, 57th CAF, 609th global player with 101 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Moses Simon",
-        "pais": "Nigeria",
-        "confederacio": "CAF",
-        "valor": 101,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Joseph Yobo",
-                "pais": "Nigeria"
-              },
-              {
-                "nom": "Vincent Enyeama",
-                "pais": "Nigeria"
-              },
-              {
-                "nom": "Alex Iwobi",
-                "pais": "Nigeria"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 57,
-        "rank_global": 609,
-        "ambit": "compatriota"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\b81c41c3-96e8-4fd6-b097-c63c82319b71.webp"
-    },
-    {
-      "id": "4b74276e-0fc7-4876-a185-18b174653e86",
-      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Pepe and reaches Abdullah Zubromawi, Marko Kristal, Cafu, Lilian Thuram, Amer Deeb and Michael Mifsud as 85th global player with 142 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Idrissa Gueye",
-        "pais": "Senegal",
-        "confederacio": "CAF",
-        "valor": 142,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Pepe",
-                "pais": "Portugal"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Abdullah Zubromawi",
-                "pais": "Saudi Arabia"
-              },
-              {
-                "nom": "Marko Kristal",
-                "pais": "Estonia"
-              },
-              {
-                "nom": "Cafu",
-                "pais": "Brazil"
-              },
-              {
-                "nom": "Lilian Thuram",
-                "pais": "France"
-              },
-              {
-                "nom": "Amer Deeb",
-                "pais": "Jordan"
-              },
-              {
-                "nom": "Michael Mifsud",
-                "pais": "Malta"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 4,
-        "rank_global": 85,
-        "ambit": "global"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\4b74276e-0fc7-4876-a185-18b174653e86.webp"
-    },
-    {
-      "id": "6f79f9b6-edce-4645-b847-d7ff8747c163",
-      "text": "Simon Msuva (2nd Tanzania) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré and Achraf Hakimi and reaches Elijah Tana, Ryan Mendes and Ferjani Sassi as 46th CAF, 548th global player with 103 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Simon Msuva",
-        "pais": "Tanzania",
-        "confederacio": "CAF",
-        "valor": 103,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Hosny Abd Rabo",
-                "pais": "Egypt"
-              },
-              {
-                "nom": "Yaya Touré",
-                "pais": "Ivory Coast"
-              },
-              {
-                "nom": "Christopher Katongo",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Joseph Kamwendo",
-                "pais": "Malawi"
-              },
-              {
-                "nom": "Rainford Kalaba",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Charles Kaboré",
-                "pais": "Burkina Faso"
-              },
-              {
-                "nom": "Achraf Hakimi",
-                "pais": "Morocco"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Elijah Tana",
-                "pais": "Zambia"
-              },
-              {
-                "nom": "Ryan Mendes",
-                "pais": "Cape Verde"
-              },
-              {
-                "nom": "Ferjani Sassi",
-                "pais": "Tunisia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 46,
-        "rank_global": 548,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\6f79f9b6-edce-4645-b847-d7ff8747c163.webp"
-    },
-    {
-      "id": "3c269b0a-ddb3-4064-b5cd-64911bd30a5c",
-      "text": "Hariss Harun (1st Singapore) reaches Sami Al-Jaber as 14th AFC, 37th global player with 156 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Hariss Harun",
-        "pais": "Singapore",
-        "confederacio": "AFC",
-        "valor": 156,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Sami Al-Jaber",
-                "pais": "Saudi Arabia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 14,
-        "rank_global": 37,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\3c269b0a-ddb3-4064-b5cd-64911bd30a5c.webp"
-    },
-    {
-      "id": "8bb32707-8a23-4567-87b3-334f7ea4b3d0",
-      "text": "Safuwan Baharudin (6th Singapore) surpasses Lee Woon-jae, Saud Kariri, Amad Al-Hosni, Yousef Nasser and Abdulaziz Hatem and reaches Hassan Mudhafar, Bashar Abdullah and Taisir Al-Jassim as 44th AFC, 126th global player with 134 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Safuwan Baharudin",
-        "pais": "Singapore",
-        "confederacio": "AFC",
-        "valor": 134,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Lee Woon-jae",
-                "pais": "South Korea"
-              },
-              {
-                "nom": "Saud Kariri",
-                "pais": "Saudi Arabia"
-              },
-              {
-                "nom": "Amad Al-Hosni",
-                "pais": "Oman"
-              },
-              {
-                "nom": "Yousef Nasser",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Abdulaziz Hatem",
-                "pais": "Qatar"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Hassan Mudhafar",
-                "pais": "Oman"
-              },
-              {
-                "nom": "Bashar Abdullah",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Taisir Al-Jassim",
-                "pais": "Saudi Arabia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 6,
-        "rank_confederacio": 44,
-        "rank_global": 126,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\8bb32707-8a23-4567-87b3-334f7ea4b3d0.webp"
-    },
-    {
-      "id": "e1959b62-0663-417a-8b94-a32e70b6a578",
-      "text": "Marquinhos (6th Brazil) surpasses Carlos Valderrama, José Manuel Rey and Édison Méndez and reaches Diego Forlán and Roque Santa Cruz as 40th CONMEBOL, 358th global player with 112 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Marquinhos",
-        "pais": "Brazil",
-        "confederacio": "CONMEBOL",
-        "valor": 112,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Carlos Valderrama",
-                "pais": "Colombia"
-              },
-              {
-                "nom": "José Manuel Rey",
-                "pais": "Venezuela"
-              },
-              {
-                "nom": "Édison Méndez",
-                "pais": "Ecuador"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Diego Forlán",
-                "pais": "Uruguay"
-              },
-              {
-                "nom": "Roque Santa Cruz",
-                "pais": "Paraguay"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 6,
-        "rank_confederacio": 40,
-        "rank_global": 358,
-        "ambit": "confederacio"
-      },
-      "ts": 1790330400.0,
-      "collage": "collages\\e1959b62-0663-417a-8b94-a32e70b6a578.webp"
-    },
-    {
-      "id": "5517bb05-210c-44fb-9460-c26764587b74",
-      "text": "Yousef Nasser reaches Bashar Abdullah as 3rd Kuwait, 44th AFC, 126th global player with 134 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Yousef Nasser",
-        "pais": "Kuwait",
-        "confederacio": "AFC",
-        "valor": 134,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Bashar Abdullah",
-                "pais": "Kuwait"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 3,
-        "rank_confederacio": 44,
-        "rank_global": 126,
-        "ambit": "compatriota"
-      },
-      "ts": 1790440892.595217,
-      "collage": "collages\\5517bb05-210c-44fb-9460-c26764587b74.webp"
-    },
-    {
-      "id": "eb45a64d-e3c0-43ae-99e4-0cefb83a98cb",
-      "text": "Laurent Jans (1st Luxembourg) surpasses Gheorghe Hagi, Petr Čech and Marc Pujol and reaches Peter Shilton, Mario Frick, David Silva and Xherdan Shaqiri as 71st UEFA, 208th global player with 125 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Laurent Jans",
-        "pais": "Luxembourg",
-        "confederacio": "UEFA",
-        "valor": 125,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Gheorghe Hagi",
-                "pais": "Romania"
-              },
-              {
-                "nom": "Petr Čech",
-                "pais": "Czech Republic"
-              },
-              {
-                "nom": "Marc Pujol",
-                "pais": "Andorra"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Peter Shilton",
-                "pais": "England"
-              },
-              {
-                "nom": "Mario Frick",
-                "pais": "Liechtenstein"
-              },
-              {
-                "nom": "David Silva",
-                "pais": "Spain"
-              },
-              {
-                "nom": "Xherdan Shaqiri",
-                "pais": "Switzerland"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 71,
-        "rank_global": 208,
-        "ambit": "confederacio"
-      },
-      "ts": 1790441271.261024,
-      "collage": "collages\\eb45a64d-e3c0-43ae-99e4-0cefb83a98cb.webp"
-    },
-    {
-      "id": "736a04bb-19eb-411d-9c9c-837700c7d2d6",
-      "text": "Karol Mets surpasses Henri Anier as 14th Estonia, 186th UEFA, 501st global player with 105 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Karol Mets",
-        "pais": "Estonia",
-        "confederacio": "UEFA",
-        "valor": 105,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Henri Anier",
-                "pais": "Estonia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 14,
-        "rank_confederacio": 186,
-        "rank_global": 501,
-        "ambit": "compatriota"
-      },
-      "ts": 1790441296.576692,
-      "collage": "collages\\736a04bb-19eb-411d-9c9c-837700c7d2d6.webp"
-    },
-    {
-      "id": "c533d3ec-aa0d-4a57-925d-bead80e22008",
-      "text": "Yousef Nasser (3rd Kuwait) surpasses Cha Bum-kun, Son Heung-min and Ali Ashfaq as 18th AFC, 45th global scorer with 59 international goals.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Yousef Nasser",
-        "pais": "Kuwait",
-        "confederacio": "AFC",
-        "valor": 59,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Cha Bum-kun",
-                "pais": "South Korea"
-              },
-              {
-                "nom": "Son Heung-min",
-                "pais": "South Korea"
-              },
-              {
-                "nom": "Ali Ashfaq",
-                "pais": "Maldives"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 3,
-        "rank_confederacio": 18,
-        "rank_global": 45,
-        "ambit": "confederacio"
-      },
-      "ts": 1790445299.571587,
-      "collage": "collages\\c533d3ec-aa0d-4a57-925d-bead80e22008.webp"
-    },
-    {
-      "id": "a02c8924-2381-46cc-abee-383dee87f3cc",
-      "text": "Ivan Perišić (2nd Croatia) reaches Konstantin Vassiljev as 8th UEFA, 32nd global player with 159 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Ivan Perišić",
-        "pais": "Croatia",
-        "confederacio": "UEFA",
-        "valor": 159,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Konstantin Vassiljev",
-                "pais": "Estonia"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 8,
-        "rank_global": 32,
-        "ambit": "confederacio"
-      },
-      "ts": 1790451215.656695,
-      "collage": "collages\\a02c8924-2381-46cc-abee-383dee87f3cc.webp"
-    },
-    {
-      "id": "567a8555-23d0-4e6a-b280-d1089318e594",
-      "text": "Luka Modrić (1st Croatia, 2nd UEFA) surpasses Bader Al-Mutawa as 3rd global player with 203 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Luka Modrić",
-        "pais": "Croatia",
-        "confederacio": "UEFA",
-        "valor": 203,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Bader Al-Mutawa",
-                "pais": "Kuwait"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 2,
-        "rank_global": 3,
-        "ambit": "global"
-      },
-      "ts": 1790451215.959733,
-      "collage": "collages\\567a8555-23d0-4e6a-b280-d1089318e594.webp"
-    },
-    {
-      "id": "4ce2c776-2e0b-4c7f-9aa6-81fdf1e874bb",
-      "text": "Mateo Kovačić (5th Croatia) surpasses Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Joshua Kimmich and reaches Karel Poborský, Olof Mellberg, Daniele De Rossi, Giorgio Chiellini and David Alaba as 98th UEFA, 282nd global player with 117 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Mateo Kovačić",
-        "pais": "Croatia",
-        "confederacio": "UEFA",
-        "valor": 117,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Roland Nilsson",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Marcel Desailly",
-                "pais": "France"
-              },
-              {
-                "nom": "Andrea Pirlo",
-                "pais": "Italy"
-              },
-              {
-                "nom": "Kostas Katsouranis",
-                "pais": "Greece"
-              },
-              {
-                "nom": "Joshua Kimmich",
-                "pais": "Germany"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Karel Poborský",
-                "pais": "Czech Republic"
-              },
-              {
-                "nom": "Olof Mellberg",
-                "pais": "Sweden"
-              },
-              {
-                "nom": "Daniele De Rossi",
-                "pais": "Italy"
-              },
-              {
-                "nom": "Giorgio Chiellini",
-                "pais": "Italy"
-              },
-              {
-                "nom": "David Alaba",
-                "pais": "Austria"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 5,
-        "rank_confederacio": 98,
-        "rank_global": 282,
-        "ambit": "confederacio"
-      },
-      "ts": 1790451216.245687,
-      "collage": "collages\\4ce2c776-2e0b-4c7f-9aa6-81fdf1e874bb.webp"
-    },
-    {
-      "id": "c76d0474-9bb0-4d3e-805c-99987be492a6",
-      "text": "Ricardo Rodriguez (2nd Switzerland) surpasses Anatoliy Tymoshchuk and reaches Hugo Lloris as 19th UEFA, 68th global player with 145 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Ricardo Rodriguez",
-        "pais": "Switzerland",
-        "confederacio": "UEFA",
-        "valor": 145,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Anatoliy Tymoshchuk",
-                "pais": "Ukraine"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Hugo Lloris",
-                "pais": "France"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 19,
-        "rank_global": 68,
-        "ambit": "confederacio"
-      },
-      "ts": 1790451345.191562,
-      "collage": "collages\\c76d0474-9bb0-4d3e-805c-99987be492a6.webp"
-    },
-    {
-      "id": "8b94beea-326c-4f9a-85a2-e8a73acfc645",
-      "text": "Harry Kane (2nd England) surpasses Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci and reaches Goran Pandev and Zlatan Ibrahimović as 81st UEFA, 234th global player with 122 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Harry Kane",
-        "pais": "England",
-        "confederacio": "UEFA",
-        "valor": 122,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Peter Schmeichel",
-                "pais": "Denmark"
-              },
-              {
-                "nom": "Bastian Schweinsteiger",
-                "pais": "Germany"
-              },
-              {
-                "nom": "Leonardo Bonucci",
-                "pais": "Italy"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Goran Pandev",
-                "pais": "North Macedonia"
-              },
-              {
-                "nom": "Zlatan Ibrahimović",
-                "pais": "Sweden"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 81,
-        "rank_global": 234,
-        "ambit": "confederacio"
-      },
-      "ts": 1790451370.376593,
-      "collage": "collages\\8b94beea-326c-4f9a-85a2-e8a73acfc645.webp"
-    },
-    {
-      "id": "2ffa8798-3b10-429a-97dd-dfed2241446d",
-      "text": "Harry Kane (1st England, 4th UEFA) surpasses Ali Mabkhout as 8th global scorer with 86 international goals.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Harry Kane",
-        "pais": "England",
-        "confederacio": "UEFA",
-        "valor": 86,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Ali Mabkhout",
-                "pais": "United Arab Emirates"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 4,
-        "rank_global": 8,
-        "ambit": "global"
-      },
-      "ts": 1790451370.856003,
-      "collage": "collages\\2ffa8798-3b10-429a-97dd-dfed2241446d.webp"
-    },
-    {
-      "id": "21a0c867-3e07-49f9-b665-71747bb94b3a",
-      "text": "Elseid Hysaj (1st Albania) surpasses Ulf Kirsten, Rúnar Kristinsson, Dario Šimić, Angelos Basinas, Goce Sedloski, Igors Stepanovs, Damien Duff, Carles Puyol, Arda Turan, Roderick Briffa, Ruslan Rotan, Bojan Jokić, Alexandru Epureanu, Aleksandar Dragović, Grzegorz Krychowiak, Taijo Teniste, Matteo Vitaioli, Lars Gerson and Jóan Símun Edmundsson and reaches Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Henning Berg, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava and Kamil Grosicki as 235th UEFA, 609th global player with 101 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Elseid Hysaj",
-        "pais": "Albania",
-        "confederacio": "UEFA",
-        "valor": 101,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Ulf Kirsten",
-                "pais": "East Germany"
-              },
-              {
-                "nom": "Rúnar Kristinsson",
-                "pais": "Iceland"
-              },
-              {
-                "nom": "Dario Šimić",
-                "pais": "Croatia"
-              },
-              {
-                "nom": "Angelos Basinas",
-                "pais": "Greece"
-              },
-              {
-                "nom": "Goce Sedloski",
-                "pais": "North Macedonia"
-              },
-              {
-                "nom": "Igors Stepanovs",
-                "pais": "Latvia"
-              },
-              {
-                "nom": "Damien Duff",
-                "pais": "Republic of Ireland"
-              },
-              {
-                "nom": "Carles Puyol",
-                "pais": "Spain"
-              },
-              {
-                "nom": "Arda Turan",
-                "pais": "Turkey"
-              },
-              {
-                "nom": "Roderick Briffa",
-                "pais": "Malta"
-              },
-              {
-                "nom": "Ruslan Rotan",
-                "pais": "Ukraine"
-              },
-              {
-                "nom": "Bojan Jokić",
-                "pais": "Slovenia"
-              },
-              {
-                "nom": "Alexandru Epureanu",
-                "pais": "Moldova"
-              },
-              {
-                "nom": "Aleksandar Dragović",
-                "pais": "Austria"
-              },
-              {
-                "nom": "Grzegorz Krychowiak",
-                "pais": "Poland"
-              },
-              {
-                "nom": "Taijo Teniste",
-                "pais": "Estonia"
-              },
-              {
-                "nom": "Matteo Vitaioli",
-                "pais": "San Marino"
-              },
-              {
-                "nom": "Lars Gerson",
-                "pais": "Luxembourg"
-              },
-              {
-                "nom": "Jóan Símun Edmundsson",
-                "pais": "Faroe Islands"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Oleg Blokhin",
-                "pais": "Soviet Union"
-              },
-              {
-                "nom": "László Bölöni",
-                "pais": "Romania"
-              },
-              {
-                "nom": "Thomas Häßler",
-                "pais": "West Germany"
-              },
-              {
-                "nom": "Joe Brincat",
-                "pais": "Malta"
-              },
-              {
-                "nom": "Henning Berg",
-                "pais": "Norway"
-              },
-              {
-                "nom": "Phillip Cocu",
-                "pais": "Netherlands"
-              },
-              {
-                "nom": "Levan Kobiashvili",
-                "pais": "Georgia"
-              },
-              {
-                "nom": "Alyaksandr Kulchy",
-                "pais": "Belarus"
-              },
-              {
-                "nom": "Thomas Sørensen",
-                "pais": "Denmark"
-              },
-              {
-                "nom": "Vasiliy Berezutskiy",
-                "pais": "Russia"
-              },
-              {
-                "nom": "Yossi Benayoun",
-                "pais": "Israel"
-              },
-              {
-                "nom": "Boštjan Cesar",
-                "pais": "Slovenia"
-              },
-              {
-                "nom": "Emre Belözoğlu",
-                "pais": "Turkey"
-              },
-              {
-                "nom": "Vasilis Torosidis",
-                "pais": "Greece"
-              },
-              {
-                "nom": "Daniel da Mota",
-                "pais": "Luxembourg"
-              },
-              {
-                "nom": "Saulius Mikoliūnas",
-                "pais": "Lithuania"
-              },
-              {
-                "nom": "Jaba Kankava",
-                "pais": "Georgia"
-              },
-              {
-                "nom": "Kamil Grosicki",
-                "pais": "Poland"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 235,
-        "rank_global": 609,
-        "ambit": "confederacio"
-      },
-      "ts": 1790451714.467496,
-      "collage": "collages\\21a0c867-3e07-49f9-b665-71747bb94b3a.webp"
-    },
-    {
-      "id": "83e218d6-3a99-42ba-862d-31d77d5e0c67",
-      "text": "Pedro Gallese reaches Roberto Palacios as 4th Peru, 25th CONMEBOL, 179th global player with 128 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Pedro Gallese",
-        "pais": "Peru",
-        "confederacio": "CONMEBOL",
-        "valor": 128,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Roberto Palacios",
-                "pais": "Peru"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 4,
-        "rank_confederacio": 25,
-        "rank_global": 179,
-        "ambit": "compatriota"
-      },
-      "ts": 1790457995.715038,
-      "collage": "collages\\83e218d6-3a99-42ba-862d-31d77d5e0c67.webp"
-    },
-    {
-      "id": "4351cc75-01e3-4321-bdb2-d787ea27d4ac",
-      "text": "Yoshimar Yotún (1st Peru, 19th CONMEBOL) surpasses Jeff Agoos, Dorinel Munteanu, Andres Oper, Hassan Mudhafar, Shay Given, Noel Valladares, Darijo Srna, Bashar Abdullah, Jaime Penedo, Wesley Sneijder, Taisir Al-Jassim, Yousef Nasser, Romelu Lukaku, Safuwan Baharudin and Sadio Mané and reaches Walter Centeno and Ahmed Fathy as 124th global player with 135 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Yoshimar Yotún",
-        "pais": "Peru",
-        "confederacio": "CONMEBOL",
-        "valor": 135,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Jeff Agoos",
-                "pais": "United States"
-              },
-              {
-                "nom": "Dorinel Munteanu",
-                "pais": "Romania"
-              },
-              {
-                "nom": "Andres Oper",
-                "pais": "Estonia"
-              },
-              {
-                "nom": "Hassan Mudhafar",
-                "pais": "Oman"
-              },
-              {
-                "nom": "Shay Given",
-                "pais": "Republic of Ireland"
-              },
-              {
-                "nom": "Noel Valladares",
-                "pais": "Honduras"
-              },
-              {
-                "nom": "Darijo Srna",
-                "pais": "Croatia"
-              },
-              {
-                "nom": "Bashar Abdullah",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Jaime Penedo",
-                "pais": "Panama"
-              },
-              {
-                "nom": "Wesley Sneijder",
-                "pais": "Netherlands"
-              },
-              {
-                "nom": "Taisir Al-Jassim",
-                "pais": "Saudi Arabia"
-              },
-              {
-                "nom": "Yousef Nasser",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Romelu Lukaku",
-                "pais": "Belgium"
-              },
-              {
-                "nom": "Safuwan Baharudin",
-                "pais": "Singapore"
-              },
-              {
-                "nom": "Sadio Mané",
-                "pais": "Senegal"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Walter Centeno",
-                "pais": "Costa Rica"
-              },
-              {
-                "nom": "Ahmed Fathy",
-                "pais": "Egypt"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 19,
-        "rank_global": 124,
-        "ambit": "global"
-      },
-      "ts": 1790457996.01556,
-      "collage": "collages\\4351cc75-01e3-4321-bdb2-d787ea27d4ac.webp"
-    },
-    {
-      "id": "87259467-ca12-4046-bfa2-8576bb990cd1",
-      "text": "Jesús Gallardo (10th Mexico) surpasses Luis Marín and DaMarcus Beasley and reaches Marcelo Balboa as 28th CONCACAF, 185th global player with 127 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Jesús Gallardo",
-        "pais": "Mexico",
-        "confederacio": "CONCACAF",
-        "valor": 127,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Luis Marín",
-                "pais": "Costa Rica"
-              },
-              {
-                "nom": "DaMarcus Beasley",
-                "pais": "United States"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Marcelo Balboa",
-                "pais": "United States"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 10,
-        "rank_confederacio": 28,
-        "rank_global": 185,
-        "ambit": "confederacio"
-      },
-      "ts": 1790473935.023382,
-      "collage": "collages\\87259467-ca12-4046-bfa2-8576bb990cd1.webp"
-    },
-    {
-      "id": "7b749bd3-0feb-4042-a3c9-27abb83f8daa",
-      "text": "Francisco Calvo surpasses Rolando Fonseca as 7th Costa Rica, 45th CONCACAF, 358th global player with 112 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Francisco Calvo",
-        "pais": "Costa Rica",
-        "confederacio": "CONCACAF",
-        "valor": 112,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Rolando Fonseca",
-                "pais": "Costa Rica"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 7,
-        "rank_confederacio": 45,
-        "rank_global": 358,
-        "ambit": "compatriota"
-      },
-      "ts": 1790552825.97802,
-      "collage": "collages\\7b749bd3-0feb-4042-a3c9-27abb83f8daa.webp"
-    },
-    {
-      "id": "44b6f4d2-079c-42fc-ab9a-c9047033fa06",
-      "text": "Hariss Harun (1st Singapore) surpasses Sami Al-Jaber and reaches Sunil Chhetri as 13th AFC, 35th global player with 157 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Hariss Harun",
-        "pais": "Singapore",
-        "confederacio": "AFC",
-        "valor": 157,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Sami Al-Jaber",
-                "pais": "Saudi Arabia"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Sunil Chhetri",
-                "pais": "India"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 13,
-        "rank_global": 35,
-        "ambit": "confederacio"
-      },
-      "ts": 1790588990.379388,
-      "collage": "collages\\44b6f4d2-079c-42fc-ab9a-c9047033fa06.webp"
+      "ts": 1790534700.0,
+      "collage": "collages\\57592147-9116-4fde-b061-2bd89c1eb5c5.webp"
     }
   ],
   "baseline": {
     "Partits": {
-      "Kylian Mbappé": {
-        "alias": "Kylian Mbappé",
-        "pais": "France",
-        "confederacio": "UEFA",
-        "valor": 108,
-        "inici": "2017",
-        "final": "2026",
-        "actiu": true
-      },
-      "Achraf Hakimi": {
-        "alias": "Achraf Hakimi",
-        "pais": "Morocco",
-        "confederacio": "CAF",
-        "valor": 102,
-        "inici": "2016",
-        "final": "2026",
-        "actiu": true
-      },
-      "Thibaut Courtois": {
-        "alias": "Thibaut Courtois",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 115,
-        "inici": "2011",
-        "final": "2026",
-        "actiu": true
-      },
-      "Fernando Torres": {
-        "alias": "Fernando Torres",
-        "pais": "Spain",
-        "confederacio": "UEFA",
-        "valor": 109,
-        "inici": "2003",
-        "final": "2014",
-        "actiu": false
-      },
-      "Axel Witsel": {
-        "alias": "Axel Witsel",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 140,
-        "inici": "2008",
-        "final": "2026",
-        "actiu": true
-      },
-      "Romelu Lukaku": {
-        "alias": "Romelu Lukaku",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 134,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Henning Berg": {
-        "alias": "Henning Berg",
-        "pais": "Norway",
-        "confederacio": "UEFA",
-        "valor": 101,
-        "inici": "1992",
-        "final": "2004",
-        "actiu": false
-      },
-      "Harry Kane": {
-        "alias": "Harry Kane",
-        "pais": "England",
-        "confederacio": "UEFA",
-        "valor": 122,
-        "inici": "2015",
-        "final": "2026",
-        "actiu": true
-      },
-      "Lionel Messi": {
-        "alias": "Lionel Messi",
-        "pais": "Argentina",
-        "confederacio": "CONMEBOL",
-        "valor": 207,
-        "inici": "2005",
-        "final": "2026",
-        "actiu": true
-      },
-      "Ricardo Rodriguez": {
-        "alias": "Ricardo Rodriguez",
-        "pais": "Switzerland",
-        "confederacio": "UEFA",
-        "valor": 145,
-        "inici": "2011",
-        "final": "2026",
-        "actiu": true
-      },
-      "Granit Xhaka": {
-        "alias": "Granit Xhaka",
-        "pais": "Switzerland",
-        "confederacio": "UEFA",
-        "valor": 152,
-        "inici": "2011",
-        "final": "2026",
-        "actiu": true
-      },
-      "Nicolás Otamendi": {
-        "alias": "Nicolás Otamendi",
-        "pais": "Argentina",
-        "confederacio": "CONMEBOL",
-        "valor": 139,
-        "inici": "2009",
-        "final": "2026",
-        "actiu": true
-      },
-      "Hariss Harun": {
-        "alias": "Hariss Harun",
-        "pais": "Singapore",
+      "Harib Al-Saadi": {
+        "alias": "Harib Al-Saadi",
+        "pais": "Oman",
         "confederacio": "AFC",
-        "valor": 157,
-        "inici": "2007",
-        "final": "2026",
-        "actiu": true
-      },
-      "Idrissa Gueye": {
-        "alias": "Idrissa Gueye",
-        "pais": "Senegal",
-        "confederacio": "CAF",
-        "valor": 142,
-        "inici": "2011",
-        "final": "2026",
-        "actiu": true
-      },
-      "Nicolas Hasler": {
-        "alias": "Nicolas Hasler",
-        "pais": "Liechtenstein",
-        "confederacio": "UEFA",
-        "valor": 113,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Moisés San Nicolás": {
-        "alias": "Moisés San Nicolás",
-        "pais": "Andorra",
-        "confederacio": "UEFA",
-        "valor": 103,
-        "inici": "2012",
-        "final": "2026",
-        "actiu": true
-      },
-      "Joshua Kimmich": {
-        "alias": "Joshua Kimmich",
-        "pais": "Germany",
-        "confederacio": "UEFA",
-        "valor": 116,
-        "inici": "2016",
-        "final": "2026",
-        "actiu": true
-      },
-      "Cristiano Ronaldo": {
-        "alias": "Cristiano Ronaldo",
-        "pais": "Portugal",
-        "confederacio": "UEFA",
-        "valor": 235,
-        "inici": "2003",
-        "final": "2026",
-        "actiu": true
-      },
-      "Ben Davies": {
-        "alias": "Ben Davies",
-        "pais": "Wales",
-        "confederacio": "UEFA",
-        "valor": 102,
-        "inici": "2012",
-        "final": "2026",
-        "actiu": true
-      },
-      "Dušan Tadić": {
-        "alias": "Dušan Tadić",
-        "pais": "Serbia",
-        "confederacio": "UEFA",
-        "valor": 113,
-        "inici": "2008",
-        "final": "2026",
-        "actiu": true
-      },
-      "Franck Kessié": {
-        "alias": "Franck Kessié",
-        "pais": "Ivory Coast",
-        "confederacio": "CAF",
-        "valor": 110,
-        "inici": "2014",
-        "final": "2026",
-        "actiu": true
-      },
-      "Ferjani Sassi": {
-        "alias": "Ferjani Sassi",
-        "pais": "Tunisia",
-        "confederacio": "CAF",
-        "valor": 103,
-        "inici": "2013",
-        "final": "2026",
-        "actiu": true
-      },
-      "Ehsan Hajsafi": {
-        "alias": "Ehsan Hajsafi",
-        "pais": "Iran",
-        "confederacio": "AFC",
-        "valor": 150,
-        "inici": "2008",
-        "final": "2026",
-        "actiu": true
-      },
-      "Mehdi Taremi": {
-        "alias": "Mehdi Taremi",
-        "pais": "Iran",
-        "confederacio": "AFC",
-        "valor": 111,
-        "inici": "2015",
-        "final": "2026",
-        "actiu": true
-      },
-      "Lee Jae-sung": {
-        "alias": "Lee Jae-sung",
-        "pais": "South Korea",
-        "confederacio": "AFC",
-        "valor": 109,
-        "inici": "2015",
-        "final": "2026",
-        "actiu": true
-      },
-      "Son Heung-min": {
-        "alias": "Son Heung-min",
-        "pais": "South Korea",
-        "confederacio": "AFC",
-        "valor": 151,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Piotr Zieliński": {
-        "alias": "Piotr Zieliński",
-        "pais": "Poland",
-        "confederacio": "UEFA",
-        "valor": 111,
-        "inici": "2013",
-        "final": "2026",
-        "actiu": true
-      },
-      "Robert Lewandowski": {
-        "alias": "Robert Lewandowski",
-        "pais": "Poland",
-        "confederacio": "UEFA",
-        "valor": 169,
-        "inici": "2008",
-        "final": "2026",
-        "actiu": true
-      },
-      "Kevin De Bruyne": {
-        "alias": "Kevin De Bruyne",
-        "pais": "Belgium",
-        "confederacio": "UEFA",
-        "valor": 126,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Francisco Calvo": {
-        "alias": "Francisco Calvo",
-        "pais": "Costa Rica",
-        "confederacio": "CONCACAF",
-        "valor": 112,
-        "inici": "2011",
-        "final": "2026",
-        "actiu": true
-      },
-      "Mohamed Salah": {
-        "alias": "Mohamed Salah",
-        "pais": "Egypt",
-        "confederacio": "CAF",
         "valor": 123,
-        "inici": "2011",
+        "inici": "2016",
         "final": "2026",
         "actiu": true
       },
-      "Ryan Mendes": {
-        "alias": "Ryan Mendes",
-        "pais": "Cape Verde",
-        "confederacio": "CAF",
-        "valor": 103,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Alex Iwobi": {
-        "alias": "Alex Iwobi",
-        "pais": "Nigeria",
-        "confederacio": "CAF",
-        "valor": 101,
-        "inici": "2015",
-        "final": "2026",
-        "actiu": true
-      },
-      "Moses Simon": {
-        "alias": "Moses Simon",
-        "pais": "Nigeria",
-        "confederacio": "CAF",
-        "valor": 101,
-        "inici": "2015",
-        "final": "2026",
-        "actiu": true
-      },
-      "Simon Msuva": {
-        "alias": "Simon Msuva",
-        "pais": "Tanzania",
-        "confederacio": "CAF",
-        "valor": 103,
-        "inici": "2012",
-        "final": "2026",
-        "actiu": true
-      },
-      "Safuwan Baharudin": {
-        "alias": "Safuwan Baharudin",
-        "pais": "Singapore",
+      "Jameel Al-Yahmadi": {
+        "alias": "Jameel Al-Yahmadi",
+        "pais": "Oman",
         "confederacio": "AFC",
-        "valor": 134,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Marquinhos": {
-        "alias": "Marquinhos",
-        "pais": "Brazil",
-        "confederacio": "CONMEBOL",
-        "valor": 112,
-        "inici": "2013",
+        "valor": 102,
+        "inici": "2016",
         "final": "2026",
         "actiu": true
       },
@@ -3906,30 +4686,327 @@
         "final": "2026",
         "actiu": true
       },
-      "Laurent Jans": {
-        "alias": "Laurent Jans",
-        "pais": "Luxembourg",
-        "confederacio": "UEFA",
-        "valor": 125,
-        "inici": "2012",
+      "Son Heung-min": {
+        "alias": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 150,
+        "inici": "2010",
         "final": "2026",
         "actiu": true
       },
-      "Karol Mets": {
-        "alias": "Karol Mets",
-        "pais": "Estonia",
-        "confederacio": "UEFA",
-        "valor": 105,
+      "Lee Jae-sung": {
+        "alias": "Lee Jae-sung",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 108,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
+      "Hassan Al-Haydos": {
+        "alias": "Hassan Al-Haydos",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 190,
+        "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Akram Afif": {
+        "alias": "Akram Afif",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 141,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
+      "Sayed Dhiya Saeed": {
+        "alias": "Sayed Dhiya Saeed",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 140,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Waleed Al-Hayam": {
+        "alias": "Waleed Al-Hayam",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 133,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Boualem Khoukhi": {
+        "alias": "Boualem Khoukhi",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 133,
         "inici": "2013",
         "final": "2026",
         "actiu": true
       },
-      "Ivan Perišić": {
-        "alias": "Ivan Perišić",
-        "pais": "Croatia",
+      "Karim Boudiaf": {
+        "alias": "Karim Boudiaf",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 132,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Kamil Al-Aswad": {
+        "alias": "Kamil Al-Aswad",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 129,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
+      "Pedro Miguel": {
+        "alias": "Pedro Miguel",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 116,
+        "inici": "2016",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ali Madan": {
+        "alias": "Ali Madan",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 115,
+        "inici": "2016",
+        "final": "2026",
+        "actiu": true
+      },
+      "Almoez Ali": {
+        "alias": "Almoez Ali",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 130,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Joshua Kimmich": {
+        "alias": "Joshua Kimmich",
+        "pais": "Germany",
         "confederacio": "UEFA",
-        "valor": 159,
+        "valor": 116,
+        "inici": "2016",
+        "final": "2026",
+        "actiu": true
+      },
+      "Nicolas Hasler": {
+        "alias": "Nicolas Hasler",
+        "pais": "Liechtenstein",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Dušan Tadić": {
+        "alias": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Francisco Calvo": {
+        "alias": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 111,
         "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Moisés San Nicolás": {
+        "alias": "Moisés San Nicolás",
+        "pais": "Andorra",
+        "confederacio": "UEFA",
+        "valor": 103,
+        "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ben Davies": {
+        "alias": "Ben Davies",
+        "pais": "Wales",
+        "confederacio": "UEFA",
+        "valor": 102,
+        "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Cristiano Ronaldo": {
+        "alias": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "confederacio": "UEFA",
+        "valor": 234,
+        "inici": "2003",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ehsan Hajsafi": {
+        "alias": "Ehsan Hajsafi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 149,
+        "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Chancel Mbemba": {
+        "alias": "Chancel Mbemba",
+        "pais": "DR Congo",
+        "confederacio": "CAF",
+        "valor": 114,
+        "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Mehdi Taremi": {
+        "alias": "Mehdi Taremi",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 110,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
+      "Franck Kessié": {
+        "alias": "Franck Kessié",
+        "pais": "Ivory Coast",
+        "confederacio": "CAF",
+        "valor": 109,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ferjani Sassi": {
+        "alias": "Ferjani Sassi",
+        "pais": "Tunisia",
+        "confederacio": "CAF",
+        "valor": 102,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "José María Giménez": {
+        "alias": "José María Giménez",
+        "pais": "Uruguay",
+        "confederacio": "CONMEBOL",
+        "valor": 100,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Robert Lewandowski": {
+        "alias": "Robert Lewandowski",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 168,
+        "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Idrissa Gueye": {
+        "alias": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 141,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Romelu Lukaku": {
+        "alias": "Romelu Lukaku",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 133,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Kevin De Bruyne": {
+        "alias": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Mohamed Salah": {
+        "alias": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 122,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Marquinhos": {
+        "alias": "Marquinhos",
+        "pais": "Brazil",
+        "confederacio": "CONMEBOL",
+        "valor": 111,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Piotr Zieliński": {
+        "alias": "Piotr Zieliński",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 110,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Kylian Mbappé": {
+        "alias": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "inici": "2017",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ryan Mendes": {
+        "alias": "Ryan Mendes",
+        "pais": "Cape Verde",
+        "confederacio": "CAF",
+        "valor": 102,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true
+      },
+      "Alex Iwobi": {
+        "alias": "Alex Iwobi",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 100,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
+      "Moses Simon": {
+        "alias": "Moses Simon",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 100,
+        "inici": "2015",
         "final": "2026",
         "actiu": true
       },
@@ -3942,11 +5019,83 @@
         "final": "2026",
         "actiu": true
       },
+      "Ivan Perišić": {
+        "alias": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 159,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Ricardo Rodriguez": {
+        "alias": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 145,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Yoshimar Yotún": {
+        "alias": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 135,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true
+      },
+      "Pedro Gallese": {
+        "alias": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 128,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true
+      },
+      "Jesús Gallardo": {
+        "alias": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 127,
+        "inici": "2016",
+        "final": "2026",
+        "actiu": true
+      },
+      "Laurent Jans": {
+        "alias": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Harry Kane": {
+        "alias": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 122,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
       "Mateo Kovačić": {
         "alias": "Mateo Kovačić",
         "pais": "Croatia",
         "confederacio": "UEFA",
         "valor": 117,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true
+      },
+      "Karol Mets": {
+        "alias": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 105,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -3960,82 +5109,17 @@
         "final": "2026",
         "actiu": true
       },
-      "Pedro Gallese": {
-        "alias": "Pedro Gallese",
-        "pais": "Peru",
-        "confederacio": "CONMEBOL",
-        "valor": 128,
-        "inici": "2014",
-        "final": "2026",
-        "actiu": true
-      },
-      "Yoshimar Yotún": {
-        "alias": "Yoshimar Yotún",
-        "pais": "Peru",
-        "confederacio": "CONMEBOL",
-        "valor": 135,
-        "inici": "2011",
-        "final": "2026",
-        "actiu": true
-      },
-      "Jesús Gallardo": {
-        "alias": "Jesús Gallardo",
-        "pais": "Mexico",
-        "confederacio": "CONCACAF",
-        "valor": 127,
-        "inici": "2016",
-        "final": "2026",
-        "actiu": true
-      }
-    },
-    "Gols": {
-      "Kylian Mbappé": {
-        "alias": "Kylian Mbappé",
-        "pais": "France",
+      "Bernardo Silva": {
+        "alias": "Bernardo Silva",
+        "pais": "Portugal",
         "confederacio": "UEFA",
-        "valor": 67,
-        "inici": "2017",
-        "final": "2026",
-        "actiu": true,
-        "data_50e_gol": "2025-06-08"
-      },
-      "Son Heung-min": {
-        "alias": "Son Heung-min",
-        "pais": "South Korea",
-        "confederacio": "AFC",
-        "valor": 58,
-        "inici": "2010",
-        "final": "2026",
-        "actiu": true
-      },
-      "Erling Haaland": {
-        "alias": "Erling Haaland",
-        "pais": "Norway",
-        "confederacio": "UEFA",
-        "valor": 66,
-        "inici": "2019",
-        "final": "2026",
-        "actiu": true
-      },
-      "Yousef Nasser": {
-        "alias": "Yousef Nasser",
-        "pais": "Kuwait",
-        "confederacio": "AFC",
-        "valor": 59,
-        "inici": "2009",
-        "final": "2026",
-        "actiu": true
-      },
-      "Harry Kane": {
-        "alias": "Harry Kane",
-        "pais": "England",
-        "confederacio": "UEFA",
-        "valor": 86,
+        "valor": 114,
         "inici": "2015",
         "final": "2026",
         "actiu": true
       }
-    }
+    },
+    "Gols": {}
   },
   "ultima_conciliacio": "2026-09-27"
 }

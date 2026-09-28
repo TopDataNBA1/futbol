@@ -5068,6 +5068,38 @@
       },
       "ts": 1790624989.276896,
       "collage": "collages\\7ecbad8f-5db3-4155-9a66-d4fc1373f3cf.webp"
+    },
+    {
+      "id": "50b13d49-6be2-4d56-b0cb-809e79dc2a14",
+      "text": "Robert Lewandowski (1st Poland, 5th UEFA) surpasses Iván Hurtado and Alexis Sánchez as 17th global player with 169 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Robert Lewandowski",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 169,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Iván Hurtado",
+                "pais": "Ecuador"
+              },
+              {
+                "nom": "Alexis Sánchez",
+                "pais": "Chile"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 17,
+        "ambit": "global"
+      },
+      "ts": 1790627815.310811,
+      "collage": "collages\\50b13d49-6be2-4d56-b0cb-809e79dc2a14.webp"
     }
   ],
   "baseline": {
@@ -5328,7 +5360,7 @@
         "alias": "Robert Lewandowski",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 168,
+        "valor": 169,
         "inici": "2008",
         "final": "2026",
         "actiu": true

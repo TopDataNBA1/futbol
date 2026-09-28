@@ -4902,6 +4902,75 @@
       },
       "ts": 1790537760.0,
       "collage": "collages\\763abbd2-1096-4cea-9c71-0dc96a462d44.webp"
+    },
+    {
+      "id": "74a42727-87c0-4de3-8bbb-a810ad05c2d8",
+      "text": "Piotr Zieliński (2nd Poland) surpasses Carmel Busuttil, Fernando Couto, Kevin Kilbane, John Arne Riise, Fernando Torres, Cesc Fàbregas and Aron Gunnarsson and reaches Andriy Shevchenko, Igor Akinfeev and Gareth Bale as 142nd UEFA, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Piotr Zieliński",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Carmel Busuttil",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Fernando Couto",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Kevin Kilbane",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "John Arne Riise",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Fernando Torres",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Cesc Fàbregas",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Aron Gunnarsson",
+                "pais": "Iceland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Andriy Shevchenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Igor Akinfeev",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Gareth Bale",
+                "pais": "Wales"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 142,
+        "rank_global": 383,
+        "ambit": "confederacio"
+      },
+      "ts": 1790624120.102102,
+      "collage": "collages\\74a42727-87c0-4de3-8bbb-a810ad05c2d8.webp"
     }
   ],
   "baseline": {
@@ -5216,7 +5285,7 @@
         "alias": "Piotr Zieliński",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 110,
+        "valor": 111,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -5414,5 +5483,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-28"
+  "ultima_conciliacio": "2026-09-27"
 }

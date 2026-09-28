@@ -144,6 +144,15 @@
       "final": "2021",
       "actiu": false
     },
+    "Robert Lewandowski": {
+      "alias": "Robert Lewandowski",
+      "pais": "Poland",
+      "confederacio": "UEFA",
+      "valor": 169,
+      "inici": "2008",
+      "final": "2026",
+      "actiu": true
+    },
     "Iván Hurtado": {
       "alias": "Iván Hurtado",
       "pais": "Ecuador",
@@ -152,15 +161,6 @@
       "inici": "1992",
       "final": "2014",
       "actiu": false
-    },
-    "Robert Lewandowski": {
-      "alias": "Robert Lewandowski",
-      "pais": "Poland",
-      "confederacio": "UEFA",
-      "valor": 168,
-      "inici": "2008",
-      "final": "2026",
-      "actiu": true
     },
     "Alexis Sánchez": {
       "alias": "Alexis Sánchez",
@@ -324,6 +324,15 @@
       "final": "2024",
       "actiu": false
     },
+    "Hariss Harun": {
+      "alias": "Hariss Harun",
+      "pais": "Singapore",
+      "confederacio": "AFC",
+      "valor": 156,
+      "inici": "2007",
+      "final": "2026",
+      "actiu": true
+    },
     "Sami Al-Jaber": {
       "alias": "Sami Al-Jaber",
       "pais": "Saudi Arabia",
@@ -351,30 +360,21 @@
       "final": "2014",
       "actiu": false
     },
-    "Hariss Harun": {
-      "alias": "Hariss Harun",
-      "pais": "Singapore",
-      "confederacio": "AFC",
-      "valor": 155,
-      "inici": "2007",
-      "final": "2026",
-      "actiu": true
-    },
     "Aníbal Godoy": {
       "alias": "Aníbal Godoy",
       "pais": "Panama",
       "confederacio": "CONCACAF",
-      "valor": 153,
-      "inici": "2010",
-      "final": "2026",
+      "valor": 155,
+      "inici": "",
+      "final": "2010",
       "actiu": false
     },
     "Guillermo Ochoa": {
       "alias": "Guillermo Ochoa",
       "pais": "Mexico",
       "confederacio": "CONCACAF",
-      "valor": 153,
-      "inici": "2005",
+      "valor": 142005,
+      "inici": "",
       "final": "2026",
       "actiu": false
     },
@@ -1782,6 +1782,15 @@
       "final": "2017",
       "actiu": false
     },
+    "Kevin De Bruyne": {
+      "alias": "Kevin De Bruyne",
+      "pais": "Belgium",
+      "confederacio": "UEFA",
+      "valor": 126,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true
+    },
     "Eden Hazard": {
       "alias": "Eden Hazard",
       "pais": "Belgium",
@@ -1880,15 +1889,6 @@
       "inici": "1992",
       "final": "2006",
       "actiu": false
-    },
-    "Kevin De Bruyne": {
-      "alias": "Kevin De Bruyne",
-      "pais": "Belgium",
-      "confederacio": "UEFA",
-      "valor": 125,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
     },
     "Mario Frick": {
       "alias": "Mario Frick",
@@ -3447,15 +3447,6 @@
       "final": "2018",
       "actiu": false
     },
-    "Francisco Calvo": {
-      "alias": "Francisco Calvo",
-      "pais": "Costa Rica",
-      "confederacio": "CONCACAF",
-      "valor": 111,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true
-    },
     "Gareth Bale": {
       "alias": "Gareth Bale",
       "pais": "Wales",
@@ -3464,6 +3455,15 @@
       "inici": "2006",
       "final": "2022",
       "actiu": false
+    },
+    "Francisco Calvo": {
+      "alias": "Francisco Calvo",
+      "pais": "Costa Rica",
+      "confederacio": "CONCACAF",
+      "valor": 111,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
     },
     "Rolando Fonseca": {
       "alias": "Rolando Fonseca",
@@ -3572,6 +3572,15 @@
       "inici": "2002",
       "final": "2019",
       "actiu": false
+    },
+    "Piotr Zieliński": {
+      "alias": "Piotr Zieliński",
+      "pais": "Poland",
+      "confederacio": "UEFA",
+      "valor": 111,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
     },
     "François Amégasse": {
       "alias": "François Amégasse",
@@ -3770,15 +3779,6 @@
       "inici": "2003",
       "final": "2014",
       "actiu": false
-    },
-    "Piotr Zieliński": {
-      "alias": "Piotr Zieliński",
-      "pais": "Poland",
-      "confederacio": "UEFA",
-      "valor": 110,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true
     },
     "Hassan Abdel-Fattah": {
       "alias": "Hassan Abdel-Fattah",
@@ -5085,6 +5085,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Ferjani Sassi": {
+      "alias": "Ferjani Sassi",
+      "pais": "Tunisia",
+      "confederacio": "CAF",
+      "valor": 103,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
+    },
     "Dejan Stanković": {
       "alias": "Dejan Stanković",
       "pais": "Serbia and Montenegro",
@@ -5406,15 +5415,6 @@
       "confederacio": "AFC",
       "valor": 102,
       "inici": "2017",
-      "final": "2026",
-      "actiu": true
-    },
-    "Ferjani Sassi": {
-      "alias": "Ferjani Sassi",
-      "pais": "Tunisia",
-      "confederacio": "CAF",
-      "valor": 102,
-      "inici": "2013",
       "final": "2026",
       "actiu": true
     },

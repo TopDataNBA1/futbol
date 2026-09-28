@@ -4971,6 +4971,34 @@
       },
       "ts": 1790624120.102102,
       "collage": "collages\\74a42727-87c0-4de3-8bbb-a810ad05c2d8.webp"
+    },
+    {
+      "id": "6ea875a7-c708-4d88-b230-a1c099476966",
+      "text": "Kevin De Bruyne reaches Eden Hazard as 5th Belgium, 66th UEFA, 197th global player with 126 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 126,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 66,
+        "rank_global": 197,
+        "ambit": "compatriota"
+      },
+      "ts": 1790624310.386343,
+      "collage": "collages\\6ea875a7-c708-4d88-b230-a1c099476966.webp"
     }
   ],
   "baseline": {
@@ -5258,7 +5286,7 @@
         "alias": "Kevin De Bruyne",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 125,
+        "valor": 126,
         "inici": "2010",
         "final": "2026",
         "actiu": true

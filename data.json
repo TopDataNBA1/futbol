@@ -5593,6 +5593,75 @@
       },
       "ts": 1790710500.372439,
       "collage": "collages\\b3e51a6a-bb6f-48d0-a671-6b637cee2d04.webp"
+    },
+    {
+      "id": "b5124a71-d949-4283-8368-cebb7666c344",
+      "text": "Laurent Jans (1st Luxembourg) surpasses Peter Shilton, Mario Frick, David Silva and Xherdan Shaqiri and reaches Andoni Zubizarreta, Paolo Maldini, Enar Jääger, Eden Hazard, Andriy Yarmolenko and Kevin De Bruyne as 66th UEFA, 197th global player with 126 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 126,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Peter Shilton",
+                "pais": "England"
+              },
+              {
+                "nom": "Mario Frick",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "David Silva",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Xherdan Shaqiri",
+                "pais": "Switzerland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Andoni Zubizarreta",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Paolo Maldini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Enar Jääger",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Andriy Yarmolenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Kevin De Bruyne",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 66,
+        "rank_global": 197,
+        "ambit": "confederacio"
+      },
+      "ts": 1790710539.494897,
+      "collage": "collages\\b5124a71-d949-4283-8368-cebb7666c344.webp"
     }
   ],
   "baseline": {
@@ -5952,7 +6021,7 @@
         "alias": "Laurent Jans",
         "pais": "Luxembourg",
         "confederacio": "UEFA",
-        "valor": 125,
+        "valor": 126,
         "inici": "2012",
         "final": "2026",
         "actiu": true

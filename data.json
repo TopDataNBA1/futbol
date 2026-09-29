@@ -5792,6 +5792,47 @@
       },
       "ts": 1790710617.986735,
       "collage": "collages\\0f088dc7-a923-4d49-87e4-c0c0e9a96c40.webp"
+    },
+    {
+      "id": "61b29ae5-8974-4398-861a-78c036bc6d93",
+      "text": "Harry Kane (2nd England) surpasses Goran Pandev and Zlatan Ibrahimović and reaches Thierry Henry as 80th UEFA, 228th global player with 123 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 123,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Goran Pandev",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Thierry Henry",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 80,
+        "rank_global": 228,
+        "ambit": "confederacio"
+      },
+      "ts": 1790710645.013071,
+      "collage": "collages\\61b29ae5-8974-4398-861a-78c036bc6d93.webp"
     }
   ],
   "baseline": {
@@ -6223,7 +6264,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 122,
+        "valor": 123,
         "inici": "2015",
         "final": "2026",
         "actiu": true

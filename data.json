@@ -5100,6 +5100,67 @@
       },
       "ts": 1790627815.310811,
       "collage": "collages\\50b13d49-6be2-4d56-b0cb-809e79dc2a14.webp"
+    },
+    {
+      "id": "7934db25-ad85-4f19-a86a-ebec8200a6c4",
+      "text": "Idrissa Gueye (1st Senegal, 4th CAF) surpasses Pepe and Akram Afif and reaches Abdullah Zubromawi, Marko Kristal, Cafu, Lilian Thuram, Amer Deeb and Michael Mifsud as 85th global player with 142 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Idrissa Gueye",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 142,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Pepe",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Akram Afif",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdullah Zubromawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Marko Kristal",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Cafu",
+                "pais": "Brazil"
+              },
+              {
+                "nom": "Lilian Thuram",
+                "pais": "France"
+              },
+              {
+                "nom": "Amer Deeb",
+                "pais": "Jordan"
+              },
+              {
+                "nom": "Michael Mifsud",
+                "pais": "Malta"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 85,
+        "ambit": "global"
+      },
+      "ts": 1790695413.469293,
+      "collage": "collages\\7934db25-ad85-4f19-a86a-ebec8200a6c4.webp"
     }
   ],
   "baseline": {
@@ -5369,7 +5430,7 @@
         "alias": "Idrissa Gueye",
         "pais": "Senegal",
         "confederacio": "CAF",
-        "valor": 141,
+        "valor": 142,
         "inici": "2011",
         "final": "2026",
         "actiu": true

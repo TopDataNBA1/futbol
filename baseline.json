@@ -22,7 +22,7 @@
       "alias": "Luka Modrić",
       "pais": "Croatia",
       "confederacio": "UEFA",
-      "valor": 203,
+      "valor": 204,
       "inici": "2006",
       "final": "2026",
       "actiu": true
@@ -364,17 +364,17 @@
       "alias": "Aníbal Godoy",
       "pais": "Panama",
       "confederacio": "CONCACAF",
-      "valor": 155,
-      "inici": "",
-      "final": "2010",
+      "valor": 153,
+      "inici": "2010",
+      "final": "2026",
       "actiu": false
     },
     "Guillermo Ochoa": {
       "alias": "Guillermo Ochoa",
       "pais": "Mexico",
       "confederacio": "CONCACAF",
-      "valor": 142005,
-      "inici": "",
+      "valor": 153,
+      "inici": "2005",
       "final": "2026",
       "actiu": false
     },
@@ -6297,7 +6297,7 @@
       "alias": "Harry Kane",
       "pais": "England",
       "confederacio": "UEFA",
-      "valor": 86,
+      "valor": 87,
       "inici": "2015",
       "final": "2026",
       "actiu": true

@@ -5896,6 +5896,24 @@
       },
       "ts": 1790714118.305336,
       "collage": "collages\\c2aafa64-b138-4ecb-9677-8eb867338770.webp"
+    },
+    {
+      "id": "bfd705bf-5577-4d32-a23e-a87f226bddcf",
+      "text": "87th international goal for Harry Kane. 1st England, 4th UEFA, 8th global scorer.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 87,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 8,
+        "ambit": "cap"
+      },
+      "ts": 1790714143.13238,
+      "collage": "collages\\bfd705bf-5577-4d32-a23e-a87f226bddcf.webp"
     }
   ],
   "baseline": {
@@ -6428,7 +6446,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 86,
+        "valor": 87,
         "inici": "2015",
         "final": "2026",
         "actiu": true

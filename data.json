@@ -5161,6 +5161,75 @@
       },
       "ts": 1790695413.469293,
       "collage": "collages\\7934db25-ad85-4f19-a86a-ebec8200a6c4.webp"
+    },
+    {
+      "id": "d29160dc-d410-417e-b270-db64d7c0ce46",
+      "text": "Achraf Hakimi (2nd Morocco) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré, Ryan Mendes and Simon Msuva and reaches Elijah Tana and Ferjani Sassi as 46th CAF, 548th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Achraf Hakimi",
+        "pais": "Morocco",
+        "confederacio": "CAF",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              },
+              {
+                "nom": "Simon Msuva",
+                "pais": "Tanzania"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Ferjani Sassi",
+                "pais": "Tunisia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 46,
+        "rank_global": 548,
+        "ambit": "confederacio"
+      },
+      "ts": 1790695439.36189,
+      "collage": "collages\\d29160dc-d410-417e-b270-db64d7c0ce46.webp"
     }
   ],
   "baseline": {
@@ -5621,6 +5690,15 @@
         "confederacio": "UEFA",
         "valor": 114,
         "inici": "2015",
+        "final": "2026",
+        "actiu": true
+      },
+      "Achraf Hakimi": {
+        "alias": "Achraf Hakimi",
+        "pais": "Morocco",
+        "confederacio": "CAF",
+        "valor": 103,
+        "inici": "2016",
         "final": "2026",
         "actiu": true
       }

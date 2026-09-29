@@ -5497,6 +5497,42 @@
       },
       "ts": 1790700814.706215,
       "collage": "collages\\58ea0840-bd42-46f6-a822-20ab72371fda.webp"
+    },
+    {
+      "id": "a3f7dddd-b4f8-449e-83a4-78d38303bf37",
+      "text": "Moses Simon reaches Joseph Yobo, Vincent Enyeama and Alex Iwobi as 2nd Nigeria, 57th CAF, 611th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moses Simon",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Joseph Yobo",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Vincent Enyeama",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Alex Iwobi",
+                "pais": "Nigeria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 57,
+        "rank_global": 611,
+        "ambit": "compatriota"
+      },
+      "ts": 1790704450.063074,
+      "collage": "collages\\a3f7dddd-b4f8-449e-83a4-78d38303bf37.webp"
     }
   ],
   "baseline": {
@@ -5847,7 +5883,7 @@
         "alias": "Moses Simon",
         "pais": "Nigeria",
         "confederacio": "CAF",
-        "valor": 100,
+        "valor": 101,
         "inici": "2015",
         "final": "2026",
         "actiu": true

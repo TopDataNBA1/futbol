@@ -5878,6 +5878,24 @@
       },
       "ts": 1790711349.605796,
       "collage": "collages\\d02ef22e-df85-4f12-baa1-8a6cefb8349b.webp"
+    },
+    {
+      "id": "c2aafa64-b138-4ecb-9677-8eb867338770",
+      "text": "204th international cap for Luka Modrić. 1st Croatia, 2nd UEFA, 4th global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 204,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 2,
+        "rank_global": 4,
+        "ambit": "cap"
+      },
+      "ts": 1790714118.305336,
+      "collage": "collages\\c2aafa64-b138-4ecb-9677-8eb867338770.webp"
     }
   ],
   "baseline": {
@@ -6255,7 +6273,7 @@
         "alias": "Luka Modrić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 203,
+        "valor": 204,
         "inici": "2006",
         "final": "2026",
         "actiu": true

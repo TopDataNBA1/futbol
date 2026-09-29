@@ -5662,6 +5662,51 @@
       },
       "ts": 1790710539.494897,
       "collage": "collages\\b5124a71-d949-4283-8368-cebb7666c344.webp"
+    },
+    {
+      "id": "891ec085-409f-4823-ba6c-5512d26940c2",
+      "text": "Ricardo Rodriguez (2nd Switzerland) surpasses Hugo Lloris and reaches Anders Svensson, Robbie Keane and João Moutinho as 16th UEFA, 64th global player with 146 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 146,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hugo Lloris",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Anders Svensson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Robbie Keane",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "João Moutinho",
+                "pais": "Portugal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 16,
+        "rank_global": 64,
+        "ambit": "confederacio"
+      },
+      "ts": 1790710577.877592,
+      "collage": "collages\\891ec085-409f-4823-ba6c-5512d26940c2.webp"
     }
   ],
   "baseline": {
@@ -6057,7 +6102,7 @@
         "alias": "Ricardo Rodriguez",
         "pais": "Switzerland",
         "confederacio": "UEFA",
-        "valor": 145,
+        "valor": 146,
         "inici": "2011",
         "final": "2026",
         "actiu": true

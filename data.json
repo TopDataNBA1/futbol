@@ -5299,6 +5299,38 @@
       },
       "ts": 1790697437.78207,
       "collage": "collages\\e6a8f83b-0d4c-43b4-a9e5-f969a52107b7.webp"
+    },
+    {
+      "id": "cb1207fe-41ea-4f4e-94b3-31386f1afce3",
+      "text": "Lukas Hradecky surpasses Sami Hyypiä and Jonatan Johansson as 3rd Finland, 176th UEFA, 477th global player with 106 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lukas Hradecky",
+        "pais": "Finland",
+        "confederacio": "UEFA",
+        "valor": 106,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Sami Hyypiä",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Jonatan Johansson",
+                "pais": "Finland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 176,
+        "rank_global": 477,
+        "ambit": "compatriota"
+      },
+      "ts": 1790700617.15954,
+      "collage": "collages\\cb1207fe-41ea-4f4e-94b3-31386f1afce3.webp"
     }
   ],
   "baseline": {
@@ -5777,6 +5809,15 @@
         "confederacio": "CAF",
         "valor": 103,
         "inici": "2012",
+        "final": "2026",
+        "actiu": true
+      },
+      "Lukas Hradecky": {
+        "alias": "Lukas Hradecky",
+        "pais": "Finland",
+        "confederacio": "UEFA",
+        "valor": 106,
+        "inici": "2010",
         "final": "2026",
         "actiu": true
       }

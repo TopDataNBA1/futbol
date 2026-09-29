@@ -5707,6 +5707,91 @@
       },
       "ts": 1790710577.877592,
       "collage": "collages\\891ec085-409f-4823-ba6c-5512d26940c2.webp"
+    },
+    {
+      "id": "0efb6592-a98f-47f6-88ed-973e8fd09c15",
+      "text": "Mateo Kovačić (5th Croatia) surpasses Karel Poborský, Olof Mellberg, Daniele De Rossi, Giorgio Chiellini and David Alaba and reaches Heinz Hermann and John O'Shea as 96th UEFA, 273rd global player with 118 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 118,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Karel Poborský",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Olof Mellberg",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Daniele De Rossi",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Giorgio Chiellini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "David Alaba",
+                "pais": "Austria"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Heinz Hermann",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "John O'Shea",
+                "pais": "Republic of Ireland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 96,
+        "rank_global": 273,
+        "ambit": "confederacio"
+      },
+      "ts": 1790710617.651844,
+      "collage": "collages\\0efb6592-a98f-47f6-88ed-973e8fd09c15.webp"
+    },
+    {
+      "id": "0f088dc7-a923-4d49-87e4-c0c0e9a96c40",
+      "text": "Ivan Perišić (2nd Croatia) surpasses Konstantin Vassiljev as 8th UEFA, 32nd global player with 160 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 160,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Konstantin Vassiljev",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 8,
+        "rank_global": 32,
+        "ambit": "confederacio"
+      },
+      "ts": 1790710617.986735,
+      "collage": "collages\\0f088dc7-a923-4d49-87e4-c0c0e9a96c40.webp"
     }
   ],
   "baseline": {
@@ -6093,7 +6178,7 @@
         "alias": "Ivan Perišić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 159,
+        "valor": 160,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -6147,7 +6232,7 @@
         "alias": "Mateo Kovačić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 117,
+        "valor": 118,
         "inici": "2013",
         "final": "2026",
         "actiu": true

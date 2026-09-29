@@ -5561,6 +5561,38 @@
       },
       "ts": 1790710013.601644,
       "collage": "collages\\6af68f8d-8af2-4db7-9d35-ed23da1b81b5.webp"
+    },
+    {
+      "id": "b3e51a6a-bb6f-48d0-a671-6b637cee2d04",
+      "text": "Karol Mets reaches Joel Lindpere and Aleksandr Dmitrijev as 12th Estonia, 176th UEFA, 477th global player with 106 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 106,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Joel Lindpere",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Aleksandr Dmitrijev",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 12,
+        "rank_confederacio": 176,
+        "rank_global": 477,
+        "ambit": "compatriota"
+      },
+      "ts": 1790710500.372439,
+      "collage": "collages\\b3e51a6a-bb6f-48d0-a671-6b637cee2d04.webp"
     }
   ],
   "baseline": {
@@ -5929,7 +5961,7 @@
         "alias": "Karol Mets",
         "pais": "Estonia",
         "confederacio": "UEFA",
-        "valor": 105,
+        "valor": 106,
         "inici": "2013",
         "final": "2026",
         "actiu": true

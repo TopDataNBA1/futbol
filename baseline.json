@@ -279,6 +279,15 @@
       "final": "2025",
       "actiu": false
     },
+    "Ivan Perišić": {
+      "alias": "Ivan Perišić",
+      "pais": "Croatia",
+      "confederacio": "UEFA",
+      "valor": 160,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Essam El-Hadary": {
       "alias": "Essam El-Hadary",
       "pais": "Egypt",
@@ -287,15 +296,6 @@
       "inici": "1996",
       "final": "2018",
       "actiu": false
-    },
-    "Ivan Perišić": {
-      "alias": "Ivan Perišić",
-      "pais": "Croatia",
-      "confederacio": "UEFA",
-      "valor": 159,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true
     },
     "Konstantin Vassiljev": {
       "alias": "Konstantin Vassiljev",
@@ -594,6 +594,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Ricardo Rodriguez": {
+      "alias": "Ricardo Rodriguez",
+      "pais": "Switzerland",
+      "confederacio": "UEFA",
+      "valor": 146,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Anders Svensson": {
       "alias": "Anders Svensson",
       "pais": "Sweden",
@@ -638,15 +647,6 @@
       "inici": "2008",
       "final": "2022",
       "actiu": false
-    },
-    "Ricardo Rodriguez": {
-      "alias": "Ricardo Rodriguez",
-      "pais": "Switzerland",
-      "confederacio": "UEFA",
-      "valor": 145,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true
     },
     "Bryan Ruiz": {
       "alias": "Bryan Ruiz",
@@ -774,6 +774,15 @@
       "final": "2014",
       "actiu": false
     },
+    "Idrissa Gueye": {
+      "alias": "Idrissa Gueye",
+      "pais": "Senegal",
+      "confederacio": "CAF",
+      "valor": 142,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Marko Kristal": {
       "alias": "Marko Kristal",
       "pais": "Estonia",
@@ -816,15 +825,6 @@
       "confederacio": "AFC",
       "valor": 141,
       "inici": "2015",
-      "final": "2026",
-      "actiu": true
-    },
-    "Idrissa Gueye": {
-      "alias": "Idrissa Gueye",
-      "pais": "Senegal",
-      "confederacio": "CAF",
-      "valor": 141,
-      "inici": "2011",
       "final": "2026",
       "actiu": true
     },
@@ -1107,6 +1107,15 @@
       "final": "2021",
       "actiu": false
     },
+    "Yoshimar Yotún": {
+      "alias": "Yoshimar Yotún",
+      "pais": "Peru",
+      "confederacio": "CONMEBOL",
+      "valor": 136,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Walter Centeno": {
       "alias": "Walter Centeno",
       "pais": "Costa Rica",
@@ -1125,12 +1134,12 @@
       "final": "2021",
       "actiu": false
     },
-    "Yoshimar Yotún": {
-      "alias": "Yoshimar Yotún",
-      "pais": "Peru",
-      "confederacio": "CONMEBOL",
+    "Yousef Nasser": {
+      "alias": "Yousef Nasser",
+      "pais": "Kuwait",
+      "confederacio": "AFC",
       "valor": 135,
-      "inici": "2011",
+      "inici": "2009",
       "final": "2026",
       "actiu": true
     },
@@ -1196,15 +1205,6 @@
       "inici": "1991",
       "final": "2007",
       "actiu": false
-    },
-    "Yousef Nasser": {
-      "alias": "Yousef Nasser",
-      "pais": "Kuwait",
-      "confederacio": "AFC",
-      "valor": 134,
-      "inici": "2009",
-      "final": "2026",
-      "actiu": true
     },
     "Andres Oper": {
       "alias": "Andres Oper",
@@ -1584,6 +1584,15 @@
       "final": "2003",
       "actiu": false
     },
+    "Pedro Gallese": {
+      "alias": "Pedro Gallese",
+      "pais": "Peru",
+      "confederacio": "CONMEBOL",
+      "valor": 129,
+      "inici": "2014",
+      "final": "2026",
+      "actiu": true
+    },
     "Paolo Guerrero": {
       "alias": "Paolo Guerrero",
       "pais": "Peru",
@@ -1619,15 +1628,6 @@
       "inici": "1999",
       "final": "2015",
       "actiu": false
-    },
-    "Pedro Gallese": {
-      "alias": "Pedro Gallese",
-      "pais": "Peru",
-      "confederacio": "CONMEBOL",
-      "valor": 128,
-      "inici": "2014",
-      "final": "2026",
-      "actiu": true
     },
     "Raúl Jiménez": {
       "alias": "Raúl Jiménez",
@@ -1809,6 +1809,15 @@
       "final": "2017",
       "actiu": false
     },
+    "Laurent Jans": {
+      "alias": "Laurent Jans",
+      "pais": "Luxembourg",
+      "confederacio": "UEFA",
+      "valor": 126,
+      "inici": "2012",
+      "final": "2026",
+      "actiu": true
+    },
     "Paolo Maldini": {
       "alias": "Paolo Maldini",
       "pais": "Italy",
@@ -1907,15 +1916,6 @@
       "inici": "1996",
       "final": "2009",
       "actiu": false
-    },
-    "Laurent Jans": {
-      "alias": "Laurent Jans",
-      "pais": "Luxembourg",
-      "confederacio": "UEFA",
-      "valor": 125,
-      "inici": "2012",
-      "final": "2026",
-      "actiu": true
     },
     "Sayed Mahmood Jalal": {
       "alias": "Sayed Mahmood Jalal",
@@ -2034,6 +2034,15 @@
       "final": "2026",
       "actiu": false
     },
+    "Harib Al-Saadi": {
+      "alias": "Harib Al-Saadi",
+      "pais": "Oman",
+      "confederacio": "AFC",
+      "valor": 124,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
+    },
     "Yoo Sang-chul": {
       "alias": "Yoo Sang-chul",
       "pais": "South Korea",
@@ -2051,6 +2060,15 @@
       "inici": "1997",
       "final": "2010",
       "actiu": false
+    },
+    "Harry Kane": {
+      "alias": "Harry Kane",
+      "pais": "England",
+      "confederacio": "UEFA",
+      "valor": 123,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
     },
     "Hassan Maatouk": {
       "alias": "Hassan Maatouk",
@@ -2078,15 +2096,6 @@
       "inici": "2006",
       "final": "2019",
       "actiu": false
-    },
-    "Harib Al-Saadi": {
-      "alias": "Harib Al-Saadi",
-      "pais": "Oman",
-      "confederacio": "AFC",
-      "valor": 123,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true
     },
     "Carlos Salcido": {
       "alias": "Carlos Salcido",
@@ -2132,15 +2141,6 @@
       "inici": "1988",
       "final": "1999",
       "actiu": false
-    },
-    "Harry Kane": {
-      "alias": "Harry Kane",
-      "pais": "England",
-      "confederacio": "UEFA",
-      "valor": 122,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true
     },
     "Goran Pandev": {
       "alias": "Goran Pandev",
@@ -2394,6 +2394,15 @@
       "final": "2015",
       "actiu": false
     },
+    "Mateo Kovačić": {
+      "alias": "Mateo Kovačić",
+      "pais": "Croatia",
+      "confederacio": "UEFA",
+      "valor": 119,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
+    },
     "Andrej Kramarić": {
       "alias": "Andrej Kramarić",
       "pais": "Croatia",
@@ -2600,15 +2609,6 @@
       "inici": "1971",
       "final": "1979",
       "actiu": false
-    },
-    "Mateo Kovačić": {
-      "alias": "Mateo Kovačić",
-      "pais": "Croatia",
-      "confederacio": "UEFA",
-      "valor": 117,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true
     },
     "Olof Mellberg": {
       "alias": "Olof Mellberg",
@@ -3546,6 +3546,15 @@
       "final": "2012",
       "actiu": false
     },
+    "Mehdi Taremi": {
+      "alias": "Mehdi Taremi",
+      "pais": "Iran",
+      "confederacio": "AFC",
+      "valor": 111,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
+    },
     "Carlos Valderrama": {
       "alias": "Carlos Valderrama",
       "pais": "Colombia",
@@ -3672,6 +3681,15 @@
       "final": "2026",
       "actiu": false
     },
+    "Franck Kessié": {
+      "alias": "Franck Kessié",
+      "pais": "Ivory Coast",
+      "confederacio": "CAF",
+      "valor": 110,
+      "inici": "2014",
+      "final": "2026",
+      "actiu": true
+    },
     "Kevin Kilbane": {
       "alias": "Kevin Kilbane",
       "pais": "Republic of Ireland",
@@ -3761,15 +3779,6 @@
       "inici": "1993",
       "final": "2009",
       "actiu": false
-    },
-    "Mehdi Taremi": {
-      "alias": "Mehdi Taremi",
-      "pais": "Iran",
-      "confederacio": "AFC",
-      "valor": 110,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true
     },
     "Fernando Torres": {
       "alias": "Fernando Torres",
@@ -3869,15 +3878,6 @@
       "inici": "2009",
       "final": "2019",
       "actiu": false
-    },
-    "Franck Kessié": {
-      "alias": "Franck Kessié",
-      "pais": "Ivory Coast",
-      "confederacio": "CAF",
-      "valor": 109,
-      "inici": "2014",
-      "final": "2026",
-      "actiu": true
     },
     "Lee Jae-sung": {
       "alias": "Lee Jae-sung",
@@ -4167,6 +4167,15 @@
       "final": "2013",
       "actiu": false
     },
+    "Fahad Al-Hajeri": {
+      "alias": "Fahad Al-Hajeri",
+      "pais": "Kuwait",
+      "confederacio": "AFC",
+      "valor": 107,
+      "inici": "2012",
+      "final": "2026",
+      "actiu": true
+    },
     "Miroslav Karhan": {
       "alias": "Miroslav Karhan",
       "pais": "Slovakia",
@@ -4356,21 +4365,21 @@
       "final": "2004",
       "actiu": false
     },
-    "Fahad Al-Hajeri": {
-      "alias": "Fahad Al-Hajeri",
-      "pais": "Kuwait",
-      "confederacio": "AFC",
-      "valor": 106,
-      "inici": "2012",
-      "final": "2026",
-      "actiu": true
-    },
     "Jalal Hassan": {
       "alias": "Jalal Hassan",
       "pais": "Iraq",
       "confederacio": "AFC",
       "valor": 106,
       "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
+    "Lukas Hradecky": {
+      "alias": "Lukas Hradecky",
+      "pais": "Finland",
+      "confederacio": "UEFA",
+      "valor": 106,
+      "inici": "2010",
       "final": "2026",
       "actiu": true
     },
@@ -4418,6 +4427,15 @@
       "inici": "1999",
       "final": "2016",
       "actiu": false
+    },
+    "Karol Mets": {
+      "alias": "Karol Mets",
+      "pais": "Estonia",
+      "confederacio": "UEFA",
+      "valor": 106,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
     },
     "Aleksandar Mitrović": {
       "alias": "Aleksandar Mitrović",
@@ -4536,15 +4554,6 @@
       "final": "2023",
       "actiu": false
     },
-    "Lukas Hradecky": {
-      "alias": "Lukas Hradecky",
-      "pais": "Finland",
-      "confederacio": "UEFA",
-      "valor": 105,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
-    },
     "Sami Hyypiä": {
       "alias": "Sami Hyypiä",
       "pais": "Finland",
@@ -4616,15 +4625,6 @@
       "inici": "2000",
       "final": "2011",
       "actiu": false
-    },
-    "Karol Mets": {
-      "alias": "Karol Mets",
-      "pais": "Estonia",
-      "confederacio": "UEFA",
-      "valor": 105,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true
     },
     "Ignatiy Nesterov": {
       "alias": "Ignatiy Nesterov",
@@ -5013,6 +5013,15 @@
       "final": "2022",
       "actiu": false
     },
+    "Achraf Hakimi": {
+      "alias": "Achraf Hakimi",
+      "pais": "Morocco",
+      "confederacio": "CAF",
+      "valor": 103,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
+    },
     "Andi Herzog": {
       "alias": "Andi Herzog",
       "pais": "Austria",
@@ -5057,6 +5066,15 @@
       "inici": "2012",
       "final": "2023",
       "actiu": false
+    },
+    "Ryan Mendes": {
+      "alias": "Ryan Mendes",
+      "pais": "Cape Verde",
+      "confederacio": "CAF",
+      "valor": 103,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true
     },
     "Emad Mohammed": {
       "alias": "Emad Mohammed",
@@ -5120,6 +5138,15 @@
       "inici": "1999",
       "final": "2014",
       "actiu": false
+    },
+    "Jameel Al-Yahmadi": {
+      "alias": "Jameel Al-Yahmadi",
+      "pais": "Oman",
+      "confederacio": "AFC",
+      "valor": 103,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
     },
     "Indrek Zelinski": {
       "alias": "Indrek Zelinski",
@@ -5229,15 +5256,6 @@
       "final": "2026",
       "actiu": true
     },
-    "Achraf Hakimi": {
-      "alias": "Achraf Hakimi",
-      "pais": "Morocco",
-      "confederacio": "CAF",
-      "valor": 102,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true
-    },
     "Atiba Hutchinson": {
       "alias": "Atiba Hutchinson",
       "pais": "Canada",
@@ -5300,15 +5318,6 @@
       "inici": "1990",
       "final": "2005",
       "actiu": false
-    },
-    "Ryan Mendes": {
-      "alias": "Ryan Mendes",
-      "pais": "Cape Verde",
-      "confederacio": "CAF",
-      "valor": 102,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true
     },
     "Savo Milošević": {
       "alias": "Savo Milošević",
@@ -5462,15 +5471,6 @@
       "inici": "2005",
       "final": "2017",
       "actiu": false
-    },
-    "Jameel Al-Yahmadi": {
-      "alias": "Jameel Al-Yahmadi",
-      "pais": "Oman",
-      "confederacio": "AFC",
-      "valor": 102,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true
     },
     "Mario Yepes": {
       "alias": "Mario Yepes",
@@ -5652,6 +5652,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Alex Iwobi": {
+      "alias": "Alex Iwobi",
+      "pais": "Nigeria",
+      "confederacio": "CAF",
+      "valor": 101,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
+    },
     "Alireza Jahanbakhsh": {
       "alias": "Alireza Jahanbakhsh",
       "pais": "Iran",
@@ -5759,6 +5768,15 @@
       "inici": "2005",
       "final": "2018",
       "actiu": false
+    },
+    "Moses Simon": {
+      "alias": "Moses Simon",
+      "pais": "Nigeria",
+      "confederacio": "CAF",
+      "valor": 101,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
     },
     "Thomas Sørensen": {
       "alias": "Thomas Sørensen",
@@ -5976,15 +5994,6 @@
       "final": "2026",
       "actiu": true
     },
-    "Alex Iwobi": {
-      "alias": "Alex Iwobi",
-      "pais": "Nigeria",
-      "confederacio": "CAF",
-      "valor": 100,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true
-    },
     "Bojan Jokić": {
       "alias": "Bojan Jokić",
       "pais": "Slovenia",
@@ -6137,15 +6146,6 @@
       "inici": "1996",
       "final": "2008",
       "actiu": false
-    },
-    "Moses Simon": {
-      "alias": "Moses Simon",
-      "pais": "Nigeria",
-      "confederacio": "CAF",
-      "valor": 100,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true
     },
     "Santokh Singh": {
       "alias": "Santokh Singh",

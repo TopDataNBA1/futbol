@@ -6148,6 +6148,34 @@
       },
       "ts": 1790796263.542525,
       "collage": "collages\\84175424-10dd-4849-bfe2-07bef74841c5.webp"
+    },
+    {
+      "id": "d26555f5-3b49-47a6-a89a-4556ecef6353",
+      "text": "Ali Madan surpasses Rashid Al-Dosari as 13th Bahrain, 95th AFC, 296th global player with 116 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ali Madan",
+        "pais": "Bahrain",
+        "confederacio": "AFC",
+        "valor": 116,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Rashid Al-Dosari",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 13,
+        "rank_confederacio": 95,
+        "rank_global": 296,
+        "ambit": "compatriota"
+      },
+      "ts": 1790796320.741457,
+      "collage": "collages\\d26555f5-3b49-47a6-a89a-4556ecef6353.webp"
     }
   ],
   "baseline": {
@@ -6300,7 +6328,7 @@
         "alias": "Ali Madan",
         "pais": "Bahrain",
         "confederacio": "AFC",
-        "valor": 115,
+        "valor": 116,
         "inici": "2016",
         "final": "2026",
         "actiu": true

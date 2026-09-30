@@ -5979,6 +5979,80 @@
       },
       "ts": 1790733169.019491,
       "collage": "collages\\0fbf1b0d-7202-47e2-aa98-2bd539908bf1.webp"
+    },
+    {
+      "id": "0b9c0c7b-04da-4ad0-97ed-51669f3bbcf7",
+      "text": "Pedro Gallese surpasses Paolo Guerrero and reaches Luis Advíncula as 2nd Peru, 21st CONMEBOL, 166th global player with 130 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 130,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Paolo Guerrero",
+                "pais": "Peru"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luis Advíncula",
+                "pais": "Peru"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 21,
+        "rank_global": 166,
+        "ambit": "compatriota"
+      },
+      "ts": 1790762233.544426,
+      "collage": "collages\\0b9c0c7b-04da-4ad0-97ed-51669f3bbcf7.webp"
+    },
+    {
+      "id": "d26bf07f-6fdc-4079-a66d-008f13c0961e",
+      "text": "Yoshimar Yotún (1st Peru) surpasses Edinson Cavani and reaches Fernando Muslera as 17th CONMEBOL, 107th global player with 137 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 137,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Edinson Cavani",
+                "pais": "Uruguay"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Fernando Muslera",
+                "pais": "Uruguay"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 17,
+        "rank_global": 107,
+        "ambit": "confederacio"
+      },
+      "ts": 1790762235.134897,
+      "collage": "collages\\d26bf07f-6fdc-4079-a66d-008f13c0961e.webp"
     }
   ],
   "baseline": {
@@ -6383,7 +6457,7 @@
         "alias": "Yoshimar Yotún",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 136,
+        "valor": 137,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -6392,7 +6466,7 @@
         "alias": "Pedro Gallese",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 129,
+        "valor": 130,
         "inici": "2014",
         "final": "2026",
         "actiu": true
@@ -6518,5 +6592,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-30"
+  "ultima_conciliacio": "2026-09-29"
 }

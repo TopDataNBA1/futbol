@@ -423,8 +423,8 @@ function ordinal(n){
 async function loadData(){
   try{
     const [baselineResp, dataResp] = await Promise.all([
-      fetch('baseline.json').then(r => r.ok ? r.json() : {Partits:{},Gols:{}}).catch(() => ({Partits:{},Gols:{}})),
-      fetch('data.json').then(r => r.ok ? r.json() : {notificacions:[],baseline:{Partits:{},Gols:{}}}).catch(() => ({notificacions:[],baseline:{Partits:{},Gols:{}}})),
+      fetch('baseline.json?_=' + Date.now(), {cache: 'no-store'}).then(r => r.ok ? r.json() : {Partits:{},Gols:{}}).catch(() => ({Partits:{},Gols:{}})),
+      fetch('data.json?_=' + Date.now(), {cache: 'no-store'}).then(r => r.ok ? r.json() : {notificacions:[],baseline:{Partits:{},Gols:{}}}).catch(() => ({notificacions:[],baseline:{Partits:{},Gols:{}}})),
     ]);
     BASELINE = baselineResp;
     DATA = dataResp;

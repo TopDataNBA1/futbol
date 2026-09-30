@@ -6092,6 +6092,62 @@
       },
       "ts": 1790790456.277975,
       "collage": "collages\\8e3d7ceb-9261-40c2-bc30-49aa100c31ea.webp"
+    },
+    {
+      "id": "8306af97-b6d3-4921-9186-1ac2e7f3a156",
+      "text": "Boualem Khoukhi surpasses Abdulaziz Hatem as 4th Qatar, 44th AFC, 127th global player with 134 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Boualem Khoukhi",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 134,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 44,
+        "rank_global": 127,
+        "ambit": "compatriota"
+      },
+      "ts": 1790796259.050717,
+      "collage": "collages\\8306af97-b6d3-4921-9186-1ac2e7f3a156.webp"
+    },
+    {
+      "id": "84175424-10dd-4849-bfe2-07bef74841c5",
+      "text": "Karim Boudiaf reaches Abdulaziz Hatem as 4th Qatar, 48th AFC, 140th global player with 133 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karim Boudiaf",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 133,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 48,
+        "rank_global": 140,
+        "ambit": "compatriota"
+      },
+      "ts": 1790796263.542525,
+      "collage": "collages\\84175424-10dd-4849-bfe2-07bef74841c5.webp"
     }
   ],
   "baseline": {
@@ -6208,7 +6264,7 @@
         "alias": "Boualem Khoukhi",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 133,
+        "valor": 134,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -6217,7 +6273,7 @@
         "alias": "Karim Boudiaf",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 132,
+        "valor": 133,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -6631,5 +6687,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-09-30"
+  "ultima_conciliacio": "2026-09-29"
 }

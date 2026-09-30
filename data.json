@@ -5981,80 +5981,6 @@
       "collage": "collages\\0fbf1b0d-7202-47e2-aa98-2bd539908bf1.webp"
     },
     {
-      "id": "0b9c0c7b-04da-4ad0-97ed-51669f3bbcf7",
-      "text": "Pedro Gallese surpasses Paolo Guerrero and reaches Luis Advíncula as 2nd Peru, 21st CONMEBOL, 166th global player with 130 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Pedro Gallese",
-        "pais": "Peru",
-        "confederacio": "CONMEBOL",
-        "valor": 130,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Paolo Guerrero",
-                "pais": "Peru"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Luis Advíncula",
-                "pais": "Peru"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 2,
-        "rank_confederacio": 21,
-        "rank_global": 166,
-        "ambit": "compatriota"
-      },
-      "ts": 1790762233.544426,
-      "collage": "collages\\0b9c0c7b-04da-4ad0-97ed-51669f3bbcf7.webp"
-    },
-    {
-      "id": "d26bf07f-6fdc-4079-a66d-008f13c0961e",
-      "text": "Yoshimar Yotún (1st Peru) surpasses Edinson Cavani and reaches Fernando Muslera as 17th CONMEBOL, 107th global player with 137 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Yoshimar Yotún",
-        "pais": "Peru",
-        "confederacio": "CONMEBOL",
-        "valor": 137,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Edinson Cavani",
-                "pais": "Uruguay"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Fernando Muslera",
-                "pais": "Uruguay"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 17,
-        "rank_global": 107,
-        "ambit": "confederacio"
-      },
-      "ts": 1790762235.134897,
-      "collage": "collages\\d26bf07f-6fdc-4079-a66d-008f13c0961e.webp"
-    },
-    {
       "id": "8e3d7ceb-9261-40c2-bc30-49aa100c31ea",
       "text": "Moisés San Nicolás (6th Andorra) surpasses Franz Beckenbauer, Michael Laudrup, Didier Deschamps, Andi Herzog, Stéphane Chapuisat, Indrek Zelinski, Dejan Stanković, Māris Verpakovskis, Jaroslav Plašil, Vedran Ćorluka, Andrei Agius, Kamil Glik, James McClean and Fedor Černych and reaches Thorbjørn Svenssen, Ioannis Okkas, Dirk Kuyt, Per Mertesacker, Ivica Olić, Martin Škrtel and Henri Anier as 199th UEFA, 526th global player with 104 international caps.",
       "dades": {
@@ -6166,180 +6092,6 @@
       },
       "ts": 1790790456.277975,
       "collage": "collages\\8e3d7ceb-9261-40c2-bc30-49aa100c31ea.webp"
-    },
-    {
-      "id": "c3c47853-5fb3-42ed-a705-2a0f8d36db3d",
-      "text": "Pedro Miguel surpasses Wesam Rizik as 9th Qatar, 89th AFC, 282nd global player with 117 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Pedro Miguel",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 117,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Wesam Rizik",
-                "pais": "Qatar"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 9,
-        "rank_confederacio": 89,
-        "rank_global": 282,
-        "ambit": "compatriota"
-      },
-      "ts": 1790792238.221798,
-      "collage": "collages\\c3c47853-5fb3-42ed-a705-2a0f8d36db3d.webp"
-    },
-    {
-      "id": "c491a178-9469-4f4c-b674-031b1f5f961c",
-      "text": "Tarek Salman reaches Ibrahim Majid as 14th Qatar, 172nd AFC, 548th global player with 103 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Tarek Salman",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 103,
-        "accions": [
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Ibrahim Majid",
-                "pais": "Qatar"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 14,
-        "rank_confederacio": 172,
-        "rank_global": 548,
-        "ambit": "compatriota"
-      },
-      "ts": 1790792238.860221,
-      "collage": "collages\\c491a178-9469-4f4c-b674-031b1f5f961c.webp"
-    },
-    {
-      "id": "02d6565a-666b-4037-b70c-02a5ca37e505",
-      "text": "Almoez Ali (7th Qatar) surpasses Cha Bum-kun and Teerasil Dangda and reaches Arumugan Rengasamy, Kiatisuk Senamuang and Lee Young-pyo as 56th AFC, 158th global player with 131 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Almoez Ali",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 131,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Cha Bum-kun",
-                "pais": "South Korea"
-              },
-              {
-                "nom": "Teerasil Dangda",
-                "pais": "Thailand"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Arumugan Rengasamy",
-                "pais": "Malaysia"
-              },
-              {
-                "nom": "Kiatisuk Senamuang",
-                "pais": "Thailand"
-              },
-              {
-                "nom": "Lee Young-pyo",
-                "pais": "South Korea"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 7,
-        "rank_confederacio": 56,
-        "rank_global": 158,
-        "ambit": "confederacio"
-      },
-      "ts": 1790792239.487773,
-      "collage": "collages\\02d6565a-666b-4037-b70c-02a5ca37e505.webp"
-    },
-    {
-      "id": "8bb0e081-a762-48a2-bcb9-56772291c4f4",
-      "text": "Almoez Ali (1st Qatar) surpasses Yousef Nasser and Mehdi Taremi and reaches Abdul Ghani Minhat as 15th AFC, 42nd global scorer with 61 international goals.",
-      "dades": {
-        "categoria": "Gols",
-        "jugador": "Almoez Ali",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 61,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Yousef Nasser",
-                "pais": "Kuwait"
-              },
-              {
-                "nom": "Mehdi Taremi",
-                "pais": "Iran"
-              }
-            ]
-          },
-          {
-            "verb": "reaches",
-            "jugadors": [
-              {
-                "nom": "Abdul Ghani Minhat",
-                "pais": "Malaya"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 1,
-        "rank_confederacio": 15,
-        "rank_global": 42,
-        "ambit": "confederacio"
-      },
-      "ts": 1790792240.443559,
-      "collage": "collages\\8bb0e081-a762-48a2-bcb9-56772291c4f4.webp"
-    },
-    {
-      "id": "33b5d159-8478-48f1-af10-c4ed818f7df8",
-      "text": "Abdulaziz Hatem surpasses Boualem Khoukhi as 4th Qatar, 44th AFC, 127th global player with 134 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Abdulaziz Hatem",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 134,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Boualem Khoukhi",
-                "pais": "Qatar"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 4,
-        "rank_confederacio": 44,
-        "rank_global": 127,
-        "ambit": "compatriota"
-      },
-      "ts": 1790792240.948643,
-      "collage": "collages\\33b5d159-8478-48f1-af10-c4ed818f7df8.webp"
     }
   ],
   "baseline": {
@@ -6483,7 +6235,7 @@
         "alias": "Pedro Miguel",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 117,
+        "valor": 116,
         "inici": "2016",
         "final": "2026",
         "actiu": true
@@ -6501,7 +6253,7 @@
         "alias": "Almoez Ali",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 131,
+        "valor": 130,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -6744,7 +6496,7 @@
         "alias": "Yoshimar Yotún",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 137,
+        "valor": 136,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -6753,7 +6505,7 @@
         "alias": "Pedro Gallese",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 130,
+        "valor": 129,
         "inici": "2014",
         "final": "2026",
         "actiu": true
@@ -6829,24 +6581,6 @@
         "inici": "2010",
         "final": "2026",
         "actiu": true
-      },
-      "Tarek Salman": {
-        "alias": "Tarek Salman",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 103,
-        "inici": "2017",
-        "final": "2026",
-        "actiu": true
-      },
-      "Abdulaziz Hatem": {
-        "alias": "Abdulaziz Hatem",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 134,
-        "inici": "2009",
-        "final": "2026",
-        "actiu": true
       }
     },
     "Gols": {
@@ -6892,15 +6626,6 @@
         "confederacio": "UEFA",
         "valor": 87,
         "inici": "2015",
-        "final": "2026",
-        "actiu": true
-      },
-      "Almoez Ali": {
-        "alias": "Almoez Ali",
-        "pais": "Qatar",
-        "confederacio": "AFC",
-        "valor": 61,
-        "inici": "2013",
         "final": "2026",
         "actiu": true
       }

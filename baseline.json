@@ -7,7 +7,7 @@
       "valor": 234,
       "inici": "2003",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Lionel Messi": {
       "alias": "Lionel Messi",
@@ -6237,7 +6237,7 @@
       "valor": 146,
       "inici": "2003",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Lionel Messi": {
       "alias": "Lionel Messi",

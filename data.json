@@ -6053,6 +6053,119 @@
       },
       "ts": 1790762235.134897,
       "collage": "collages\\d26bf07f-6fdc-4079-a66d-008f13c0961e.webp"
+    },
+    {
+      "id": "8e3d7ceb-9261-40c2-bc30-49aa100c31ea",
+      "text": "Moisés San Nicolás (6th Andorra) surpasses Franz Beckenbauer, Michael Laudrup, Didier Deschamps, Andi Herzog, Stéphane Chapuisat, Indrek Zelinski, Dejan Stanković, Māris Verpakovskis, Jaroslav Plašil, Vedran Ćorluka, Andrei Agius, Kamil Glik, James McClean and Fedor Černych and reaches Thorbjørn Svenssen, Ioannis Okkas, Dirk Kuyt, Per Mertesacker, Ivica Olić, Martin Škrtel and Henri Anier as 199th UEFA, 526th global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moisés San Nicolás",
+        "pais": "Andorra",
+        "confederacio": "UEFA",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Franz Beckenbauer",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Michael Laudrup",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Didier Deschamps",
+                "pais": "France"
+              },
+              {
+                "nom": "Andi Herzog",
+                "pais": "Austria"
+              },
+              {
+                "nom": "Stéphane Chapuisat",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Indrek Zelinski",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Dejan Stanković",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Māris Verpakovskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Jaroslav Plašil",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Vedran Ćorluka",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Andrei Agius",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Kamil Glik",
+                "pais": "Poland"
+              },
+              {
+                "nom": "James McClean",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Fedor Černych",
+                "pais": "Lithuania"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Thorbjørn Svenssen",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Ioannis Okkas",
+                "pais": "Cyprus"
+              },
+              {
+                "nom": "Dirk Kuyt",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Per Mertesacker",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Ivica Olić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Martin Škrtel",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 199,
+        "rank_global": 526,
+        "ambit": "confederacio"
+      },
+      "ts": 1790790456.277975,
+      "collage": "collages\\8e3d7ceb-9261-40c2-bc30-49aa100c31ea.webp"
     }
   ],
   "baseline": {
@@ -6124,7 +6237,7 @@
         "alias": "Moisés San Nicolás",
         "pais": "Andorra",
         "confederacio": "UEFA",
-        "valor": 103,
+        "valor": 104,
         "inici": "2012",
         "final": "2026",
         "actiu": true

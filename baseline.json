@@ -1413,6 +1413,15 @@
       "final": "2023",
       "actiu": false
     },
+    "Almoez Ali": {
+      "alias": "Almoez Ali",
+      "pais": "Qatar",
+      "confederacio": "AFC",
+      "valor": 131,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
+    },
     "Ibrahim Hassan": {
       "alias": "Ibrahim Hassan",
       "pais": "Egypt",
@@ -1491,15 +1500,6 @@
       "confederacio": "CONMEBOL",
       "valor": 130,
       "inici": "2010",
-      "final": "2026",
-      "actiu": true
-    },
-    "Almoez Ali": {
-      "alias": "Almoez Ali",
-      "pais": "Qatar",
-      "confederacio": "AFC",
-      "valor": 130,
-      "inici": "2013",
       "final": "2026",
       "actiu": true
     },
@@ -2628,6 +2628,15 @@
       "final": "2006",
       "actiu": false
     },
+    "Pedro Miguel": {
+      "alias": "Pedro Miguel",
+      "pais": "Qatar",
+      "confederacio": "AFC",
+      "valor": 117,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
+    },
     "Karel Poborský": {
       "alias": "Karel Poborský",
       "pais": "Czech Republic",
@@ -2745,9 +2754,9 @@
       "final": "2026",
       "actiu": true
     },
-    "Pedro Miguel": {
-      "alias": "Pedro Miguel",
-      "pais": "Qatar",
+    "Ali Madan": {
+      "alias": "Ali Madan",
+      "pais": "Bahrain",
       "confederacio": "AFC",
       "valor": 116,
       "inici": "2016",
@@ -2870,15 +2879,6 @@
       "inici": "2009",
       "final": "2024",
       "actiu": false
-    },
-    "Ali Madan": {
-      "alias": "Ali Madan",
-      "pais": "Bahrain",
-      "confederacio": "AFC",
-      "valor": 115,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true
     },
     "Chancel Mbemba": {
       "alias": "Chancel Mbemba",
@@ -4878,6 +4878,15 @@
       "final": "2015",
       "actiu": false
     },
+    "Moisés San Nicolás": {
+      "alias": "Moisés San Nicolás",
+      "pais": "Andorra",
+      "confederacio": "UEFA",
+      "valor": 104,
+      "inici": "2012",
+      "final": "2026",
+      "actiu": true
+    },
     "Nader El-Sayed": {
       "alias": "Nader El-Sayed",
       "pais": "Egypt",
@@ -5094,12 +5103,12 @@
       "final": "2016",
       "actiu": false
     },
-    "Moisés San Nicolás": {
-      "alias": "Moisés San Nicolás",
-      "pais": "Andorra",
-      "confederacio": "UEFA",
+    "Tarek Salman": {
+      "alias": "Tarek Salman",
+      "pais": "Qatar",
+      "confederacio": "AFC",
       "valor": 103,
-      "inici": "2012",
+      "inici": "2017",
       "final": "2026",
       "actiu": true
     },
@@ -5417,15 +5426,6 @@
       "inici": "2009",
       "final": "2019",
       "actiu": false
-    },
-    "Tarek Salman": {
-      "alias": "Tarek Salman",
-      "pais": "Qatar",
-      "confederacio": "AFC",
-      "valor": 102,
-      "inici": "2017",
-      "final": "2026",
-      "actiu": true
     },
     "Steve Staunton": {
       "alias": "Steve Staunton",
@@ -5991,6 +5991,15 @@
       "confederacio": "CONMEBOL",
       "valor": 100,
       "inici": "2013",
+      "final": "2026",
+      "actiu": true
+    },
+    "Aymen Hussein": {
+      "alias": "Aymen Hussein",
+      "pais": "Iraq",
+      "confederacio": "AFC",
+      "valor": 100,
+      "inici": "2015",
       "final": "2026",
       "actiu": true
     },
@@ -6608,21 +6617,21 @@
       "final": "1966",
       "actiu": false
     },
+    "Almoez Ali": {
+      "alias": "Almoez Ali",
+      "pais": "Qatar",
+      "confederacio": "AFC",
+      "valor": 61,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true
+    },
     "Mehdi Taremi": {
       "alias": "Mehdi Taremi",
       "pais": "Iran",
       "confederacio": "AFC",
       "valor": 60,
       "inici": "2015",
-      "final": "2026",
-      "actiu": true
-    },
-    "Almoez Ali": {
-      "alias": "Almoez Ali",
-      "pais": "Qatar",
-      "confederacio": "AFC",
-      "valor": 60,
-      "inici": "2013",
       "final": "2026",
       "actiu": true
     },

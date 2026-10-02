@@ -6755,6 +6755,109 @@
       },
       "ts": 1790969795.617869,
       "collage": "collages\\daa2c2a6-0ee1-49b8-96b2-f97c990b2dcf.webp"
+    },
+    {
+      "id": "2535ba1f-97bf-4040-9232-adb6d399eaa0",
+      "text": "Piotr Zieliński (2nd Poland) surpasses Andriy Shevchenko, Igor Akinfeev and Gareth Bale and reaches Dino Zoff, Alain Geiger, Frank de Boer, Hakan Şükür, Jon Dahl Tomasson, Juris Laizāns, Nani, Aaron Hughes, Franz Burgmeier, Juraj Kucka and Memphis Depay as 131st UEFA, 360th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Piotr Zieliński",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Andriy Shevchenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Igor Akinfeev",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Gareth Bale",
+                "pais": "Wales"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Dino Zoff",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Alain Geiger",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Frank de Boer",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Hakan Şükür",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Jon Dahl Tomasson",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Juris Laizāns",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Nani",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Aaron Hughes",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Juraj Kucka",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Memphis Depay",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 131,
+        "rank_global": 360,
+        "ambit": "confederacio"
+      },
+      "ts": 1790969840.463669,
+      "collage": "collages\\2535ba1f-97bf-4040-9232-adb6d399eaa0.webp"
+    },
+    {
+      "id": "6af15f1a-fbc4-4237-b9eb-69c624c63510",
+      "text": "170th international cap for Robert Lewandowski. 1st Poland, 5th UEFA, 17th global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Robert Lewandowski",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 170,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 17,
+        "ambit": "cap"
+      },
+      "ts": 1790969840.94651,
+      "collage": "collages\\6af15f1a-fbc4-4237-b9eb-69c624c63510.webp"
     }
   ],
   "baseline": {
@@ -7015,7 +7118,7 @@
         "alias": "Robert Lewandowski",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 169,
+        "valor": 170,
         "inici": "2008",
         "final": "2026",
         "actiu": true
@@ -7069,7 +7172,7 @@
         "alias": "Piotr Zieliński",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 111,
+        "valor": 112,
         "inici": "2013",
         "final": "2026",
         "actiu": true

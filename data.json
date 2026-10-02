@@ -6718,6 +6718,43 @@
       },
       "ts": 1790969750.835289,
       "collage": "collages\\b4ded618-95b4-4e23-9f30-eb3249958b1b.webp"
+    },
+    {
+      "id": "daa2c2a6-0ee1-49b8-96b2-f97c990b2dcf",
+      "text": "Edin Džeko (1st Bosnia and Herzegovina) surpasses Christian Eriksen and reaches Granit Xhaka as 12th UEFA, 43rd global player with 152 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Edin Džeko",
+        "pais": "Bosnia and Herzegovina",
+        "confederacio": "UEFA",
+        "valor": 152,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Christian Eriksen",
+                "pais": "Denmark"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Granit Xhaka",
+                "pais": "Switzerland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 12,
+        "rank_global": 43,
+        "ambit": "confederacio"
+      },
+      "ts": 1790969795.617869,
+      "collage": "collages\\daa2c2a6-0ee1-49b8-96b2-f97c990b2dcf.webp"
     }
   ],
   "baseline": {
@@ -7243,6 +7280,15 @@
         "inici": "2008",
         "final": "2025",
         "actiu": false
+      },
+      "Edin Džeko": {
+        "alias": "Edin Džeko",
+        "pais": "Bosnia and Herzegovina",
+        "confederacio": "UEFA",
+        "valor": 152,
+        "inici": "2007",
+        "final": "2026",
+        "actiu": true
       }
     },
     "Gols": {

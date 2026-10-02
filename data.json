@@ -6544,6 +6544,62 @@
       },
       "ts": 1790883367.117284,
       "collage": "collages\\3a1d6021-908f-4411-a3b3-17297cb00500.webp"
+    },
+    {
+      "id": "c4ea92eb-3812-4edb-9533-7db0d2a76336",
+      "text": "Keylor Navas reaches Luis Marín as 5th Costa Rica, 30th CONCACAF, 197th global player with 126 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Keylor Navas",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 126,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luis Marín",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 30,
+        "rank_global": 197,
+        "ambit": "compatriota"
+      },
+      "ts": 1790909259.067154,
+      "collage": "collages\\c4ea92eb-3812-4edb-9533-7db0d2a76336.webp"
+    },
+    {
+      "id": "d8bc15e9-c908-4144-95e5-a99202f1865c",
+      "text": "Francisco Calvo surpasses Rolando Fonseca as 7th Costa Rica, 45th CONCACAF, 360th global player with 112 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 112,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Rolando Fonseca",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 45,
+        "rank_global": 360,
+        "ambit": "compatriota"
+      },
+      "ts": 1790909259.524014,
+      "collage": "collages\\d8bc15e9-c908-4144-95e5-a99202f1865c.webp"
     }
   ],
   "baseline": {
@@ -6741,7 +6797,7 @@
         "alias": "Francisco Calvo",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 111,
+        "valor": 112,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -7051,6 +7107,15 @@
         "inici": "2010",
         "final": "2026",
         "actiu": true
+      },
+      "Keylor Navas": {
+        "alias": "Keylor Navas",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 126,
+        "inici": "2008",
+        "final": "2025",
+        "actiu": false
       }
     },
     "Gols": {
@@ -7101,5 +7166,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-10-02"
+  "ultima_conciliacio": "2026-10-01"
 }

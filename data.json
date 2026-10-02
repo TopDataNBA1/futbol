@@ -6858,6 +6858,75 @@
       },
       "ts": 1790969840.94651,
       "collage": "collages\\6af15f1a-fbc4-4237-b9eb-69c624c63510.webp"
+    },
+    {
+      "id": "9723ae1d-af00-4c11-861d-17a9f36ada1c",
+      "text": "Andriy Yarmolenko (2nd Ukraine) surpasses Andoni Zubizarreta, Paolo Maldini, Enar Jääger, Eden Hazard and Laurent Jans and reaches Luís Figo, Dennis Rommedahl, Sergei Ignashevich, Toby Alderweireld and Kevin De Bruyne as 62nd UEFA, 186th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Andriy Yarmolenko",
+        "pais": "Ukraine",
+        "confederacio": "UEFA",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Andoni Zubizarreta",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Paolo Maldini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Enar Jääger",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Laurent Jans",
+                "pais": "Luxembourg"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luís Figo",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Dennis Rommedahl",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Sergei Ignashevich",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Kevin De Bruyne",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 62,
+        "rank_global": 186,
+        "ambit": "confederacio"
+      },
+      "ts": 1790969872.526129,
+      "collage": "collages\\9723ae1d-af00-4c11-861d-17a9f36ada1c.webp"
     }
   ],
   "baseline": {
@@ -7390,6 +7459,15 @@
         "confederacio": "UEFA",
         "valor": 152,
         "inici": "2007",
+        "final": "2026",
+        "actiu": true
+      },
+      "Andriy Yarmolenko": {
+        "alias": "Andriy Yarmolenko",
+        "pais": "Ukraine",
+        "confederacio": "UEFA",
+        "valor": 127,
+        "inici": "2009",
         "final": "2026",
         "actiu": true
       }

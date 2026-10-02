@@ -6653,6 +6653,34 @@
       },
       "ts": 1790912912.632835,
       "collage": "collages\\78210a67-0ad2-4d2c-9470-8b94a8f44c23.webp"
+    },
+    {
+      "id": "7829ae20-f132-46fc-b15b-0b78cfd0f3d6",
+      "text": "Son Heung-min (1st South Korea) surpasses Ehsan Hajsafi as 18th AFC, 46th global player with 151 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 151,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ehsan Hajsafi",
+                "pais": "Iran"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 18,
+        "rank_global": 46,
+        "ambit": "confederacio"
+      },
+      "ts": 1790942191.407785,
+      "collage": "collages\\7829ae20-f132-46fc-b15b-0b78cfd0f3d6.webp"
     }
   ],
   "baseline": {
@@ -6688,7 +6716,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 150,
+        "valor": 151,
         "inici": "2010",
         "final": "2026",
         "actiu": true

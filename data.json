@@ -6681,6 +6681,43 @@
       },
       "ts": 1790942191.407785,
       "collage": "collages\\7829ae20-f132-46fc-b15b-0b78cfd0f3d6.webp"
+    },
+    {
+      "id": "b4ded618-95b4-4e23-9f30-eb3249958b1b",
+      "text": "Kevin De Bruyne surpasses Eden Hazard and reaches Toby Alderweireld as 4th Belgium, 62nd UEFA, 186th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 62,
+        "rank_global": 186,
+        "ambit": "compatriota"
+      },
+      "ts": 1790969750.835289,
+      "collage": "collages\\b4ded618-95b4-4e23-9f30-eb3249958b1b.webp"
     }
   ],
   "baseline": {
@@ -6968,7 +7005,7 @@
         "alias": "Kevin De Bruyne",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 126,
+        "valor": 127,
         "inici": "2010",
         "final": "2026",
         "actiu": true

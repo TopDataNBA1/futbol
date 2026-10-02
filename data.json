@@ -6600,6 +6600,59 @@
       },
       "ts": 1790909259.524014,
       "collage": "collages\\d8bc15e9-c908-4144-95e5-a99202f1865c.webp"
+    },
+    {
+      "id": "78210a67-0ad2-4d2c-9470-8b94a8f44c23",
+      "text": "Celso Borges (1st Costa Rica, 5th CONCACAF) surpasses Ivan Perišić and reaches Adnan Al-Talyani, Salman Isa, Mohamed Husain, Diego Godín and Gary Medel as 26th global player with 161 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Celso Borges",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 161,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ivan Perišić",
+                "pais": "Croatia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Adnan Al-Talyani",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Salman Isa",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Mohamed Husain",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Diego Godín",
+                "pais": "Uruguay"
+              },
+              {
+                "nom": "Gary Medel",
+                "pais": "Chile"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 26,
+        "ambit": "global"
+      },
+      "ts": 1790912912.632835,
+      "collage": "collages\\78210a67-0ad2-4d2c-9470-8b94a8f44c23.webp"
     }
   ],
   "baseline": {
@@ -7113,6 +7166,15 @@
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
         "valor": 126,
+        "inici": "2008",
+        "final": "2025",
+        "actiu": false
+      },
+      "Celso Borges": {
+        "alias": "Celso Borges",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 161,
         "inici": "2008",
         "final": "2025",
         "actiu": false

@@ -5232,6 +5232,75 @@
       "collage": "collages\\d29160dc-d410-417e-b270-db64d7c0ce46.webp"
     },
     {
+      "id": "e6a8f83b-0d4c-43b4-a9e5-f969a52107b7",
+      "text": "Simon Msuva (2nd Tanzania) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré and Ryan Mendes and reaches Elijah Tana, Ferjani Sassi and Achraf Hakimi as 46th CAF, 548th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Simon Msuva",
+        "pais": "Tanzania",
+        "confederacio": "CAF",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Ferjani Sassi",
+                "pais": "Tunisia"
+              },
+              {
+                "nom": "Achraf Hakimi",
+                "pais": "Morocco"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 46,
+        "rank_global": 548,
+        "ambit": "confederacio"
+      },
+      "ts": 1790697437.78207,
+      "collage": "collages\\e6a8f83b-0d4c-43b4-a9e5-f969a52107b7.webp"
+    },
+    {
       "id": "cb1207fe-41ea-4f4e-94b3-31386f1afce3",
       "text": "Lukas Hradecky surpasses Sami Hyypiä and Jonatan Johansson as 3rd Finland, 176th UEFA, 477th global player with 106 international caps.",
       "dades": {
@@ -6858,6 +6927,260 @@
       },
       "ts": 1790969872.526129,
       "collage": "collages\\9723ae1d-af00-4c11-861d-17a9f36ada1c.webp"
+    },
+    {
+      "id": "ab6d59ab-c842-4e4c-a57e-6c15692043c7",
+      "text": "Lukas Hradecky (3rd Finland) surpasses Bobby Charlton, Imants Bleidelis, Henrik Larsson, Giovanni van Bronckhorst, Frank Lampard, Óscar Sonejee, Joel Lindpere, Aleksandr Dmitrijev, Ivan Rakitić, Karol Mets and Aleksandar Mitrović and reaches Patrick Vieira, Miroslav Karhan, Ashley Cole, Gábor Király, Jonny Evans, Marc Vales and Kylian Mbappé as 169th UEFA, 460th global player with 107 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lukas Hradecky",
+        "pais": "Finland",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bobby Charlton",
+                "pais": "England"
+              },
+              {
+                "nom": "Imants Bleidelis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Henrik Larsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Giovanni van Bronckhorst",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Frank Lampard",
+                "pais": "England"
+              },
+              {
+                "nom": "Óscar Sonejee",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Joel Lindpere",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Aleksandr Dmitrijev",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Ivan Rakitić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Karol Mets",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Aleksandar Mitrović",
+                "pais": "Serbia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              },
+              {
+                "nom": "Miroslav Karhan",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Ashley Cole",
+                "pais": "England"
+              },
+              {
+                "nom": "Gábor Király",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Jonny Evans",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Marc Vales",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 169,
+        "rank_global": 460,
+        "ambit": "confederacio"
+      },
+      "ts": 1791035601.064876,
+      "collage": "collages\\ab6d59ab-c842-4e4c-a57e-6c15692043c7.webp"
+    },
+    {
+      "id": "b07846b0-303f-4191-bb6d-9364643c4c7e",
+      "text": "Elseid Hysaj (1st Albania) surpasses Oleg Blokhin, László Bölöni, Thomas Häßler, Joe Brincat, Phillip Cocu, Levan Kobiashvili, Alyaksandr Kulchy, Thomas Sørensen, Vasiliy Berezutskiy, Yossi Benayoun, Boštjan Cesar, Emre Belözoğlu, Vasilis Torosidis, Daniel da Mota, Saulius Mikoliūnas, Jaba Kankava and Kamil Grosicki and reaches Kenny Dalglish, Steve Staunton, Bülent Korkmaz, Raúl, Savo Milošević, Martin Jørgensen, Michał Żewłakow, Robin van Persie, Gerard Piqué, Mario Mutsch, Birkir Már Sævarsson, Andriy Pyatov, Jóhann Berg Guðmundsson and Marcel Sabitzer as 221st UEFA, 575th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Elseid Hysaj",
+        "pais": "Albania",
+        "confederacio": "UEFA",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Oleg Blokhin",
+                "pais": "Soviet Union"
+              },
+              {
+                "nom": "László Bölöni",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Thomas Häßler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Joe Brincat",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Phillip Cocu",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Levan Kobiashvili",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Alyaksandr Kulchy",
+                "pais": "Belarus"
+              },
+              {
+                "nom": "Thomas Sørensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Vasiliy Berezutskiy",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Yossi Benayoun",
+                "pais": "Israel"
+              },
+              {
+                "nom": "Boštjan Cesar",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Emre Belözoğlu",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Vasilis Torosidis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Daniel da Mota",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Saulius Mikoliūnas",
+                "pais": "Lithuania"
+              },
+              {
+                "nom": "Jaba Kankava",
+                "pais": "Georgia"
+              },
+              {
+                "nom": "Kamil Grosicki",
+                "pais": "Poland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Kenny Dalglish",
+                "pais": "Scotland"
+              },
+              {
+                "nom": "Steve Staunton",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Bülent Korkmaz",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Raúl",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Savo Milošević",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Martin Jørgensen",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Michał Żewłakow",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Robin van Persie",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Gerard Piqué",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Mario Mutsch",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Birkir Már Sævarsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Andriy Pyatov",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Jóhann Berg Guðmundsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Marcel Sabitzer",
+                "pais": "Austria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 221,
+        "rank_global": 575,
+        "ambit": "confederacio"
+      },
+      "ts": 1791035601.952635,
+      "collage": "collages\\b07846b0-303f-4191-bb6d-9364643c4c7e.webp"
     }
   ],
   "baseline": {
@@ -7307,7 +7630,7 @@
         "alias": "Elseid Hysaj",
         "pais": "Albania",
         "confederacio": "UEFA",
-        "valor": 101,
+        "valor": 102,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -7334,7 +7657,7 @@
         "alias": "Simon Msuva",
         "pais": "Tanzania",
         "confederacio": "CAF",
-        "valor": 102,
+        "valor": 103,
         "inici": "2012",
         "final": "2026",
         "actiu": true
@@ -7343,7 +7666,7 @@
         "alias": "Lukas Hradecky",
         "pais": "Finland",
         "confederacio": "UEFA",
-        "valor": 106,
+        "valor": 107,
         "inici": "2010",
         "final": "2026",
         "actiu": true
@@ -7451,5 +7774,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-10-03"
+  "ultima_conciliacio": "2026-10-01"
 }

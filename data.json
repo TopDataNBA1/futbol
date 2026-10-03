@@ -7649,6 +7649,34 @@
       },
       "ts": 1791046309.895557,
       "collage": "collages\\41f49997-458f-4f37-882f-941b863c1697.webp"
+    },
+    {
+      "id": "04e269d4-a777-452a-874f-6e6196d37658",
+      "text": "Harry Kane (1st England) reaches Robert Lewandowski as 3rd UEFA, 6th global scorer with 89 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 89,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Robert Lewandowski",
+                "pais": "Poland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 3,
+        "rank_global": 6,
+        "ambit": "confederacio"
+      },
+      "ts": 1791050062.193251,
+      "collage": "collages\\04e269d4-a777-452a-874f-6e6196d37658.webp"
     }
   ],
   "baseline": {
@@ -8244,7 +8272,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 88,
+        "valor": 89,
         "inici": "2015",
         "final": "2026",
         "actiu": true

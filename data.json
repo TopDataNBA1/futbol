@@ -7395,6 +7395,163 @@
       },
       "ts": 1791046131.031763,
       "collage": "collages\\81a7930a-868b-4923-bc9b-c1f6b6d25488.webp"
+    },
+    {
+      "id": "6f137095-612b-4e8e-acdf-9457970af340",
+      "text": "Ivan Perišić (2nd Croatia, 8th UEFA) reaches Adnan Al-Talyani, Salman Isa, Mohamed Husain, Diego Godín, Gary Medel and Celso Borges as 26th global player with 161 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 161,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Adnan Al-Talyani",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Salman Isa",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Mohamed Husain",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Diego Godín",
+                "pais": "Uruguay"
+              },
+              {
+                "nom": "Gary Medel",
+                "pais": "Chile"
+              },
+              {
+                "nom": "Celso Borges",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 8,
+        "rank_global": 26,
+        "ambit": "global"
+      },
+      "ts": 1791046227.630559,
+      "collage": "collages\\6f137095-612b-4e8e-acdf-9457970af340.webp"
+    },
+    {
+      "id": "119c9064-f789-4649-8e91-b7fa9ee61fa2",
+      "text": "205th international cap for Luka Modrić. 1st Croatia, 2nd UEFA, 3rd global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 205,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 2,
+        "rank_global": 3,
+        "ambit": "cap"
+      },
+      "ts": 1791046228.051999,
+      "collage": "collages\\119c9064-f789-4649-8e91-b7fa9ee61fa2.webp"
+    },
+    {
+      "id": "a7b21832-93c0-4264-98c9-b8f6652f7bed",
+      "text": "Mateo Kovačić reaches Andrej Kramarić as 4th Croatia, 92nd UEFA, 263rd global player with 119 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 119,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Andrej Kramarić",
+                "pais": "Croatia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 92,
+        "rank_global": 263,
+        "ambit": "compatriota"
+      },
+      "ts": 1791046228.394503,
+      "collage": "collages\\a7b21832-93c0-4264-98c9-b8f6652f7bed.webp"
+    },
+    {
+      "id": "730ac69a-e471-44a8-b400-f356f792997b",
+      "text": "Harry Kane (2nd England) surpasses Thierry Henry and reaches Gheorghe Hagi, Petr Čech and Marc Pujol as 77th UEFA, 220th global player with 124 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 124,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Thierry Henry",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Hagi",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Petr Čech",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Marc Pujol",
+                "pais": "Andorra"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 77,
+        "rank_global": 220,
+        "ambit": "confederacio"
+      },
+      "ts": 1791046228.841295,
+      "collage": "collages\\730ac69a-e471-44a8-b400-f356f792997b.webp"
+    },
+    {
+      "id": "b2288534-ca2c-4406-9740-04c27fd96fd9",
+      "text": "88th international goal for Harry Kane. 1st England, 4th UEFA, 8th global scorer.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 88,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 4,
+        "rank_global": 8,
+        "ambit": "cap"
+      },
+      "ts": 1791046229.336307,
+      "collage": "collages\\b2288534-ca2c-4406-9740-04c27fd96fd9.webp"
     }
   ],
   "baseline": {
@@ -7772,7 +7929,7 @@
         "alias": "Luka Modrić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 204,
+        "valor": 205,
         "inici": "2006",
         "final": "2026",
         "actiu": true
@@ -7781,7 +7938,7 @@
         "alias": "Ivan Perišić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 160,
+        "valor": 161,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -7826,7 +7983,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 123,
+        "valor": 124,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -7835,7 +7992,7 @@
         "alias": "Mateo Kovačić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 118,
+        "valor": 119,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -7981,7 +8138,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 87,
+        "valor": 88,
         "inici": "2015",
         "final": "2026",
         "actiu": true

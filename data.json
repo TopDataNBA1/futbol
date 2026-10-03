@@ -7751,6 +7751,42 @@
       },
       "ts": 1791054126.018874,
       "collage": "collages\\113ea213-58e6-4e6d-99b8-bee4d375f610.webp"
+    },
+    {
+      "id": "324f4ed6-6f94-4c62-8166-e91e6b222483",
+      "text": "Ricardo Rodriguez (2nd Switzerland) surpasses Anders Svensson, Robbie Keane and João Moutinho as 16th UEFA, 59th global player with 147 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 147,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Anders Svensson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Robbie Keane",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "João Moutinho",
+                "pais": "Portugal"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 16,
+        "rank_global": 59,
+        "ambit": "confederacio"
+      },
+      "ts": 1791055984.178419,
+      "collage": "collages\\324f4ed6-6f94-4c62-8166-e91e6b222483.webp"
     }
   ],
   "baseline": {
@@ -8146,7 +8182,7 @@
         "alias": "Ricardo Rodriguez",
         "pais": "Switzerland",
         "confederacio": "UEFA",
-        "valor": 146,
+        "valor": 147,
         "inici": "2011",
         "final": "2026",
         "actiu": true

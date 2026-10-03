@@ -7677,6 +7677,43 @@
       },
       "ts": 1791050062.193251,
       "collage": "collages\\04e269d4-a777-452a-874f-6e6196d37658.webp"
+    },
+    {
+      "id": "1f00fa2c-3147-4fb5-b425-0916c4ca6c1e",
+      "text": "Tarek Salman surpasses Ibrahim Majid and reaches Adel Khamis as 13th Qatar, 163rd AFC, 526th global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Tarek Salman",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ibrahim Majid",
+                "pais": "Qatar"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Adel Khamis",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 13,
+        "rank_confederacio": 163,
+        "rank_global": 526,
+        "ambit": "compatriota"
+      },
+      "ts": 1791050420.470939,
+      "collage": "collages\\1f00fa2c-3147-4fb5-b425-0916c4ca6c1e.webp"
     }
   ],
   "baseline": {
@@ -8227,6 +8264,15 @@
         "confederacio": "UEFA",
         "valor": 111,
         "inici": "2008",
+        "final": "2026",
+        "actiu": true
+      },
+      "Tarek Salman": {
+        "alias": "Tarek Salman",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 104,
+        "inici": "2017",
         "final": "2026",
         "actiu": true
       }

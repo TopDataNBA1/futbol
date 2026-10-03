@@ -7230,6 +7230,171 @@
       },
       "ts": 1791039336.298224,
       "collage": "collages\\1c8e4875-e9e6-4fdf-a8a3-7af7a31c2704.webp"
+    },
+    {
+      "id": "47c214aa-1f13-4676-98f5-f211ce96dee5",
+      "text": "Pedro Miguel surpasses Wesam Rizik as 9th Qatar, 89th AFC, 283rd global player with 117 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Miguel",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 117,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Wesam Rizik",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 9,
+        "rank_confederacio": 89,
+        "rank_global": 283,
+        "ambit": "compatriota"
+      },
+      "ts": 1791046129.498731,
+      "collage": "collages\\47c214aa-1f13-4676-98f5-f211ce96dee5.webp"
+    },
+    {
+      "id": "66c3946d-5c28-45e4-afbd-6d8413cc4c01",
+      "text": "Boualem Khoukhi surpasses Abdulaziz Hatem as 4th Qatar, 44th AFC, 125th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Boualem Khoukhi",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 44,
+        "rank_global": 125,
+        "ambit": "compatriota"
+      },
+      "ts": 1791046129.874947,
+      "collage": "collages\\66c3946d-5c28-45e4-afbd-6d8413cc4c01.webp"
+    },
+    {
+      "id": "7aab5f3f-f341-4995-b243-7a73d42c14ce",
+      "text": "Karim Boudiaf reaches Abdulaziz Hatem as 4th Qatar, 45th AFC, 128th global player with 134 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karim Boudiaf",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 134,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdulaziz Hatem",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 45,
+        "rank_global": 128,
+        "ambit": "compatriota"
+      },
+      "ts": 1791046130.215089,
+      "collage": "collages\\7aab5f3f-f341-4995-b243-7a73d42c14ce.webp"
+    },
+    {
+      "id": "ecd050dd-163f-45c6-ab60-20c1c6574b3c",
+      "text": "Almoez Ali (7th Qatar) surpasses Cha Bum-kun and Teerasil Dangda and reaches Arumugan Rengasamy, Kiatisuk Senamuang and Lee Young-pyo as 56th AFC, 158th global player with 131 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Almoez Ali",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 131,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Cha Bum-kun",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Teerasil Dangda",
+                "pais": "Thailand"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Arumugan Rengasamy",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Kiatisuk Senamuang",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Lee Young-pyo",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 56,
+        "rank_global": 158,
+        "ambit": "confederacio"
+      },
+      "ts": 1791046130.654362,
+      "collage": "collages\\ecd050dd-163f-45c6-ab60-20c1c6574b3c.webp"
+    },
+    {
+      "id": "81a7930a-868b-4923-bc9b-c1f6b6d25488",
+      "text": "Akram Afif (2nd Qatar) reaches Abdullah Zubromawi and Amer Deeb as 30th AFC, 85th global player with 142 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Akram Afif",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 142,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Abdullah Zubromawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Amer Deeb",
+                "pais": "Jordan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 30,
+        "rank_global": 85,
+        "ambit": "confederacio"
+      },
+      "ts": 1791046131.031763,
+      "collage": "collages\\81a7930a-868b-4923-bc9b-c1f6b6d25488.webp"
     }
   ],
   "baseline": {
@@ -7319,7 +7484,7 @@
         "alias": "Akram Afif",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 141,
+        "valor": 142,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -7346,7 +7511,7 @@
         "alias": "Boualem Khoukhi",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 134,
+        "valor": 135,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -7355,7 +7520,7 @@
         "alias": "Karim Boudiaf",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 133,
+        "valor": 134,
         "inici": "2013",
         "final": "2026",
         "actiu": true
@@ -7373,7 +7538,7 @@
         "alias": "Pedro Miguel",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 116,
+        "valor": 117,
         "inici": "2016",
         "final": "2026",
         "actiu": true
@@ -7391,7 +7556,7 @@
         "alias": "Almoez Ali",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 130,
+        "valor": 131,
         "inici": "2013",
         "final": "2026",
         "actiu": true

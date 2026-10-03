@@ -7584,6 +7584,71 @@
       },
       "ts": 1791046282.272192,
       "collage": "collages\\d8db022a-2c2d-4d55-b702-5facc3166be9.webp"
+    },
+    {
+      "id": "41f49997-458f-4f37-882f-941b863c1697",
+      "text": "Aron Gunnarsson (2nd Iceland) surpasses Carmel Busuttil, Fernando Couto, Kevin Kilbane, John Arne Riise, Fernando Torres and Cesc Fàbregas and reaches Andriy Shevchenko, Igor Akinfeev and Gareth Bale as 142nd UEFA, 383rd global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Aron Gunnarsson",
+        "pais": "Iceland",
+        "confederacio": "UEFA",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Carmel Busuttil",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Fernando Couto",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Kevin Kilbane",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "John Arne Riise",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Fernando Torres",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Cesc Fàbregas",
+                "pais": "Spain"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Andriy Shevchenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Igor Akinfeev",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Gareth Bale",
+                "pais": "Wales"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 142,
+        "rank_global": 383,
+        "ambit": "confederacio"
+      },
+      "ts": 1791046309.895557,
+      "collage": "collages\\41f49997-458f-4f37-882f-941b863c1697.webp"
     }
   ],
   "baseline": {
@@ -8125,6 +8190,15 @@
         "confederacio": "UEFA",
         "valor": 127,
         "inici": "2009",
+        "final": "2026",
+        "actiu": true
+      },
+      "Aron Gunnarsson": {
+        "alias": "Aron Gunnarsson",
+        "pais": "Iceland",
+        "confederacio": "UEFA",
+        "valor": 111,
+        "inici": "2008",
         "final": "2026",
         "actiu": true
       }

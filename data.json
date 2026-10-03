@@ -7714,6 +7714,43 @@
       },
       "ts": 1791050420.470939,
       "collage": "collages\\1f00fa2c-3147-4fb5-b425-0916c4ca6c1e.webp"
+    },
+    {
+      "id": "113ea213-58e6-4e6d-99b8-bee4d375f610",
+      "text": "Yoshimar Yotún (1st Peru) surpasses Edinson Cavani and reaches Fernando Muslera as 17th CONMEBOL, 107th global player with 137 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 137,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Edinson Cavani",
+                "pais": "Uruguay"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Fernando Muslera",
+                "pais": "Uruguay"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 17,
+        "rank_global": 107,
+        "ambit": "confederacio"
+      },
+      "ts": 1791054126.018874,
+      "collage": "collages\\113ea213-58e6-4e6d-99b8-bee4d375f610.webp"
     }
   ],
   "baseline": {
@@ -8118,7 +8155,7 @@
         "alias": "Yoshimar Yotún",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 136,
+        "valor": 137,
         "inici": "2011",
         "final": "2026",
         "actiu": true

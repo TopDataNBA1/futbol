@@ -7787,6 +7787,43 @@
       },
       "ts": 1791055984.178419,
       "collage": "collages\\324f4ed6-6f94-4c62-8166-e91e6b222483.webp"
+    },
+    {
+      "id": "244a2cab-4471-44b6-b37f-54cd890ec917",
+      "text": "André Carrillo (6th Peru) surpasses Marcelo Moreno and reaches Álex Aguinaga as 50th CONMEBOL, 440th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "André Carrillo",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Marcelo Moreno",
+                "pais": "Bolivia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Álex Aguinaga",
+                "pais": "Ecuador"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 50,
+        "rank_global": 440,
+        "ambit": "confederacio"
+      },
+      "ts": 1791058157.551018,
+      "collage": "collages\\244a2cab-4471-44b6-b37f-54cd890ec917.webp"
     }
   ],
   "baseline": {
@@ -8346,6 +8383,15 @@
         "confederacio": "AFC",
         "valor": 104,
         "inici": "2017",
+        "final": "2026",
+        "actiu": true
+      },
+      "André Carrillo": {
+        "alias": "André Carrillo",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 108,
+        "inici": "2011",
         "final": "2026",
         "actiu": true
       }

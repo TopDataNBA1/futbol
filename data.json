@@ -5232,6 +5232,75 @@
       "collage": "collages\\d29160dc-d410-417e-b270-db64d7c0ce46.webp"
     },
     {
+      "id": "e6a8f83b-0d4c-43b4-a9e5-f969a52107b7",
+      "text": "Simon Msuva (2nd Tanzania) surpasses Hosny Abd Rabo, Yaya Touré, Christopher Katongo, Joseph Kamwendo, Rainford Kalaba, Charles Kaboré and Ryan Mendes and reaches Elijah Tana, Ferjani Sassi and Achraf Hakimi as 46th CAF, 548th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Simon Msuva",
+        "pais": "Tanzania",
+        "confederacio": "CAF",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hosny Abd Rabo",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Yaya Touré",
+                "pais": "Ivory Coast"
+              },
+              {
+                "nom": "Christopher Katongo",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Joseph Kamwendo",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Rainford Kalaba",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Charles Kaboré",
+                "pais": "Burkina Faso"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Ferjani Sassi",
+                "pais": "Tunisia"
+              },
+              {
+                "nom": "Achraf Hakimi",
+                "pais": "Morocco"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 46,
+        "rank_global": 548,
+        "ambit": "confederacio"
+      },
+      "ts": 1790697437.78207,
+      "collage": "collages\\e6a8f83b-0d4c-43b4-a9e5-f969a52107b7.webp"
+    },
+    {
       "id": "cb1207fe-41ea-4f4e-94b3-31386f1afce3",
       "text": "Lukas Hradecky surpasses Sami Hyypiä and Jonatan Johansson as 3rd Finland, 176th UEFA, 477th global player with 106 international caps.",
       "dades": {
@@ -7755,6 +7824,34 @@
       },
       "ts": 1791058157.551018,
       "collage": "collages\\244a2cab-4471-44b6-b37f-54cd890ec917.webp"
+    },
+    {
+      "id": "9a1269a6-a051-47b5-9542-941ab255980f",
+      "text": "Jesús Gallardo reaches Raúl Jiménez as 9th Mexico, 27th CONCACAF, 181st global player with 128 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 128,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Raúl Jiménez",
+                "pais": "Mexico"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 9,
+        "rank_confederacio": 27,
+        "rank_global": 181,
+        "ambit": "compatriota"
+      },
+      "ts": 1791082615.028082,
+      "collage": "collages\\9a1269a6-a051-47b5-9542-941ab255980f.webp"
     }
   ],
   "baseline": {
@@ -8177,7 +8274,7 @@
         "alias": "Jesús Gallardo",
         "pais": "Mexico",
         "confederacio": "CONCACAF",
-        "valor": 127,
+        "valor": 128,
         "inici": "2016",
         "final": "2026",
         "actiu": true
@@ -8231,7 +8328,7 @@
         "alias": "Simon Msuva",
         "pais": "Tanzania",
         "confederacio": "CAF",
-        "valor": 102,
+        "valor": 103,
         "inici": "2012",
         "final": "2026",
         "actiu": true
@@ -8375,5 +8472,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-10-04"
+  "ultima_conciliacio": "2026-10-01"
 }

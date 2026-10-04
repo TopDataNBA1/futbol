@@ -7953,6 +7953,119 @@
       },
       "ts": 1791132673.503203,
       "collage": "collages\\099c37c7-9b09-4d21-9af2-4ce16c81d064.webp"
+    },
+    {
+      "id": "72afbefd-8903-48c8-9cb6-3dc55b5d80e6",
+      "text": "Ben Davies (4th Wales) surpasses Franz Beckenbauer, Michael Laudrup, Didier Deschamps, Andi Herzog, Stéphane Chapuisat, Indrek Zelinski, Dejan Stanković, Māris Verpakovskis, Jaroslav Plašil, Vedran Ćorluka, Andrei Agius, Kamil Glik, James McClean and Fedor Černych and reaches Thorbjørn Svenssen, Ioannis Okkas, Dirk Kuyt, Per Mertesacker, Ivica Olić, Martin Škrtel and Henri Anier as 199th UEFA, 526th global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ben Davies",
+        "pais": "Wales",
+        "confederacio": "UEFA",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Franz Beckenbauer",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Michael Laudrup",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Didier Deschamps",
+                "pais": "France"
+              },
+              {
+                "nom": "Andi Herzog",
+                "pais": "Austria"
+              },
+              {
+                "nom": "Stéphane Chapuisat",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Indrek Zelinski",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Dejan Stanković",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Māris Verpakovskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Jaroslav Plašil",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Vedran Ćorluka",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Andrei Agius",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Kamil Glik",
+                "pais": "Poland"
+              },
+              {
+                "nom": "James McClean",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Fedor Černych",
+                "pais": "Lithuania"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Thorbjørn Svenssen",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Ioannis Okkas",
+                "pais": "Cyprus"
+              },
+              {
+                "nom": "Dirk Kuyt",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Per Mertesacker",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Ivica Olić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Martin Škrtel",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 199,
+        "rank_global": 526,
+        "ambit": "confederacio"
+      },
+      "ts": 1791142263.648074,
+      "collage": "collages\\72afbefd-8903-48c8-9cb6-3dc55b5d80e6.webp"
     }
   ],
   "baseline": {
@@ -8159,7 +8272,7 @@
         "alias": "Ben Davies",
         "pais": "Wales",
         "confederacio": "UEFA",
-        "valor": 103,
+        "valor": 104,
         "inici": "2012",
         "final": "2026",
         "actiu": true

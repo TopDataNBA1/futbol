@@ -225,6 +225,15 @@
       "final": "1981",
       "actiu": false
     },
+    "Celso Borges": {
+      "alias": "Celso Borges",
+      "pais": "Costa Rica",
+      "confederacio": "CONCACAF",
+      "valor": 162,
+      "inici": "2008",
+      "final": "2026",
+      "actiu": true
+    },
     "Diego Godín": {
       "alias": "Diego Godín",
       "pais": "Uruguay",
@@ -277,15 +286,6 @@
       "valor": 161,
       "inici": "1984",
       "final": "1997",
-      "actiu": false
-    },
-    "Celso Borges": {
-      "alias": "Celso Borges",
-      "pais": "Costa Rica",
-      "confederacio": "CONCACAF",
-      "valor": 160,
-      "inici": "2008",
-      "final": "2025",
       "actiu": false
     },
     "Aníbal Godoy": {
@@ -828,6 +828,15 @@
       "final": "2002",
       "actiu": false
     },
+    "Clint Dempsey": {
+      "alias": "Clint Dempsey",
+      "pais": "United States",
+      "confederacio": "CONCACAF",
+      "valor": 141,
+      "inici": "2004",
+      "final": "2017",
+      "actiu": false
+    },
     "Pepe": {
       "alias": "Pepe",
       "pais": "Portugal",
@@ -837,13 +846,13 @@
       "final": "2024",
       "actiu": false
     },
-    "Clint Dempsey": {
-      "alias": "Clint Dempsey",
-      "pais": "United States",
-      "confederacio": "CONCACAF",
+    "Steven Davis": {
+      "alias": "Steven Davis",
+      "pais": "Northern Ireland",
+      "confederacio": "UEFA",
       "valor": 140,
-      "inici": "2004",
-      "final": "2017",
+      "inici": "2005",
+      "final": "2022",
       "actiu": false
     },
     "Sayed Dhiya Saeed": {
@@ -871,15 +880,6 @@
       "valor": 139,
       "inici": "2005",
       "final": "2025",
-      "actiu": false
-    },
-    "Steven Davis": {
-      "alias": "Steven Davis",
-      "pais": "Northern Ireland",
-      "confederacio": "UEFA",
-      "valor": 139,
-      "inici": "2005",
-      "final": "2022",
       "actiu": false
     },
     "Giorgos Karagounis": {
@@ -1854,6 +1854,15 @@
       "final": "2021",
       "actiu": false
     },
+    "Keylor Navas": {
+      "alias": "Keylor Navas",
+      "pais": "Costa Rica",
+      "confederacio": "CONCACAF",
+      "valor": 126,
+      "inici": "2008",
+      "final": "2026",
+      "actiu": true
+    },
     "Musaed Neda": {
       "alias": "Musaed Neda",
       "pais": "Kuwait",
@@ -1924,15 +1933,6 @@
       "valor": 125,
       "inici": "1998",
       "final": "2010",
-      "actiu": false
-    },
-    "Keylor Navas": {
-      "alias": "Keylor Navas",
-      "pais": "Costa Rica",
-      "confederacio": "CONCACAF",
-      "valor": 125,
-      "inici": "2008",
-      "final": "2025",
       "actiu": false
     },
     "Maxi Pereira": {
@@ -3159,6 +3159,15 @@
       "final": "2022",
       "actiu": false
     },
+    "Francisco Calvo": {
+      "alias": "Francisco Calvo",
+      "pais": "Costa Rica",
+      "confederacio": "CONCACAF",
+      "valor": 113,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Kiran Chemjong": {
       "alias": "Kiran Chemjong",
       "pais": "Nepal",
@@ -3275,15 +3284,6 @@
       "inici": "2001",
       "final": "2018",
       "actiu": false
-    },
-    "Francisco Calvo": {
-      "alias": "Francisco Calvo",
-      "pais": "Costa Rica",
-      "confederacio": "CONCACAF",
-      "valor": 112,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true
     },
     "Jon Dahl Tomasson": {
       "alias": "Jon Dahl Tomasson",
@@ -5886,6 +5886,15 @@
       "final": "2021",
       "actiu": false
     },
+    "Michael Amir Murillo": {
+      "alias": "Michael Amir Murillo",
+      "pais": "Panama",
+      "confederacio": "CONCACAF",
+      "valor": 100,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
+    },
     "Juan Barrera": {
       "alias": "Juan Barrera",
       "pais": "Nicaragua",
@@ -5975,6 +5984,15 @@
       "inici": "1998",
       "final": "2012",
       "actiu": false
+    },
+    "Jóan Símun Edmundsson": {
+      "alias": "Jóan Símun Edmundsson",
+      "pais": "Faroe Islands",
+      "confederacio": "UEFA",
+      "valor": 100,
+      "inici": "2009",
+      "final": "2026",
+      "actiu": true
     },
     "Alexandru Epureanu": {
       "alias": "Alexandru Epureanu",
@@ -6165,15 +6183,6 @@
       "final": "2008",
       "actiu": false
     },
-    "Jóan Símun Edmundsson": {
-      "alias": "Jóan Símun Edmundsson",
-      "pais": "Faroe Islands",
-      "confederacio": "UEFA",
-      "valor": 100,
-      "inici": "2009",
-      "final": "2026",
-      "actiu": true
-    },
     "Santokh Singh": {
       "alias": "Santokh Singh",
       "pais": "Malaysia",
@@ -6245,6 +6254,15 @@
       "inici": "2006",
       "final": "2017",
       "actiu": false
+    },
+    "Virgil Van Dijk": {
+      "alias": "Virgil Van Dijk",
+      "pais": "Netherlands",
+      "confederacio": "UEFA",
+      "valor": 100,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true
     },
     "Matteo Vitaioli": {
       "alias": "Matteo Vitaioli",
@@ -6335,7 +6353,7 @@
       "confederacio": "AFC",
       "valor": 85,
       "inici": "2009",
-      "final": "2023",
+      "final": "2024",
       "actiu": false
     },
     "Ferenc Puskás": {
@@ -6381,6 +6399,15 @@
       "valor": 77,
       "inici": "1957",
       "final": "1971",
+      "actiu": false
+    },
+    "Vivian Woodward": {
+      "alias": "Vivian Woodward",
+      "pais": "England",
+      "confederacio": "UEFA",
+      "valor": 75,
+      "inici": "1903",
+      "final": "1914",
       "actiu": false
     },
     "Sándor Kocsis": {

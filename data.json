@@ -8252,6 +8252,110 @@
       },
       "ts": 1791146366.063458,
       "collage": "collages\\700e003a-b07e-4cb4-9e47-a6cbc15a9814.webp"
+    },
+    {
+      "id": "af5570b1-a336-44e1-9378-af26e7f3d94d",
+      "text": "Keylor Navas surpasses Luis Marín as 5th Costa Rica, 28th CONCACAF, 186th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Keylor Navas",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Luis Marín",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 28,
+        "rank_global": 186,
+        "ambit": "compatriota"
+      },
+      "ts": 1791161463.371385,
+      "collage": "collages\\af5570b1-a336-44e1-9378-af26e7f3d94d.webp"
+    },
+    {
+      "id": "6b5a5a1e-2b81-4ff6-884b-1554bff96e78",
+      "text": "Francisco Calvo (7th Costa Rica) surpasses Yénier Márquez as 45th CONCACAF, 347th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Yénier Márquez",
+                "pais": "Cuba"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 45,
+        "rank_global": 347,
+        "ambit": "confederacio"
+      },
+      "ts": 1791161463.792498,
+      "collage": "collages\\6b5a5a1e-2b81-4ff6-884b-1554bff96e78.webp"
+    },
+    {
+      "id": "683c8f84-fb40-4e5d-a111-866c0e1fe367",
+      "text": "Celso Borges (1st Costa Rica, 5th CONCACAF) surpasses Adnan Al-Talyani, Salman Isa, Mohamed Husain, Diego Godín, Gary Medel and Ivan Perišić as 26th global player with 162 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Celso Borges",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 162,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Adnan Al-Talyani",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Salman Isa",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Mohamed Husain",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Diego Godín",
+                "pais": "Uruguay"
+              },
+              {
+                "nom": "Gary Medel",
+                "pais": "Chile"
+              },
+              {
+                "nom": "Ivan Perišić",
+                "pais": "Croatia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 26,
+        "ambit": "global"
+      },
+      "ts": 1791161464.172313,
+      "collage": "collages\\683c8f84-fb40-4e5d-a111-866c0e1fe367.webp"
     }
   ],
   "baseline": {
@@ -8449,7 +8553,7 @@
         "alias": "Francisco Calvo",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 112,
+        "valor": 113,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -8764,7 +8868,7 @@
         "alias": "Keylor Navas",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 126,
+        "valor": 127,
         "inici": "2008",
         "final": "2025",
         "actiu": false
@@ -8773,7 +8877,7 @@
         "alias": "Celso Borges",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 161,
+        "valor": 162,
         "inici": "2008",
         "final": "2025",
         "actiu": false
@@ -8872,5 +8976,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-10-05"
+  "ultima_conciliacio": "2026-10-01"
 }

@@ -8356,6 +8356,99 @@
       },
       "ts": 1791161464.172313,
       "collage": "collages\\683c8f84-fb40-4e5d-a111-866c0e1fe367.webp"
+    },
+    {
+      "id": "ad929c4c-558c-49c5-832a-32ab3c966af3",
+      "text": "Piotr Zieliński (2nd Poland) surpasses Dino Zoff, Alain Geiger, Frank de Boer, Hakan Şükür, Jon Dahl Tomasson, Juris Laizāns, Nani, Aaron Hughes, Franz Burgmeier, Juraj Kucka and Memphis Depay and reaches Viktor Onopko, Martin Stocklasa, Philipp Lahm, Răzvan Raț and Birkir Bjarnason as 124th UEFA, 347th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Piotr Zieliński",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Dino Zoff",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Alain Geiger",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Frank de Boer",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Hakan Şükür",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Jon Dahl Tomasson",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Juris Laizāns",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Nani",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Aaron Hughes",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Franz Burgmeier",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Juraj Kucka",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Memphis Depay",
+                "pais": "Netherlands"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Viktor Onopko",
+                "pais": "CIS"
+              },
+              {
+                "nom": "Martin Stocklasa",
+                "pais": "Liechtenstein"
+              },
+              {
+                "nom": "Philipp Lahm",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Răzvan Raț",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Birkir Bjarnason",
+                "pais": "Iceland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 124,
+        "rank_global": 347,
+        "ambit": "confederacio"
+      },
+      "ts": 1791228685.979678,
+      "collage": "collages\\ad929c4c-558c-49c5-832a-32ab3c966af3.webp"
     }
   ],
   "baseline": {
@@ -8670,7 +8763,7 @@
         "alias": "Piotr Zieliński",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 112,
+        "valor": 113,
         "inici": "2013",
         "final": "2026",
         "actiu": true

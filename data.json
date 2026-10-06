@@ -8974,6 +8974,105 @@
       },
       "ts": 1791315429.445212,
       "collage": "collages\\28225d41-44c9-4127-9f4a-0000126e8b94.webp"
+    },
+    {
+      "id": "2787a264-336b-40a5-a93d-e82ff86b7cad",
+      "text": "206th international cap for Luka Modrić. 1st Croatia, 2nd UEFA, 3rd global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 206,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 2,
+        "rank_global": 3,
+        "ambit": "cap"
+      },
+      "ts": 1791315455.444226,
+      "collage": "collages\\2787a264-336b-40a5-a93d-e82ff86b7cad.webp"
+    },
+    {
+      "id": "de3879bc-62d4-4715-8d18-c4f262058757",
+      "text": "Mateo Kovačić surpasses Andrej Kramarić as 4th Croatia, 87th UEFA, 251st global player with 120 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 120,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Andrej Kramarić",
+                "pais": "Croatia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 87,
+        "rank_global": 251,
+        "ambit": "compatriota"
+      },
+      "ts": 1791315455.62615,
+      "collage": "collages\\de3879bc-62d4-4715-8d18-c4f262058757.webp"
+    },
+    {
+      "id": "fa2053d4-0df3-4273-bf74-dab83b341431",
+      "text": "Ivan Perišić (2nd Croatia, 8th UEFA) surpasses Adnan Al-Talyani, Salman Isa, Mohamed Husain, Diego Godín and Gary Medel and reaches Celso Borges as 26th global player with 162 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 162,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Adnan Al-Talyani",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Salman Isa",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Mohamed Husain",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Diego Godín",
+                "pais": "Uruguay"
+              },
+              {
+                "nom": "Gary Medel",
+                "pais": "Chile"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Celso Borges",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 8,
+        "rank_global": 26,
+        "ambit": "global"
+      },
+      "ts": 1791315455.873075,
+      "collage": "collages\\fa2053d4-0df3-4273-bf74-dab83b341431.webp"
     }
   ],
   "baseline": {
@@ -9351,7 +9450,7 @@
         "alias": "Luka Modrić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 205,
+        "valor": 206,
         "inici": "2006",
         "final": "2026",
         "actiu": true
@@ -9360,7 +9459,7 @@
         "alias": "Ivan Perišić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 161,
+        "valor": 162,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -9414,7 +9513,7 @@
         "alias": "Mateo Kovačić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 119,
+        "valor": 120,
         "inici": "2013",
         "final": "2026",
         "actiu": true

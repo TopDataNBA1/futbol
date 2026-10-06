@@ -9129,6 +9129,24 @@
       },
       "ts": 1791315487.388054,
       "collage": "collages\\b4240467-5a7a-4afa-a2c4-91fff5827063.webp"
+    },
+    {
+      "id": "142975fb-87a8-4d68-8d70-7d8035df04bf",
+      "text": "91st international goal for Harry Kane. 1st England, 3rd UEFA, 6th global scorer.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 91,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 3,
+        "rank_global": 6,
+        "ambit": "cap"
+      },
+      "ts": 1791318958.872985,
+      "collage": "collages\\142975fb-87a8-4d68-8d70-7d8035df04bf.webp"
     }
   ],
   "baseline": {
@@ -9742,7 +9760,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 90,
+        "valor": 91,
         "inici": "2015",
         "final": "2026",
         "actiu": true

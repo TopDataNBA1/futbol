@@ -9073,6 +9073,62 @@
       },
       "ts": 1791315455.873075,
       "collage": "collages\\fa2053d4-0df3-4273-bf74-dab83b341431.webp"
+    },
+    {
+      "id": "61fb1873-dd9f-42ee-96a0-65114306026a",
+      "text": "Harry Kane reaches Peter Shilton as 1st England, 73rd UEFA, 210th global player with 125 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 125,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Shilton",
+                "pais": "England"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 73,
+        "rank_global": 210,
+        "ambit": "compatriota"
+      },
+      "ts": 1791315486.945748,
+      "collage": "collages\\61fb1873-dd9f-42ee-96a0-65114306026a.webp"
+    },
+    {
+      "id": "b4240467-5a7a-4afa-a2c4-91fff5827063",
+      "text": "Harry Kane (1st England) surpasses Robert Lewandowski as 3rd UEFA, 6th global scorer with 90 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 90,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Robert Lewandowski",
+                "pais": "Poland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 3,
+        "rank_global": 6,
+        "ambit": "confederacio"
+      },
+      "ts": 1791315487.388054,
+      "collage": "collages\\b4240467-5a7a-4afa-a2c4-91fff5827063.webp"
     }
   ],
   "baseline": {
@@ -9504,7 +9560,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 124,
+        "valor": 125,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -9686,7 +9742,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 89,
+        "valor": 90,
         "inici": "2015",
         "final": "2026",
         "actiu": true

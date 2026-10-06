@@ -8812,6 +8812,103 @@
       },
       "ts": 1791315322.454878,
       "collage": "collages\\9b784146-5070-4fb1-a357-ec64a4758a9a.webp"
+    },
+    {
+      "id": "cda96ce6-c89e-4570-bee8-0a5b53a36dcc",
+      "text": "Lukas Hradecky (3rd Finland) surpasses Patrick Vieira, Miroslav Karhan, Ashley Cole, Gábor Király, Jonny Evans, Marc Vales, Karol Mets and Kylian Mbappé and reaches Bobby Moore, Jürgen Klinsmann, Zinedine Zidane, Thomas Helveg, Rashad Sadygov, Stephan Lichtsteiner, Rui Patrício, Daley Blind and Hakan Çalhanoğlu as 160th UEFA, 440th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lukas Hradecky",
+        "pais": "Finland",
+        "confederacio": "UEFA",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              },
+              {
+                "nom": "Miroslav Karhan",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Ashley Cole",
+                "pais": "England"
+              },
+              {
+                "nom": "Gábor Király",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Jonny Evans",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Marc Vales",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Karol Mets",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bobby Moore",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Klinsmann",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              },
+              {
+                "nom": "Thomas Helveg",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Rashad Sadygov",
+                "pais": "Azerbaijan"
+              },
+              {
+                "nom": "Stephan Lichtsteiner",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Rui Patrício",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Daley Blind",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Hakan Çalhanoğlu",
+                "pais": "Turkey"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 160,
+        "rank_global": 440,
+        "ambit": "confederacio"
+      },
+      "ts": 1791315348.09432,
+      "collage": "collages\\cda96ce6-c89e-4570-bee8-0a5b53a36dcc.webp"
     }
   ],
   "baseline": {
@@ -9297,7 +9394,7 @@
         "alias": "Lukas Hradecky",
         "pais": "Finland",
         "confederacio": "UEFA",
-        "valor": 107,
+        "valor": 108,
         "inici": "2010",
         "final": "2026",
         "actiu": true

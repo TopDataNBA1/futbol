@@ -8909,6 +8909,71 @@
       },
       "ts": 1791315348.09432,
       "collage": "collages\\cda96ce6-c89e-4570-bee8-0a5b53a36dcc.webp"
+    },
+    {
+      "id": "28225d41-44c9-4127-9f4a-0000126e8b94",
+      "text": "Ricardo Rodriguez (2nd Switzerland, 16th UEFA) surpasses Pável Pardo, Daniel Bennett, Javier Mascherano, Ali Al-Habsi and Arturo Vidal and reaches Ali Daei, Mohamed Salmeen, Paulo da Silva and Rafael Márquez as 55th global player with 148 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 148,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Pável Pardo",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Daniel Bennett",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Javier Mascherano",
+                "pais": "Argentina"
+              },
+              {
+                "nom": "Ali Al-Habsi",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Arturo Vidal",
+                "pais": "Chile"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Ali Daei",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Mohamed Salmeen",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Paulo da Silva",
+                "pais": "Paraguay"
+              },
+              {
+                "nom": "Rafael Márquez",
+                "pais": "Mexico"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 16,
+        "rank_global": 55,
+        "ambit": "global"
+      },
+      "ts": 1791315429.445212,
+      "collage": "collages\\28225d41-44c9-4127-9f4a-0000126e8b94.webp"
     }
   ],
   "baseline": {
@@ -9304,7 +9369,7 @@
         "alias": "Ricardo Rodriguez",
         "pais": "Switzerland",
         "confederacio": "UEFA",
-        "valor": 147,
+        "valor": 148,
         "inici": "2011",
         "final": "2026",
         "actiu": true

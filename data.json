@@ -9324,6 +9324,43 @@
       },
       "ts": 1791337064.524819,
       "collage": "collages\\3107328e-fe75-47ce-b570-1f2eb0c2d1f7.webp"
+    },
+    {
+      "id": "26ef0d9b-bb32-4ca7-bae8-fc2020f101ed",
+      "text": "Jesús Gallardo surpasses Raúl Jiménez and reaches Jorge Campos as 8th Mexico, 25th CONCACAF, 174th global player with 129 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 129,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Raúl Jiménez",
+                "pais": "Mexico"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Jorge Campos",
+                "pais": "Mexico"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 25,
+        "rank_global": 174,
+        "ambit": "compatriota"
+      },
+      "ts": 1791343486.227921,
+      "collage": "collages\\26ef0d9b-bb32-4ca7-bae8-fc2020f101ed.webp"
     }
   ],
   "baseline": {
@@ -9746,7 +9783,7 @@
         "alias": "Jesús Gallardo",
         "pais": "Mexico",
         "confederacio": "CONCACAF",
-        "valor": 128,
+        "valor": 129,
         "inici": "2016",
         "final": "2026",
         "actiu": true

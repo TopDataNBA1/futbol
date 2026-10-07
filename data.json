@@ -9218,6 +9218,71 @@
       },
       "ts": 1791332214.340454,
       "collage": "collages\\55fc5647-88f6-4d17-9f7e-549e0bff9875.webp"
+    },
+    {
+      "id": "1398c830-1cb1-438d-bcce-ff20effc59ea",
+      "text": "Pedro Gallese surpasses Paolo Guerrero and reaches Luis Advíncula as 2nd Peru, 21st CONMEBOL, 167th global player with 130 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 130,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Paolo Guerrero",
+                "pais": "Peru"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luis Advíncula",
+                "pais": "Peru"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 21,
+        "rank_global": 167,
+        "ambit": "compatriota"
+      },
+      "ts": 1791333176.613943,
+      "collage": "collages\\1398c830-1cb1-438d-bcce-ff20effc59ea.webp"
+    },
+    {
+      "id": "13804c97-0a4a-45bd-b791-f140c216602b",
+      "text": "Yoshimar Yotún (1st Peru) surpasses Fernando Muslera as 17th CONMEBOL, 101st global player with 138 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 138,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Fernando Muslera",
+                "pais": "Uruguay"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 17,
+        "rank_global": 101,
+        "ambit": "confederacio"
+      },
+      "ts": 1791333176.833477,
+      "collage": "collages\\13804c97-0a4a-45bd-b791-f140c216602b.webp"
     }
   ],
   "baseline": {
@@ -9622,7 +9687,7 @@
         "alias": "Yoshimar Yotún",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 137,
+        "valor": 138,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -9631,7 +9696,7 @@
         "alias": "Pedro Gallese",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 129,
+        "valor": 130,
         "inici": "2014",
         "final": "2026",
         "actiu": true

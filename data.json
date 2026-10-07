@@ -9283,6 +9283,47 @@
       },
       "ts": 1791333176.833477,
       "collage": "collages\\13804c97-0a4a-45bd-b791-f140c216602b.webp"
+    },
+    {
+      "id": "3107328e-fe75-47ce-b570-1f2eb0c2d1f7",
+      "text": "André Carrillo (6th Peru) surpasses Álex Aguinaga and reaches Jean Beausejour and Enner Valencia as 48th CONMEBOL, 422nd global player with 109 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "André Carrillo",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 109,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Álex Aguinaga",
+                "pais": "Ecuador"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Jean Beausejour",
+                "pais": "Chile"
+              },
+              {
+                "nom": "Enner Valencia",
+                "pais": "Ecuador"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 48,
+        "rank_global": 422,
+        "ambit": "confederacio"
+      },
+      "ts": 1791337064.524819,
+      "collage": "collages\\3107328e-fe75-47ce-b570-1f2eb0c2d1f7.webp"
     }
   ],
   "baseline": {
@@ -9849,7 +9890,7 @@
         "alias": "André Carrillo",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 108,
+        "valor": 109,
         "inici": "2011",
         "final": "2026",
         "actiu": true

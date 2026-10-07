@@ -13,10 +13,10 @@
       "alias": "Lionel Messi",
       "pais": "Argentina",
       "confederacio": "CONMEBOL",
-      "valor": 207,
+      "valor": 208,
       "inici": "2005",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Luka Modrić": {
       "alias": "Luka Modrić",
@@ -864,6 +864,15 @@
       "final": "2026",
       "actiu": true
     },
+    "Nicolás Otamendi": {
+      "alias": "Nicolás Otamendi",
+      "pais": "Argentina",
+      "confederacio": "CONMEBOL",
+      "valor": 140,
+      "inici": "2009",
+      "final": "2026",
+      "actiu": false
+    },
     "Axel Witsel": {
       "alias": "Axel Witsel",
       "pais": "Belgium",
@@ -899,15 +908,6 @@
       "inici": "1999",
       "final": "2014",
       "actiu": false
-    },
-    "Nicolás Otamendi": {
-      "alias": "Nicolás Otamendi",
-      "pais": "Argentina",
-      "confederacio": "CONMEBOL",
-      "valor": 139,
-      "inici": "2009",
-      "final": "2026",
-      "actiu": true
     },
     "Hussein Abdulghani": {
       "alias": "Hussein Abdulghani",
@@ -962,6 +962,15 @@
       "inici": "2006",
       "final": "2026",
       "actiu": false
+    },
+    "Yoshimar Yotún": {
+      "alias": "Yoshimar Yotún",
+      "pais": "Peru",
+      "confederacio": "CONMEBOL",
+      "valor": 138,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
     },
     "Hatem Aqel": {
       "alias": "Hatem Aqel",
@@ -1061,15 +1070,6 @@
       "inici": "1993",
       "final": "2010",
       "actiu": false
-    },
-    "Yoshimar Yotún": {
-      "alias": "Yoshimar Yotún",
-      "pais": "Peru",
-      "confederacio": "CONMEBOL",
-      "valor": 137,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true
     },
     "Waleed Ali": {
       "alias": "Waleed Ali",
@@ -1530,6 +1530,24 @@
       "final": "2026",
       "actiu": true
     },
+    "Jesús Gallardo": {
+      "alias": "Jesús Gallardo",
+      "pais": "Mexico",
+      "confederacio": "CONCACAF",
+      "valor": 130,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true
+    },
+    "Pedro Gallese": {
+      "alias": "Pedro Gallese",
+      "pais": "Peru",
+      "confederacio": "CONMEBOL",
+      "valor": 130,
+      "inici": "2014",
+      "final": "2026",
+      "actiu": true
+    },
     "Raúl Jiménez": {
       "alias": "Raúl Jiménez",
       "pais": "Mexico",
@@ -1581,24 +1599,6 @@
       "confederacio": "AFC",
       "valor": 129,
       "inici": "2015",
-      "final": "2026",
-      "actiu": true
-    },
-    "Jesús Gallardo": {
-      "alias": "Jesús Gallardo",
-      "pais": "Mexico",
-      "confederacio": "CONCACAF",
-      "valor": 129,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true
-    },
-    "Pedro Gallese": {
-      "alias": "Pedro Gallese",
-      "pais": "Peru",
-      "confederacio": "CONMEBOL",
-      "valor": 129,
-      "inici": "2014",
       "final": "2026",
       "actiu": true
     },
@@ -3852,6 +3852,15 @@
       "final": "2023",
       "actiu": false
     },
+    "André Carrillo": {
+      "alias": "André Carrillo",
+      "pais": "Peru",
+      "confederacio": "CONMEBOL",
+      "valor": 109,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true
+    },
     "Eric Davis": {
       "alias": "Eric Davis",
       "pais": "Panama",
@@ -4029,15 +4038,6 @@
       "confederacio": "UEFA",
       "valor": 108,
       "inici": "2013",
-      "final": "2026",
-      "actiu": true
-    },
-    "André Carrillo": {
-      "alias": "André Carrillo",
-      "pais": "Peru",
-      "confederacio": "CONMEBOL",
-      "valor": 108,
-      "inici": "2011",
       "final": "2026",
       "actiu": true
     },
@@ -6306,10 +6306,10 @@
       "alias": "Lionel Messi",
       "pais": "Argentina",
       "confederacio": "CONMEBOL",
-      "valor": 125,
+      "valor": 126,
       "inici": "2005",
       "final": "2026",
-      "actiu": true
+      "actiu": false
     },
     "Ali Daei": {
       "alias": "Ali Daei",

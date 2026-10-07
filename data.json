@@ -9147,6 +9147,77 @@
       },
       "ts": 1791318958.872985,
       "collage": "collages\\142975fb-87a8-4d68-8d70-7d8035df04bf.webp"
+    },
+    {
+      "id": "426d4427-3e27-4141-aeee-b49257648c58",
+      "text": "Nicolás Otamendi (5th Argentina, 16th CONMEBOL) surpasses Giorgos Karagounis, Steven Davis and Ismail Abdullatif and reaches Clint Dempsey, Axel Witsel and Sayed Dhiya Saeed as 94th global player with 140 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Nicolás Otamendi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 140,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Giorgos Karagounis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Steven Davis",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Ismail Abdullatif",
+                "pais": "Bahrain"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Clint Dempsey",
+                "pais": "United States"
+              },
+              {
+                "nom": "Axel Witsel",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Sayed Dhiya Saeed",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 16,
+        "rank_global": 94,
+        "ambit": "global"
+      },
+      "ts": 1791332213.951281,
+      "collage": "collages\\426d4427-3e27-4141-aeee-b49257648c58.webp"
+    },
+    {
+      "id": "55fc5647-88f6-4d17-9f7e-549e0bff9875",
+      "text": "208th international cap for Lionel Messi. 1st Argentina, 1st CONMEBOL, 2nd global player.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lionel Messi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 208,
+        "accions": [],
+        "rank_nacional": 1,
+        "rank_confederacio": 1,
+        "rank_global": 2,
+        "ambit": "cap"
+      },
+      "ts": 1791332214.340454,
+      "collage": "collages\\55fc5647-88f6-4d17-9f7e-549e0bff9875.webp"
     }
   ],
   "baseline": {
@@ -9717,6 +9788,24 @@
         "inici": "2011",
         "final": "2026",
         "actiu": true
+      },
+      "Nicolás Otamendi": {
+        "alias": "Nicolás Otamendi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 140,
+        "inici": "2009",
+        "final": "2026",
+        "actiu": false
+      },
+      "Lionel Messi": {
+        "alias": "Lionel Messi",
+        "pais": "Argentina",
+        "confederacio": "CONMEBOL",
+        "valor": 208,
+        "inici": "2005",
+        "final": "2026",
+        "actiu": true
       }
     },
     "Gols": {
@@ -9767,5 +9856,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-10-07"
+  "ultima_conciliacio": "2026-10-01"
 }

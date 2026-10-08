@@ -7,7 +7,8 @@
       "valor": 234,
       "inici": "2003",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-24"
     },
     "Lionel Messi": {
       "alias": "Lionel Messi",
@@ -16,7 +17,8 @@
       "valor": 208,
       "inici": "2005",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-10-06"
     },
     "Luka Modrić": {
       "alias": "Luka Modrić",
@@ -25,7 +27,8 @@
       "valor": 206,
       "inici": "2006",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Bader Al-Mutawa": {
       "alias": "Bader Al-Mutawa",
@@ -34,7 +37,8 @@
       "valor": 202,
       "inici": "2003",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-14"
     },
     "Soh Chin Ann": {
       "alias": "Soh Chin Ann",
@@ -43,7 +47,8 @@
       "valor": 195,
       "inici": "1969",
       "final": "1984",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1984-10-18"
     },
     "Hassan Al-Haydos": {
       "alias": "Hassan Al-Haydos",
@@ -52,7 +57,8 @@
       "valor": 193,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-27"
     },
     "Ahmed Kano": {
       "alias": "Ahmed Kano",
@@ -61,7 +67,8 @@
       "valor": 193,
       "inici": "2003",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-12-02"
     },
     "Ahmed Hassan": {
       "alias": "Ahmed Hassan",
@@ -70,7 +77,8 @@
       "valor": 184,
       "inici": "1995",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-05-22"
     },
     "Andrés Guardado": {
       "alias": "Andrés Guardado",
@@ -79,7 +87,8 @@
       "valor": 182,
       "inici": "2005",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-10-15"
     },
     "Sergio Ramos": {
       "alias": "Sergio Ramos",
@@ -88,7 +97,8 @@
       "valor": 180,
       "inici": "2005",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-03-31"
     },
     "Claudio Suárez": {
       "alias": "Claudio Suárez",
@@ -97,7 +107,8 @@
       "valor": 179,
       "inici": "1992",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-01"
     },
     "Mohamed Al-Deayea": {
       "alias": "Mohamed Al-Deayea",
@@ -106,7 +117,8 @@
       "valor": 178,
       "inici": "1993",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-05-11"
     },
     "Hossam Hassan": {
       "alias": "Hossam Hassan",
@@ -115,7 +127,8 @@
       "valor": 177,
       "inici": "1985",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-02-07"
     },
     "Gianluigi Buffon": {
       "alias": "Gianluigi Buffon",
@@ -124,7 +137,8 @@
       "valor": 176,
       "inici": "1997",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-23"
     },
     "Maynor Figueroa": {
       "alias": "Maynor Figueroa",
@@ -133,7 +147,8 @@
       "valor": 175,
       "inici": "2003",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-02-02"
     },
     "Amer Shafi": {
       "alias": "Amer Shafi",
@@ -142,7 +157,8 @@
       "valor": 171,
       "inici": "2002",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-02-01"
     },
     "Robert Lewandowski": {
       "alias": "Robert Lewandowski",
@@ -151,7 +167,8 @@
       "valor": 170,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-02"
     },
     "Iván Hurtado": {
       "alias": "Iván Hurtado",
@@ -160,7 +177,8 @@
       "valor": 168,
       "inici": "1992",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-10-14"
     },
     "Alexis Sánchez": {
       "alias": "Alexis Sánchez",
@@ -169,7 +187,8 @@
       "valor": 168,
       "inici": "2006",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-06-10"
     },
     "Iker Casillas": {
       "alias": "Iker Casillas",
@@ -178,7 +197,8 @@
       "valor": 167,
       "inici": "2000",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-01"
     },
     "Vitālijs Astafjevs": {
       "alias": "Vitālijs Astafjevs",
@@ -187,7 +207,8 @@
       "valor": 166,
       "inici": "1992",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-11-17"
     },
     "Cobi Jones": {
       "alias": "Cobi Jones",
@@ -196,7 +217,8 @@
       "valor": 164,
       "inici": "1992",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-10-09"
     },
     "Mohammed Al-Khilaiwi": {
       "alias": "Mohammed Al-Khilaiwi",
@@ -205,7 +227,8 @@
       "valor": 163,
       "inici": "1992",
       "final": "2001",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2001-10-05"
     },
     "Sayed Mohammed Jaffer": {
       "alias": "Sayed Mohammed Jaffer",
@@ -214,7 +237,8 @@
       "valor": 163,
       "inici": "2004",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-12-28"
     },
     "Shukor Salleh": {
       "alias": "Shukor Salleh",
@@ -223,7 +247,8 @@
       "valor": 163,
       "inici": "1970",
       "final": "1981",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1981-09-12"
     },
     "Celso Borges": {
       "alias": "Celso Borges",
@@ -232,7 +257,8 @@
       "valor": 162,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Ivan Perišić": {
       "alias": "Ivan Perišić",
@@ -241,7 +267,8 @@
       "valor": 162,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Adnan Al-Talyani": {
       "alias": "Adnan Al-Talyani",
@@ -250,7 +277,8 @@
       "valor": 161,
       "inici": "1984",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1997-12-17"
     },
     "Diego Godín": {
       "alias": "Diego Godín",
@@ -259,7 +287,8 @@
       "valor": 161,
       "inici": "2005",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-28"
     },
     "Mohamed Husain": {
       "alias": "Mohamed Husain",
@@ -268,7 +297,8 @@
       "valor": 161,
       "inici": "1997",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-01-15"
     },
     "Salman Isa": {
       "alias": "Salman Isa",
@@ -277,7 +307,8 @@
       "valor": 161,
       "inici": "2000",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-11-29"
     },
     "Gary Medel": {
       "alias": "Gary Medel",
@@ -286,7 +317,8 @@
       "valor": 161,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-11-16"
     },
     "Aníbal Godoy": {
       "alias": "Aníbal Godoy",
@@ -295,7 +327,8 @@
       "valor": 160,
       "inici": "2010",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-17"
     },
     "Essam El-Hadary": {
       "alias": "Essam El-Hadary",
@@ -304,7 +337,8 @@
       "valor": 159,
       "inici": "1996",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-25"
     },
     "Konstantin Vassiljev": {
       "alias": "Konstantin Vassiljev",
@@ -313,7 +347,8 @@
       "valor": 159,
       "inici": "2006",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-09-09"
     },
     "Hariss Harun": {
       "alias": "Hariss Harun",
@@ -322,7 +357,8 @@
       "valor": 158,
       "inici": "2007",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-01"
     },
     "Sunil Chhetri": {
       "alias": "Sunil Chhetri",
@@ -331,7 +367,8 @@
       "valor": 157,
       "inici": "2005",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-10-14"
     },
     "Landon Donovan": {
       "alias": "Landon Donovan",
@@ -340,7 +377,8 @@
       "valor": 157,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-10-10"
     },
     "Jan Vertonghen": {
       "alias": "Jan Vertonghen",
@@ -349,7 +387,8 @@
       "valor": 157,
       "inici": "2007",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-01"
     },
     "Sami Al-Jaber": {
       "alias": "Sami Al-Jaber",
@@ -358,7 +397,8 @@
       "valor": 156,
       "inici": "1992",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-23"
     },
     "Martin Reim": {
       "alias": "Martin Reim",
@@ -367,7 +407,8 @@
       "valor": 156,
       "inici": "1992",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-06-06"
     },
     "Guillermo Ochoa": {
       "alias": "Guillermo Ochoa",
@@ -376,7 +417,8 @@
       "valor": 154,
       "inici": "2005",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-24"
     },
     "Son Heung-min": {
       "alias": "Son Heung-min",
@@ -385,7 +427,8 @@
       "valor": 153,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Fawzi Bashir": {
       "alias": "Fawzi Bashir",
@@ -394,7 +437,8 @@
       "valor": 152,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-01-11"
     },
     "Edin Džeko": {
       "alias": "Edin Džeko",
@@ -403,7 +447,8 @@
       "valor": 152,
       "inici": "2007",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-10-02"
     },
     "Yasuhito Endō": {
       "alias": "Yasuhito Endō",
@@ -412,7 +457,8 @@
       "valor": 152,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-01-23"
     },
     "Granit Xhaka": {
       "alias": "Granit Xhaka",
@@ -421,7 +467,8 @@
       "valor": 152,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-11"
     },
     "Michael Bradley": {
       "alias": "Michael Bradley",
@@ -430,7 +477,8 @@
       "valor": 151,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-10-15"
     },
     "Christian Eriksen": {
       "alias": "Christian Eriksen",
@@ -439,7 +487,8 @@
       "valor": 151,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-06"
     },
     "Claudio Bravo": {
       "alias": "Claudio Bravo",
@@ -448,7 +497,8 @@
       "valor": 150,
       "inici": "2004",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-25"
     },
     "Ehsan Hajsafi": {
       "alias": "Ehsan Hajsafi",
@@ -457,7 +507,8 @@
       "valor": 150,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Lothar Matthäus": {
       "alias": "Lothar Matthäus",
@@ -466,7 +517,8 @@
       "valor": 150,
       "inici": "1980",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-06-20"
     },
     "Javad Nekounam": {
       "alias": "Javad Nekounam",
@@ -475,7 +527,8 @@
       "valor": 150,
       "inici": "2000",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-03-31"
     },
     "Younis Mahmoud": {
       "alias": "Younis Mahmoud",
@@ -484,7 +537,8 @@
       "valor": 149,
       "inici": "2002",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-03-29"
     },
     "Ali Daei": {
       "alias": "Ali Daei",
@@ -493,7 +547,8 @@
       "valor": 148,
       "inici": "1993",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-21"
     },
     "Paulo da Silva": {
       "alias": "Paulo da Silva",
@@ -502,7 +557,8 @@
       "valor": 148,
       "inici": "2000",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-10"
     },
     "Gabriel Gómez": {
       "alias": "Gabriel Gómez",
@@ -511,7 +567,8 @@
       "valor": 148,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-28"
     },
     "Rafael Márquez": {
       "alias": "Rafael Márquez",
@@ -520,7 +577,8 @@
       "valor": 148,
       "inici": "1997",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-02"
     },
     "Pável Pardo": {
       "alias": "Pável Pardo",
@@ -529,7 +587,8 @@
       "valor": 148,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-06-06"
     },
     "Ricardo Rodriguez": {
       "alias": "Ricardo Rodriguez",
@@ -538,7 +597,8 @@
       "valor": 148,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Mohamed Salmeen": {
       "alias": "Mohamed Salmeen",
@@ -547,7 +607,8 @@
       "valor": 148,
       "inici": "1998",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Ali Al-Habsi": {
       "alias": "Ali Al-Habsi",
@@ -556,7 +617,8 @@
       "valor": 147,
       "inici": "2001",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-11-18"
     },
     "Daniel Bennett": {
       "alias": "Daniel Bennett",
@@ -565,7 +627,8 @@
       "valor": 147,
       "inici": "2002",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-11-14"
     },
     "Javier Mascherano": {
       "alias": "Javier Mascherano",
@@ -574,7 +637,8 @@
       "valor": 147,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-30"
     },
     "Arturo Vidal": {
       "alias": "Arturo Vidal",
@@ -583,7 +647,8 @@
       "valor": 147,
       "inici": "2007",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-06-05"
     },
     "Robbie Keane": {
       "alias": "Robbie Keane",
@@ -592,7 +657,8 @@
       "valor": 146,
       "inici": "1998",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-08-31"
     },
     "João Moutinho": {
       "alias": "João Moutinho",
@@ -601,7 +667,8 @@
       "valor": 146,
       "inici": "2005",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-09"
     },
     "Yūto Nagatomo": {
       "alias": "Yūto Nagatomo",
@@ -610,7 +677,8 @@
       "valor": 146,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-25"
     },
     "Anders Svensson": {
       "alias": "Anders Svensson",
@@ -619,7 +687,8 @@
       "valor": 146,
       "inici": "1999",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Gerardo Torrado": {
       "alias": "Gerardo Torrado",
@@ -628,7 +697,8 @@
       "valor": 146,
       "inici": "1999",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-09-06"
     },
     "Joel Campbell": {
       "alias": "Joel Campbell",
@@ -637,7 +707,8 @@
       "valor": 145,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-11-18"
     },
     "Ángel Di María": {
       "alias": "Ángel Di María",
@@ -646,7 +717,8 @@
       "valor": 145,
       "inici": "2008",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-14"
     },
     "Shahril Ishak": {
       "alias": "Shahril Ishak",
@@ -655,7 +727,8 @@
       "valor": 145,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-11-13"
     },
     "Hugo Lloris": {
       "alias": "Hugo Lloris",
@@ -664,7 +737,8 @@
       "valor": 145,
       "inici": "2008",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-18"
     },
     "Bryan Ruiz": {
       "alias": "Bryan Ruiz",
@@ -673,7 +747,8 @@
       "valor": 145,
       "inici": "2005",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-23"
     },
     "Javier Zanetti": {
       "alias": "Javier Zanetti",
@@ -682,7 +757,8 @@
       "valor": 145,
       "inici": "1994",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-07-16"
     },
     "Baha' Abdel-Rahman": {
       "alias": "Baha' Abdel-Rahman",
@@ -691,7 +767,8 @@
       "valor": 144,
       "inici": "2007",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-14"
     },
     "Mauricio Isla": {
       "alias": "Mauricio Isla",
@@ -700,7 +777,8 @@
       "valor": 144,
       "inici": "2007",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-09-10"
     },
     "Baihakki Khaizan": {
       "alias": "Baihakki Khaizan",
@@ -709,7 +787,8 @@
       "valor": 144,
       "inici": "2003",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-11"
     },
     "Anatoliy Tymoshchuk": {
       "alias": "Anatoliy Tymoshchuk",
@@ -718,7 +797,8 @@
       "valor": 144,
       "inici": "2000",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-21"
     },
     "Sergio Busquets": {
       "alias": "Sergio Busquets",
@@ -727,7 +807,8 @@
       "valor": 143,
       "inici": "2009",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-06"
     },
     "Idrissa Gueye": {
       "alias": "Idrissa Gueye",
@@ -736,7 +817,8 @@
       "valor": 143,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Thomas Ravelli": {
       "alias": "Thomas Ravelli",
@@ -745,7 +827,8 @@
       "valor": 143,
       "inici": "1981",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1997-10-11"
     },
     "Tomás Rincón": {
       "alias": "Tomás Rincón",
@@ -754,7 +837,8 @@
       "valor": 143,
       "inici": "2008",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-09-04"
     },
     "Luis Suárez": {
       "alias": "Luis Suárez",
@@ -763,7 +847,8 @@
       "valor": 143,
       "inici": "2007",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-09-06"
     },
     "Akram Afif": {
       "alias": "Akram Afif",
@@ -772,7 +857,8 @@
       "valor": 142,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Cafu": {
       "alias": "Cafu",
@@ -781,7 +867,8 @@
       "valor": 142,
       "inici": "1990",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-07-01"
     },
     "Amer Deeb": {
       "alias": "Amer Deeb",
@@ -790,7 +877,8 @@
       "valor": 142,
       "inici": "2002",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-10-13"
     },
     "Marko Kristal": {
       "alias": "Marko Kristal",
@@ -799,7 +887,8 @@
       "valor": 142,
       "inici": "1992",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-04-20"
     },
     "Michael Mifsud": {
       "alias": "Michael Mifsud",
@@ -808,7 +897,8 @@
       "valor": 142,
       "inici": "2000",
       "final": "2020",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2020-11-11"
     },
     "Alberto Quintero": {
       "alias": "Alberto Quintero",
@@ -817,7 +907,8 @@
       "valor": 142,
       "inici": "2007",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-27"
     },
     "Lilian Thuram": {
       "alias": "Lilian Thuram",
@@ -826,7 +917,8 @@
       "valor": 142,
       "inici": "1994",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-06-13"
     },
     "Abdullah Zubromawi": {
       "alias": "Abdullah Zubromawi",
@@ -835,7 +927,8 @@
       "valor": 142,
       "inici": "1993",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-11"
     },
     "Clint Dempsey": {
       "alias": "Clint Dempsey",
@@ -844,7 +937,8 @@
       "valor": 141,
       "inici": "2004",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-10"
     },
     "Pepe": {
       "alias": "Pepe",
@@ -853,7 +947,8 @@
       "valor": 141,
       "inici": "2007",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-05"
     },
     "Sayed Dhiya Saeed": {
       "alias": "Sayed Dhiya Saeed",
@@ -862,7 +957,8 @@
       "valor": 140,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-27"
     },
     "Nicolás Otamendi": {
       "alias": "Nicolás Otamendi",
@@ -871,7 +967,8 @@
       "valor": 140,
       "inici": "2009",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-10-06"
     },
     "Axel Witsel": {
       "alias": "Axel Witsel",
@@ -880,7 +977,8 @@
       "valor": 140,
       "inici": "2008",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-07-10"
     },
     "Ismail Abdullatif": {
       "alias": "Ismail Abdullatif",
@@ -889,7 +987,8 @@
       "valor": 139,
       "inici": "2005",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-03-25"
     },
     "Steven Davis": {
       "alias": "Steven Davis",
@@ -898,7 +997,8 @@
       "valor": 139,
       "inici": "2005",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-09-27"
     },
     "Giorgos Karagounis": {
       "alias": "Giorgos Karagounis",
@@ -907,7 +1007,8 @@
       "valor": 139,
       "inici": "1999",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-29"
     },
     "Hussein Abdulghani": {
       "alias": "Hussein Abdulghani",
@@ -916,7 +1017,8 @@
       "valor": 138,
       "inici": "1996",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-11-20"
     },
     "Mokhtar Dahari": {
       "alias": "Mokhtar Dahari",
@@ -925,7 +1027,8 @@
       "valor": 138,
       "inici": "1972",
       "final": "1985",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1985-05-19"
     },
     "Marek Hamšík": {
       "alias": "Marek Hamšík",
@@ -934,7 +1037,8 @@
       "valor": 138,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-06-20"
     },
     "Osama Hawsawi": {
       "alias": "Osama Hawsawi",
@@ -943,7 +1047,8 @@
       "valor": 138,
       "inici": "2006",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-25"
     },
     "Hong Myung-bo": {
       "alias": "Hong Myung-bo",
@@ -952,7 +1057,8 @@
       "valor": 138,
       "inici": "1990",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-11-20"
     },
     "Peter Pekarík": {
       "alias": "Peter Pekarík",
@@ -961,7 +1067,8 @@
       "valor": 138,
       "inici": "2006",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-05"
     },
     "Yoshimar Yotún": {
       "alias": "Yoshimar Yotún",
@@ -970,7 +1077,8 @@
       "valor": 138,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Hatem Aqel": {
       "alias": "Hatem Aqel",
@@ -979,7 +1087,8 @@
       "valor": 137,
       "inici": "1998",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-01-07"
     },
     "Marko Arnautović": {
       "alias": "Marko Arnautović",
@@ -988,7 +1097,8 @@
       "valor": 137,
       "inici": "2008",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-07-02"
     },
     "Olivier Giroud": {
       "alias": "Olivier Giroud",
@@ -997,7 +1107,8 @@
       "valor": 137,
       "inici": "2011",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-09"
     },
     "Antoine Griezmann": {
       "alias": "Antoine Griezmann",
@@ -1006,7 +1117,8 @@
       "valor": 137,
       "inici": "2014",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-09-09"
     },
     "Amado Guevara": {
       "alias": "Amado Guevara",
@@ -1015,7 +1127,8 @@
       "valor": 137,
       "inici": "1994",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-21"
     },
     "Miroslav Klose": {
       "alias": "Miroslav Klose",
@@ -1024,7 +1137,8 @@
       "valor": 137,
       "inici": "2001",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-07-13"
     },
     "Ildefons Lima": {
       "alias": "Ildefons Lima",
@@ -1033,7 +1147,8 @@
       "valor": 137,
       "inici": "1997",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-09-12"
     },
     "Jari Litmanen": {
       "alias": "Jari Litmanen",
@@ -1042,7 +1157,8 @@
       "valor": 137,
       "inici": "1989",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-11-17"
     },
     "Fernando Muslera": {
       "alias": "Fernando Muslera",
@@ -1051,7 +1167,8 @@
       "valor": 137,
       "inici": "2009",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-26"
     },
     "Jaime Penedo": {
       "alias": "Jaime Penedo",
@@ -1060,7 +1177,8 @@
       "valor": 137,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-28"
     },
     "Rigobert Song": {
       "alias": "Rigobert Song",
@@ -1069,7 +1187,8 @@
       "valor": 137,
       "inici": "1993",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-24"
     },
     "Waleed Ali": {
       "alias": "Waleed Ali",
@@ -1078,7 +1197,8 @@
       "valor": 136,
       "inici": "2002",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-01-20"
     },
     "Khairul Amri": {
       "alias": "Khairul Amri",
@@ -1087,7 +1207,8 @@
       "valor": 136,
       "inici": "2004",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-06-11"
     },
     "Fabio Cannavaro": {
       "alias": "Fabio Cannavaro",
@@ -1096,7 +1217,8 @@
       "valor": 136,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-24"
     },
     "Edinson Cavani": {
       "alias": "Edinson Cavani",
@@ -1105,7 +1227,8 @@
       "valor": 136,
       "inici": "2008",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-02"
     },
     "Abdelkarim Hassan": {
       "alias": "Abdelkarim Hassan",
@@ -1114,7 +1237,8 @@
       "valor": 136,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-03-20"
     },
     "Ismail Matar": {
       "alias": "Ismail Matar",
@@ -1123,7 +1247,8 @@
       "valor": 136,
       "inici": "2003",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-12-06"
     },
     "Walter Centeno": {
       "alias": "Walter Centeno",
@@ -1132,7 +1257,8 @@
       "valor": 135,
       "inici": "1995",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-11-18"
     },
     "Ahmed Fathy": {
       "alias": "Ahmed Fathy",
@@ -1141,7 +1267,8 @@
       "valor": 135,
       "inici": "2002",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-11-16"
     },
     "Boualem Khoukhi": {
       "alias": "Boualem Khoukhi",
@@ -1150,7 +1277,8 @@
       "valor": 135,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Romelu Lukaku": {
       "alias": "Romelu Lukaku",
@@ -1159,7 +1287,8 @@
       "valor": 135,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-05"
     },
     "Yousef Nasser": {
       "alias": "Yousef Nasser",
@@ -1168,7 +1297,8 @@
       "valor": 135,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Bashar Abdullah": {
       "alias": "Bashar Abdullah",
@@ -1177,7 +1307,8 @@
       "valor": 134,
       "inici": "1996",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-05-25"
     },
     "Jeff Agoos": {
       "alias": "Jeff Agoos",
@@ -1186,7 +1317,8 @@
       "valor": 134,
       "inici": "1988",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-05-26"
     },
     "Taisir Al-Jassim": {
       "alias": "Taisir Al-Jassim",
@@ -1195,7 +1327,8 @@
       "valor": 134,
       "inici": "2004",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-20"
     },
     "Safuwan Baharudin": {
       "alias": "Safuwan Baharudin",
@@ -1204,7 +1337,8 @@
       "valor": 134,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-01"
     },
     "Karim Boudiaf": {
       "alias": "Karim Boudiaf",
@@ -1213,7 +1347,8 @@
       "valor": 134,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Shay Given": {
       "alias": "Shay Given",
@@ -1222,7 +1357,8 @@
       "valor": 134,
       "inici": "1996",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-05-31"
     },
     "Abdulaziz Hatem": {
       "alias": "Abdulaziz Hatem",
@@ -1231,7 +1367,8 @@
       "valor": 134,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-30"
     },
     "Sadio Mané": {
       "alias": "Sadio Mané",
@@ -1240,7 +1377,8 @@
       "valor": 134,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-01"
     },
     "Hassan Mudhafar": {
       "alias": "Hassan Mudhafar",
@@ -1249,7 +1387,8 @@
       "valor": 134,
       "inici": "2003",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-03-30"
     },
     "Dorinel Munteanu": {
       "alias": "Dorinel Munteanu",
@@ -1258,7 +1397,8 @@
       "valor": 134,
       "inici": "1991",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-09-12"
     },
     "Andres Oper": {
       "alias": "Andres Oper",
@@ -1267,7 +1407,8 @@
       "valor": 134,
       "inici": "1995",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-05-26"
     },
     "Wesley Sneijder": {
       "alias": "Wesley Sneijder",
@@ -1276,7 +1417,8 @@
       "valor": 134,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-09-06"
     },
     "Darijo Srna": {
       "alias": "Darijo Srna",
@@ -1285,7 +1427,8 @@
       "valor": 134,
       "inici": "2002",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-25"
     },
     "Noel Valladares": {
       "alias": "Noel Valladares",
@@ -1294,7 +1437,8 @@
       "valor": 134,
       "inici": "2000",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-02-10"
     },
     "Waleed Al-Hayam": {
       "alias": "Waleed Al-Hayam",
@@ -1303,7 +1447,8 @@
       "valor": 133,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-27"
     },
     "Amad Al-Hosni": {
       "alias": "Amad Al-Hosni",
@@ -1312,7 +1457,8 @@
       "valor": 133,
       "inici": "2003",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-11-17"
     },
     "Andreas Isaksson": {
       "alias": "Andreas Isaksson",
@@ -1321,7 +1467,8 @@
       "valor": 133,
       "inici": "2002",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-22"
     },
     "Saud Kariri": {
       "alias": "Saud Kariri",
@@ -1330,7 +1477,8 @@
       "valor": 133,
       "inici": "2001",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-01-18"
     },
     "Sebastian Larsson": {
       "alias": "Sebastian Larsson",
@@ -1339,7 +1487,8 @@
       "valor": 133,
       "inici": "2008",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-29"
     },
     "Teemu Pukki": {
       "alias": "Teemu Pukki",
@@ -1348,7 +1497,8 @@
       "valor": 133,
       "inici": "2009",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-11-17"
     },
     "Carlos Ruiz": {
       "alias": "Carlos Ruiz",
@@ -1357,7 +1507,8 @@
       "valor": 133,
       "inici": "1998",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-09-06"
     },
     "Lee Woon-jae": {
       "alias": "Lee Woon-jae",
@@ -1366,7 +1517,8 @@
       "valor": 133,
       "inici": "1994",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-08-11"
     },
     "Xavi": {
       "alias": "Xavi",
@@ -1375,7 +1527,8 @@
       "valor": 133,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-13"
     },
     "Almoez Ali": {
       "alias": "Almoez Ali",
@@ -1384,7 +1537,8 @@
       "valor": 132,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Sargis Hovsepyan": {
       "alias": "Sargis Hovsepyan",
@@ -1393,7 +1547,8 @@
       "valor": 132,
       "inici": "1992",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-11-14"
     },
     "Peter Jehle": {
       "alias": "Peter Jehle",
@@ -1402,7 +1557,8 @@
       "valor": 132,
       "inici": "1998",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-25"
     },
     "Simon Kjær": {
       "alias": "Simon Kjær",
@@ -1411,7 +1567,8 @@
       "valor": 132,
       "inici": "2009",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-08"
     },
     "Héctor Moreno": {
       "alias": "Héctor Moreno",
@@ -1420,7 +1577,8 @@
       "valor": 132,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-03-26"
     },
     "Ibrahim Hassan": {
       "alias": "Ibrahim Hassan",
@@ -1429,7 +1587,8 @@
       "valor": 131,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-01-06"
     },
     "Andrés Iniesta": {
       "alias": "Andrés Iniesta",
@@ -1438,7 +1597,8 @@
       "valor": 131,
       "inici": "2006",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-01"
     },
     "Kim Källström": {
       "alias": "Kim Källström",
@@ -1447,7 +1607,8 @@
       "valor": 131,
       "inici": "2001",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-22"
     },
     "Thomas Müller": {
       "alias": "Thomas Müller",
@@ -1456,7 +1617,8 @@
       "valor": 131,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-05"
     },
     "Arumugan Rengasamy": {
       "alias": "Arumugan Rengasamy",
@@ -1465,7 +1627,8 @@
       "valor": 131,
       "inici": "1973",
       "final": "1986",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1986-09-23"
     },
     "James Rodríguez": {
       "alias": "James Rodríguez",
@@ -1474,7 +1637,8 @@
       "valor": 131,
       "inici": "2011",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-07-07"
     },
     "Kiatisuk Senamuang": {
       "alias": "Kiatisuk Senamuang",
@@ -1483,7 +1647,8 @@
       "valor": 131,
       "inici": "1993",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-10-03"
     },
     "Lee Young-pyo": {
       "alias": "Lee Young-pyo",
@@ -1492,7 +1657,8 @@
       "valor": 131,
       "inici": "1999",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-01-28"
     },
     "Luis Advíncula": {
       "alias": "Luis Advíncula",
@@ -1501,7 +1667,8 @@
       "valor": 130,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-09-09"
     },
     "Jorge Campos": {
       "alias": "Jorge Campos",
@@ -1510,7 +1677,8 @@
       "valor": 130,
       "inici": "1991",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-11-19"
     },
     "Cha Bum-kun": {
       "alias": "Cha Bum-kun",
@@ -1519,7 +1687,8 @@
       "valor": 130,
       "inici": "1972",
       "final": "1986",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1986-06-10"
     },
     "Teerasil Dangda": {
       "alias": "Teerasil Dangda",
@@ -1528,7 +1697,8 @@
       "valor": 130,
       "inici": "2007",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-09"
     },
     "Jesús Gallardo": {
       "alias": "Jesús Gallardo",
@@ -1537,7 +1707,8 @@
       "valor": 130,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Pedro Gallese": {
       "alias": "Pedro Gallese",
@@ -1546,7 +1717,8 @@
       "valor": 130,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Raúl Jiménez": {
       "alias": "Raúl Jiménez",
@@ -1555,7 +1727,8 @@
       "valor": 130,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-05"
     },
     "Neymar": {
       "alias": "Neymar",
@@ -1564,7 +1737,8 @@
       "valor": 130,
       "inici": "2010",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-07-05"
     },
     "David Ospina": {
       "alias": "David Ospina",
@@ -1573,7 +1747,8 @@
       "valor": 130,
       "inici": "2007",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-01"
     },
     "Lukas Podolski": {
       "alias": "Lukas Podolski",
@@ -1582,7 +1757,8 @@
       "valor": 130,
       "inici": "2004",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-03-22"
     },
     "Edwin van der Sar": {
       "alias": "Edwin van der Sar",
@@ -1591,7 +1767,8 @@
       "valor": 130,
       "inici": "1995",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-10-15"
     },
     "Kamil Al-Aswad": {
       "alias": "Kamil Al-Aswad",
@@ -1600,7 +1777,8 @@
       "valor": 129,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-27"
     },
     "Boniek García": {
       "alias": "Boniek García",
@@ -1609,7 +1787,8 @@
       "valor": 129,
       "inici": "2005",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-10-07"
     },
     "Paolo Guerrero": {
       "alias": "Paolo Guerrero",
@@ -1618,7 +1797,8 @@
       "valor": 129,
       "inici": "2004",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-06-10"
     },
     "Guram Kashia": {
       "alias": "Guram Kashia",
@@ -1627,7 +1807,8 @@
       "valor": 129,
       "inici": "2009",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-02"
     },
     "Ragnar Klavan": {
       "alias": "Ragnar Klavan",
@@ -1636,7 +1817,8 @@
       "valor": 129,
       "inici": "2003",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-03-21"
     },
     "Juan Arango": {
       "alias": "Juan Arango",
@@ -1645,7 +1827,8 @@
       "valor": 128,
       "inici": "1999",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-09-08"
     },
     "Manuel Neuer": {
       "alias": "Manuel Neuer",
@@ -1654,7 +1837,8 @@
       "valor": 128,
       "inici": "2009",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-29"
     },
     "Roberto Palacios": {
       "alias": "Roberto Palacios",
@@ -1663,7 +1847,8 @@
       "valor": 128,
       "inici": "1992",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-05-23"
     },
     "Márcio Vieira": {
       "alias": "Márcio Vieira",
@@ -1672,7 +1857,8 @@
       "valor": 128,
       "inici": "2005",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-11"
     },
     "Toby Alderweireld": {
       "alias": "Toby Alderweireld",
@@ -1681,7 +1867,8 @@
       "valor": 127,
       "inici": "2009",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-01"
     },
     "Mohammed Al-Musalami": {
       "alias": "Mohammed Al-Musalami",
@@ -1690,7 +1877,8 @@
       "valor": 127,
       "inici": "2010",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-01-04"
     },
     "Hassouneh Al-Sheikh": {
       "alias": "Hassouneh Al-Sheikh",
@@ -1699,7 +1887,8 @@
       "valor": 127,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-09-28"
     },
     "Marcelo Balboa": {
       "alias": "Marcelo Balboa",
@@ -1708,7 +1897,8 @@
       "valor": 127,
       "inici": "1988",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-01-16"
     },
     "Kevin De Bruyne": {
       "alias": "Kevin De Bruyne",
@@ -1717,7 +1907,8 @@
       "valor": 127,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-02"
     },
     "Server Djeparov": {
       "alias": "Server Djeparov",
@@ -1726,7 +1917,8 @@
       "valor": 127,
       "inici": "2002",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-09-05"
     },
     "Luís Figo": {
       "alias": "Luís Figo",
@@ -1735,7 +1927,8 @@
       "valor": 127,
       "inici": "1991",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-07-08"
     },
     "Sergei Ignashevich": {
       "alias": "Sergei Ignashevich",
@@ -1744,7 +1937,8 @@
       "valor": 127,
       "inici": "2002",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-07"
     },
     "Ali Karimi": {
       "alias": "Ali Karimi",
@@ -1753,7 +1947,8 @@
       "valor": 127,
       "inici": "1998",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-11-06"
     },
     "Dennis Rommedahl": {
       "alias": "Dennis Rommedahl",
@@ -1762,7 +1957,8 @@
       "valor": 127,
       "inici": "2000",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-06-11"
     },
     "Andriy Yarmolenko": {
       "alias": "Andriy Yarmolenko",
@@ -1771,7 +1967,8 @@
       "valor": 127,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-02"
     },
     "Maya Yoshida": {
       "alias": "Maya Yoshida",
@@ -1780,7 +1977,8 @@
       "valor": 127,
       "inici": "2010",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-05-31"
     },
     "Dani Alves": {
       "alias": "Dani Alves",
@@ -1789,7 +1987,8 @@
       "valor": 126,
       "inici": "2006",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-05"
     },
     "DaMarcus Beasley": {
       "alias": "DaMarcus Beasley",
@@ -1798,7 +1997,8 @@
       "valor": 126,
       "inici": "2001",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-09-05"
     },
     "Eden Hazard": {
       "alias": "Eden Hazard",
@@ -1807,7 +2007,8 @@
       "valor": 126,
       "inici": "2008",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-01"
     },
     "Enar Jääger": {
       "alias": "Enar Jääger",
@@ -1816,7 +2017,8 @@
       "valor": 126,
       "inici": "2002",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-11-09"
     },
     "Laurent Jans": {
       "alias": "Laurent Jans",
@@ -1825,7 +2027,8 @@
       "valor": 126,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Paolo Maldini": {
       "alias": "Paolo Maldini",
@@ -1834,7 +2037,8 @@
       "valor": 126,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-18"
     },
     "Luis Marín": {
       "alias": "Luis Marín",
@@ -1843,7 +2047,8 @@
       "valor": 126,
       "inici": "1993",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-11-18"
     },
     "Kennedy Mweene": {
       "alias": "Kennedy Mweene",
@@ -1852,7 +2057,8 @@
       "valor": 126,
       "inici": "2004",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-07-14"
     },
     "Keylor Navas": {
       "alias": "Keylor Navas",
@@ -1861,7 +2067,8 @@
       "valor": 126,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Musaed Neda": {
       "alias": "Musaed Neda",
@@ -1870,7 +2077,8 @@
       "valor": 126,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-10-13"
     },
     "Sebastián Soria": {
       "alias": "Sebastián Soria",
@@ -1879,7 +2087,8 @@
       "valor": 126,
       "inici": "2006",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-10-14"
     },
     "Andoni Zubizarreta": {
       "alias": "Andoni Zubizarreta",
@@ -1888,7 +2097,8 @@
       "valor": 126,
       "inici": "1985",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-06-24"
     },
     "Alaa Abdul-Zahra": {
       "alias": "Alaa Abdul-Zahra",
@@ -1897,7 +2107,8 @@
       "valor": 125,
       "inici": "2007",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-11-11"
     },
     "Roberto Carlos": {
       "alias": "Roberto Carlos",
@@ -1906,7 +2117,8 @@
       "valor": 125,
       "inici": "1992",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-07-01"
     },
     "Mario Frick": {
       "alias": "Mario Frick",
@@ -1915,7 +2127,8 @@
       "valor": 125,
       "inici": "1993",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-10-12"
     },
     "Ian Goodison": {
       "alias": "Ian Goodison",
@@ -1924,7 +2137,8 @@
       "valor": 125,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-05-23"
     },
     "Harry Kane": {
       "alias": "Harry Kane",
@@ -1933,7 +2147,8 @@
       "valor": 125,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Sayed Mahmood Jalal": {
       "alias": "Sayed Mahmood Jalal",
@@ -1942,7 +2157,8 @@
       "valor": 125,
       "inici": "1998",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-01-20"
     },
     "Maxi Pereira": {
       "alias": "Maxi Pereira",
@@ -1951,7 +2167,8 @@
       "valor": 125,
       "inici": "2005",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-07"
     },
     "Harib Al-Saadi": {
       "alias": "Harib Al-Saadi",
@@ -1960,7 +2177,8 @@
       "valor": 125,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Xherdan Shaqiri": {
       "alias": "Xherdan Shaqiri",
@@ -1969,7 +2187,8 @@
       "valor": 125,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-06"
     },
     "Peter Shilton": {
       "alias": "Peter Shilton",
@@ -1978,7 +2197,8 @@
       "valor": 125,
       "inici": "1970",
       "final": "1990",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1990-07-07"
     },
     "David Silva": {
       "alias": "David Silva",
@@ -1987,7 +2207,8 @@
       "valor": 125,
       "inici": "2006",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-01"
     },
     "Hussain Ali Baba": {
       "alias": "Hussain Ali Baba",
@@ -1996,7 +2217,8 @@
       "valor": 124,
       "inici": "2001",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-09-01"
     },
     "Jordan Ayew": {
       "alias": "Jordan Ayew",
@@ -2005,7 +2227,8 @@
       "valor": 124,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-03"
     },
     "Petr Čech": {
       "alias": "Petr Čech",
@@ -2014,7 +2237,8 @@
       "valor": 124,
       "inici": "2002",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-21"
     },
     "Linval Dixon": {
       "alias": "Linval Dixon",
@@ -2023,7 +2247,8 @@
       "valor": 124,
       "inici": "1993",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-04-02"
     },
     "Domingues": {
       "alias": "Domingues",
@@ -2032,7 +2257,8 @@
       "valor": 124,
       "inici": "2004",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-01-05"
     },
     "Gheorghe Hagi": {
       "alias": "Gheorghe Hagi",
@@ -2041,7 +2267,8 @@
       "valor": 124,
       "inici": "1983",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-06-24"
     },
     "Marc Pujol": {
       "alias": "Marc Pujol",
@@ -2050,7 +2277,8 @@
       "valor": 124,
       "inici": "2000",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-04"
     },
     "Carlos Salcido": {
       "alias": "Carlos Salcido",
@@ -2059,7 +2287,8 @@
       "valor": 124,
       "inici": "2004",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-29"
     },
     "Yoo Sang-chul": {
       "alias": "Yoo Sang-chul",
@@ -2068,7 +2297,8 @@
       "valor": 124,
       "inici": "1994",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-06-03"
     },
     "Saad Al-Mukhaini": {
       "alias": "Saad Al-Mukhaini",
@@ -2077,7 +2307,8 @@
       "valor": 123,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-12-02"
     },
     "Armando Cooper": {
       "alias": "Armando Cooper",
@@ -2086,7 +2317,8 @@
       "valor": 123,
       "inici": "2006",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-02-02"
     },
     "Thierry Henry": {
       "alias": "Thierry Henry",
@@ -2095,7 +2327,8 @@
       "valor": 123,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-22"
     },
     "Hassan Maatouk": {
       "alias": "Hassan Maatouk",
@@ -2104,7 +2337,8 @@
       "valor": 123,
       "inici": "2006",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-11"
     },
     "Aïssa Mandi": {
       "alias": "Aïssa Mandi",
@@ -2113,7 +2347,8 @@
       "valor": 123,
       "inici": "2014",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-07-02"
     },
     "Blas Pérez": {
       "alias": "Blas Pérez",
@@ -2122,7 +2357,8 @@
       "valor": 123,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-24"
     },
     "Didier Zokora": {
       "alias": "Didier Zokora",
@@ -2131,7 +2367,8 @@
       "valor": 123,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-19"
     },
     "Walter Ayoví": {
       "alias": "Walter Ayoví",
@@ -2140,7 +2377,8 @@
       "valor": 122,
       "inici": "2001",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-03-28"
     },
     "Zlatan Ibrahimović": {
       "alias": "Zlatan Ibrahimović",
@@ -2149,7 +2387,8 @@
       "valor": 122,
       "inici": "2001",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-03-24"
     },
     "Masami Ihara": {
       "alias": "Masami Ihara",
@@ -2158,7 +2397,8 @@
       "valor": 122,
       "inici": "1988",
       "final": "1999",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1999-07-05"
     },
     "Goran Pandev": {
       "alias": "Goran Pandev",
@@ -2167,7 +2407,8 @@
       "valor": 122,
       "inici": "2001",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-21"
     },
     "Hany Ramzy": {
       "alias": "Hany Ramzy",
@@ -2176,7 +2417,8 @@
       "valor": 122,
       "inici": "1988",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-02-12"
     },
     "Salomón Rondón": {
       "alias": "Salomón Rondón",
@@ -2185,7 +2427,8 @@
       "valor": 122,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-30"
     },
     "Mohamed Salah": {
       "alias": "Mohamed Salah",
@@ -2194,7 +2437,8 @@
       "valor": 122,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-25"
     },
     "Kolo Touré": {
       "alias": "Kolo Touré",
@@ -2203,7 +2447,8 @@
       "valor": 122,
       "inici": "2000",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-02-08"
     },
     "Mohamed Abd Al-Jawad": {
       "alias": "Mohamed Abd Al-Jawad",
@@ -2212,7 +2457,8 @@
       "valor": 121,
       "inici": "1981",
       "final": "1994",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1994-07-03"
     },
     "Bashar Bani Yaseen": {
       "alias": "Bashar Bani Yaseen",
@@ -2221,7 +2467,8 @@
       "valor": 121,
       "inici": "1999",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-06-03"
     },
     "Cuauhtémoc Blanco": {
       "alias": "Cuauhtémoc Blanco",
@@ -2230,7 +2477,8 @@
       "valor": 121,
       "inici": "1995",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-05-28"
     },
     "Leonardo Bonucci": {
       "alias": "Leonardo Bonucci",
@@ -2239,7 +2487,8 @@
       "valor": 121,
       "inici": "2010",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-06-15"
     },
     "Tim Howard": {
       "alias": "Tim Howard",
@@ -2248,7 +2497,8 @@
       "valor": 121,
       "inici": "2002",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-10"
     },
     "Aide Iskandar": {
       "alias": "Aide Iskandar",
@@ -2257,7 +2507,8 @@
       "valor": 121,
       "inici": "1995",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-09-12"
     },
     "Mateo Kovačić": {
       "alias": "Mateo Kovačić",
@@ -2266,7 +2517,8 @@
       "valor": 121,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Peter Schmeichel": {
       "alias": "Peter Schmeichel",
@@ -2275,7 +2527,8 @@
       "valor": 121,
       "inici": "1988",
       "final": "2001",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2001-04-25"
     },
     "Bastian Schweinsteiger": {
       "alias": "Bastian Schweinsteiger",
@@ -2284,7 +2537,8 @@
       "valor": 121,
       "inici": "2004",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-08-31"
     },
     "Gilbert Agius": {
       "alias": "Gilbert Agius",
@@ -2293,7 +2547,8 @@
       "valor": 120,
       "inici": "1993",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-11-18"
     },
     "André Ayew": {
       "alias": "André Ayew",
@@ -2302,7 +2557,8 @@
       "valor": 120,
       "inici": "2007",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-01-26"
     },
     "Subait Khater": {
       "alias": "Subait Khater",
@@ -2311,7 +2567,8 @@
       "valor": 120,
       "inici": "1999",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-11-15"
     },
     "Riyad Mahrez": {
       "alias": "Riyad Mahrez",
@@ -2320,7 +2577,8 @@
       "valor": 120,
       "inici": "2014",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-07-02"
     },
     "Mart Poom": {
       "alias": "Mart Poom",
@@ -2329,7 +2587,8 @@
       "valor": 120,
       "inici": "1992",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-06-10"
     },
     "Ramón Ramírez": {
       "alias": "Ramón Ramírez",
@@ -2338,7 +2597,8 @@
       "valor": 120,
       "inici": "1991",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-11-15"
     },
     "Rüştü Reçber": {
       "alias": "Rüştü Reçber",
@@ -2347,7 +2607,8 @@
       "valor": 120,
       "inici": "1994",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-05-26"
     },
     "Wayne Rooney": {
       "alias": "Wayne Rooney",
@@ -2356,7 +2617,8 @@
       "valor": 120,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-11-15"
     },
     "Kasper Schmeichel": {
       "alias": "Kasper Schmeichel",
@@ -2365,7 +2627,8 @@
       "valor": 120,
       "inici": "2013",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-11-18"
     },
     "Román Torres": {
       "alias": "Román Torres",
@@ -2374,7 +2637,8 @@
       "valor": 120,
       "inici": "2005",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-11-15"
     },
     "Eduardo Vargas": {
       "alias": "Eduardo Vargas",
@@ -2383,7 +2647,8 @@
       "valor": 120,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-03-25"
     },
     "Justo Villar": {
       "alias": "Justo Villar",
@@ -2392,7 +2657,8 @@
       "valor": 120,
       "inici": "1999",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-12"
     },
     "Odai Al-Saify": {
       "alias": "Odai Al-Saify",
@@ -2401,7 +2667,8 @@
       "valor": 119,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-03-28"
     },
     "David Carabott": {
       "alias": "David Carabott",
@@ -2410,7 +2677,8 @@
       "valor": 119,
       "inici": "1987",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-02-09"
     },
     "Pat Jennings": {
       "alias": "Pat Jennings",
@@ -2419,7 +2687,8 @@
       "valor": 119,
       "inici": "1964",
       "final": "1986",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1986-06-12"
     },
     "Timur Kapadze": {
       "alias": "Timur Kapadze",
@@ -2428,7 +2697,8 @@
       "valor": 119,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-01-22"
     },
     "Andrej Kramarić": {
       "alias": "Andrej Kramarić",
@@ -2437,7 +2707,8 @@
       "valor": 119,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-02"
     },
     "Shinji Okazaki": {
       "alias": "Shinji Okazaki",
@@ -2446,7 +2717,8 @@
       "valor": 119,
       "inici": "2008",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-06-24"
     },
     "Talal Yousef": {
       "alias": "Talal Yousef",
@@ -2455,7 +2727,8 @@
       "valor": 119,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-01-07"
     },
     "Theodoros Zagorakis": {
       "alias": "Theodoros Zagorakis",
@@ -2464,7 +2737,8 @@
       "valor": 119,
       "inici": "1994",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-08-22"
     },
     "Mohammad Al-Shalhoub": {
       "alias": "Mohammad Al-Shalhoub",
@@ -2473,7 +2747,8 @@
       "valor": 118,
       "inici": "2000",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-02-28"
     },
     "Bruno Ecuele Manga": {
       "alias": "Bruno Ecuele Manga",
@@ -2482,7 +2757,8 @@
       "valor": 118,
       "inici": "2006",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-12-28"
     },
     "Samuel Eto'o": {
       "alias": "Samuel Eto'o",
@@ -2491,7 +2767,8 @@
       "valor": 118,
       "inici": "1997",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-13"
     },
     "Geremi": {
       "alias": "Geremi",
@@ -2500,7 +2777,8 @@
       "valor": 118,
       "inici": "1996",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-24"
     },
     "Heinz Hermann": {
       "alias": "Heinz Hermann",
@@ -2509,7 +2787,8 @@
       "valor": 118,
       "inici": "1978",
       "final": "1991",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1991-11-13"
     },
     "Ahmed Ibrahim Khalaf": {
       "alias": "Ahmed Ibrahim Khalaf",
@@ -2518,7 +2797,8 @@
       "valor": 118,
       "inici": "2010",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-09-26"
     },
     "Ri Myong-guk": {
       "alias": "Ri Myong-guk",
@@ -2527,7 +2807,8 @@
       "valor": 118,
       "inici": "2007",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-01-17"
     },
     "John O'Shea": {
       "alias": "John O'Shea",
@@ -2536,7 +2817,8 @@
       "valor": 118,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-02"
     },
     "Pedro Miguel": {
       "alias": "Pedro Miguel",
@@ -2545,7 +2827,8 @@
       "valor": 118,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Karel Poborský": {
       "alias": "Karel Poborský",
@@ -2554,7 +2837,8 @@
       "valor": 118,
       "inici": "1994",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-22"
     },
     "Vincent Aboubakar": {
       "alias": "Vincent Aboubakar",
@@ -2563,7 +2847,8 @@
       "valor": 117,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-11-13"
     },
     "David Alaba": {
       "alias": "David Alaba",
@@ -2572,7 +2857,8 @@
       "valor": 117,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-02"
     },
     "Husain Ali": {
       "alias": "Husain Ali",
@@ -2581,7 +2867,8 @@
       "valor": 117,
       "inici": "1998",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-09"
     },
     "Hamza Al-Dardour": {
       "alias": "Hamza Al-Dardour",
@@ -2590,7 +2877,8 @@
       "valor": 117,
       "inici": "2011",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-01-25"
     },
     "Giorgio Chiellini": {
       "alias": "Giorgio Chiellini",
@@ -2599,7 +2887,8 @@
       "valor": 117,
       "inici": "2004",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-01"
     },
     "Daniele De Rossi": {
       "alias": "Daniele De Rossi",
@@ -2608,7 +2897,8 @@
       "valor": 117,
       "inici": "2004",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-11-10"
     },
     "Kim Ho-kon": {
       "alias": "Kim Ho-kon",
@@ -2617,7 +2907,8 @@
       "valor": 117,
       "inici": "1971",
       "final": "1979",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1979-03-04"
     },
     "Ahmed Jamil": {
       "alias": "Ahmed Jamil",
@@ -2626,7 +2917,8 @@
       "valor": 117,
       "inici": "1986",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-05-04"
     },
     "Olof Mellberg": {
       "alias": "Olof Mellberg",
@@ -2635,7 +2927,8 @@
       "valor": 117,
       "inici": "2000",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-06-19"
     },
     "Noureddine Naybet": {
       "alias": "Noureddine Naybet",
@@ -2644,7 +2937,8 @@
       "valor": 117,
       "inici": "1990",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-01-28"
     },
     "Shunmugham Subramani": {
       "alias": "Shunmugham Subramani",
@@ -2653,7 +2947,8 @@
       "valor": 117,
       "inici": "1996",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-02-04"
     },
     "Hassan Sunny": {
       "alias": "Hassan Sunny",
@@ -2662,7 +2957,8 @@
       "valor": 117,
       "inici": "2004",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-11"
     },
     "Majed Abdullah": {
       "alias": "Majed Abdullah",
@@ -2671,7 +2967,8 @@
       "valor": 116,
       "inici": "1978",
       "final": "1994",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1994-06-29"
     },
     "Zainal Abidin Hassan": {
       "alias": "Zainal Abidin Hassan",
@@ -2680,7 +2977,8 @@
       "valor": 116,
       "inici": "1980",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1997-10-14"
     },
     "Nawaf Al-Khaldi": {
       "alias": "Nawaf Al-Khaldi",
@@ -2689,7 +2987,8 @@
       "valor": 116,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-11-20"
     },
     "Khaled Al-Muwallid": {
       "alias": "Khaled Al-Muwallid",
@@ -2698,7 +2997,8 @@
       "valor": 116,
       "inici": "1988",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-06-18"
     },
     "Martín Cáceres": {
       "alias": "Martín Cáceres",
@@ -2707,7 +3007,8 @@
       "valor": 116,
       "inici": "2007",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-24"
     },
     "Juan Cuadrado": {
       "alias": "Juan Cuadrado",
@@ -2716,7 +3017,8 @@
       "valor": 116,
       "inici": "2010",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-09-07"
     },
     "Abdallah Deeb": {
       "alias": "Abdallah Deeb",
@@ -2725,7 +3027,8 @@
       "valor": 116,
       "inici": "2007",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-11-15"
     },
     "Marcel Desailly": {
       "alias": "Marcel Desailly",
@@ -2734,7 +3037,8 @@
       "valor": 116,
       "inici": "1993",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-06-17"
     },
     "Kostas Katsouranis": {
       "alias": "Kostas Katsouranis",
@@ -2743,7 +3047,8 @@
       "valor": 116,
       "inici": "2003",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-06-16"
     },
     "Yoshikatsu Kawaguchi": {
       "alias": "Yoshikatsu Kawaguchi",
@@ -2752,7 +3057,8 @@
       "valor": 116,
       "inici": "1997",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-11-19"
     },
     "Joshua Kimmich": {
       "alias": "Joshua Kimmich",
@@ -2761,7 +3067,8 @@
       "valor": 116,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-27"
     },
     "Ali Madan": {
       "alias": "Ali Madan",
@@ -2770,7 +3077,8 @@
       "valor": 116,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-30"
     },
     "Chancel Mbemba": {
       "alias": "Chancel Mbemba",
@@ -2779,7 +3087,8 @@
       "valor": 116,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-05"
     },
     "Roland Nilsson": {
       "alias": "Roland Nilsson",
@@ -2788,7 +3097,8 @@
       "valor": 116,
       "inici": "1986",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-10-11"
     },
     "Andrea Pirlo": {
       "alias": "Andrea Pirlo",
@@ -2797,7 +3107,8 @@
       "valor": 116,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-09-03"
     },
     "Wesam Rizik": {
       "alias": "Wesam Rizik",
@@ -2806,7 +3117,8 @@
       "valor": 116,
       "inici": "2001",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-11-13"
     },
     "Theodore Whitmore": {
       "alias": "Theodore Whitmore",
@@ -2815,7 +3127,8 @@
       "valor": 116,
       "inici": "1993",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-11-17"
     },
     "Rashid Al-Dosari": {
       "alias": "Rashid Al-Dosari",
@@ -2824,7 +3137,8 @@
       "valor": 115,
       "inici": "1998",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-12-23"
     },
     "Ismail Al-Hammadi": {
       "alias": "Ismail Al-Hammadi",
@@ -2833,7 +3147,8 @@
       "valor": 115,
       "inici": "2007",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-12-02"
     },
     "Jozy Altidore": {
       "alias": "Jozy Altidore",
@@ -2842,7 +3157,8 @@
       "valor": 115,
       "inici": "2007",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-07-07"
     },
     "Roberto Ayala": {
       "alias": "Roberto Ayala",
@@ -2851,7 +3167,8 @@
       "valor": 115,
       "inici": "1994",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-07-15"
     },
     "David Beckham": {
       "alias": "David Beckham",
@@ -2860,7 +3177,8 @@
       "valor": 115,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-10-14"
     },
     "Thibaut Courtois": {
       "alias": "Thibaut Courtois",
@@ -2869,7 +3187,8 @@
       "valor": 115,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-10"
     },
     "Gonzalo Jara": {
       "alias": "Gonzalo Jara",
@@ -2878,7 +3197,8 @@
       "valor": 115,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-07-06"
     },
     "Abdulrahim Jumaa": {
       "alias": "Abdulrahim Jumaa",
@@ -2887,7 +3207,8 @@
       "valor": 115,
       "inici": "1998",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-04-01"
     },
     "Ali Mabkhout": {
       "alias": "Ali Mabkhout",
@@ -2896,7 +3217,8 @@
       "valor": 115,
       "inici": "2009",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-01-06"
     },
     "Bilal Mohammed": {
       "alias": "Bilal Mohammed",
@@ -2905,7 +3227,8 @@
       "valor": 115,
       "inici": "2003",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-12-31"
     },
     "Chandran Mutveeran": {
       "alias": "Chandran Mutveeran",
@@ -2914,7 +3237,8 @@
       "valor": 115,
       "inici": "1965",
       "final": "1974",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1974-09-15"
     },
     "Miralem Pjanić": {
       "alias": "Miralem Pjanić",
@@ -2923,7 +3247,8 @@
       "valor": 115,
       "inici": "2008",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-03-21"
     },
     "Gheorghe Popescu": {
       "alias": "Gheorghe Popescu",
@@ -2932,7 +3257,8 @@
       "valor": 115,
       "inici": "1988",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-03-29"
     },
     "Andrejs Rubins": {
       "alias": "Andrejs Rubins",
@@ -2941,7 +3267,8 @@
       "valor": 115,
       "inici": "1998",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-11"
     },
     "Bernardo Silva": {
       "alias": "Bernardo Silva",
@@ -2950,7 +3277,8 @@
       "valor": 115,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Dušan Tadić": {
       "alias": "Dušan Tadić",
@@ -2959,7 +3287,8 @@
       "valor": 115,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Xabi Alonso": {
       "alias": "Xabi Alonso",
@@ -2968,7 +3297,8 @@
       "valor": 114,
       "inici": "2003",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-23"
     },
     "Salem Al-Dawsari": {
       "alias": "Salem Al-Dawsari",
@@ -2977,7 +3307,8 @@
       "valor": 114,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-26"
     },
     "Angus Eve": {
       "alias": "Angus Eve",
@@ -2986,7 +3317,8 @@
       "valor": 114,
       "inici": "1994",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-07-12"
     },
     "Steven Gerrard": {
       "alias": "Steven Gerrard",
@@ -2995,7 +3327,8 @@
       "valor": 114,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-24"
     },
     "Wael Gomaa": {
       "alias": "Wael Gomaa",
@@ -3004,7 +3337,8 @@
       "valor": 114,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-10-15"
     },
     "Makoto Hasebe": {
       "alias": "Makoto Hasebe",
@@ -3013,7 +3347,8 @@
       "valor": 114,
       "inici": "2006",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-02"
     },
     "Nicolas Hasler": {
       "alias": "Nicolas Hasler",
@@ -3022,7 +3357,8 @@
       "valor": 114,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-01"
     },
     "Jalal Hosseini": {
       "alias": "Jalal Hosseini",
@@ -3031,7 +3367,8 @@
       "valor": 114,
       "inici": "2007",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-05-18"
     },
     "Toni Kroos": {
       "alias": "Toni Kroos",
@@ -3040,7 +3377,8 @@
       "valor": 114,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-05"
     },
     "Dmitri Kruglov": {
       "alias": "Dmitri Kruglov",
@@ -3049,7 +3387,8 @@
       "valor": 114,
       "inici": "2004",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-03-26"
     },
     "Gao Lin": {
       "alias": "Gao Lin",
@@ -3058,7 +3397,8 @@
       "valor": 114,
       "inici": "2005",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-01-24"
     },
     "Björn Nordqvist": {
       "alias": "Björn Nordqvist",
@@ -3067,7 +3407,8 @@
       "valor": 114,
       "inici": "1963",
       "final": "1978",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1978-10-04"
     },
     "Didier Ovono": {
       "alias": "Didier Ovono",
@@ -3076,7 +3417,8 @@
       "valor": 114,
       "inici": "2003",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-03-23"
     },
     "Raio Piiroja": {
       "alias": "Raio Piiroja",
@@ -3085,7 +3427,8 @@
       "valor": 114,
       "inici": "1998",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-03-31"
     },
     "Stipe Pletikosa": {
       "alias": "Stipe Pletikosa",
@@ -3094,7 +3437,8 @@
       "valor": 114,
       "inici": "1999",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-23"
     },
     "Ali Rehema": {
       "alias": "Ali Rehema",
@@ -3103,7 +3447,8 @@
       "valor": 114,
       "inici": "2005",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-03-29"
     },
     "Indra Sahdan Daud": {
       "alias": "Indra Sahdan Daud",
@@ -3112,7 +3457,8 @@
       "valor": 114,
       "inici": "1997",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-09-10"
     },
     "Kristen Viikmäe": {
       "alias": "Kristen Viikmäe",
@@ -3121,7 +3467,8 @@
       "valor": 114,
       "inici": "1997",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-06-03"
     },
     "Sergei Zenjov": {
       "alias": "Sergei Zenjov",
@@ -3130,7 +3477,8 @@
       "valor": 114,
       "inici": "2008",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-10-11"
     },
     "Nashat Akram": {
       "alias": "Nashat Akram",
@@ -3139,7 +3487,8 @@
       "valor": 113,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-06-04"
     },
     "Ahmed Al-Dokhi": {
       "alias": "Ahmed Al-Dokhi",
@@ -3148,7 +3497,8 @@
       "valor": 113,
       "inici": "1997",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-11-15"
     },
     "Birkir Bjarnason": {
       "alias": "Birkir Bjarnason",
@@ -3157,7 +3507,8 @@
       "valor": 113,
       "inici": "2010",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-16"
     },
     "Francisco Calvo": {
       "alias": "Francisco Calvo",
@@ -3166,7 +3517,8 @@
       "valor": 113,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Kiran Chemjong": {
       "alias": "Kiran Chemjong",
@@ -3175,7 +3527,8 @@
       "valor": 113,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-31"
     },
     "Max Gradel": {
       "alias": "Max Gradel",
@@ -3184,7 +3537,8 @@
       "valor": 113,
       "inici": "2011",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-03-23"
     },
     "Philipp Lahm": {
       "alias": "Philipp Lahm",
@@ -3193,7 +3547,8 @@
       "valor": 113,
       "inici": "2004",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-07-13"
     },
     "Hawar Mulla Mohammed": {
       "alias": "Hawar Mulla Mohammed",
@@ -3202,7 +3557,8 @@
       "valor": 113,
       "inici": "2001",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-06-12"
     },
     "Viktor Onopko": {
       "alias": "Viktor Onopko",
@@ -3211,7 +3567,8 @@
       "valor": 113,
       "inici": "1992",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-08-18"
     },
     "Răzvan Raț": {
       "alias": "Răzvan Raț",
@@ -3220,7 +3577,8 @@
       "valor": 113,
       "inici": "2002",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-15"
     },
     "Thiago Silva": {
       "alias": "Thiago Silva",
@@ -3229,7 +3587,8 @@
       "valor": 113,
       "inici": "2008",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-09"
     },
     "Martin Stocklasa": {
       "alias": "Martin Stocklasa",
@@ -3238,7 +3597,8 @@
       "valor": 113,
       "inici": "1996",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-03-05"
     },
     "Piotr Zieliński": {
       "alias": "Piotr Zieliński",
@@ -3247,7 +3607,8 @@
       "valor": 113,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-05"
     },
     "Jarah Al Ateeqi": {
       "alias": "Jarah Al Ateeqi",
@@ -3256,7 +3617,8 @@
       "valor": 112,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Abdulla Al-Marzooqi": {
       "alias": "Abdulla Al-Marzooqi",
@@ -3265,7 +3627,8 @@
       "valor": 112,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-01-15"
     },
     "Yasser Al-Qahtani": {
       "alias": "Yasser Al-Qahtani",
@@ -3274,7 +3637,8 @@
       "valor": 112,
       "inici": "2002",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-01-12"
     },
     "Zuhair Bakheet": {
       "alias": "Zuhair Bakheet",
@@ -3283,7 +3647,8 @@
       "valor": 112,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-12-16"
     },
     "Franz Burgmeier": {
       "alias": "Franz Burgmeier",
@@ -3292,7 +3657,8 @@
       "valor": 112,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-25"
     },
     "Frank de Boer": {
       "alias": "Frank de Boer",
@@ -3301,7 +3667,8 @@
       "valor": 112,
       "inici": "1990",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-06-26"
     },
     "Memphis Depay": {
       "alias": "Memphis Depay",
@@ -3310,7 +3677,8 @@
       "valor": 112,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-25"
     },
     "Abdel-Zaher El-Saqqa": {
       "alias": "Abdel-Zaher El-Saqqa",
@@ -3319,7 +3687,8 @@
       "valor": 112,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-01-20"
     },
     "Diego Forlán": {
       "alias": "Diego Forlán",
@@ -3328,7 +3697,8 @@
       "valor": 112,
       "inici": "2002",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-28"
     },
     "Alain Geiger": {
       "alias": "Alain Geiger",
@@ -3337,7 +3707,8 @@
       "valor": 112,
       "inici": "1980",
       "final": "1996",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1996-06-08"
     },
     "Aaron Hughes": {
       "alias": "Aaron Hughes",
@@ -3346,7 +3717,8 @@
       "valor": 112,
       "inici": "1998",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-03"
     },
     "Yapp Hung Fai": {
       "alias": "Yapp Hung Fai",
@@ -3355,7 +3727,8 @@
       "valor": 112,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-10-09"
     },
     "Juraj Kucka": {
       "alias": "Juraj Kucka",
@@ -3364,7 +3737,8 @@
       "valor": 112,
       "inici": "2008",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-09-08"
     },
     "Juris Laizāns": {
       "alias": "Juris Laizāns",
@@ -3373,7 +3747,8 @@
       "valor": 112,
       "inici": "1998",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-15"
     },
     "Yénier Márquez": {
       "alias": "Yénier Márquez",
@@ -3382,7 +3757,8 @@
       "valor": 112,
       "inici": "2000",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-07-15"
     },
     "Marquinhos": {
       "alias": "Marquinhos",
@@ -3391,7 +3767,8 @@
       "valor": 112,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Nani": {
       "alias": "Nani",
@@ -3400,7 +3777,8 @@
       "valor": 112,
       "inici": "2006",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-07-02"
     },
     "Claudio Reyna": {
       "alias": "Claudio Reyna",
@@ -3409,7 +3787,8 @@
       "valor": 112,
       "inici": "1994",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-22"
     },
     "Roque Santa Cruz": {
       "alias": "Roque Santa Cruz",
@@ -3418,7 +3797,8 @@
       "valor": 112,
       "inici": "1999",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-11-10"
     },
     "Hakan Şükür": {
       "alias": "Hakan Şükür",
@@ -3427,7 +3807,8 @@
       "valor": 112,
       "inici": "1992",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-10-17"
     },
     "Ki Sung-yueng": {
       "alias": "Ki Sung-yueng",
@@ -3436,7 +3817,8 @@
       "valor": 112,
       "inici": "2008",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-01-07"
     },
     "Jon Dahl Tomasson": {
       "alias": "Jon Dahl Tomasson",
@@ -3445,7 +3827,8 @@
       "valor": 112,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-24"
     },
     "Li Weifeng": {
       "alias": "Li Weifeng",
@@ -3454,7 +3837,8 @@
       "valor": 112,
       "inici": "1998",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-11-15"
     },
     "Kim Young-gwon": {
       "alias": "Kim Young-gwon",
@@ -3463,7 +3847,8 @@
       "valor": 112,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-09-05"
     },
     "Dino Zoff": {
       "alias": "Dino Zoff",
@@ -3472,7 +3857,8 @@
       "valor": 112,
       "inici": "1968",
       "final": "1983",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1983-05-29"
     },
     "Igor Akinfeev": {
       "alias": "Igor Akinfeev",
@@ -3481,7 +3867,8 @@
       "valor": 111,
       "inici": "2004",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-07"
     },
     "Mahmoud Al-Mawas": {
       "alias": "Mahmoud Al-Mawas",
@@ -3490,7 +3877,8 @@
       "valor": 111,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-01"
     },
     "Gareth Bale": {
       "alias": "Gareth Bale",
@@ -3499,7 +3887,8 @@
       "valor": 111,
       "inici": "2006",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-29"
     },
     "Rolando Fonseca": {
       "alias": "Rolando Fonseca",
@@ -3508,7 +3897,8 @@
       "valor": 111,
       "inici": "1992",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-03-26"
     },
     "Aron Gunnarsson": {
       "alias": "Aron Gunnarsson",
@@ -3517,7 +3907,8 @@
       "valor": 111,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Abdulsalam Jumaa": {
       "alias": "Abdulsalam Jumaa",
@@ -3526,7 +3917,8 @@
       "valor": 111,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-01-06"
     },
     "Mahdi Karim": {
       "alias": "Mahdi Karim",
@@ -3535,7 +3927,8 @@
       "valor": 111,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-02-28"
     },
     "Zhang Linpeng": {
       "alias": "Zhang Linpeng",
@@ -3544,7 +3937,8 @@
       "valor": 111,
       "inici": "2009",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-03-21"
     },
     "Édison Méndez": {
       "alias": "Édison Méndez",
@@ -3553,7 +3947,8 @@
       "valor": 111,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-20"
     },
     "Odelín Molina": {
       "alias": "Odelín Molina",
@@ -3562,7 +3957,8 @@
       "valor": 111,
       "inici": "1996",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-07-20"
     },
     "José Manuel Rey": {
       "alias": "José Manuel Rey",
@@ -3571,7 +3967,8 @@
       "valor": 111,
       "inici": "1997",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-07"
     },
     "Andriy Shevchenko": {
       "alias": "Andriy Shevchenko",
@@ -3580,7 +3977,8 @@
       "valor": 111,
       "inici": "1995",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-06-19"
     },
     "Mehdi Taremi": {
       "alias": "Mehdi Taremi",
@@ -3589,7 +3987,8 @@
       "valor": 111,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Carlos Valderrama": {
       "alias": "Carlos Valderrama",
@@ -3598,7 +3997,8 @@
       "valor": 111,
       "inici": "1985",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-06-26"
     },
     "Zheng Zhi": {
       "alias": "Zheng Zhi",
@@ -3607,7 +4007,8 @@
       "valor": 111,
       "inici": "2002",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-11-14"
     },
     "Ali Al-Busaidi": {
       "alias": "Ali Al-Busaidi",
@@ -3616,7 +4017,8 @@
       "valor": 110,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-12-08"
     },
     "François Amégasse": {
       "alias": "François Amégasse",
@@ -3625,7 +4027,8 @@
       "valor": 110,
       "inici": "1984",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-01-29"
     },
     "Carlos Bocanegra": {
       "alias": "Carlos Bocanegra",
@@ -3634,7 +4037,8 @@
       "valor": 110,
       "inici": "2001",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-11-14"
     },
     "Carmel Busuttil": {
       "alias": "Carmel Busuttil",
@@ -3643,7 +4047,8 @@
       "valor": 110,
       "inici": "1982",
       "final": "2001",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2001-04-25"
     },
     "Paul Caligiuri": {
       "alias": "Paul Caligiuri",
@@ -3652,7 +4057,8 @@
       "valor": 110,
       "inici": "1984",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1997-11-16"
     },
     "Fernando Couto": {
       "alias": "Fernando Couto",
@@ -3661,7 +4067,8 @@
       "valor": 110,
       "inici": "1990",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-06-30"
     },
     "Ahmed El-Kass": {
       "alias": "Ahmed El-Kass",
@@ -3670,7 +4077,8 @@
       "valor": 110,
       "inici": "1987",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1997-04-06"
     },
     "Cesc Fàbregas": {
       "alias": "Cesc Fàbregas",
@@ -3679,7 +4087,8 @@
       "valor": 110,
       "inici": "2006",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-27"
     },
     "Carlos Gamarra": {
       "alias": "Carlos Gamarra",
@@ -3688,7 +4097,8 @@
       "valor": 110,
       "inici": "1993",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-10-07"
     },
     "Mohamad Haidar": {
       "alias": "Mohamad Haidar",
@@ -3697,7 +4107,8 @@
       "valor": 110,
       "inici": "2011",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-04"
     },
     "Lee Jae-sung": {
       "alias": "Lee Jae-sung",
@@ -3706,7 +4117,8 @@
       "valor": 110,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Franck Kessié": {
       "alias": "Franck Kessié",
@@ -3715,7 +4127,8 @@
       "valor": 110,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Kevin Kilbane": {
       "alias": "Kevin Kilbane",
@@ -3724,7 +4137,8 @@
       "valor": 110,
       "inici": "1997",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-06-04"
     },
     "Mehdi Mahdavikia": {
       "alias": "Mehdi Mahdavikia",
@@ -3733,7 +4147,8 @@
       "valor": 110,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-06-17"
     },
     "Imran Mohamed": {
       "alias": "Imran Mohamed",
@@ -3742,7 +4157,8 @@
       "valor": 110,
       "inici": "2000",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-10-11"
     },
     "Ahmed Musa": {
       "alias": "Ahmed Musa",
@@ -3751,7 +4167,8 @@
       "valor": 110,
       "inici": "2010",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-05-28"
     },
     "Yuji Nakazawa": {
       "alias": "Yuji Nakazawa",
@@ -3760,7 +4177,8 @@
       "valor": 110,
       "inici": "1999",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-09-04"
     },
     "John Arne Riise": {
       "alias": "John Arne Riise",
@@ -3769,7 +4187,8 @@
       "valor": 110,
       "inici": "2000",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-03-22"
     },
     "Cristian Rodríguez": {
       "alias": "Cristian Rodríguez",
@@ -3778,7 +4197,8 @@
       "valor": 110,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-06"
     },
     "Álvaro Saborío": {
       "alias": "Álvaro Saborío",
@@ -3787,7 +4207,8 @@
       "valor": 110,
       "inici": "2002",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-10-13"
     },
     "Totchtawan Sripan": {
       "alias": "Totchtawan Sripan",
@@ -3796,7 +4217,8 @@
       "valor": 110,
       "inici": "1993",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-03-28"
     },
     "Fernando Torres": {
       "alias": "Fernando Torres",
@@ -3805,7 +4227,8 @@
       "valor": 110,
       "inici": "2003",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-23"
     },
     "Hassan Abdel-Fattah": {
       "alias": "Hassan Abdel-Fattah",
@@ -3814,7 +4237,8 @@
       "valor": 109,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-10-13"
     },
     "Niclas Alexandersson": {
       "alias": "Niclas Alexandersson",
@@ -3823,7 +4247,8 @@
       "valor": 109,
       "inici": "1993",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-06-10"
     },
     "Nohair Al-Shammari": {
       "alias": "Nohair Al-Shammari",
@@ -3832,7 +4257,8 @@
       "valor": 109,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-01-14"
     },
     "Jean Beausejour": {
       "alias": "Jean Beausejour",
@@ -3841,7 +4267,8 @@
       "valor": 109,
       "inici": "2004",
       "final": "2020",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2020-11-17"
     },
     "Jakub Błaszczykowski": {
       "alias": "Jakub Błaszczykowski",
@@ -3850,7 +4277,8 @@
       "valor": 109,
       "inici": "2006",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-06-16"
     },
     "André Carrillo": {
       "alias": "André Carrillo",
@@ -3859,7 +4287,8 @@
       "valor": 109,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Eric Davis": {
       "alias": "Eric Davis",
@@ -3868,7 +4297,8 @@
       "valor": 109,
       "inici": "2010",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-27"
     },
     "Balázs Dzsudzsák": {
       "alias": "Balázs Dzsudzsák",
@@ -3877,7 +4307,8 @@
       "valor": 109,
       "inici": "2007",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-20"
     },
     "Alberto García Aspe": {
       "alias": "Alberto García Aspe",
@@ -3886,7 +4317,8 @@
       "valor": 109,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-17"
     },
     "Chris Gunter": {
       "alias": "Chris Gunter",
@@ -3895,7 +4327,8 @@
       "valor": 109,
       "inici": "2007",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-14"
     },
     "Asamoah Gyan": {
       "alias": "Asamoah Gyan",
@@ -3904,7 +4337,8 @@
       "valor": 109,
       "inici": "2003",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-07-08"
     },
     "Wayne Hennessey": {
       "alias": "Wayne Hennessey",
@@ -3913,7 +4347,8 @@
       "valor": 109,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-10-11"
     },
     "Javier Hernández": {
       "alias": "Javier Hernández",
@@ -3922,7 +4357,8 @@
       "valor": 109,
       "inici": "2009",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-09-06"
     },
     "Dries Mertens": {
       "alias": "Dries Mertens",
@@ -3931,7 +4367,8 @@
       "valor": 109,
       "inici": "2011",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-01"
     },
     "Mark Schwarzer": {
       "alias": "Mark Schwarzer",
@@ -3940,7 +4377,8 @@
       "valor": 109,
       "inici": "1993",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-09-07"
     },
     "Mauricio Solís": {
       "alias": "Mauricio Solís",
@@ -3949,7 +4387,8 @@
       "valor": 109,
       "inici": "1993",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-20"
     },
     "Wael Sulaiman": {
       "alias": "Wael Sulaiman",
@@ -3958,7 +4397,8 @@
       "valor": 109,
       "inici": "1986",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-12-27"
     },
     "Enner Valencia": {
       "alias": "Enner Valencia",
@@ -3967,7 +4407,8 @@
       "valor": 109,
       "inici": "2012",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-06-30"
     },
     "Rafael van der Vaart": {
       "alias": "Rafael van der Vaart",
@@ -3976,7 +4417,8 @@
       "valor": 109,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Álex Aguinaga": {
       "alias": "Álex Aguinaga",
@@ -3985,7 +4427,8 @@
       "valor": 108,
       "inici": "1987",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-07-13"
     },
     "Odil Ahmedov": {
       "alias": "Odil Ahmedov",
@@ -3994,7 +4437,8 @@
       "valor": 108,
       "inici": "2007",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-15"
     },
     "Maher Al-Sayed": {
       "alias": "Maher Al-Sayed",
@@ -4003,7 +4447,8 @@
       "valor": 108,
       "inici": "1998",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-03-26"
     },
     "Anas Bani Yaseen": {
       "alias": "Anas Bani Yaseen",
@@ -4012,7 +4457,8 @@
       "valor": 108,
       "inici": "2008",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-01-25"
     },
     "Daley Blind": {
       "alias": "Daley Blind",
@@ -4021,7 +4467,8 @@
       "valor": 108,
       "inici": "2013",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-07-02"
     },
     "Tim Cahill": {
       "alias": "Tim Cahill",
@@ -4030,7 +4477,8 @@
       "valor": 108,
       "inici": "2004",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-11-20"
     },
     "Hakan Çalhanoğlu": {
       "alias": "Hakan Çalhanoğlu",
@@ -4039,7 +4487,8 @@
       "valor": 108,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-19"
     },
     "Ricardo Gardner": {
       "alias": "Ricardo Gardner",
@@ -4048,7 +4497,8 @@
       "valor": 108,
       "inici": "1997",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-12-12"
     },
     "Thomas Helveg": {
       "alias": "Thomas Helveg",
@@ -4057,7 +4507,8 @@
       "valor": 108,
       "inici": "1994",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-10-17"
     },
     "Lukas Hradecky": {
       "alias": "Lukas Hradecky",
@@ -4066,7 +4517,8 @@
       "valor": 108,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Stern John": {
       "alias": "Stern John",
@@ -4075,7 +4527,8 @@
       "valor": 108,
       "inici": "1995",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-11-11"
     },
     "Jürgen Klinsmann": {
       "alias": "Jürgen Klinsmann",
@@ -4084,7 +4537,8 @@
       "valor": 108,
       "inici": "1987",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-07-04"
     },
     "Stephan Lichtsteiner": {
       "alias": "Stephan Lichtsteiner",
@@ -4093,7 +4547,8 @@
       "valor": 108,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-11-15"
     },
     "Bobby Moore": {
       "alias": "Bobby Moore",
@@ -4102,7 +4557,8 @@
       "valor": 108,
       "inici": "1962",
       "final": "1973",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1973-11-14"
     },
     "Joseph Musonda": {
       "alias": "Joseph Musonda",
@@ -4111,7 +4567,8 @@
       "valor": 108,
       "inici": "2002",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-06"
     },
     "Francisco Rodríguez": {
       "alias": "Francisco Rodríguez",
@@ -4120,7 +4577,8 @@
       "valor": 108,
       "inici": "2004",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-07-26"
     },
     "Rui Patrício": {
       "alias": "Rui Patrício",
@@ -4129,7 +4587,8 @@
       "valor": 108,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-03-21"
     },
     "Rashad Sadygov": {
       "alias": "Rashad Sadygov",
@@ -4138,7 +4597,8 @@
       "valor": 108,
       "inici": "2001",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-05"
     },
     "Luis Tejada": {
       "alias": "Luis Tejada",
@@ -4147,7 +4607,8 @@
       "valor": 108,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-28"
     },
     "Fan Zhiyi": {
       "alias": "Fan Zhiyi",
@@ -4156,7 +4617,8 @@
       "valor": 108,
       "inici": "1992",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-04"
     },
     "Zinedine Zidane": {
       "alias": "Zinedine Zidane",
@@ -4165,7 +4627,8 @@
       "valor": 108,
       "inici": "1994",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-07-09"
     },
     "Fahad Al-Hajeri": {
       "alias": "Fahad Al-Hajeri",
@@ -4174,7 +4637,8 @@
       "valor": 107,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Yoel Bárcenas": {
       "alias": "Yoel Bárcenas",
@@ -4183,7 +4647,8 @@
       "valor": 107,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-27"
     },
     "Ashley Cole": {
       "alias": "Ashley Cole",
@@ -4192,7 +4657,8 @@
       "valor": 107,
       "inici": "2001",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-03-05"
     },
     "Lee Dong-gook": {
       "alias": "Lee Dong-gook",
@@ -4201,7 +4667,8 @@
       "valor": 107,
       "inici": "1998",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-09-05"
     },
     "Giovani dos Santos": {
       "alias": "Giovani dos Santos",
@@ -4210,7 +4677,8 @@
       "valor": 107,
       "inici": "2007",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-23"
     },
     "Jonny Evans": {
       "alias": "Jonny Evans",
@@ -4219,7 +4687,8 @@
       "valor": 107,
       "inici": "2006",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-08"
     },
     "Ahmed Hadid": {
       "alias": "Ahmed Hadid",
@@ -4228,7 +4697,8 @@
       "valor": 107,
       "inici": "2003",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-01-05"
     },
     "Miroslav Karhan": {
       "alias": "Miroslav Karhan",
@@ -4237,7 +4707,8 @@
       "valor": 107,
       "inici": "1995",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-07"
     },
     "Gábor Király": {
       "alias": "Gábor Király",
@@ -4246,7 +4717,8 @@
       "valor": 107,
       "inici": "1998",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-11-15"
     },
     "Kalidou Koulibaly": {
       "alias": "Kalidou Koulibaly",
@@ -4255,7 +4727,8 @@
       "valor": 107,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Kylian Mbappé": {
       "alias": "Kylian Mbappé",
@@ -4264,7 +4737,8 @@
       "valor": 107,
       "inici": "2017",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-25"
     },
     "Karol Mets": {
       "alias": "Karol Mets",
@@ -4273,7 +4747,8 @@
       "valor": 107,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Aaron Mokoena": {
       "alias": "Aaron Mokoena",
@@ -4282,7 +4757,8 @@
       "valor": 107,
       "inici": "1999",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-10-10"
     },
     "Marcelo Moreno": {
       "alias": "Marcelo Moreno",
@@ -4291,7 +4767,8 @@
       "valor": 107,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-11-21"
     },
     "Jamal Mubarak": {
       "alias": "Jamal Mubarak",
@@ -4300,7 +4777,8 @@
       "valor": 107,
       "inici": "1994",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-10-11"
     },
     "Muhsin Musabah": {
       "alias": "Muhsin Musabah",
@@ -4309,7 +4787,8 @@
       "valor": 107,
       "inici": "1985",
       "final": "1999",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1999-08-27"
     },
     "Haruna Niyonzima": {
       "alias": "Haruna Niyonzima",
@@ -4318,7 +4797,8 @@
       "valor": 107,
       "inici": "2006",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-09-03"
     },
     "Josué Quijano": {
       "alias": "Josué Quijano",
@@ -4327,7 +4807,8 @@
       "valor": 107,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-27"
     },
     "Marc Vales": {
       "alias": "Marc Vales",
@@ -4336,7 +4817,8 @@
       "valor": 107,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-07"
     },
     "Patrick Vieira": {
       "alias": "Patrick Vieira",
@@ -4345,7 +4827,8 @@
       "valor": 107,
       "inici": "1997",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-06-02"
     },
     "Phil Younghusband": {
       "alias": "Phil Younghusband",
@@ -4354,7 +4837,8 @@
       "valor": 107,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-01-16"
     },
     "Walid Abbas": {
       "alias": "Walid Abbas",
@@ -4363,7 +4847,8 @@
       "valor": 106,
       "inici": "2008",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-01-13"
     },
     "Imants Bleidelis": {
       "alias": "Imants Bleidelis",
@@ -4372,7 +4857,8 @@
       "valor": 106,
       "inici": "1995",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-11-21"
     },
     "Theerathon Bunmathan": {
       "alias": "Theerathon Bunmathan",
@@ -4381,7 +4867,8 @@
       "valor": 106,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-31"
     },
     "Darwin Cerén": {
       "alias": "Darwin Cerén",
@@ -4390,7 +4877,8 @@
       "valor": 106,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-11-18"
     },
     "Bobby Charlton": {
       "alias": "Bobby Charlton",
@@ -4399,7 +4887,8 @@
       "valor": 106,
       "inici": "1958",
       "final": "1970",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1970-06-14"
     },
     "Aleksandr Dmitrijev": {
       "alias": "Aleksandr Dmitrijev",
@@ -4408,7 +4897,8 @@
       "valor": 106,
       "inici": "2004",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-27"
     },
     "Mohamed Elneny": {
       "alias": "Mohamed Elneny",
@@ -4417,7 +4907,8 @@
       "valor": 106,
       "inici": "2011",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-12-09"
     },
     "Hao Haidong": {
       "alias": "Hao Haidong",
@@ -4426,7 +4917,8 @@
       "valor": 106,
       "inici": "1992",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-11-17"
     },
     "Jalal Hassan": {
       "alias": "Jalal Hassan",
@@ -4435,7 +4927,8 @@
       "valor": 106,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-26"
     },
     "Emilio Izaguirre": {
       "alias": "Emilio Izaguirre",
@@ -4444,7 +4937,8 @@
       "valor": 106,
       "inici": "2007",
       "final": "2020",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2020-10-11"
     },
     "Frank Lampard": {
       "alias": "Frank Lampard",
@@ -4453,7 +4947,8 @@
       "valor": 106,
       "inici": "1999",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-24"
     },
     "Henrik Larsson": {
       "alias": "Henrik Larsson",
@@ -4462,7 +4957,8 @@
       "valor": 106,
       "inici": "1993",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-10-10"
     },
     "Joel Lindpere": {
       "alias": "Joel Lindpere",
@@ -4471,7 +4967,8 @@
       "valor": 106,
       "inici": "1999",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-01"
     },
     "Aleksandar Mitrović": {
       "alias": "Aleksandar Mitrović",
@@ -4480,7 +4977,8 @@
       "valor": 106,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-31"
     },
     "Mubarak Mustafa": {
       "alias": "Mubarak Mustafa",
@@ -4489,7 +4987,8 @@
       "valor": 106,
       "inici": "1992",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-12-16"
     },
     "Ivan Rakitić": {
       "alias": "Ivan Rakitić",
@@ -4498,7 +4997,8 @@
       "valor": 106,
       "inici": "2007",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-10-13"
     },
     "Guillermo Ramírez": {
       "alias": "Guillermo Ramírez",
@@ -4507,7 +5007,8 @@
       "valor": 106,
       "inici": "1997",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-05-25"
     },
     "Diego Simeone": {
       "alias": "Diego Simeone",
@@ -4516,7 +5017,8 @@
       "valor": 106,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-07"
     },
     "Óscar Sonejee": {
       "alias": "Óscar Sonejee",
@@ -4525,7 +5027,8 @@
       "valor": 106,
       "inici": "1997",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-11-12"
     },
     "Giovanni van Bronckhorst": {
       "alias": "Giovanni van Bronckhorst",
@@ -4534,7 +5037,8 @@
       "valor": 106,
       "inici": "1996",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-07-11"
     },
     "Eric Wynalda": {
       "alias": "Eric Wynalda",
@@ -4543,7 +5047,8 @@
       "valor": 106,
       "inici": "1990",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-02-19"
     },
     "Khamis Al-Dosari": {
       "alias": "Khamis Al-Dosari",
@@ -4552,7 +5057,8 @@
       "valor": 105,
       "inici": "1994",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-12-17"
     },
     "Didier Drogba": {
       "alias": "Didier Drogba",
@@ -4561,7 +5067,8 @@
       "valor": 105,
       "inici": "2002",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-24"
     },
     "Héctor Herrera": {
       "alias": "Héctor Herrera",
@@ -4570,7 +5077,8 @@
       "valor": 105,
       "inici": "2012",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-09-09"
     },
     "Atiba Hutchinson": {
       "alias": "Atiba Hutchinson",
@@ -4579,7 +5087,8 @@
       "valor": 105,
       "inici": "2003",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-06-15"
     },
     "Sami Hyypiä": {
       "alias": "Sami Hyypiä",
@@ -4588,7 +5097,8 @@
       "valor": 105,
       "inici": "1992",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-10-12"
     },
     "Branislav Ivanović": {
       "alias": "Branislav Ivanović",
@@ -4597,7 +5107,8 @@
       "valor": 105,
       "inici": "2005",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-22"
     },
     "Radhi Jaïdi": {
       "alias": "Radhi Jaïdi",
@@ -4606,7 +5117,8 @@
       "valor": 105,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-06-06"
     },
     "Jonatan Johansson": {
       "alias": "Jonatan Johansson",
@@ -4615,7 +5127,8 @@
       "valor": 105,
       "inici": "1996",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-09-07"
     },
     "Abdul Kadir": {
       "alias": "Abdul Kadir",
@@ -4624,7 +5137,8 @@
       "valor": 105,
       "inici": "1967",
       "final": "1979",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1979-05-07"
     },
     "Jürgen Kohler": {
       "alias": "Jürgen Kohler",
@@ -4633,7 +5147,8 @@
       "valor": 105,
       "inici": "1986",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-07-04"
     },
     "Lúcio": {
       "alias": "Lúcio",
@@ -4642,7 +5157,8 @@
       "valor": 105,
       "inici": "2000",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-09-05"
     },
     "Ignatiy Nesterov": {
       "alias": "Ignatiy Nesterov",
@@ -4651,7 +5167,8 @@
       "valor": 105,
       "inici": "2002",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-01-21"
     },
     "Stiliyan Petrov": {
       "alias": "Stiliyan Petrov",
@@ -4660,7 +5177,8 @@
       "valor": 105,
       "inici": "1998",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-11"
     },
     "Tomáš Rosický": {
       "alias": "Tomáš Rosický",
@@ -4669,7 +5187,8 @@
       "valor": 105,
       "inici": "2000",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-17"
     },
     "Mathew Ryan": {
       "alias": "Mathew Ryan",
@@ -4678,7 +5197,8 @@
       "valor": 105,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-03"
     },
     "Moisés San Nicolás": {
       "alias": "Moisés San Nicolás",
@@ -4687,7 +5207,8 @@
       "valor": 105,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Ahmed Shobair": {
       "alias": "Ahmed Shobair",
@@ -4696,7 +5217,8 @@
       "valor": 105,
       "inici": "1984",
       "final": "1996",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1996-11-08"
     },
     "Josip Šimunić": {
       "alias": "Josip Šimunić",
@@ -4705,7 +5227,8 @@
       "valor": 105,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Islam Slimani": {
       "alias": "Islam Slimani",
@@ -4714,7 +5237,8 @@
       "valor": 105,
       "inici": "2012",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-12-09"
     },
     "Kim Tae-young": {
       "alias": "Kim Tae-young",
@@ -4723,7 +5247,8 @@
       "valor": 105,
       "inici": "1992",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-07-19"
     },
     "Gabriel Torres": {
       "alias": "Gabriel Torres",
@@ -4732,7 +5257,8 @@
       "valor": 105,
       "inici": "2005",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-02"
     },
     "Domagoj Vida": {
       "alias": "Domagoj Vida",
@@ -4741,7 +5267,8 @@
       "valor": 105,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-03"
     },
     "Billy Wright": {
       "alias": "Billy Wright",
@@ -4750,7 +5277,8 @@
       "valor": 105,
       "inici": "1946",
       "final": "1959",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1959-05-28"
     },
     "Mihails Zemļinskis": {
       "alias": "Mihails Zemļinskis",
@@ -4759,7 +5287,8 @@
       "valor": 105,
       "inici": "1992",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-10-08"
     },
     "Yuri Zhirkov": {
       "alias": "Yuri Zhirkov",
@@ -4768,7 +5297,8 @@
       "valor": 105,
       "inici": "2005",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-12"
     },
     "Fahad Al Ansari": {
       "alias": "Fahad Al Ansari",
@@ -4777,7 +5307,8 @@
       "valor": 104,
       "inici": "2009",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-06"
     },
     "Mohammed Al-Jahani": {
       "alias": "Mohammed Al-Jahani",
@@ -4786,7 +5317,8 @@
       "valor": 104,
       "inici": "1994",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-11"
     },
     "Jameel Al-Yahmadi": {
       "alias": "Jameel Al-Yahmadi",
@@ -4795,7 +5327,8 @@
       "valor": 104,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Henri Anier": {
       "alias": "Henri Anier",
@@ -4804,7 +5337,8 @@
       "valor": 104,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-09-09"
     },
     "Karim Ansarifard": {
       "alias": "Karim Ansarifard",
@@ -4813,7 +5347,8 @@
       "valor": 104,
       "inici": "2009",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-02-03"
     },
     "Gustavo Cabrera": {
       "alias": "Gustavo Cabrera",
@@ -4822,7 +5357,8 @@
       "valor": 104,
       "inici": "2000",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-04-25"
     },
     "Héctor Chumpitaz": {
       "alias": "Héctor Chumpitaz",
@@ -4831,7 +5367,8 @@
       "valor": 104,
       "inici": "1965",
       "final": "1981",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1981-09-06"
     },
     "Ben Davies": {
       "alias": "Ben Davies",
@@ -4840,7 +5377,8 @@
       "valor": 104,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Nader El-Sayed": {
       "alias": "Nader El-Sayed",
@@ -4849,7 +5387,8 @@
       "valor": 104,
       "inici": "1992",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-06-19"
     },
     "Radamel Falcao": {
       "alias": "Radamel Falcao",
@@ -4858,7 +5397,8 @@
       "valor": 104,
       "inici": "2007",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-03-28"
     },
     "Ahmed Khalil": {
       "alias": "Ahmed Khalil",
@@ -4867,7 +5407,8 @@
       "valor": 104,
       "inici": "2008",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-11-29"
     },
     "Adel Khamis": {
       "alias": "Adel Khamis",
@@ -4876,7 +5417,8 @@
       "valor": 104,
       "inici": "1985",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-03-10"
     },
     "Dirk Kuyt": {
       "alias": "Dirk Kuyt",
@@ -4885,7 +5427,8 @@
       "valor": 104,
       "inici": "2004",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-09-04"
     },
     "Wu Lei": {
       "alias": "Wu Lei",
@@ -4894,7 +5437,8 @@
       "valor": 104,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-09"
     },
     "Per Mertesacker": {
       "alias": "Per Mertesacker",
@@ -4903,7 +5447,8 @@
       "valor": 104,
       "inici": "2004",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-07-13"
     },
     "Sayed Mohamed Adnan": {
       "alias": "Sayed Mohamed Adnan",
@@ -4912,7 +5457,8 @@
       "valor": 104,
       "inici": "2004",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-11-15"
     },
     "Youssef Msakni": {
       "alias": "Youssef Msakni",
@@ -4921,7 +5467,8 @@
       "valor": 104,
       "inici": "2010",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-10-14"
     },
     "Simon Msuva": {
       "alias": "Simon Msuva",
@@ -4930,7 +5477,8 @@
       "valor": 104,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Erasto Nyoni": {
       "alias": "Erasto Nyoni",
@@ -4939,7 +5487,8 @@
       "valor": 104,
       "inici": "2006",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-11-14"
     },
     "Ioannis Okkas": {
       "alias": "Ioannis Okkas",
@@ -4948,7 +5497,8 @@
       "valor": 104,
       "inici": "1997",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-11"
     },
     "Ivica Olić": {
       "alias": "Ivica Olić",
@@ -4957,7 +5507,8 @@
       "valor": 104,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-10-13"
     },
     "Tarek Salman": {
       "alias": "Tarek Salman",
@@ -4966,7 +5517,8 @@
       "valor": 104,
       "inici": "2017",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-03"
     },
     "Martin Škrtel": {
       "alias": "Martin Škrtel",
@@ -4975,7 +5527,8 @@
       "valor": 104,
       "inici": "2004",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-10-13"
     },
     "Hwang Sun-hong": {
       "alias": "Hwang Sun-hong",
@@ -4984,7 +5537,8 @@
       "valor": 104,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-11-20"
     },
     "Thorbjørn Svenssen": {
       "alias": "Thorbjørn Svenssen",
@@ -4993,7 +5547,8 @@
       "valor": 104,
       "inici": "1947",
       "final": "1962",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1962-05-16"
     },
     "Aidil Zafuan": {
       "alias": "Aidil Zafuan",
@@ -5002,7 +5557,8 @@
       "valor": 104,
       "inici": "2007",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-03-26"
     },
     "Faouzi Aaish": {
       "alias": "Faouzi Aaish",
@@ -5011,7 +5567,8 @@
       "valor": 103,
       "inici": "2004",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-10-11"
     },
     "Andrei Agius": {
       "alias": "Andrei Agius",
@@ -5020,7 +5577,8 @@
       "valor": 103,
       "inici": "2006",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-03-25"
     },
     "Edson Álvarez": {
       "alias": "Edson Álvarez",
@@ -5029,7 +5587,8 @@
       "valor": 103,
       "inici": "2017",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-05"
     },
     "Charles Aránguiz": {
       "alias": "Charles Aránguiz",
@@ -5038,7 +5597,8 @@
       "valor": 103,
       "inici": "2009",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-03-25"
     },
     "Felipe Baloy": {
       "alias": "Felipe Baloy",
@@ -5047,7 +5607,8 @@
       "valor": 103,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-24"
     },
     "Franz Beckenbauer": {
       "alias": "Franz Beckenbauer",
@@ -5056,7 +5617,8 @@
       "valor": 103,
       "inici": "1965",
       "final": "1977",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1977-02-23"
     },
     "Fedor Černych": {
       "alias": "Fedor Černych",
@@ -5065,7 +5627,8 @@
       "valor": 103,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-11-17"
     },
     "Stéphane Chapuisat": {
       "alias": "Stéphane Chapuisat",
@@ -5074,7 +5637,8 @@
       "valor": 103,
       "inici": "1989",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-06-17"
     },
     "Vedran Ćorluka": {
       "alias": "Vedran Ćorluka",
@@ -5083,7 +5647,8 @@
       "valor": 103,
       "inici": "2006",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-11"
     },
     "Didier Deschamps": {
       "alias": "Didier Deschamps",
@@ -5092,7 +5657,8 @@
       "valor": 103,
       "inici": "1989",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-09-02"
     },
     "Kamil Glik": {
       "alias": "Kamil Glik",
@@ -5101,7 +5667,8 @@
       "valor": 103,
       "inici": "2010",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-12-04"
     },
     "Achraf Hakimi": {
       "alias": "Achraf Hakimi",
@@ -5110,7 +5677,8 @@
       "valor": 103,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Andi Herzog": {
       "alias": "Andi Herzog",
@@ -5119,7 +5687,8 @@
       "valor": 103,
       "inici": "1988",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-04-30"
     },
     "Elseid Hysaj": {
       "alias": "Elseid Hysaj",
@@ -5128,7 +5697,8 @@
       "valor": 103,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Anzur Ismailov": {
       "alias": "Anzur Ismailov",
@@ -5137,7 +5707,8 @@
       "valor": 103,
       "inici": "2007",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-09-05"
     },
     "Michael Laudrup": {
       "alias": "Michael Laudrup",
@@ -5146,7 +5717,8 @@
       "valor": 103,
       "inici": "1982",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-07-03"
     },
     "Ibrahim Majid": {
       "alias": "Ibrahim Majid",
@@ -5155,7 +5727,8 @@
       "valor": 103,
       "inici": "2007",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-06-13"
     },
     "James McClean": {
       "alias": "James McClean",
@@ -5164,7 +5737,8 @@
       "valor": 103,
       "inici": "2012",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-11-21"
     },
     "Ryan Mendes": {
       "alias": "Ryan Mendes",
@@ -5173,7 +5747,8 @@
       "valor": 103,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Emad Mohammed": {
       "alias": "Emad Mohammed",
@@ -5182,7 +5757,8 @@
       "valor": 103,
       "inici": "2001",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-05-28"
     },
     "Jaroslav Plašil": {
       "alias": "Jaroslav Plašil",
@@ -5191,7 +5767,8 @@
       "valor": 103,
       "inici": "2004",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-21"
     },
     "Ferjani Sassi": {
       "alias": "Ferjani Sassi",
@@ -5200,7 +5777,8 @@
       "valor": 103,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-28"
     },
     "Dejan Stanković": {
       "alias": "Dejan Stanković",
@@ -5209,7 +5787,8 @@
       "valor": 103,
       "inici": "1998",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-10-11"
     },
     "Elijah Tana": {
       "alias": "Elijah Tana",
@@ -5218,7 +5797,8 @@
       "valor": 103,
       "inici": "1995",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-01-27"
     },
     "Māris Verpakovskis": {
       "alias": "Māris Verpakovskis",
@@ -5227,7 +5807,8 @@
       "valor": 103,
       "inici": "1999",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-05-29"
     },
     "Indrek Zelinski": {
       "alias": "Indrek Zelinski",
@@ -5236,7 +5817,8 @@
       "valor": 103,
       "inici": "1994",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-05-21"
     },
     "Hosny Abd Rabo": {
       "alias": "Hosny Abd Rabo",
@@ -5245,7 +5827,8 @@
       "valor": 102,
       "inici": "2004",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-09-10"
     },
     "Ismail Al-Ajmi": {
       "alias": "Ismail Al-Ajmi",
@@ -5254,7 +5837,8 @@
       "valor": 102,
       "inici": "2003",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Abdulwahab Al-Safi": {
       "alias": "Abdulwahab Al-Safi",
@@ -5263,7 +5847,8 @@
       "valor": 102,
       "inici": "2009",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-01-22"
     },
     "Fahad Awadh": {
       "alias": "Fahad Awadh",
@@ -5272,7 +5857,8 @@
       "valor": 102,
       "inici": "2005",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-10-13"
     },
     "Warren Barrett": {
       "alias": "Warren Barrett",
@@ -5281,7 +5867,8 @@
       "valor": 102,
       "inici": "1990",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-02-14"
     },
     "Dusit Chalermsan": {
       "alias": "Dusit Chalermsan",
@@ -5290,7 +5877,8 @@
       "valor": 102,
       "inici": "1994",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-06-09"
     },
     "Kenny Dalglish": {
       "alias": "Kenny Dalglish",
@@ -5299,7 +5887,8 @@
       "valor": 102,
       "inici": "1971",
       "final": "1986",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1986-11-12"
     },
     "Jefferson Farfán": {
       "alias": "Jefferson Farfán",
@@ -5308,7 +5897,8 @@
       "valor": 102,
       "inici": "2003",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-11-16"
     },
     "Jóhann Berg Guðmundsson": {
       "alias": "Jóhann Berg Guðmundsson",
@@ -5317,7 +5907,8 @@
       "valor": 102,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-02-25"
     },
     "Park Ji-sung": {
       "alias": "Park Ji-sung",
@@ -5326,7 +5917,8 @@
       "valor": 102,
       "inici": "2000",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-01-25"
     },
     "Martin Jørgensen": {
       "alias": "Martin Jørgensen",
@@ -5335,7 +5927,8 @@
       "valor": 102,
       "inici": "1998",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-11-15"
     },
     "Charles Kaboré": {
       "alias": "Charles Kaboré",
@@ -5344,7 +5937,8 @@
       "valor": 102,
       "inici": "2006",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-05"
     },
     "Rainford Kalaba": {
       "alias": "Rainford Kalaba",
@@ -5353,7 +5947,8 @@
       "valor": 102,
       "inici": "2005",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-11-18"
     },
     "Joseph Kamwendo": {
       "alias": "Joseph Kamwendo",
@@ -5362,7 +5957,8 @@
       "valor": 102,
       "inici": "2003",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-04-29"
     },
     "Christopher Katongo": {
       "alias": "Christopher Katongo",
@@ -5371,7 +5967,8 @@
       "valor": 102,
       "inici": "2003",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-06-04"
     },
     "Kasey Keller": {
       "alias": "Kasey Keller",
@@ -5380,7 +5977,8 @@
       "valor": 102,
       "inici": "1990",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2007-07-02"
     },
     "Bülent Korkmaz": {
       "alias": "Bülent Korkmaz",
@@ -5389,7 +5987,8 @@
       "valor": 102,
       "inici": "1990",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-08-17"
     },
     "Savo Milošević": {
       "alias": "Savo Milošević",
@@ -5398,7 +5997,8 @@
       "valor": 102,
       "inici": "1994",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-11-19"
     },
     "Mario Mutsch": {
       "alias": "Mario Mutsch",
@@ -5407,7 +6007,8 @@
       "valor": 102,
       "inici": "2005",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-06-02"
     },
     "Mohamed Omar": {
       "alias": "Mohamed Omar",
@@ -5416,7 +6017,8 @@
       "valor": 102,
       "inici": "1996",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-01-28"
     },
     "Gerard Piqué": {
       "alias": "Gerard Piqué",
@@ -5425,7 +6027,8 @@
       "valor": 102,
       "inici": "2009",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-07-01"
     },
     "Andriy Pyatov": {
       "alias": "Andriy Pyatov",
@@ -5434,7 +6037,8 @@
       "valor": 102,
       "inici": "2007",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-06-11"
     },
     "Raúl": {
       "alias": "Raúl",
@@ -5443,7 +6047,8 @@
       "valor": 102,
       "inici": "1996",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-09-06"
     },
     "Marcel Sabitzer": {
       "alias": "Marcel Sabitzer",
@@ -5452,7 +6057,8 @@
       "valor": 102,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-02"
     },
     "Birkir Már Sævarsson": {
       "alias": "Birkir Már Sævarsson",
@@ -5461,7 +6067,8 @@
       "valor": 102,
       "inici": "2007",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-11-14"
     },
     "Moses Simon": {
       "alias": "Moses Simon",
@@ -5470,7 +6077,8 @@
       "valor": 102,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Steve Staunton": {
       "alias": "Steve Staunton",
@@ -5479,7 +6087,8 @@
       "valor": 102,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-16"
     },
     "Datsakorn Thonglao": {
       "alias": "Datsakorn Thonglao",
@@ -5488,7 +6097,8 @@
       "valor": 102,
       "inici": "2003",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-08"
     },
     "Yaya Touré": {
       "alias": "Yaya Touré",
@@ -5497,7 +6107,8 @@
       "valor": 102,
       "inici": "2004",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-03-29"
     },
     "Michael Umaña": {
       "alias": "Michael Umaña",
@@ -5506,7 +6117,8 @@
       "valor": 102,
       "inici": "2004",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-10"
     },
     "Robin van Persie": {
       "alias": "Robin van Persie",
@@ -5515,7 +6127,8 @@
       "valor": 102,
       "inici": "2005",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-08-31"
     },
     "Mario Yepes": {
       "alias": "Mario Yepes",
@@ -5524,7 +6137,8 @@
       "valor": 102,
       "inici": "1999",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-07-04"
     },
     "Cho Young-jeung": {
       "alias": "Cho Young-jeung",
@@ -5533,7 +6147,8 @@
       "valor": 102,
       "inici": "1975",
       "final": "1986",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1986-10-05"
     },
     "Michał Żewłakow": {
       "alias": "Michał Żewłakow",
@@ -5542,7 +6157,8 @@
       "valor": 102,
       "inici": "1999",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-03-29"
     },
     "Sergio Agüero": {
       "alias": "Sergio Agüero",
@@ -5551,7 +6167,8 @@
       "valor": 101,
       "inici": "2006",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-07-03"
     },
     "Leonel Álvarez": {
       "alias": "Leonel Álvarez",
@@ -5560,7 +6177,8 @@
       "valor": 101,
       "inici": "1985",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1997-09-07"
     },
     "Ali Ashfaq": {
       "alias": "Ali Ashfaq",
@@ -5569,7 +6187,8 @@
       "valor": 101,
       "inici": "2003",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-04"
     },
     "Emre Belözoğlu": {
       "alias": "Emre Belözoğlu",
@@ -5578,7 +6197,8 @@
       "valor": 101,
       "inici": "2000",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-10-11"
     },
     "Yossi Benayoun": {
       "alias": "Yossi Benayoun",
@@ -5587,7 +6207,8 @@
       "valor": 101,
       "inici": "1998",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-09"
     },
     "Vasiliy Berezutskiy": {
       "alias": "Vasiliy Berezutskiy",
@@ -5596,7 +6217,8 @@
       "valor": 101,
       "inici": "2003",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-10-09"
     },
     "Oleg Blokhin": {
       "alias": "Oleg Blokhin",
@@ -5605,7 +6227,8 @@
       "valor": 101,
       "inici": "1972",
       "final": "1988",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1988-09-21"
     },
     "László Bölöni": {
       "alias": "László Bölöni",
@@ -5614,7 +6237,8 @@
       "valor": 101,
       "inici": "1975",
       "final": "1988",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1988-06-01"
     },
     "Joe Brincat": {
       "alias": "Joe Brincat",
@@ -5623,7 +6247,8 @@
       "valor": 101,
       "inici": "1987",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-02-14"
     },
     "Boštjan Cesar": {
       "alias": "Boštjan Cesar",
@@ -5632,7 +6257,8 @@
       "valor": 101,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-27"
     },
     "Phillip Cocu": {
       "alias": "Phillip Cocu",
@@ -5641,7 +6267,8 @@
       "valor": 101,
       "inici": "1996",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-06-25"
     },
     "Daniel da Mota": {
       "alias": "Daniel da Mota",
@@ -5650,7 +6277,8 @@
       "valor": 101,
       "inici": "2007",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-06-06"
     },
     "Ulises de la Cruz": {
       "alias": "Ulises de la Cruz",
@@ -5659,7 +6287,8 @@
       "valor": 101,
       "inici": "1995",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-05-16"
     },
     "Vincent Enyeama": {
       "alias": "Vincent Enyeama",
@@ -5668,7 +6297,8 @@
       "valor": 101,
       "inici": "2002",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-06-13"
     },
     "José María Giménez": {
       "alias": "José María Giménez",
@@ -5677,7 +6307,8 @@
       "valor": 101,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Kamil Grosicki": {
       "alias": "Kamil Grosicki",
@@ -5686,7 +6317,8 @@
       "valor": 101,
       "inici": "2008",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2026-03-31"
     },
     "Thomas Häßler": {
       "alias": "Thomas Häßler",
@@ -5695,7 +6327,8 @@
       "valor": 101,
       "inici": "1988",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-06-20"
     },
     "Pierre-Emile Højbjerg": {
       "alias": "Pierre-Emile Højbjerg",
@@ -5704,7 +6337,8 @@
       "valor": 101,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Alex Iwobi": {
       "alias": "Alex Iwobi",
@@ -5713,7 +6347,8 @@
       "valor": 101,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Alireza Jahanbakhsh": {
       "alias": "Alireza Jahanbakhsh",
@@ -5722,7 +6357,8 @@
       "valor": 101,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-26"
     },
     "Mahboub Juma'a": {
       "alias": "Mahboub Juma'a",
@@ -5731,7 +6367,8 @@
       "valor": 101,
       "inici": "1976",
       "final": "1990",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1990-03-09"
     },
     "Jaba Kankava": {
       "alias": "Jaba Kankava",
@@ -5740,7 +6377,8 @@
       "valor": 101,
       "inici": "2004",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-03-21"
     },
     "Seydou Keita": {
       "alias": "Seydou Keita",
@@ -5749,7 +6387,8 @@
       "valor": 101,
       "inici": "1998",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-01-28"
     },
     "Levan Kobiashvili": {
       "alias": "Levan Kobiashvili",
@@ -5758,7 +6397,8 @@
       "valor": 101,
       "inici": "1996",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-11"
     },
     "Alyaksandr Kulchy": {
       "alias": "Alyaksandr Kulchy",
@@ -5767,7 +6407,8 @@
       "valor": 101,
       "inici": "1996",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-09-11"
     },
     "Saulius Mikoliūnas": {
       "alias": "Saulius Mikoliūnas",
@@ -5776,7 +6417,8 @@
       "valor": 101,
       "inici": "2004",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-11-16"
     },
     "Mohammed Rabia": {
       "alias": "Mohammed Rabia",
@@ -5785,7 +6427,8 @@
       "valor": 101,
       "inici": "1998",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-07-09"
     },
     "Ronald Raldes": {
       "alias": "Ronald Raldes",
@@ -5794,7 +6437,8 @@
       "valor": 101,
       "inici": "2001",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-06-09"
     },
     "Cristian Riveros": {
       "alias": "Cristian Riveros",
@@ -5803,7 +6447,8 @@
       "valor": 101,
       "inici": "2005",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-27"
     },
     "Andy Robertson": {
       "alias": "Andy Robertson",
@@ -5812,7 +6457,8 @@
       "valor": 101,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Thomas Sørensen": {
       "alias": "Thomas Sørensen",
@@ -5821,7 +6467,8 @@
       "valor": 101,
       "inici": "1999",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-05-26"
     },
     "Earnie Stewart": {
       "alias": "Earnie Stewart",
@@ -5830,7 +6477,8 @@
       "valor": 101,
       "inici": "1990",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-08-18"
     },
     "Park Sung-hwa": {
       "alias": "Park Sung-hwa",
@@ -5839,7 +6487,8 @@
       "valor": 101,
       "inici": "1975",
       "final": "1984",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1984-12-10"
     },
     "Cláudio Taffarel": {
       "alias": "Cláudio Taffarel",
@@ -5848,7 +6497,8 @@
       "valor": 101,
       "inici": "1988",
       "final": "1998",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1998-07-12"
     },
     "Andranik Teymourian": {
       "alias": "Andranik Teymourian",
@@ -5857,7 +6507,8 @@
       "valor": 101,
       "inici": "2005",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2016-10-11"
     },
     "Jane Thabantso": {
       "alias": "Jane Thabantso",
@@ -5866,7 +6517,8 @@
       "valor": 101,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-29"
     },
     "Vasilis Torosidis": {
       "alias": "Vasilis Torosidis",
@@ -5875,7 +6527,8 @@
       "valor": 101,
       "inici": "2007",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-09-05"
     },
     "Joseph Yobo": {
       "alias": "Joseph Yobo",
@@ -5884,7 +6537,8 @@
       "valor": 101,
       "inici": "2001",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-06-30"
     },
     "Mohamed Aboutrika": {
       "alias": "Mohamed Aboutrika",
@@ -5893,7 +6547,8 @@
       "valor": 100,
       "inici": "2001",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-11-19"
     },
     "Roberto Acuña": {
       "alias": "Roberto Acuña",
@@ -5902,7 +6557,8 @@
       "valor": 100,
       "inici": "1993",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-06-11"
     },
     "Hani Al-Dhabit": {
       "alias": "Hani Al-Dhabit",
@@ -5911,7 +6567,8 @@
       "valor": 100,
       "inici": "1997",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2014-11-14"
     },
     "Abdulaziz Al-Muqbali": {
       "alias": "Abdulaziz Al-Muqbali",
@@ -5920,7 +6577,8 @@
       "valor": 100,
       "inici": "2011",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-10-12"
     },
     "Juan Barrera": {
       "alias": "Juan Barrera",
@@ -5929,7 +6587,8 @@
       "valor": 100,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-27"
     },
     "Angelos Basinas": {
       "alias": "Angelos Basinas",
@@ -5938,7 +6597,8 @@
       "valor": 100,
       "inici": "1999",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2009-04-01"
     },
     "Henning Berg": {
       "alias": "Henning Berg",
@@ -5947,7 +6607,8 @@
       "valor": 100,
       "inici": "1992",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-05-27"
     },
     "Roderick Briffa": {
       "alias": "Roderick Briffa",
@@ -5956,7 +6617,8 @@
       "valor": 100,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-11-17"
     },
     "Denis Caniza": {
       "alias": "Denis Caniza",
@@ -5965,7 +6627,8 @@
       "valor": 100,
       "inici": "1996",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-09-07"
     },
     "Luis Capurro": {
       "alias": "Luis Capurro",
@@ -5974,7 +6637,8 @@
       "valor": 100,
       "inici": "1985",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2003-02-09"
     },
     "Rohit Chand": {
       "alias": "Rohit Chand",
@@ -5983,7 +6647,8 @@
       "valor": 100,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-03-31"
     },
     "Christian Cueva": {
       "alias": "Christian Cueva",
@@ -5992,7 +6657,8 @@
       "valor": 100,
       "inici": "2011",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2024-06-29"
     },
     "Aleksandar Dragović": {
       "alias": "Aleksandar Dragović",
@@ -6001,7 +6667,8 @@
       "valor": 100,
       "inici": "2009",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2022-03-29"
     },
     "Damien Duff": {
       "alias": "Damien Duff",
@@ -6010,7 +6677,8 @@
       "valor": 100,
       "inici": "1998",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-06-18"
     },
     "Jóan Símun Edmundsson": {
       "alias": "Jóan Símun Edmundsson",
@@ -6019,7 +6687,8 @@
       "valor": 100,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-11-18"
     },
     "Alexandru Epureanu": {
       "alias": "Alexandru Epureanu",
@@ -6028,7 +6697,8 @@
       "valor": 100,
       "inici": "2006",
       "final": "2021",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2021-03-31"
     },
     "Fidel Escobar": {
       "alias": "Fidel Escobar",
@@ -6037,7 +6707,8 @@
       "valor": 100,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-06-27"
     },
     "Lars Gerson": {
       "alias": "Lars Gerson",
@@ -6046,7 +6717,8 @@
       "valor": 100,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-06-10"
     },
     "Aymen Hussein": {
       "alias": "Aymen Hussein",
@@ -6055,7 +6727,8 @@
       "valor": 100,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-09-29"
     },
     "Bojan Jokić": {
       "alias": "Bojan Jokić",
@@ -6064,7 +6737,8 @@
       "valor": 100,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2019-11-16"
     },
     "Ulf Kirsten": {
       "alias": "Ulf Kirsten",
@@ -6073,7 +6747,8 @@
       "valor": 100,
       "inici": "1985",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2000-06-20"
     },
     "Rúnar Kristinsson": {
       "alias": "Rúnar Kristinsson",
@@ -6082,7 +6757,8 @@
       "valor": 100,
       "inici": "1987",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-08-18"
     },
     "Grzegorz Krychowiak": {
       "alias": "Grzegorz Krychowiak",
@@ -6091,7 +6767,8 @@
       "valor": 100,
       "inici": "2008",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2023-09-10"
     },
     "Tony Meola": {
       "alias": "Tony Meola",
@@ -6100,7 +6777,8 @@
       "valor": 100,
       "inici": "1988",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2006-04-11"
     },
     "Joe-Max Moore": {
       "alias": "Joe-Max Moore",
@@ -6109,7 +6787,8 @@
       "valor": 100,
       "inici": "1992",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2002-06-14"
     },
     "Peter Mponda": {
       "alias": "Peter Mponda",
@@ -6118,7 +6797,8 @@
       "valor": 100,
       "inici": "1998",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-10-08"
     },
     "Michael Amir Murillo": {
       "alias": "Michael Amir Murillo",
@@ -6127,7 +6807,8 @@
       "valor": 100,
       "inici": "2016",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-05"
     },
     "Haitham Mustafa": {
       "alias": "Haitham Mustafa",
@@ -6136,7 +6817,8 @@
       "valor": 100,
       "inici": "1998",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2012-10-14"
     },
     "Nazri Nasir": {
       "alias": "Nazri Nasir",
@@ -6145,7 +6827,8 @@
       "valor": 100,
       "inici": "1990",
       "final": "2004",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2004-07-12"
     },
     "Carlos Pavón": {
       "alias": "Carlos Pavón",
@@ -6154,7 +6837,8 @@
       "valor": 100,
       "inici": "1993",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-06-16"
     },
     "Carles Puyol": {
       "alias": "Carles Puyol",
@@ -6163,7 +6847,8 @@
       "valor": 100,
       "inici": "2000",
       "final": "2013",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2013-02-06"
     },
     "Robinho": {
       "alias": "Robinho",
@@ -6172,7 +6857,8 @@
       "valor": 100,
       "inici": "2003",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-01-26"
     },
     "Ruslan Rotan": {
       "alias": "Ruslan Rotan",
@@ -6181,7 +6867,8 @@
       "valor": 100,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-27"
     },
     "Noor Sabri": {
       "alias": "Noor Sabri",
@@ -6190,7 +6877,8 @@
       "valor": 100,
       "inici": "2002",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2018-03-27"
     },
     "Goce Sedloski": {
       "alias": "Goce Sedloski",
@@ -6199,7 +6887,8 @@
       "valor": 100,
       "inici": "1996",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2010-05-29"
     },
     "Dario Šimić": {
       "alias": "Dario Šimić",
@@ -6208,7 +6897,8 @@
       "valor": 100,
       "inici": "1996",
       "final": "2008",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2008-08-20"
     },
     "Santokh Singh": {
       "alias": "Santokh Singh",
@@ -6217,7 +6907,8 @@
       "valor": 100,
       "inici": "1973",
       "final": "1984",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "1984-04-08"
     },
     "Jorge Soto": {
       "alias": "Jorge Soto",
@@ -6226,7 +6917,8 @@
       "valor": 100,
       "inici": "1992",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2005-10-12"
     },
     "Igors Stepanovs": {
       "alias": "Igors Stepanovs",
@@ -6235,7 +6927,8 @@
       "valor": 100,
       "inici": "1995",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2011-08-10"
     },
     "Taijo Teniste": {
       "alias": "Taijo Teniste",
@@ -6244,7 +6937,8 @@
       "valor": 100,
       "inici": "2007",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2025-09-09"
     },
     "Siaka Tiéné": {
       "alias": "Siaka Tiéné",
@@ -6253,7 +6947,8 @@
       "valor": 100,
       "inici": "2000",
       "final": "2015",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2015-06-14"
     },
     "Trézéguet": {
       "alias": "Trézéguet",
@@ -6262,7 +6957,8 @@
       "valor": 100,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-07-07"
     },
     "Arda Turan": {
       "alias": "Arda Turan",
@@ -6271,16 +6967,18 @@
       "valor": 100,
       "inici": "2006",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "ultim_partit": "2017-10-06"
     },
-    "Virgil Van Dijk": {
-      "alias": "Virgil Van Dijk",
+    "Virgil van Dijk": {
+      "alias": "Virgil van Dijk",
       "pais": "Netherlands",
       "confederacio": "UEFA",
       "valor": 100,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2026-10-04"
     },
     "Matteo Vitaioli": {
       "alias": "Matteo Vitaioli",
@@ -6289,7 +6987,8 @@
       "valor": 100,
       "inici": "2007",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "ultim_partit": "2025-11-18"
     }
   },
   "Gols": {
@@ -6300,7 +6999,8 @@
       "valor": 146,
       "inici": "2003",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2014-06-26"
     },
     "Lionel Messi": {
       "alias": "Lionel Messi",
@@ -6309,7 +7009,8 @@
       "valor": 126,
       "inici": "2005",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2016-03-29"
     },
     "Ali Daei": {
       "alias": "Ali Daei",
@@ -6318,7 +7019,8 @@
       "valor": 108,
       "inici": "1993",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2000-01-09"
     },
     "Sunil Chhetri": {
       "alias": "Sunil Chhetri",
@@ -6327,7 +7029,8 @@
       "valor": 95,
       "inici": "2005",
       "final": "2025",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2015-12-31"
     },
     "Romelu Lukaku": {
       "alias": "Romelu Lukaku",
@@ -6336,7 +7039,8 @@
       "valor": 94,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2019-10-10"
     },
     "Robert Lewandowski": {
       "alias": "Robert Lewandowski",
@@ -6345,7 +7049,8 @@
       "valor": 92,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2017-10-05"
     },
     "Harry Kane": {
       "alias": "Harry Kane",
@@ -6354,7 +7059,8 @@
       "valor": 91,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2022-06-07"
     },
     "Mokhtar Dahari": {
       "alias": "Mokhtar Dahari",
@@ -6363,7 +7069,8 @@
       "valor": 89,
       "inici": "1972",
       "final": "1985",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1976-08-22"
     },
     "Ali Mabkhout": {
       "alias": "Ali Mabkhout",
@@ -6372,7 +7079,8 @@
       "valor": 85,
       "inici": "2009",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2019-08-31"
     },
     "Ferenc Puskás": {
       "alias": "Ferenc Puskás",
@@ -6381,7 +7089,8 @@
       "valor": 84,
       "inici": "1945",
       "final": "1962",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1952-07-24"
     },
     "Neymar": {
       "alias": "Neymar",
@@ -6390,7 +7099,8 @@
       "valor": 80,
       "inici": "2010",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2016-11-11"
     },
     "Godfrey Chitalu": {
       "alias": "Godfrey Chitalu",
@@ -6399,7 +7109,8 @@
       "valor": 79,
       "inici": "1968",
       "final": "1980",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1978-11-07"
     },
     "Hussein Saeed": {
       "alias": "Hussein Saeed",
@@ -6408,7 +7119,8 @@
       "valor": 78,
       "inici": "1977",
       "final": "1990",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1984-03-17"
     },
     "Pelé": {
       "alias": "Pelé",
@@ -6417,7 +7129,8 @@
       "valor": 77,
       "inici": "1957",
       "final": "1971",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1965-07-04"
     },
     "Vivian Woodward": {
       "alias": "Vivian Woodward",
@@ -6426,7 +7139,8 @@
       "valor": 75,
       "inici": "1903",
       "final": "1914",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1909-05-31"
     },
     "Sándor Kocsis": {
       "alias": "Sándor Kocsis",
@@ -6435,7 +7149,8 @@
       "valor": 75,
       "inici": "1948",
       "final": "1956",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1954-09-19"
     },
     "Kunishige Kamamoto": {
       "alias": "Kunishige Kamamoto",
@@ -6444,7 +7159,8 @@
       "valor": 75,
       "inici": "1964",
       "final": "1977",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1972-07-18"
     },
     "Bashar Abdullah": {
       "alias": "Bashar Abdullah",
@@ -6453,7 +7169,8 @@
       "valor": 75,
       "inici": "1996",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2002-12-25"
     },
     "Edin Džeko": {
       "alias": "Edin Džeko",
@@ -6462,7 +7179,8 @@
       "valor": 73,
       "inici": "2007",
       "final": "2026",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2017-03-28"
     },
     "Majed Abdullah": {
       "alias": "Majed Abdullah",
@@ -6471,7 +7189,8 @@
       "valor": 72,
       "inici": "1977",
       "final": "1994",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1984-04-15"
     },
     "Kinnah Phiri": {
       "alias": "Kinnah Phiri",
@@ -6480,7 +7199,8 @@
       "valor": 71,
       "inici": "1973",
       "final": "1981",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1978-07-06"
     },
     "Kiatisuk Senamuang": {
       "alias": "Kiatisuk Senamuang",
@@ -6489,7 +7209,8 @@
       "valor": 71,
       "inici": "1993",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2001-01-23"
     },
     "Miroslav Klose": {
       "alias": "Miroslav Klose",
@@ -6498,7 +7219,8 @@
       "valor": 71,
       "inici": "2001",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2010-06-27"
     },
     "Piyapong Pue-on": {
       "alias": "Piyapong Pue-on",
@@ -6507,7 +7229,8 @@
       "valor": 70,
       "inici": "1981",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1989-01-30"
     },
     "Abdul Kadir": {
       "alias": "Abdul Kadir",
@@ -6516,7 +7239,8 @@
       "valor": 70,
       "inici": "1967",
       "final": "1979",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1972-08-08"
     },
     "Stern John": {
       "alias": "Stern John",
@@ -6525,7 +7249,8 @@
       "valor": 70,
       "inici": "1995",
       "final": "2012",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2004-06-13"
     },
     "Luis Suárez": {
       "alias": "Luis Suárez",
@@ -6534,7 +7259,8 @@
       "valor": 69,
       "inici": "2007",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2018-03-23"
     },
     "Hossam Hassan": {
       "alias": "Hossam Hassan",
@@ -6543,7 +7269,8 @@
       "valor": 69,
       "inici": "1985",
       "final": "2006",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1998-02-25"
     },
     "Gerd Müller": {
       "alias": "Gerd Müller",
@@ -6552,7 +7279,8 @@
       "valor": 68,
       "inici": "1966",
       "final": "1974",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1972-06-18"
     },
     "Mohamed Salah": {
       "alias": "Mohamed Salah",
@@ -6561,7 +7289,8 @@
       "valor": 68,
       "inici": "2011",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2023-03-24"
     },
     "Carlos Ruiz": {
       "alias": "Carlos Ruiz",
@@ -6570,7 +7299,8 @@
       "valor": 68,
       "inici": "1998",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2012-08-15"
     },
     "Robbie Keane": {
       "alias": "Robbie Keane",
@@ -6579,7 +7309,8 @@
       "valor": 68,
       "inici": "1998",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2011-06-04"
     },
     "Kylian Mbappé": {
       "alias": "Kylian Mbappé",
@@ -6588,7 +7319,8 @@
       "valor": 67,
       "inici": "2017",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2025-06-08"
     },
     "Erling Haaland": {
       "alias": "Erling Haaland",
@@ -6597,7 +7329,8 @@
       "valor": 65,
       "inici": "2019",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2025-10-11"
     },
     "Didier Drogba": {
       "alias": "Didier Drogba",
@@ -6606,7 +7339,8 @@
       "valor": 65,
       "inici": "2002",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2012-01-13"
     },
     "Aleksandar Mitrović": {
       "alias": "Aleksandar Mitrović",
@@ -6615,7 +7349,8 @@
       "valor": 64,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2022-09-27"
     },
     "Teerasil Dangda": {
       "alias": "Teerasil Dangda",
@@ -6624,7 +7359,8 @@
       "valor": 64,
       "inici": "2007",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2021-12-14"
     },
     "Jasem Al-Huwaidi": {
       "alias": "Jasem Al-Huwaidi",
@@ -6633,7 +7369,8 @@
       "valor": 63,
       "inici": "1992",
       "final": "2003",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2000-09-30"
     },
     "Ronaldo": {
       "alias": "Ronaldo",
@@ -6642,7 +7379,8 @@
       "valor": 62,
       "inici": "1994",
       "final": "2011",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2003-11-19"
     },
     "Ahmed Radhi": {
       "alias": "Ahmed Radhi",
@@ -6651,7 +7389,8 @@
       "valor": 62,
       "inici": "1982",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1992-08-18"
     },
     "Zlatan Ibrahimović": {
       "alias": "Zlatan Ibrahimović",
@@ -6660,7 +7399,8 @@
       "valor": 62,
       "inici": "2001",
       "final": "2023",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2014-09-04"
     },
     "Abdul Ghani Minhat": {
       "alias": "Abdul Ghani Minhat",
@@ -6669,7 +7409,8 @@
       "valor": 61,
       "inici": "1956",
       "final": "1966",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1961-12-15"
     },
     "Almoez Ali": {
       "alias": "Almoez Ali",
@@ -6678,7 +7419,8 @@
       "valor": 61,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2023-12-31"
     },
     "Mehdi Taremi": {
       "alias": "Mehdi Taremi",
@@ -6687,7 +7429,8 @@
       "valor": 60,
       "inici": "2015",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2024-06-06"
     },
     "Yousef Nasser": {
       "alias": "Yousef Nasser",
@@ -6696,7 +7439,8 @@
       "valor": 60,
       "inici": "2009",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2024-09-05"
     },
     "Imre Schlosser": {
       "alias": "Imre Schlosser",
@@ -6705,7 +7449,8 @@
       "valor": 59,
       "inici": "1906",
       "final": "1927",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1917-06-03"
     },
     "David Villa": {
       "alias": "David Villa",
@@ -6714,7 +7459,8 @@
       "valor": 59,
       "inici": "2005",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2011-10-11"
     },
     "Son Heung-min": {
       "alias": "Son Heung-min",
@@ -6723,7 +7469,8 @@
       "valor": 59,
       "inici": "2010",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2024-11-14"
     },
     "Ali Ashfaq": {
       "alias": "Ali Ashfaq",
@@ -6732,7 +7479,8 @@
       "valor": 58,
       "inici": "2003",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2016-03-29"
     },
     "Cha Bum-kun": {
       "alias": "Cha Bum-kun",
@@ -6741,7 +7489,8 @@
       "valor": 58,
       "inici": "1972",
       "final": "1986",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1977-09-05"
     },
     "Edinson Cavani": {
       "alias": "Edinson Cavani",
@@ -6750,7 +7499,8 @@
       "valor": 58,
       "inici": "2008",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2019-11-18"
     },
     "Sardar Azmoun": {
       "alias": "Sardar Azmoun",
@@ -6759,7 +7509,8 @@
       "valor": 57,
       "inici": "2014",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2024-01-14"
     },
     "Carlos Pavón": {
       "alias": "Carlos Pavón",
@@ -6768,7 +7519,8 @@
       "valor": 57,
       "inici": "1993",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2009-03-28"
     },
     "Olivier Giroud": {
       "alias": "Olivier Giroud",
@@ -6777,7 +7529,8 @@
       "valor": 57,
       "inici": "2011",
       "final": "2024",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2022-11-22"
     },
     "Clint Dempsey": {
       "alias": "Clint Dempsey",
@@ -6786,7 +7539,8 @@
       "valor": 57,
       "inici": "2004",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2016-06-07"
     },
     "Younis Mahmoud": {
       "alias": "Younis Mahmoud",
@@ -6795,7 +7549,8 @@
       "valor": 57,
       "inici": "2002",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2014-03-05"
     },
     "Landon Donovan": {
       "alias": "Landon Donovan",
@@ -6804,7 +7559,8 @@
       "valor": 57,
       "inici": "2000",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2013-07-05"
     },
     "Gabriel Batistuta": {
       "alias": "Gabriel Batistuta",
@@ -6813,7 +7569,8 @@
       "valor": 56,
       "inici": "1991",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2000-06-29"
     },
     "Samuel Eto'o": {
       "alias": "Samuel Eto'o",
@@ -6822,7 +7579,8 @@
       "valor": 56,
       "inici": "1997",
       "final": "2014",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2011-09-03"
     },
     "Bader Al-Mutawa": {
       "alias": "Bader Al-Mutawa",
@@ -6831,7 +7589,8 @@
       "valor": 56,
       "inici": "2003",
       "final": "2022",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2015-09-03"
     },
     "Romário": {
       "alias": "Romário",
@@ -6840,7 +7599,8 @@
       "valor": 55,
       "inici": "1987",
       "final": "2005",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2000-10-08"
     },
     "Kazuyoshi Miura": {
       "alias": "Kazuyoshi Miura",
@@ -6849,7 +7609,8 @@
       "valor": 55,
       "inici": "1990",
       "final": "2000",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1997-09-07"
     },
     "Jan Koller": {
       "alias": "Jan Koller",
@@ -6858,7 +7619,8 @@
       "valor": 55,
       "inici": "1999",
       "final": "2009",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2007-09-08"
     },
     "Iswadi Idris": {
       "alias": "Iswadi Idris",
@@ -6867,7 +7629,8 @@
       "valor": 55,
       "inici": "1968",
       "final": "1980",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1977-11-19"
     },
     "Fandi Ahmad": {
       "alias": "Fandi Ahmad",
@@ -6876,7 +7639,8 @@
       "valor": 55,
       "inici": "1979",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1995-12-16"
     },
     "Joachim Streich": {
       "alias": "Joachim Streich",
@@ -6885,7 +7649,8 @@
       "valor": 55,
       "inici": "1969",
       "final": "1984",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1983-07-26"
     },
     "Memphis Depay": {
       "alias": "Memphis Depay",
@@ -6894,7 +7659,8 @@
       "valor": 55,
       "inici": "2013",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2025-06-10"
     },
     "Sadio Mané": {
       "alias": "Sadio Mané",
@@ -6903,7 +7669,8 @@
       "valor": 55,
       "inici": "2012",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2025-11-18"
     },
     "Wayne Rooney": {
       "alias": "Wayne Rooney",
@@ -6912,7 +7679,8 @@
       "valor": 53,
       "inici": "2003",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2015-09-08"
     },
     "Poul Nielsen": {
       "alias": "Poul Nielsen",
@@ -6921,7 +7689,8 @@
       "valor": 52,
       "inici": "1910",
       "final": "1925",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1925-06-14"
     },
     "Phil Younghusband": {
       "alias": "Phil Younghusband",
@@ -6930,7 +7699,8 @@
       "valor": 52,
       "inici": "2006",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2018-03-22"
     },
     "Javier Hernández": {
       "alias": "Javier Hernández",
@@ -6939,7 +7709,8 @@
       "valor": 52,
       "inici": "2009",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2018-06-23"
     },
     "Jon Dahl Tomasson": {
       "alias": "Jon Dahl Tomasson",
@@ -6948,7 +7719,8 @@
       "valor": 52,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2007-11-21"
     },
     "Adnan Al Talyani": {
       "alias": "Adnan Al Talyani",
@@ -6957,7 +7729,8 @@
       "valor": 52,
       "inici": "1983",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1996-11-19"
     },
     "Lajos Tichy": {
       "alias": "Lajos Tichy",
@@ -6966,7 +7739,8 @@
       "valor": 51,
       "inici": "1955",
       "final": "1971",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1964-04-25"
     },
     "Lê Công Vinh": {
       "alias": "Lê Công Vinh",
@@ -6975,7 +7749,8 @@
       "valor": 51,
       "inici": "2004",
       "final": "2016",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2016-11-20"
     },
     "Asamoah Gyan": {
       "alias": "Asamoah Gyan",
@@ -6984,7 +7759,8 @@
       "valor": 51,
       "inici": "2003",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2017-06-11"
     },
     "Hakan Şükür": {
       "alias": "Hakan Şükür",
@@ -6993,7 +7769,8 @@
       "valor": 51,
       "inici": "1992",
       "final": "2007",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2006-10-11"
     },
     "Thierry Henry": {
       "alias": "Thierry Henry",
@@ -7002,7 +7779,8 @@
       "valor": 51,
       "inici": "1997",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2009-09-09"
     },
     "Alexis Sánchez": {
       "alias": "Alexis Sánchez",
@@ -7011,7 +7789,8 @@
       "valor": 51,
       "inici": "2006",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2022-09-27"
     },
     "Karim Bagheri": {
       "alias": "Karim Bagheri",
@@ -7020,7 +7799,8 @@
       "valor": 50,
       "inici": "1993",
       "final": "2010",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2009-01-09"
     },
     "Robin van Persie": {
       "alias": "Robin van Persie",
@@ -7029,7 +7809,8 @@
       "valor": 50,
       "inici": "2005",
       "final": "2017",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2015-10-13"
     },
     "Hwang Sun-hong": {
       "alias": "Hwang Sun-hong",
@@ -7038,7 +7819,8 @@
       "valor": 50,
       "inici": "1988",
       "final": "2002",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2002-06-04"
     },
     "Tim Cahill": {
       "alias": "Tim Cahill",
@@ -7047,7 +7829,8 @@
       "valor": 50,
       "inici": "2004",
       "final": "2018",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2017-10-10"
     },
     "Shinji Okazaki": {
       "alias": "Shinji Okazaki",
@@ -7056,7 +7839,8 @@
       "valor": 50,
       "inici": "2008",
       "final": "2019",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "2017-03-28"
     },
     "Salomón Rondón": {
       "alias": "Salomón Rondón",
@@ -7065,7 +7849,8 @@
       "valor": 50,
       "inici": "2008",
       "final": "2026",
-      "actiu": true
+      "actiu": true,
+      "data_50e_gol": "2026-03-27"
     },
     "Zainal Abidin Hassan": {
       "alias": "Zainal Abidin Hassan",
@@ -7074,7 +7859,8 @@
       "valor": 50,
       "inici": "1980",
       "final": "1997",
-      "actiu": false
+      "actiu": false,
+      "data_50e_gol": "1997-03-31"
     }
   }
 }

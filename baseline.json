@@ -7,7 +7,7 @@
       "valor": 234,
       "inici": "2003",
       "final": "2026",
-      "actiu": true,
+      "actiu": false,
       "ultim_partit": "2026-09-24"
     },
     "Lionel Messi": {
@@ -420,16 +420,6 @@
       "actiu": false,
       "ultim_partit": "2026-06-24"
     },
-    "Son Heung-min": {
-      "alias": "Son Heung-min",
-      "pais": "South Korea",
-      "confederacio": "AFC",
-      "valor": 153,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-06"
-    },
     "Fawzi Bashir": {
       "alias": "Fawzi Bashir",
       "pais": "Oman",
@@ -489,6 +479,16 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2026-06-06"
+    },
+    "Son Heung-min": {
+      "alias": "Son Heung-min",
+      "pais": "South Korea",
+      "confederacio": "AFC",
+      "valor": 151,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-10-06"
     },
     "Claudio Bravo": {
       "alias": "Claudio Bravo",
@@ -677,7 +677,7 @@
       "valor": 146,
       "inici": "2008",
       "final": "2026",
-      "actiu": true,
+      "actiu": false,
       "ultim_partit": "2026-06-25"
     },
     "Anders Svensson": {
@@ -5907,7 +5907,7 @@
       "valor": 102,
       "inici": "2008",
       "final": "2026",
-      "actiu": true,
+      "actiu": false,
       "ultim_partit": "2026-02-25"
     },
     "Park Ji-sung": {
@@ -6999,7 +6999,7 @@
       "valor": 146,
       "inici": "2003",
       "final": "2026",
-      "actiu": true,
+      "actiu": false,
       "data_50e_gol": "2014-06-26"
     },
     "Lionel Messi": {

@@ -8254,34 +8254,6 @@
       "collage": "collages\\700e003a-b07e-4cb4-9e47-a6cbc15a9814.webp"
     },
     {
-      "id": "af5570b1-a336-44e1-9378-af26e7f3d94d",
-      "text": "Keylor Navas surpasses Luis Marín as 5th Costa Rica, 28th CONCACAF, 186th global player with 127 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Keylor Navas",
-        "pais": "Costa Rica",
-        "confederacio": "CONCACAF",
-        "valor": 127,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Luis Marín",
-                "pais": "Costa Rica"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 5,
-        "rank_confederacio": 28,
-        "rank_global": 186,
-        "ambit": "compatriota"
-      },
-      "ts": 1791161463.371385,
-      "collage": "collages\\af5570b1-a336-44e1-9378-af26e7f3d94d.webp"
-    },
-    {
       "id": "6b5a5a1e-2b81-4ff6-884b-1554bff96e78",
       "text": "Francisco Calvo (7th Costa Rica) surpasses Yénier Márquez as 45th CONCACAF, 347th global player with 113 international caps.",
       "dades": {
@@ -9873,7 +9845,7 @@
         "alias": "Keylor Navas",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 127,
+        "valor": 126,
         "inici": "2008",
         "final": "2025",
         "actiu": false
@@ -9999,5 +9971,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-10-08"
+  "ultima_conciliacio": "2026-11-08"
 }

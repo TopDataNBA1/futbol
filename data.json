@@ -9361,6 +9361,34 @@
       },
       "ts": 1794505402.037726,
       "collage": "collages\\43cbba48-4619-4573-a020-2af836de3740.webp"
+    },
+    {
+      "id": "b58ad34a-1a02-4d0e-bbf0-579953cac292",
+      "text": "Kevin De Bruyne surpasses Toby Alderweireld as 4th Belgium, 60th UEFA, 183rd global player with 128 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 128,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 60,
+        "rank_global": 183,
+        "ambit": "compatriota"
+      },
+      "ts": 1794505812.417294,
+      "collage": "collages\\b58ad34a-1a02-4d0e-bbf0-579953cac292.webp"
     }
   ],
   "baseline": {
@@ -9648,7 +9676,7 @@
         "alias": "Kevin De Bruyne",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 127,
+        "valor": 128,
         "inici": "2010",
         "final": "2026",
         "actiu": true

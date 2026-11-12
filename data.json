@@ -9733,6 +9733,95 @@
       },
       "ts": 1794515658.062605,
       "collage": "collages\\f64ccd6f-f1e8-4bfb-9a7e-c54fa1fde496.webp"
+    },
+    {
+      "id": "d919f28b-95fa-4deb-afad-c8c76aebb7d7",
+      "text": "Harry Kane surpasses Peter Shilton as 1st England, 68th UEFA, 199th global player with 126 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 126,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Peter Shilton",
+                "pais": "England"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 68,
+        "rank_global": 199,
+        "ambit": "compatriota"
+      },
+      "ts": 1794515714.162921,
+      "collage": "collages\\d919f28b-95fa-4deb-afad-c8c76aebb7d7.webp"
+    },
+    {
+      "id": "d16ffa7b-f403-41f8-969b-96d454cefff9",
+      "text": "Mateo Kovačić (4th Croatia) surpasses Mart Poom, Gilbert Agius, Rüştü Reçber, Wayne Rooney and Kasper Schmeichel and reaches Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci as 84th UEFA, 246th global player with 121 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 121,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mart Poom",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Gilbert Agius",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Rüştü Reçber",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Wayne Rooney",
+                "pais": "England"
+              },
+              {
+                "nom": "Kasper Schmeichel",
+                "pais": "Denmark"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Schmeichel",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Bastian Schweinsteiger",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Leonardo Bonucci",
+                "pais": "Italy"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 84,
+        "rank_global": 246,
+        "ambit": "confederacio"
+      },
+      "ts": 1794515714.448817,
+      "collage": "collages\\d16ffa7b-f403-41f8-969b-96d454cefff9.webp"
     }
   ],
   "baseline": {
@@ -10164,7 +10253,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 125,
+        "valor": 126,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -10173,7 +10262,7 @@
         "alias": "Mateo Kovačić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 120,
+        "valor": 121,
         "inici": "2013",
         "final": "2026",
         "actiu": true

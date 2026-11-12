@@ -24,11 +24,11 @@
       "alias": "Luka Modrić",
       "pais": "Croatia",
       "confederacio": "UEFA",
-      "valor": 206,
+      "valor": 207,
       "inici": "2006",
       "final": "2026",
       "actiu": true,
-      "ultim_partit": "2026-10-06"
+      "ultim_partit": "2026-11-12"
     },
     "Bader Al-Mutawa": {
       "alias": "Bader Al-Mutawa",
@@ -1830,6 +1830,16 @@
       "actiu": false,
       "ultim_partit": "2015-09-08"
     },
+    "Kevin De Bruyne": {
+      "alias": "Kevin De Bruyne",
+      "pais": "Belgium",
+      "confederacio": "UEFA",
+      "valor": 128,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Manuel Neuer": {
       "alias": "Manuel Neuer",
       "pais": "Germany",
@@ -1899,16 +1909,6 @@
       "final": "2000",
       "actiu": false,
       "ultim_partit": "2000-01-16"
-    },
-    "Kevin De Bruyne": {
-      "alias": "Kevin De Bruyne",
-      "pais": "Belgium",
-      "confederacio": "UEFA",
-      "valor": 127,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-02"
     },
     "Server Djeparov": {
       "alias": "Server Djeparov",
@@ -2030,6 +2030,16 @@
       "actiu": true,
       "ultim_partit": "2026-09-29"
     },
+    "Harry Kane": {
+      "alias": "Harry Kane",
+      "pais": "England",
+      "confederacio": "UEFA",
+      "valor": 126,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Paolo Maldini": {
       "alias": "Paolo Maldini",
       "pais": "Italy",
@@ -2110,6 +2120,16 @@
       "actiu": false,
       "ultim_partit": "2021-11-11"
     },
+    "Jordan Ayew": {
+      "alias": "Jordan Ayew",
+      "pais": "Ghana",
+      "confederacio": "CAF",
+      "valor": 125,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Roberto Carlos": {
       "alias": "Roberto Carlos",
       "pais": "Brazil",
@@ -2139,16 +2159,6 @@
       "final": "2009",
       "actiu": false,
       "ultim_partit": "2009-05-23"
-    },
-    "Harry Kane": {
-      "alias": "Harry Kane",
-      "pais": "England",
-      "confederacio": "UEFA",
-      "valor": 125,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-06"
     },
     "Sayed Mahmood Jalal": {
       "alias": "Sayed Mahmood Jalal",
@@ -2219,16 +2229,6 @@
       "final": "2016",
       "actiu": false,
       "ultim_partit": "2016-09-01"
-    },
-    "Jordan Ayew": {
-      "alias": "Jordan Ayew",
-      "pais": "Ghana",
-      "confederacio": "CAF",
-      "valor": 124,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-07-03"
     },
     "Petr Čech": {
       "alias": "Petr Čech",
@@ -2400,6 +2400,16 @@
       "actiu": false,
       "ultim_partit": "1999-07-05"
     },
+    "Mateo Kovačić": {
+      "alias": "Mateo Kovačić",
+      "pais": "Croatia",
+      "confederacio": "UEFA",
+      "valor": 122,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Goran Pandev": {
       "alias": "Goran Pandev",
       "pais": "North Macedonia",
@@ -2509,16 +2519,6 @@
       "final": "2007",
       "actiu": false,
       "ultim_partit": "2007-09-12"
-    },
-    "Mateo Kovačić": {
-      "alias": "Mateo Kovačić",
-      "pais": "Croatia",
-      "confederacio": "UEFA",
-      "valor": 121,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-06"
     },
     "Peter Schmeichel": {
       "alias": "Peter Schmeichel",
@@ -2920,6 +2920,16 @@
       "actiu": false,
       "ultim_partit": "1998-05-04"
     },
+    "Chancel Mbemba": {
+      "alias": "Chancel Mbemba",
+      "pais": "DR Congo",
+      "confederacio": "CAF",
+      "valor": 117,
+      "inici": "2012",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Olof Mellberg": {
       "alias": "Olof Mellberg",
       "pais": "Sweden",
@@ -3079,16 +3089,6 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2026-09-30"
-    },
-    "Chancel Mbemba": {
-      "alias": "Chancel Mbemba",
-      "pais": "DR Congo",
-      "confederacio": "CAF",
-      "valor": 116,
-      "inici": "2012",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-05"
     },
     "Roland Nilsson": {
       "alias": "Roland Nilsson",
@@ -4280,6 +4280,16 @@
       "actiu": false,
       "ultim_partit": "2023-06-16"
     },
+    "Hakan Çalhanoğlu": {
+      "alias": "Hakan Çalhanoğlu",
+      "pais": "Turkey",
+      "confederacio": "UEFA",
+      "valor": 109,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "André Carrillo": {
       "alias": "André Carrillo",
       "pais": "Peru",
@@ -4480,16 +4490,6 @@
       "actiu": false,
       "ultim_partit": "2018-11-20"
     },
-    "Hakan Çalhanoğlu": {
-      "alias": "Hakan Çalhanoğlu",
-      "pais": "Turkey",
-      "confederacio": "UEFA",
-      "valor": 108,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-06-19"
-    },
     "Ricardo Gardner": {
       "alias": "Ricardo Gardner",
       "pais": "Jamaica",
@@ -4539,6 +4539,16 @@
       "final": "1998",
       "actiu": false,
       "ultim_partit": "1998-07-04"
+    },
+    "Kalidou Koulibaly": {
+      "alias": "Kalidou Koulibaly",
+      "pais": "Senegal",
+      "confederacio": "CAF",
+      "valor": 108,
+      "inici": "2015",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
     },
     "Stephan Lichtsteiner": {
       "alias": "Stephan Lichtsteiner",
@@ -4719,16 +4729,6 @@
       "final": "2016",
       "actiu": false,
       "ultim_partit": "2016-11-15"
-    },
-    "Kalidou Koulibaly": {
-      "alias": "Kalidou Koulibaly",
-      "pais": "Senegal",
-      "confederacio": "CAF",
-      "valor": 107,
-      "inici": "2015",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-04"
     },
     "Kylian Mbappé": {
       "alias": "Kylian Mbappé",
@@ -7056,7 +7056,7 @@
       "alias": "Harry Kane",
       "pais": "England",
       "confederacio": "UEFA",
-      "valor": 91,
+      "valor": 92,
       "inici": "2015",
       "final": "2026",
       "actiu": true,

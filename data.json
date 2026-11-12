@@ -9822,6 +9822,42 @@
       },
       "ts": 1794515714.448817,
       "collage": "collages\\d16ffa7b-f403-41f8-969b-96d454cefff9.webp"
+    },
+    {
+      "id": "38dd5e13-ae5b-45a8-8c50-9a5d6d0f2205",
+      "text": "Franck Kessié (4th Ivory Coast) surpasses Ahmed El-Kass, François Amégasse and Ahmed Musa as 29th CAF, 387th global player with 111 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Franck Kessié",
+        "pais": "Ivory Coast",
+        "confederacio": "CAF",
+        "valor": 111,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ahmed El-Kass",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "François Amégasse",
+                "pais": "Gabon"
+              },
+              {
+                "nom": "Ahmed Musa",
+                "pais": "Nigeria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 29,
+        "rank_global": 387,
+        "ambit": "confederacio"
+      },
+      "ts": 1794516921.91007,
+      "collage": "collages\\38dd5e13-ae5b-45a8-8c50-9a5d6d0f2205.webp"
     }
   ],
   "baseline": {
@@ -10055,7 +10091,7 @@
         "alias": "Franck Kessié",
         "pais": "Ivory Coast",
         "confederacio": "CAF",
-        "valor": 110,
+        "valor": 111,
         "inici": "2014",
         "final": "2026",
         "actiu": true

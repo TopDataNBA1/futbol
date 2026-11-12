@@ -9333,6 +9333,34 @@
       },
       "ts": 1791343486.227921,
       "collage": "collages\\26ef0d9b-bb32-4ca7-bae8-fc2020f101ed.webp"
+    },
+    {
+      "id": "43cbba48-4619-4573-a020-2af836de3740",
+      "text": "Jordan Ayew (1st Ghana) surpasses Domingues as 10th CAF, 211th global player with 125 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jordan Ayew",
+        "pais": "Ghana",
+        "confederacio": "CAF",
+        "valor": 125,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Domingues",
+                "pais": "Mozambique"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 10,
+        "rank_global": 211,
+        "ambit": "confederacio"
+      },
+      "ts": 1794505402.037726,
+      "collage": "collages\\43cbba48-4619-4573-a020-2af836de3740.webp"
     }
   ],
   "baseline": {
@@ -9921,6 +9949,16 @@
         "inici": "2005",
         "final": "2026",
         "actiu": true
+      },
+      "Jordan Ayew": {
+        "alias": "Jordan Ayew",
+        "pais": "Ghana",
+        "confederacio": "CAF",
+        "valor": 125,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-07-03"
       }
     },
     "Gols": {

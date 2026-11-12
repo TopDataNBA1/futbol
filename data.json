@@ -9482,6 +9482,47 @@
       },
       "ts": 1794509697.601863,
       "collage": "collages\\aaf28eda-e676-4048-b058-4f0181a59404.webp"
+    },
+    {
+      "id": "ad00cade-c2c2-456b-8c16-1d49df9e69de",
+      "text": "Kalidou Koulibaly (3rd Senegal) surpasses Aaron Mokoena and Haruna Niyonzima and reaches Joseph Musonda as 34th CAF, 443rd global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kalidou Koulibaly",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Aaron Mokoena",
+                "pais": "South Africa"
+              },
+              {
+                "nom": "Haruna Niyonzima",
+                "pais": "Rwanda"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Joseph Musonda",
+                "pais": "Zambia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 34,
+        "rank_global": 443,
+        "ambit": "confederacio"
+      },
+      "ts": 1794513047.029954,
+      "collage": "collages\\ad00cade-c2c2-456b-8c16-1d49df9e69de.webp"
     }
   ],
   "baseline": {
@@ -10090,6 +10131,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-06-19"
+      },
+      "Kalidou Koulibaly": {
+        "alias": "Kalidou Koulibaly",
+        "pais": "Senegal",
+        "confederacio": "CAF",
+        "valor": 108,
+        "inici": "2015",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-10-04"
       }
     },
     "Gols": {

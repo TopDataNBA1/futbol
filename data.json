@@ -9389,6 +9389,99 @@
       },
       "ts": 1794505812.417294,
       "collage": "collages\\b58ad34a-1a02-4d0e-bbf0-579953cac292.webp"
+    },
+    {
+      "id": "aaf28eda-e676-4048-b058-4f0181a59404",
+      "text": "Hakan Çalhanoğlu (3rd Turkey) surpasses Bobby Moore, Jürgen Klinsmann, Zinedine Zidane, Thomas Helveg, Rashad Sadygov, Stephan Lichtsteiner, Rui Patrício, Daley Blind and Lukas Hradecky and reaches Niclas Alexandersson, Rafael van der Vaart, Balázs Dzsudzsák, Chris Gunter, Dries Mertens, Jakub Błaszczykowski and Wayne Hennessey as 153rd UEFA, 424th global player with 109 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hakan Çalhanoğlu",
+        "pais": "Turkey",
+        "confederacio": "UEFA",
+        "valor": 109,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bobby Moore",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Klinsmann",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              },
+              {
+                "nom": "Thomas Helveg",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Rashad Sadygov",
+                "pais": "Azerbaijan"
+              },
+              {
+                "nom": "Stephan Lichtsteiner",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Rui Patrício",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Daley Blind",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Lukas Hradecky",
+                "pais": "Finland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Niclas Alexandersson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Rafael van der Vaart",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Balázs Dzsudzsák",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Chris Gunter",
+                "pais": "Wales"
+              },
+              {
+                "nom": "Dries Mertens",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Jakub Błaszczykowski",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Wayne Hennessey",
+                "pais": "Wales"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 153,
+        "rank_global": 424,
+        "ambit": "confederacio"
+      },
+      "ts": 1794509697.601863,
+      "collage": "collages\\aaf28eda-e676-4048-b058-4f0181a59404.webp"
     }
   ],
   "baseline": {
@@ -9987,6 +10080,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-07-03"
+      },
+      "Hakan Çalhanoğlu": {
+        "alias": "Hakan Çalhanoğlu",
+        "pais": "Turkey",
+        "confederacio": "UEFA",
+        "valor": 109,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-06-19"
       }
     },
     "Gols": {

@@ -10294,6 +10294,75 @@
       },
       "ts": 1794587666.397085,
       "collage": "collages\\18481442-6476-400e-8e30-4d2ac2c6754f.webp"
+    },
+    {
+      "id": "5f2fba1b-de4a-42cd-852d-37f985cc777b",
+      "text": "Alex Iwobi surpasses Joseph Yobo and Vincent Enyeama and reaches Moses Simon as 2nd Nigeria, 51st CAF, 583rd global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Alex Iwobi",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Joseph Yobo",
+                "pais": "Nigeria"
+              },
+              {
+                "nom": "Vincent Enyeama",
+                "pais": "Nigeria"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Moses Simon",
+                "pais": "Nigeria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 51,
+        "rank_global": 583,
+        "ambit": "compatriota"
+      },
+      "ts": 1794588565.764653,
+      "collage": "collages\\5f2fba1b-de4a-42cd-852d-37f985cc777b.webp"
+    },
+    {
+      "id": "6422dd84-3a53-4c27-af5a-292c4caffcf8",
+      "text": "Moses Simon surpasses Alex Iwobi as 2nd Nigeria, 47th CAF, 557th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moses Simon",
+        "pais": "Nigeria",
+        "confederacio": "CAF",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Alex Iwobi",
+                "pais": "Nigeria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 47,
+        "rank_global": 557,
+        "ambit": "compatriota"
+      },
+      "ts": 1794588566.107538,
+      "collage": "collages\\6422dd84-3a53-4c27-af5a-292c4caffcf8.webp"
     }
   ],
   "baseline": {
@@ -10635,7 +10704,7 @@
         "alias": "Alex Iwobi",
         "pais": "Nigeria",
         "confederacio": "CAF",
-        "valor": 101,
+        "valor": 102,
         "inici": "2015",
         "final": "2026",
         "actiu": true
@@ -10644,7 +10713,7 @@
         "alias": "Moses Simon",
         "pais": "Nigeria",
         "confederacio": "CAF",
-        "valor": 102,
+        "valor": 103,
         "inici": "2015",
         "final": "2026",
         "actiu": true

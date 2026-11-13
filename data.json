@@ -9903,7 +9903,7 @@
         "ambit": "compatriota"
       },
       "ts": 1794533121.894257,
-      "collage": null
+      "collage": "collages\\8353ae42-112c-4ee9-a380-a03cb741722d.webp"
     },
     {
       "id": "d3bab31d-ce45-44d8-b2b0-d2ed651c4e04",
@@ -11188,6 +11188,46 @@
       },
       "ts": 1794606188.112282,
       "collage": "collages\\e4588bf6-963b-4e8c-98a6-f295879d15d0.webp"
+    },
+    {
+      "id": "f8b38107-508e-4605-bc4d-3d336bc43e61",
+      "text": "Yassine Bounou (3rd Morocco) reaches Peter Mponda, Haitham Mustafa, Mohamed Aboutrika and Siaka Tiéné as 63rd CAF, 656th global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yassine Bounou",
+        "pais": "Morocco",
+        "confederacio": "CAF",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Peter Mponda",
+                "pais": "Malawi"
+              },
+              {
+                "nom": "Haitham Mustafa",
+                "pais": "Sudan"
+              },
+              {
+                "nom": "Mohamed Aboutrika",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Siaka Tiéné",
+                "pais": "Ivory Coast"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 63,
+        "rank_global": 656,
+        "ambit": "confederacio"
+      },
+      "ts": 1794567600.0,
+      "collage": "collages\\f8b38107-508e-4605-bc4d-3d336bc43e61.webp"
     }
   ],
   "baseline": {
@@ -11866,6 +11906,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-03-31"
+      },
+      "Yassine Bounou": {
+        "alias": "Yassine Bounou",
+        "pais": "Morocco",
+        "confederacio": "CAF",
+        "valor": 100,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-11-13"
       }
     },
     "Gols": {
@@ -11926,5 +11976,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-11-13"
+  "ultima_conciliacio": "2026-11-14"
 }

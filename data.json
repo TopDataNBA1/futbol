@@ -9903,7 +9903,7 @@
         "ambit": "compatriota"
       },
       "ts": 1794533121.894257,
-      "collage": "collages\\8353ae42-112c-4ee9-a380-a03cb741722d.webp"
+      "collage": null
     },
     {
       "id": "d3bab31d-ce45-44d8-b2b0-d2ed651c4e04",
@@ -10017,6 +10017,38 @@
       },
       "ts": 1794574318.775832,
       "collage": "collages\\136f1547-78d9-4f98-8a1f-3b6b673e81f8.webp"
+    },
+    {
+      "id": "61519d2c-fdb0-4724-9cd7-e30d9a3df85d",
+      "text": "Son Heung-min (1st South Korea) surpasses Fawzi Bashir and Yasuhito Endō as 16th AFC, 43rd global player with 153 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Son Heung-min",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 153,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Fawzi Bashir",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Yasuhito Endō",
+                "pais": "Japan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 16,
+        "rank_global": 43,
+        "ambit": "confederacio"
+      },
+      "ts": 1794583367.660559,
+      "collage": "collages\\61519d2c-fdb0-4724-9cd7-e30d9a3df85d.webp"
     }
   ],
   "baseline": {
@@ -10052,7 +10084,7 @@
         "alias": "Son Heung-min",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 152,
+        "valor": 153,
         "inici": "2010",
         "final": "2026",
         "actiu": true

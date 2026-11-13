@@ -10921,6 +10921,34 @@
       },
       "ts": 1794603144.403913,
       "collage": "collages\\1f1d41e0-af42-4045-96ce-2340fbafba47.webp"
+    },
+    {
+      "id": "0a40dc5d-8af3-49b9-9c81-5720a08c3dd3",
+      "text": "Mohamed Salah reaches Hossam Hassan as 1st Egypt, 3rd CAF, 27th global scorer with 69 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 69,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Hossam Hassan",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 3,
+        "rank_global": 27,
+        "ambit": "compatriota"
+      },
+      "ts": 1794603169.33777,
+      "collage": "collages\\0a40dc5d-8af3-49b9-9c81-5720a08c3dd3.webp"
     }
   ],
   "baseline": {
@@ -11636,6 +11664,16 @@
         "inici": "2015",
         "final": "2026",
         "actiu": true
+      },
+      "Mohamed Salah": {
+        "alias": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 69,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true,
+        "data_50e_gol": "2023-03-24"
       }
     }
   },

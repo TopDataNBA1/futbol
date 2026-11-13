@@ -11131,6 +11131,63 @@
       },
       "ts": 1794606065.905426,
       "collage": "collages\\31849b76-96ae-40b9-9aa8-89e2a4e4c4bb.webp"
+    },
+    {
+      "id": "e4588bf6-963b-4e8c-98a6-f295879d15d0",
+      "text": "Ricardo Rodriguez (2nd Switzerland, 16th UEFA) surpasses Ali Daei, Pável Pardo, Mohamed Salmeen, Paulo da Silva, Rafael Márquez and Gabriel Gómez and reaches Younis Mahmoud as 54th global player with 149 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 149,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ali Daei",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Pável Pardo",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Mohamed Salmeen",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Paulo da Silva",
+                "pais": "Paraguay"
+              },
+              {
+                "nom": "Rafael Márquez",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Gabriel Gómez",
+                "pais": "Panama"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Younis Mahmoud",
+                "pais": "Iraq"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 16,
+        "rank_global": 54,
+        "ambit": "global"
+      },
+      "ts": 1794606188.112282,
+      "collage": "collages\\e4588bf6-963b-4e8c-98a6-f295879d15d0.webp"
     }
   ],
   "baseline": {
@@ -11526,7 +11583,7 @@
         "alias": "Ricardo Rodriguez",
         "pais": "Switzerland",
         "confederacio": "UEFA",
-        "valor": 148,
+        "valor": 149,
         "inici": "2011",
         "final": "2026",
         "actiu": true

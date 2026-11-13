@@ -10949,6 +10949,103 @@
       },
       "ts": 1794603169.33777,
       "collage": "collages\\0a40dc5d-8af3-49b9-9c81-5720a08c3dd3.webp"
+    },
+    {
+      "id": "154dcffd-59f9-45b0-b389-5fdd6d06a443",
+      "text": "Aleksandar Mitrović (2nd Serbia) surpasses Bobby Charlton, Imants Bleidelis, Henrik Larsson, Giovanni van Bronckhorst, Frank Lampard, Óscar Sonejee, Joel Lindpere, Aleksandr Dmitrijev, Ivan Rakitić and Moisés San Nicolás and reaches Patrick Vieira, Miroslav Karhan, Ashley Cole, Gábor Király, Jonny Evans, Marc Vales and Kylian Mbappé as 170th UEFA, 465th global player with 107 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Aleksandar Mitrović",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bobby Charlton",
+                "pais": "England"
+              },
+              {
+                "nom": "Imants Bleidelis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Henrik Larsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Giovanni van Bronckhorst",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Frank Lampard",
+                "pais": "England"
+              },
+              {
+                "nom": "Óscar Sonejee",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Joel Lindpere",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Aleksandr Dmitrijev",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Ivan Rakitić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Moisés San Nicolás",
+                "pais": "Andorra"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              },
+              {
+                "nom": "Miroslav Karhan",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Ashley Cole",
+                "pais": "England"
+              },
+              {
+                "nom": "Gábor Király",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Jonny Evans",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Marc Vales",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 170,
+        "rank_global": 465,
+        "ambit": "confederacio"
+      },
+      "ts": 1794605969.229966,
+      "collage": "collages\\154dcffd-59f9-45b0-b389-5fdd6d06a443.webp"
     }
   ],
   "baseline": {
@@ -11617,6 +11714,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-10-06"
+      },
+      "Aleksandar Mitrović": {
+        "alias": "Aleksandar Mitrović",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-03-31"
       }
     },
     "Gols": {

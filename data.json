@@ -10238,6 +10238,62 @@
       },
       "ts": 1794587069.691004,
       "collage": "collages\\c10adac0-3086-437d-9e9a-0c3dd0748f2c.webp"
+    },
+    {
+      "id": "de175181-eeda-4cf3-8f1f-94c1b4b3c81f",
+      "text": "Tarek Salman surpasses Adel Khamis as 13th Qatar, 159th AFC, 506th global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Tarek Salman",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Adel Khamis",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 13,
+        "rank_confederacio": 159,
+        "rank_global": 506,
+        "ambit": "compatriota"
+      },
+      "ts": 1794587666.17016,
+      "collage": "collages\\de175181-eeda-4cf3-8f1f-94c1b4b3c81f.webp"
+    },
+    {
+      "id": "18481442-6476-400e-8e30-4d2ac2c6754f",
+      "text": "Abdulaziz Hatem reaches Karim Boudiaf as 4th Qatar, 44th AFC, 126th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Abdulaziz Hatem",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Karim Boudiaf",
+                "pais": "Qatar"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 44,
+        "rank_global": 126,
+        "ambit": "compatriota"
+      },
+      "ts": 1794587666.397085,
+      "collage": "collages\\18481442-6476-400e-8e30-4d2ac2c6754f.webp"
     }
   ],
   "baseline": {
@@ -10795,7 +10851,7 @@
         "alias": "Tarek Salman",
         "pais": "Qatar",
         "confederacio": "AFC",
-        "valor": 104,
+        "valor": 105,
         "inici": "2017",
         "final": "2026",
         "actiu": true
@@ -10876,6 +10932,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-06-27"
+      },
+      "Abdulaziz Hatem": {
+        "alias": "Abdulaziz Hatem",
+        "pais": "Qatar",
+        "confederacio": "AFC",
+        "valor": 135,
+        "inici": "2009",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-09-30"
       }
     },
     "Gols": {

@@ -10173,6 +10173,71 @@
       },
       "ts": 1794583978.10482,
       "collage": "collages\\ea7d9e00-fc58-4067-b963-21429194104a.webp"
+    },
+    {
+      "id": "c10adac0-3086-437d-9e9a-0c3dd0748f2c",
+      "text": "Lee Jae-sung (10th South Korea) surpasses Wael Sulaiman, Nohair Al-Shammari and Hassan Abdel-Fattah and reaches Totchtawan Sripan, Mehdi Mahdavikia, Yuji Nakazawa, Imran Mohamed, Mohamad Haidar and Ali Al-Busaidi as 134th AFC, 402nd global player with 110 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Lee Jae-sung",
+        "pais": "South Korea",
+        "confederacio": "AFC",
+        "valor": 110,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Wael Sulaiman",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Nohair Al-Shammari",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Hassan Abdel-Fattah",
+                "pais": "Jordan"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Totchtawan Sripan",
+                "pais": "Thailand"
+              },
+              {
+                "nom": "Mehdi Mahdavikia",
+                "pais": "Iran"
+              },
+              {
+                "nom": "Yuji Nakazawa",
+                "pais": "Japan"
+              },
+              {
+                "nom": "Imran Mohamed",
+                "pais": "Maldives"
+              },
+              {
+                "nom": "Mohamad Haidar",
+                "pais": "Lebanon"
+              },
+              {
+                "nom": "Ali Al-Busaidi",
+                "pais": "Oman"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 10,
+        "rank_confederacio": 134,
+        "rank_global": 402,
+        "ambit": "confederacio"
+      },
+      "ts": 1794587069.691004,
+      "collage": "collages\\c10adac0-3086-437d-9e9a-0c3dd0748f2c.webp"
     }
   ],
   "baseline": {
@@ -10217,7 +10282,7 @@
         "alias": "Lee Jae-sung",
         "pais": "South Korea",
         "confederacio": "AFC",
-        "valor": 109,
+        "valor": 110,
         "inici": "2015",
         "final": "2026",
         "actiu": true

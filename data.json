@@ -10860,6 +10860,67 @@
       },
       "ts": 1794602387.088187,
       "collage": "collages\\9e81fec0-1d4b-4066-9ab5-cc02282de8a8.webp"
+    },
+    {
+      "id": "1f1d41e0-af42-4045-96ce-2340fbafba47",
+      "text": "Achraf Hakimi (2nd Morocco) surpasses Elijah Tana, Ferjani Sassi and Moses Simon and reaches Nader El-Sayed, Erasto Nyoni, Youssef Msakni, Ryan Mendes and Simon Msuva as 43rd CAF, 531st global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Achraf Hakimi",
+        "pais": "Morocco",
+        "confederacio": "CAF",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Elijah Tana",
+                "pais": "Zambia"
+              },
+              {
+                "nom": "Ferjani Sassi",
+                "pais": "Tunisia"
+              },
+              {
+                "nom": "Moses Simon",
+                "pais": "Nigeria"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Nader El-Sayed",
+                "pais": "Egypt"
+              },
+              {
+                "nom": "Erasto Nyoni",
+                "pais": "Tanzania"
+              },
+              {
+                "nom": "Youssef Msakni",
+                "pais": "Tunisia"
+              },
+              {
+                "nom": "Ryan Mendes",
+                "pais": "Cape Verde"
+              },
+              {
+                "nom": "Simon Msuva",
+                "pais": "Tanzania"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 43,
+        "rank_global": 531,
+        "ambit": "confederacio"
+      },
+      "ts": 1794603144.403913,
+      "collage": "collages\\1f1d41e0-af42-4045-96ce-2340fbafba47.webp"
     }
   ],
   "baseline": {
@@ -11327,7 +11388,7 @@
         "alias": "Achraf Hakimi",
         "pais": "Morocco",
         "confederacio": "CAF",
-        "valor": 103,
+        "valor": 104,
         "inici": "2016",
         "final": "2026",
         "actiu": true

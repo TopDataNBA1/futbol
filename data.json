@@ -10424,6 +10424,34 @@
       },
       "ts": 1794589129.385212,
       "collage": "collages\\c4f5d441-67c8-4fc5-9bb7-baab911025c3.webp"
+    },
+    {
+      "id": "67e0ce04-baa5-4c11-81c3-469412b30665",
+      "text": "Simon Msuva reaches Erasto Nyoni as 1st Tanzania, 43rd CAF, 531st global player with 104 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Simon Msuva",
+        "pais": "Tanzania",
+        "confederacio": "CAF",
+        "valor": 104,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Erasto Nyoni",
+                "pais": "Tanzania"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 43,
+        "rank_global": 531,
+        "ambit": "compatriota"
+      },
+      "ts": 1794592769.272189,
+      "collage": "collages\\67e0ce04-baa5-4c11-81c3-469412b30665.webp"
     }
   ],
   "baseline": {
@@ -10900,7 +10928,7 @@
         "alias": "Simon Msuva",
         "pais": "Tanzania",
         "confederacio": "CAF",
-        "valor": 103,
+        "valor": 104,
         "inici": "2012",
         "final": "2026",
         "actiu": true

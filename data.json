@@ -10452,6 +10452,62 @@
       },
       "ts": 1794592769.272189,
       "collage": "collages\\67e0ce04-baa5-4c11-81c3-469412b30665.webp"
+    },
+    {
+      "id": "22c1f3b3-7ab9-4e38-9522-fafc19790872",
+      "text": "Mohamed Salah surpasses Hany Ramzy as 6th Egypt, 12th CAF, 231st global player with 123 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mohamed Salah",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 123,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hany Ramzy",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 6,
+        "rank_confederacio": 12,
+        "rank_global": 231,
+        "ambit": "compatriota"
+      },
+      "ts": 1794599312.886129,
+      "collage": "collages\\22c1f3b3-7ab9-4e38-9522-fafc19790872.webp"
+    },
+    {
+      "id": "2ffbc202-d9db-47b0-ae91-4c321f50d6fa",
+      "text": "Trézéguet surpasses Mohamed Aboutrika as 15th Egypt, 58th CAF, 617th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Trézéguet",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mohamed Aboutrika",
+                "pais": "Egypt"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 15,
+        "rank_confederacio": 58,
+        "rank_global": 617,
+        "ambit": "compatriota"
+      },
+      "ts": 1794599313.10404,
+      "collage": "collages\\2ffbc202-d9db-47b0-ae91-4c321f50d6fa.webp"
     }
   ],
   "baseline": {
@@ -10748,7 +10804,7 @@
         "alias": "Mohamed Salah",
         "pais": "Egypt",
         "confederacio": "CAF",
-        "valor": 122,
+        "valor": 123,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -11100,6 +11156,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-09-30"
+      },
+      "Trézéguet": {
+        "alias": "Trézéguet",
+        "pais": "Egypt",
+        "confederacio": "CAF",
+        "valor": 101,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-07-07"
       }
     },
     "Gols": {

@@ -10508,6 +10508,164 @@
       },
       "ts": 1794599313.10404,
       "collage": "collages\\2ffbc202-d9db-47b0-ae91-4c321f50d6fa.webp"
+    },
+    {
+      "id": "8352483b-98bf-448a-8eb9-0fba1365fb13",
+      "text": "Laurent Jans (1st Luxembourg) surpasses Andoni Zubizarreta, Paolo Maldini, Enar Jääger, Eden Hazard and Harry Kane and reaches Luís Figo, Dennis Rommedahl, Sergei Ignashevich, Toby Alderweireld and Andriy Yarmolenko as 63rd UEFA, 188th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Andoni Zubizarreta",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Paolo Maldini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Enar Jääger",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Harry Kane",
+                "pais": "England"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luís Figo",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Dennis Rommedahl",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Sergei Ignashevich",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Andriy Yarmolenko",
+                "pais": "Ukraine"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 63,
+        "rank_global": 188,
+        "ambit": "confederacio"
+      },
+      "ts": 1794601884.951977,
+      "collage": "collages\\8352483b-98bf-448a-8eb9-0fba1365fb13.webp"
+    },
+    {
+      "id": "ae402db0-7f57-44ba-832f-57655f3f74e4",
+      "text": "Karol Mets (12th Estonia) surpasses Patrick Vieira, Miroslav Karhan, Ashley Cole, Gábor Király, Jonny Evans, Marc Vales and Kylian Mbappé and reaches Bobby Moore, Jürgen Klinsmann, Zinedine Zidane, Thomas Helveg, Rashad Sadygov, Stephan Lichtsteiner, Rui Patrício and Daley Blind as 161st UEFA, 444th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              },
+              {
+                "nom": "Miroslav Karhan",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Ashley Cole",
+                "pais": "England"
+              },
+              {
+                "nom": "Gábor Király",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Jonny Evans",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Marc Vales",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bobby Moore",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Klinsmann",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              },
+              {
+                "nom": "Thomas Helveg",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Rashad Sadygov",
+                "pais": "Azerbaijan"
+              },
+              {
+                "nom": "Stephan Lichtsteiner",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Rui Patrício",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Daley Blind",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 12,
+        "rank_confederacio": 161,
+        "rank_global": 444,
+        "ambit": "confederacio"
+      },
+      "ts": 1794601885.254727,
+      "collage": "collages\\ae402db0-7f57-44ba-832f-57655f3f74e4.webp"
     }
   ],
   "baseline": {
@@ -10867,7 +11025,7 @@
         "alias": "Laurent Jans",
         "pais": "Luxembourg",
         "confederacio": "UEFA",
-        "valor": 126,
+        "valor": 127,
         "inici": "2012",
         "final": "2026",
         "actiu": true
@@ -10876,7 +11034,7 @@
         "alias": "Karol Mets",
         "pais": "Estonia",
         "confederacio": "UEFA",
-        "valor": 107,
+        "valor": 108,
         "inici": "2013",
         "final": "2026",
         "actiu": true

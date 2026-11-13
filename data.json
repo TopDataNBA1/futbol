@@ -10832,6 +10832,34 @@
       },
       "ts": 1794602307.35466,
       "collage": "collages\\c2d4f007-43d6-480e-8df0-cf51feec6d61.webp"
+    },
+    {
+      "id": "9e81fec0-1d4b-4066-9ab5-cc02282de8a8",
+      "text": "Andy Robertson reaches Kenny Dalglish as 1st Scotland, 223rd UEFA, 583rd global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Andy Robertson",
+        "pais": "Scotland",
+        "confederacio": "UEFA",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Kenny Dalglish",
+                "pais": "Scotland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 223,
+        "rank_global": 583,
+        "ambit": "compatriota"
+      },
+      "ts": 1794602387.088187,
+      "collage": "collages\\9e81fec0-1d4b-4066-9ab5-cc02282de8a8.webp"
     }
   ],
   "baseline": {
@@ -11490,6 +11518,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-07-07"
+      },
+      "Andy Robertson": {
+        "alias": "Andy Robertson",
+        "pais": "Scotland",
+        "confederacio": "UEFA",
+        "valor": 102,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-10-06"
       }
     },
     "Gols": {

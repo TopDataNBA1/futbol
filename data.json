@@ -10804,6 +10804,34 @@
       },
       "ts": 1794601953.592369,
       "collage": "collages\\3d71edb2-6f77-489b-8150-7b76ae50d7ec.webp"
+    },
+    {
+      "id": "c2d4f007-43d6-480e-8df0-cf51feec6d61",
+      "text": "Moisés San Nicolás reaches Óscar Sonejee as 5th Andorra, 178th UEFA, 485th global player with 106 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moisés San Nicolás",
+        "pais": "Andorra",
+        "confederacio": "UEFA",
+        "valor": 106,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Óscar Sonejee",
+                "pais": "Andorra"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 178,
+        "rank_global": 485,
+        "ambit": "compatriota"
+      },
+      "ts": 1794602307.35466,
+      "collage": "collages\\c2d4f007-43d6-480e-8df0-cf51feec6d61.webp"
     }
   ],
   "baseline": {
@@ -10875,7 +10903,7 @@
         "alias": "Moisés San Nicolás",
         "pais": "Andorra",
         "confederacio": "UEFA",
-        "valor": 105,
+        "valor": 106,
         "inici": "2012",
         "final": "2026",
         "actiu": true

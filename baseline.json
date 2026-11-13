@@ -54,17 +54,17 @@
       "alias": "Hassan Al-Haydos",
       "pais": "Qatar",
       "confederacio": "AFC",
-      "valor": 193,
+      "valor": 194193,
       "inici": "2008",
       "final": "2026",
       "actiu": true,
-      "ultim_partit": "2026-09-27"
+      "ultim_partit": "2026-11-13"
     },
     "Ahmed Kano": {
       "alias": "Ahmed Kano",
       "pais": "Oman",
       "confederacio": "AFC",
-      "valor": 193,
+      "valor": 194193,
       "inici": "2003",
       "final": "2019",
       "actiu": false,
@@ -340,6 +340,16 @@
       "actiu": false,
       "ultim_partit": "2018-06-25"
     },
+    "Hariss Harun": {
+      "alias": "Hariss Harun",
+      "pais": "Singapore",
+      "confederacio": "AFC",
+      "valor": 159,
+      "inici": "2007",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-13"
+    },
     "Konstantin Vassiljev": {
       "alias": "Konstantin Vassiljev",
       "pais": "Estonia",
@@ -349,16 +359,6 @@
       "final": "2025",
       "actiu": false,
       "ultim_partit": "2025-09-09"
-    },
-    "Hariss Harun": {
-      "alias": "Hariss Harun",
-      "pais": "Singapore",
-      "confederacio": "AFC",
-      "valor": 158,
-      "inici": "2007",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-01"
     },
     "Sunil Chhetri": {
       "alias": "Sunil Chhetri",
@@ -1250,6 +1250,16 @@
       "actiu": false,
       "ultim_partit": "2021-12-06"
     },
+    "Safuwan Baharudin": {
+      "alias": "Safuwan Baharudin",
+      "pais": "Singapore",
+      "confederacio": "AFC",
+      "valor": 135,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-13"
+    },
     "Walter Centeno": {
       "alias": "Walter Centeno",
       "pais": "Costa Rica",
@@ -1329,16 +1339,6 @@
       "final": "2018",
       "actiu": false,
       "ultim_partit": "2018-06-20"
-    },
-    "Safuwan Baharudin": {
-      "alias": "Safuwan Baharudin",
-      "pais": "Singapore",
-      "confederacio": "AFC",
-      "valor": 134,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-01"
     },
     "Karim Boudiaf": {
       "alias": "Karim Boudiaf",
@@ -3930,6 +3930,16 @@
       "actiu": false,
       "ultim_partit": "2018-02-28"
     },
+    "Franck Kessié": {
+      "alias": "Franck Kessié",
+      "pais": "Ivory Coast",
+      "confederacio": "CAF",
+      "valor": 111,
+      "inici": "2014",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Zhang Linpeng": {
       "alias": "Zhang Linpeng",
       "pais": "China",
@@ -4119,16 +4129,6 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2026-10-06"
-    },
-    "Franck Kessié": {
-      "alias": "Franck Kessié",
-      "pais": "Ivory Coast",
-      "confederacio": "CAF",
-      "valor": 110,
-      "inici": "2014",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-09-29"
     },
     "Kevin Kilbane": {
       "alias": "Kevin Kilbane",
@@ -4370,6 +4370,16 @@
       "actiu": false,
       "ultim_partit": "2019-09-06"
     },
+    "Lukas Hradecky": {
+      "alias": "Lukas Hradecky",
+      "pais": "Finland",
+      "confederacio": "UEFA",
+      "valor": 109,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Dries Mertens": {
       "alias": "Dries Mertens",
       "pais": "Belgium",
@@ -4470,6 +4480,16 @@
       "actiu": false,
       "ultim_partit": "2024-01-25"
     },
+    "Yoel Bárcenas": {
+      "alias": "Yoel Bárcenas",
+      "pais": "Panama",
+      "confederacio": "CONCACAF",
+      "valor": 108,
+      "inici": "2014",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Daley Blind": {
       "alias": "Daley Blind",
       "pais": "Netherlands",
@@ -4509,16 +4529,6 @@
       "final": "2007",
       "actiu": false,
       "ultim_partit": "2007-10-17"
-    },
-    "Lukas Hradecky": {
-      "alias": "Lukas Hradecky",
-      "pais": "Finland",
-      "confederacio": "UEFA",
-      "valor": 108,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-06"
     },
     "Stern John": {
       "alias": "Stern John",
@@ -4649,16 +4659,6 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2026-09-29"
-    },
-    "Yoel Bárcenas": {
-      "alias": "Yoel Bárcenas",
-      "pais": "Panama",
-      "confederacio": "CONCACAF",
-      "valor": 107,
-      "inici": "2014",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-06-27"
     },
     "Ashley Cole": {
       "alias": "Ashley Cole",
@@ -5400,6 +5400,16 @@
       "actiu": false,
       "ultim_partit": "2023-03-28"
     },
+    "Elseid Hysaj": {
+      "alias": "Elseid Hysaj",
+      "pais": "Albania",
+      "confederacio": "UEFA",
+      "valor": 104,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Ahmed Khalil": {
       "alias": "Ahmed Khalil",
       "pais": "United Arab Emirates",
@@ -5689,16 +5699,6 @@
       "final": "2003",
       "actiu": false,
       "ultim_partit": "2003-04-30"
-    },
-    "Elseid Hysaj": {
-      "alias": "Elseid Hysaj",
-      "pais": "Albania",
-      "confederacio": "UEFA",
-      "valor": 103,
-      "inici": "2013",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-06"
     },
     "Anzur Ismailov": {
       "alias": "Anzur Ismailov",
@@ -6420,6 +6420,16 @@
       "actiu": false,
       "ultim_partit": "2022-11-16"
     },
+    "Michael Amir Murillo": {
+      "alias": "Michael Amir Murillo",
+      "pais": "Panama",
+      "confederacio": "CONCACAF",
+      "valor": 101,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-12"
+    },
     "Mohammed Rabia": {
       "alias": "Mohammed Rabia",
       "pais": "Oman",
@@ -6610,6 +6620,16 @@
       "actiu": false,
       "ultim_partit": "2004-05-27"
     },
+    "Yassine Bounou": {
+      "alias": "Yassine Bounou",
+      "pais": "Morocco",
+      "confederacio": "CAF",
+      "valor": 100,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-13"
+    },
     "Roderick Briffa": {
       "alias": "Roderick Briffa",
       "pais": "Malta",
@@ -6799,16 +6819,6 @@
       "final": "2011",
       "actiu": false,
       "ultim_partit": "2011-10-08"
-    },
-    "Michael Amir Murillo": {
-      "alias": "Michael Amir Murillo",
-      "pais": "Panama",
-      "confederacio": "CONCACAF",
-      "valor": 100,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-05"
     },
     "Haitham Mustafa": {
       "alias": "Haitham Mustafa",
@@ -7042,16 +7052,6 @@
       "actiu": true,
       "data_50e_gol": "2019-10-10"
     },
-    "Robert Lewandowski": {
-      "alias": "Robert Lewandowski",
-      "pais": "Poland",
-      "confederacio": "UEFA",
-      "valor": 92,
-      "inici": "2008",
-      "final": "2026",
-      "actiu": true,
-      "data_50e_gol": "2017-10-05"
-    },
     "Harry Kane": {
       "alias": "Harry Kane",
       "pais": "England",
@@ -7061,6 +7061,16 @@
       "final": "2026",
       "actiu": true,
       "data_50e_gol": "2022-06-07"
+    },
+    "Robert Lewandowski": {
+      "alias": "Robert Lewandowski",
+      "pais": "Poland",
+      "confederacio": "UEFA",
+      "valor": 92,
+      "inici": "2008",
+      "final": "2026",
+      "actiu": true,
+      "data_50e_gol": "2017-10-05"
     },
     "Mokhtar Dahari": {
       "alias": "Mokhtar Dahari",
@@ -7131,16 +7141,6 @@
       "final": "1971",
       "actiu": false,
       "data_50e_gol": "1965-07-04"
-    },
-    "Vivian Woodward": {
-      "alias": "Vivian Woodward",
-      "pais": "England",
-      "confederacio": "UEFA",
-      "valor": 75,
-      "inici": "1903",
-      "final": "1914",
-      "actiu": false,
-      "data_50e_gol": "1909-05-31"
     },
     "Sándor Kocsis": {
       "alias": "Sándor Kocsis",
@@ -7252,6 +7252,16 @@
       "actiu": false,
       "data_50e_gol": "2004-06-13"
     },
+    "Mohamed Salah": {
+      "alias": "Mohamed Salah",
+      "pais": "Egypt",
+      "confederacio": "CAF",
+      "valor": 70,
+      "inici": "2011",
+      "final": "2026",
+      "actiu": true,
+      "data_50e_gol": "2023-03-24"
+    },
     "Luis Suárez": {
       "alias": "Luis Suárez",
       "pais": "Uruguay",
@@ -7281,16 +7291,6 @@
       "final": "1974",
       "actiu": false,
       "data_50e_gol": "1972-06-18"
-    },
-    "Mohamed Salah": {
-      "alias": "Mohamed Salah",
-      "pais": "Egypt",
-      "confederacio": "CAF",
-      "valor": 68,
-      "inici": "2011",
-      "final": "2026",
-      "actiu": true,
-      "data_50e_gol": "2023-03-24"
     },
     "Carlos Ruiz": {
       "alias": "Carlos Ruiz",

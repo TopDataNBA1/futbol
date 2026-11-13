@@ -9876,6 +9876,62 @@
       },
       "ts": 1794519254.740406,
       "collage": "collages\\e458ebc1-5bcc-4fe5-8201-098715eddf55.webp"
+    },
+    {
+      "id": "8353ae42-112c-4ee9-a380-a03cb741722d",
+      "text": "Michael Amir Murillo surpasses Fidel Escobar as 13th Panama, 77th CONCACAF, 617th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Michael Amir Murillo",
+        "pais": "Panama",
+        "confederacio": "CONCACAF",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Fidel Escobar",
+                "pais": "Panama"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 13,
+        "rank_confederacio": 77,
+        "rank_global": 617,
+        "ambit": "compatriota"
+      },
+      "ts": 1794533121.894257,
+      "collage": null
+    },
+    {
+      "id": "d3bab31d-ce45-44d8-b2b0-d2ed651c4e04",
+      "text": "Yoel Bárcenas reaches Luis Tejada as 9th Panama, 57th CONCACAF, 444th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoel Bárcenas",
+        "pais": "Panama",
+        "confederacio": "CONCACAF",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luis Tejada",
+                "pais": "Panama"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 9,
+        "rank_confederacio": 57,
+        "rank_global": 444,
+        "ambit": "compatriota"
+      },
+      "ts": 1794533121.930937,
+      "collage": "collages\\d3bab31d-ce45-44d8-b2b0-d2ed651c4e04.webp"
     }
   ],
   "baseline": {
@@ -10494,6 +10550,26 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-10-04"
+      },
+      "Michael Amir Murillo": {
+        "alias": "Michael Amir Murillo",
+        "pais": "Panama",
+        "confederacio": "CONCACAF",
+        "valor": 101,
+        "inici": "2016",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-10-05"
+      },
+      "Yoel Bárcenas": {
+        "alias": "Yoel Bárcenas",
+        "pais": "Panama",
+        "confederacio": "CONCACAF",
+        "valor": 108,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-06-27"
       }
     },
     "Gols": {

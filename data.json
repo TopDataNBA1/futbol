@@ -11816,6 +11816,58 @@
       },
       "ts": 1794692333.24479,
       "collage": "collages\\266481e1-cd36-46f0-a077-16e8a66db523.webp"
+    },
+    {
+      "id": "d06c47d3-ed2e-486b-8d26-b11227056f2d",
+      "text": "Sarach Yooyen (7th Thailand) reaches Santokh Singh, Nazri Nasir, Hani Al-Dhabit, Noor Sabri, Abdulaziz Al-Muqbali, Rohit Chand and Aymen Hussein as 193rd AFC, 656th global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Sarach Yooyen",
+        "pais": "Thailand",
+        "confederacio": "AFC",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Santokh Singh",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Nazri Nasir",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Hani Al-Dhabit",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Noor Sabri",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Abdulaziz Al-Muqbali",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Rohit Chand",
+                "pais": "Nepal"
+              },
+              {
+                "nom": "Aymen Hussein",
+                "pais": "Iraq"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 193,
+        "rank_global": 656,
+        "ambit": "confederacio"
+      },
+      "ts": 1794654000.0,
+      "collage": "collages\\d06c47d3-ed2e-486b-8d26-b11227056f2d.webp"
     }
   ],
   "baseline": {
@@ -12534,6 +12586,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-03-31"
+      },
+      "Sarach Yooyen": {
+        "alias": "Sarach Yooyen",
+        "pais": "Thailand",
+        "confederacio": "AFC",
+        "valor": 100,
+        "inici": "2013",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-11-14"
       }
     },
     "Gols": {
@@ -12604,5 +12666,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-11-14"
+  "ultima_conciliacio": "2026-11-15"
 }

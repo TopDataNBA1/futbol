@@ -11228,6 +11228,112 @@
       },
       "ts": 1794567600.0,
       "collage": "collages\\f8b38107-508e-4605-bc4d-3d336bc43e61.webp"
+    },
+    {
+      "id": "2b13a625-5ec9-4652-9dbd-4b6235ce12e6",
+      "text": "Josué Quijano (1st Nicaragua) surpasses Giovani dos Santos and reaches Stern John, Ricardo Gardner, Francisco Rodríguez, Luis Tejada and Yoel Bárcenas as 57th CONCACAF, 445th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Josué Quijano",
+        "pais": "Nicaragua",
+        "confederacio": "CONCACAF",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Giovani dos Santos",
+                "pais": "Mexico"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Stern John",
+                "pais": "Trinidad and Tobago"
+              },
+              {
+                "nom": "Ricardo Gardner",
+                "pais": "Jamaica"
+              },
+              {
+                "nom": "Francisco Rodríguez",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Luis Tejada",
+                "pais": "Panama"
+              },
+              {
+                "nom": "Yoel Bárcenas",
+                "pais": "Panama"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 57,
+        "rank_global": 445,
+        "ambit": "confederacio"
+      },
+      "ts": 1794617661.438345,
+      "collage": "collages\\2b13a625-5ec9-4652-9dbd-4b6235ce12e6.webp"
+    },
+    {
+      "id": "afa5f5d9-ba6b-4fc0-8b8b-585615e7931b",
+      "text": "Juan Barrera (2nd Nicaragua) surpasses Joe-Max Moore, Tony Meola, Carlos Pavón and Fidel Escobar and reaches Earnie Stewart and Michael Amir Murillo as 77th CONCACAF, 617th global player with 101 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Juan Barrera",
+        "pais": "Nicaragua",
+        "confederacio": "CONCACAF",
+        "valor": 101,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Joe-Max Moore",
+                "pais": "United States"
+              },
+              {
+                "nom": "Tony Meola",
+                "pais": "United States"
+              },
+              {
+                "nom": "Carlos Pavón",
+                "pais": "Honduras"
+              },
+              {
+                "nom": "Fidel Escobar",
+                "pais": "Panama"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Earnie Stewart",
+                "pais": "United States"
+              },
+              {
+                "nom": "Michael Amir Murillo",
+                "pais": "Panama"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 77,
+        "rank_global": 617,
+        "ambit": "confederacio"
+      },
+      "ts": 1794617661.71934,
+      "collage": "collages\\afa5f5d9-ba6b-4fc0-8b8b-585615e7931b.webp"
     }
   ],
   "baseline": {
@@ -11916,6 +12022,26 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-11-13"
+      },
+      "Josué Quijano": {
+        "alias": "Josué Quijano",
+        "pais": "Nicaragua",
+        "confederacio": "CONCACAF",
+        "valor": 108,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-03-27"
+      },
+      "Juan Barrera": {
+        "alias": "Juan Barrera",
+        "pais": "Nicaragua",
+        "confederacio": "CONCACAF",
+        "valor": 101,
+        "inici": "2009",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-03-27"
       }
     },
     "Gols": {

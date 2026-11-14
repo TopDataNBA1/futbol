@@ -11455,6 +11455,51 @@
       },
       "ts": 1794620953.392457,
       "collage": "collages\\6b3289da-bccb-40ce-8f1e-4934496c8a0c.webp"
+    },
+    {
+      "id": "e4f8d105-b852-4efe-aa1c-f63ff25617a3",
+      "text": "Celso Borges (1st Costa Rica, 5th CONCACAF) surpasses Ivan Perišić and reaches Shukor Salleh, Mohammed Al-Khilaiwi and Sayed Mohammed Jaffer as 23rd global player with 163 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Celso Borges",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 163,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Ivan Perišić",
+                "pais": "Croatia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Shukor Salleh",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Mohammed Al-Khilaiwi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Sayed Mohammed Jaffer",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 23,
+        "ambit": "global"
+      },
+      "ts": 1794622157.354697,
+      "collage": "collages\\e4f8d105-b852-4efe-aa1c-f63ff25617a3.webp"
     }
   ],
   "baseline": {
@@ -11976,7 +12021,7 @@
         "alias": "Celso Borges",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 162,
+        "valor": 163,
         "inici": "2008",
         "final": "2025",
         "actiu": false

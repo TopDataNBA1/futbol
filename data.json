@@ -11614,6 +11614,111 @@
       },
       "ts": 1794675666.635593,
       "collage": "collages\\2a2d80ca-2b1c-43b0-a483-7f193009a6d0.webp"
+    },
+    {
+      "id": "18fd98a7-5c27-4830-9a85-86708d7d5257",
+      "text": "Ben Davies (4th Wales) surpasses Thorbjørn Svenssen, Ioannis Okkas, Dirk Kuyt, Per Mertesacker, Ivica Olić, Martin Škrtel, Henri Anier and Elseid Hysaj and reaches Billy Wright, Jürgen Kohler, Mihails Zemļinskis, Sami Hyypiä, Jonatan Johansson, Stiliyan Petrov, Josip Šimunić, Tomáš Rosický, Branislav Ivanović, Yuri Zhirkov and Domagoj Vida as 188th UEFA, 506th global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ben Davies",
+        "pais": "Wales",
+        "confederacio": "UEFA",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Thorbjørn Svenssen",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Ioannis Okkas",
+                "pais": "Cyprus"
+              },
+              {
+                "nom": "Dirk Kuyt",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Per Mertesacker",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Ivica Olić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Martin Škrtel",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Elseid Hysaj",
+                "pais": "Albania"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Billy Wright",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Kohler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Mihails Zemļinskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Sami Hyypiä",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Jonatan Johansson",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Stiliyan Petrov",
+                "pais": "Bulgaria"
+              },
+              {
+                "nom": "Josip Šimunić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Tomáš Rosický",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Branislav Ivanović",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Yuri Zhirkov",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Domagoj Vida",
+                "pais": "Croatia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 188,
+        "rank_global": 506,
+        "ambit": "confederacio"
+      },
+      "ts": 1794678837.957554,
+      "collage": "collages\\18fd98a7-5c27-4830-9a85-86708d7d5257.webp"
     }
   ],
   "baseline": {
@@ -11820,7 +11925,7 @@
         "alias": "Ben Davies",
         "pais": "Wales",
         "confederacio": "UEFA",
-        "valor": 104,
+        "valor": 105,
         "inici": "2012",
         "final": "2026",
         "actiu": true

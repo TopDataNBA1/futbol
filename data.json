@@ -11500,6 +11500,75 @@
       },
       "ts": 1794622157.354697,
       "collage": "collages\\e4f8d105-b852-4efe-aa1c-f63ff25617a3.webp"
+    },
+    {
+      "id": "8e05db1e-27dc-4060-a14b-198fdee8f371",
+      "text": "Theerathon Bunmathan (4th Thailand) surpasses Hao Haidong, Mubarak Mustafa, Walid Abbas and Jalal Hassan and reaches Muhsin Musabah, Jamal Mubarak, Ahmed Hadid, Lee Dong-gook, Phil Younghusband and Fahad Al-Hajeri as 148th AFC, 466th global player with 107 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Theerathon Bunmathan",
+        "pais": "Thailand",
+        "confederacio": "AFC",
+        "valor": 107,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Hao Haidong",
+                "pais": "China"
+              },
+              {
+                "nom": "Mubarak Mustafa",
+                "pais": "Qatar"
+              },
+              {
+                "nom": "Walid Abbas",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Jalal Hassan",
+                "pais": "Iraq"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Muhsin Musabah",
+                "pais": "United Arab Emirates"
+              },
+              {
+                "nom": "Jamal Mubarak",
+                "pais": "Kuwait"
+              },
+              {
+                "nom": "Ahmed Hadid",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Lee Dong-gook",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Phil Younghusband",
+                "pais": "Philippines"
+              },
+              {
+                "nom": "Fahad Al-Hajeri",
+                "pais": "Kuwait"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 148,
+        "rank_global": 466,
+        "ambit": "confederacio"
+      },
+      "ts": 1794666188.262874,
+      "collage": "collages\\8e05db1e-27dc-4060-a14b-198fdee8f371.webp"
     }
   ],
   "baseline": {
@@ -12208,6 +12277,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-03-27"
+      },
+      "Theerathon Bunmathan": {
+        "alias": "Theerathon Bunmathan",
+        "pais": "Thailand",
+        "confederacio": "AFC",
+        "valor": 107,
+        "inici": "2010",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-03-31"
       }
     },
     "Gols": {

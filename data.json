@@ -11334,6 +11334,34 @@
       },
       "ts": 1794617661.71934,
       "collage": "collages\\afa5f5d9-ba6b-4fc0-8b8b-585615e7931b.webp"
+    },
+    {
+      "id": "500cb44e-85ac-4ff4-9bf6-1cd106382113",
+      "text": "Francisco Calvo (7th Costa Rica) reaches Angus Eve as 44th CONCACAF, 330th global player with 114 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Francisco Calvo",
+        "pais": "Costa Rica",
+        "confederacio": "CONCACAF",
+        "valor": 114,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Angus Eve",
+                "pais": "Trinidad and Tobago"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 44,
+        "rank_global": 330,
+        "ambit": "confederacio"
+      },
+      "ts": 1794617856.364738,
+      "collage": "collages\\500cb44e-85ac-4ff4-9bf6-1cd106382113.webp"
     }
   ],
   "baseline": {
@@ -11531,7 +11559,7 @@
         "alias": "Francisco Calvo",
         "pais": "Costa Rica",
         "confederacio": "CONCACAF",
-        "valor": 113,
+        "valor": 114,
         "inici": "2011",
         "final": "2026",
         "actiu": true

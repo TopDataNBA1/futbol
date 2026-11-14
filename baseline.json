@@ -54,7 +54,7 @@
       "alias": "Hassan Al-Haydos",
       "pais": "Qatar",
       "confederacio": "AFC",
-      "valor": 194193,
+      "valor": 194,
       "inici": "2008",
       "final": "2026",
       "actiu": true,
@@ -64,7 +64,7 @@
       "alias": "Ahmed Kano",
       "pais": "Oman",
       "confederacio": "AFC",
-      "valor": 194193,
+      "valor": 193,
       "inici": "2003",
       "final": "2019",
       "actiu": false,
@@ -420,6 +420,16 @@
       "actiu": false,
       "ultim_partit": "2026-06-24"
     },
+    "Son Heung-min": {
+      "alias": "Son Heung-min",
+      "pais": "South Korea",
+      "confederacio": "AFC",
+      "valor": 154,
+      "inici": "2010",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-13"
+    },
     "Fawzi Bashir": {
       "alias": "Fawzi Bashir",
       "pais": "Oman",
@@ -479,16 +489,6 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2026-06-06"
-    },
-    "Son Heung-min": {
-      "alias": "Son Heung-min",
-      "pais": "South Korea",
-      "confederacio": "AFC",
-      "valor": 151,
-      "inici": "2010",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-10-06"
     },
     "Claudio Bravo": {
       "alias": "Claudio Bravo",
@@ -6999,6 +6999,16 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2025-11-18"
+    },
+    "Sarach Yooyen": {
+      "alias": "Sarach Yooyen",
+      "pais": "Thailand",
+      "confederacio": "AFC",
+      "valor": 100,
+      "inici": "2013",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-14"
     }
   },
   "Gols": {
@@ -7141,6 +7151,16 @@
       "final": "1971",
       "actiu": false,
       "data_50e_gol": "1965-07-04"
+    },
+    "Vivian Woodward": {
+      "alias": "Vivian Woodward",
+      "pais": "England",
+      "confederacio": "UEFA",
+      "valor": 75,
+      "inici": "1903",
+      "final": "1914",
+      "actiu": false,
+      "data_50e_gol": "1909-05-31"
     },
     "Sándor Kocsis": {
       "alias": "Sándor Kocsis",
@@ -7326,7 +7346,7 @@
       "alias": "Erling Haaland",
       "pais": "Norway",
       "confederacio": "UEFA",
-      "valor": 65,
+      "valor": 66,
       "inici": "2019",
       "final": "2026",
       "actiu": true,
@@ -7472,6 +7492,16 @@
       "actiu": true,
       "data_50e_gol": "2024-11-14"
     },
+    "Sardar Azmoun": {
+      "alias": "Sardar Azmoun",
+      "pais": "Iran",
+      "confederacio": "AFC",
+      "valor": 58,
+      "inici": "2014",
+      "final": "2026",
+      "actiu": true,
+      "data_50e_gol": "2024-01-14"
+    },
     "Ali Ashfaq": {
       "alias": "Ali Ashfaq",
       "pais": "Maldives",
@@ -7501,16 +7531,6 @@
       "final": "2022",
       "actiu": false,
       "data_50e_gol": "2019-11-18"
-    },
-    "Sardar Azmoun": {
-      "alias": "Sardar Azmoun",
-      "pais": "Iran",
-      "confederacio": "AFC",
-      "valor": 57,
-      "inici": "2014",
-      "final": "2026",
-      "actiu": true,
-      "data_50e_gol": "2024-01-14"
     },
     "Carlos Pavón": {
       "alias": "Carlos Pavón",

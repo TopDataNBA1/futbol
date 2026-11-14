@@ -11719,6 +11719,34 @@
       },
       "ts": 1794678837.957554,
       "collage": "collages\\18fd98a7-5c27-4830-9a85-86708d7d5257.webp"
+    },
+    {
+      "id": "bd92fbb5-da7c-4a5d-aa2c-2d73187de147",
+      "text": "Robert Lewandowski (1st Poland, 5th UEFA) reaches Amer Shafi as 16th global player with 171 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Robert Lewandowski",
+        "pais": "Poland",
+        "confederacio": "UEFA",
+        "valor": 171,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Amer Shafi",
+                "pais": "Jordan"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 5,
+        "rank_global": 16,
+        "ambit": "global"
+      },
+      "ts": 1794688355.08207,
+      "collage": "collages\\bd92fbb5-da7c-4a5d-aa2c-2d73187de147.webp"
     }
   ],
   "baseline": {
@@ -11979,7 +12007,7 @@
         "alias": "Robert Lewandowski",
         "pais": "Poland",
         "confederacio": "UEFA",
-        "valor": 170,
+        "valor": 171,
         "inici": "2008",
         "final": "2026",
         "actiu": true

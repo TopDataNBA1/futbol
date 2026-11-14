@@ -11569,6 +11569,51 @@
       },
       "ts": 1794666188.262874,
       "collage": "collages\\8e05db1e-27dc-4060-a14b-198fdee8f371.webp"
+    },
+    {
+      "id": "2a2d80ca-2b1c-43b0-a483-7f193009a6d0",
+      "text": "Sardar Azmoun (3rd Iran) surpasses Younis Mahmoud and reaches Cha Bum-kun, Ali Ashfaq and Son Heung-min as 20th AFC, 48th global scorer with 58 international goals.",
+      "dades": {
+        "categoria": "Gols",
+        "jugador": "Sardar Azmoun",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 58,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Younis Mahmoud",
+                "pais": "Iraq"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Cha Bum-kun",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Ali Ashfaq",
+                "pais": "Maldives"
+              },
+              {
+                "nom": "Son Heung-min",
+                "pais": "South Korea"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 20,
+        "rank_global": 48,
+        "ambit": "confederacio"
+      },
+      "ts": 1794675666.635593,
+      "collage": "collages\\2a2d80ca-2b1c-43b0-a483-7f193009a6d0.webp"
     }
   ],
   "baseline": {
@@ -12344,6 +12389,16 @@
         "final": "2026",
         "actiu": true,
         "data_50e_gol": "2023-03-24"
+      },
+      "Sardar Azmoun": {
+        "alias": "Sardar Azmoun",
+        "pais": "Iran",
+        "confederacio": "AFC",
+        "valor": 58,
+        "inici": "2014",
+        "final": "2026",
+        "actiu": true,
+        "data_50e_gol": "2024-01-14"
       }
     }
   },

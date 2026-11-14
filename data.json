@@ -11747,6 +11747,75 @@
       },
       "ts": 1794688355.08207,
       "collage": "collages\\bd92fbb5-da7c-4a5d-aa2c-2d73187de147.webp"
+    },
+    {
+      "id": "266481e1-cd36-46f0-a077-16e8a66db523",
+      "text": "Bernardo Silva (5th Portugal) surpasses Gheorghe Popescu, David Beckham, Andrejs Rubins, Miralem Pjanić and Thibaut Courtois and reaches Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Dušan Tadić as 104th UEFA, 298th global player with 116 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Bernardo Silva",
+        "pais": "Portugal",
+        "confederacio": "UEFA",
+        "valor": 116,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Gheorghe Popescu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "David Beckham",
+                "pais": "England"
+              },
+              {
+                "nom": "Andrejs Rubins",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Miralem Pjanić",
+                "pais": "Bosnia and Herzegovina"
+              },
+              {
+                "nom": "Thibaut Courtois",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Roland Nilsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Marcel Desailly",
+                "pais": "France"
+              },
+              {
+                "nom": "Andrea Pirlo",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Kostas Katsouranis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Dušan Tadić",
+                "pais": "Serbia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 5,
+        "rank_confederacio": 104,
+        "rank_global": 298,
+        "ambit": "confederacio"
+      },
+      "ts": 1794692333.24479,
+      "collage": "collages\\266481e1-cd36-46f0-a077-16e8a66db523.webp"
     }
   ],
   "baseline": {
@@ -12205,7 +12274,7 @@
         "alias": "Bernardo Silva",
         "pais": "Portugal",
         "confederacio": "UEFA",
-        "valor": 115,
+        "valor": 116,
         "inici": "2015",
         "final": "2026",
         "actiu": true

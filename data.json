@@ -11362,6 +11362,99 @@
       },
       "ts": 1794617856.364738,
       "collage": "collages\\500cb44e-85ac-4ff4-9bf6-1cd106382113.webp"
+    },
+    {
+      "id": "79f1116b-a045-4b7c-bf92-7380bb2f8b62",
+      "text": "Pedro Gallese surpasses Luis Advíncula as 2nd Peru, 20th CONMEBOL, 159th global player with 131 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Pedro Gallese",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 131,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Luis Advíncula",
+                "pais": "Peru"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 20,
+        "rank_global": 159,
+        "ambit": "compatriota"
+      },
+      "ts": 1794620953.15408,
+      "collage": "collages\\79f1116b-a045-4b7c-bf92-7380bb2f8b62.webp"
+    },
+    {
+      "id": "6b3289da-bccb-40ce-8f1e-4934496c8a0c",
+      "text": "Yoshimar Yotún (1st Peru, 17th CONMEBOL) surpasses Mokhtar Dahari, Hong Myung-bo, Hussein Abdulghani, Osama Hawsawi, Marek Hamšík and Peter Pekarík and reaches Giorgos Karagounis, Steven Davis and Ismail Abdullatif as 99th global player with 139 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Yoshimar Yotún",
+        "pais": "Peru",
+        "confederacio": "CONMEBOL",
+        "valor": 139,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Mokhtar Dahari",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Hong Myung-bo",
+                "pais": "South Korea"
+              },
+              {
+                "nom": "Hussein Abdulghani",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Osama Hawsawi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Marek Hamšík",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Peter Pekarík",
+                "pais": "Slovakia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Giorgos Karagounis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Steven Davis",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Ismail Abdullatif",
+                "pais": "Bahrain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 17,
+        "rank_global": 99,
+        "ambit": "global"
+      },
+      "ts": 1794620953.392457,
+      "collage": "collages\\6b3289da-bccb-40ce-8f1e-4934496c8a0c.webp"
     }
   ],
   "baseline": {
@@ -11766,7 +11859,7 @@
         "alias": "Yoshimar Yotún",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 138,
+        "valor": 139,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -11775,7 +11868,7 @@
         "alias": "Pedro Gallese",
         "pais": "Peru",
         "confederacio": "CONMEBOL",
-        "valor": 130,
+        "valor": 131,
         "inici": "2014",
         "final": "2026",
         "actiu": true

@@ -12358,6 +12358,50 @@
       },
       "ts": 1794775094.302001,
       "collage": "collages\\190e0c60-fa43-43cc-9221-b51597d69074.webp"
+    },
+    {
+      "id": "ec6937a5-fd8b-47b3-883c-c4f215e7e006",
+      "text": "Romelu Lukaku (3rd Belgium) surpasses Dorinel Munteanu, Andres Oper, Shay Given, Darijo Srna and Wesley Sneijder as 40th UEFA, 126th global player with 135 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Romelu Lukaku",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 135,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Dorinel Munteanu",
+                "pais": "Romania"
+              },
+              {
+                "nom": "Andres Oper",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Shay Given",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Darijo Srna",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Wesley Sneijder",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 40,
+        "rank_global": 126,
+        "ambit": "confederacio"
+      },
+      "ts": 1794778764.060488,
+      "collage": "collages\\ec6937a5-fd8b-47b3-883c-c4f215e7e006.webp"
     }
   ],
   "baseline": {
@@ -12636,7 +12680,7 @@
         "alias": "Romelu Lukaku",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 134,
+        "valor": 135,
         "inici": "2010",
         "final": "2026",
         "actiu": true

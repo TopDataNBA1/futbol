@@ -12289,6 +12289,75 @@
       },
       "ts": 1794775055.88184,
       "collage": "collages\\3e8ec0ca-4387-4236-9565-a9377a694261.webp"
+    },
+    {
+      "id": "190e0c60-fa43-43cc-9221-b51597d69074",
+      "text": "Harry Kane (1st England) surpasses Andoni Zubizarreta, Paolo Maldini, Enar Jääger and Eden Hazard and reaches Luís Figo, Dennis Rommedahl, Sergei Ignashevich, Toby Alderweireld, Andriy Yarmolenko and Laurent Jans as 63rd UEFA, 188th global player with 127 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Harry Kane",
+        "pais": "England",
+        "confederacio": "UEFA",
+        "valor": 127,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Andoni Zubizarreta",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Paolo Maldini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Enar Jääger",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Eden Hazard",
+                "pais": "Belgium"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Luís Figo",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Dennis Rommedahl",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Sergei Ignashevich",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Andriy Yarmolenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Laurent Jans",
+                "pais": "Luxembourg"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 63,
+        "rank_global": 188,
+        "ambit": "confederacio"
+      },
+      "ts": 1794775094.302001,
+      "collage": "collages\\190e0c60-fa43-43cc-9221-b51597d69074.webp"
     }
   ],
   "baseline": {
@@ -12720,7 +12789,7 @@
         "alias": "Harry Kane",
         "pais": "England",
         "confederacio": "UEFA",
-        "valor": 126,
+        "valor": 127,
         "inici": "2015",
         "final": "2026",
         "actiu": true

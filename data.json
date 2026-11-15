@@ -12005,6 +12005,123 @@
       },
       "ts": 1794764895.757167,
       "collage": "collages\\19d57a08-20b3-4596-beaf-79a964fa497d.webp"
+    },
+    {
+      "id": "cc0aca27-bdf9-4d84-9cc5-902af8b9c7c0",
+      "text": "Luka Modrić (1st Croatia, 2nd UEFA) reaches Lionel Messi as 2nd global player with 208 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Luka Modrić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 208,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Lionel Messi",
+                "pais": "Argentina"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 2,
+        "rank_global": 2,
+        "ambit": "global"
+      },
+      "ts": 1794774708.84813,
+      "collage": "collages\\cc0aca27-bdf9-4d84-9cc5-902af8b9c7c0.webp"
+    },
+    {
+      "id": "bfdc415a-ea92-470c-bbb3-44d3a9eaba90",
+      "text": "Mateo Kovačić (4th Croatia) surpasses Peter Schmeichel, Bastian Schweinsteiger and Leonardo Bonucci and reaches Goran Pandev and Zlatan Ibrahimović as 82nd UEFA, 238th global player with 122 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Mateo Kovačić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 122,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Peter Schmeichel",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Bastian Schweinsteiger",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Leonardo Bonucci",
+                "pais": "Italy"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Goran Pandev",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Zlatan Ibrahimović",
+                "pais": "Sweden"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 82,
+        "rank_global": 238,
+        "ambit": "confederacio"
+      },
+      "ts": 1794774709.056309,
+      "collage": "collages\\bfdc415a-ea92-470c-bbb3-44d3a9eaba90.webp"
+    },
+    {
+      "id": "cf548668-415a-4e5c-9788-3c864aea33fa",
+      "text": "Ivan Perišić (2nd Croatia, 8th UEFA) reaches Shukor Salleh, Mohammed Al-Khilaiwi, Sayed Mohammed Jaffer and Celso Borges as 23rd global player with 163 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ivan Perišić",
+        "pais": "Croatia",
+        "confederacio": "UEFA",
+        "valor": 163,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Shukor Salleh",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Mohammed Al-Khilaiwi",
+                "pais": "Saudi Arabia"
+              },
+              {
+                "nom": "Sayed Mohammed Jaffer",
+                "pais": "Bahrain"
+              },
+              {
+                "nom": "Celso Borges",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 8,
+        "rank_global": 23,
+        "ambit": "global"
+      },
+      "ts": 1794774709.276172,
+      "collage": "collages\\cf548668-415a-4e5c-9788-3c864aea33fa.webp"
     }
   ],
   "baseline": {
@@ -12382,7 +12499,7 @@
         "alias": "Luka Modrić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 207,
+        "valor": 208,
         "inici": "2006",
         "final": "2026",
         "actiu": true
@@ -12391,7 +12508,7 @@
         "alias": "Ivan Perišić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 162,
+        "valor": 163,
         "inici": "2011",
         "final": "2026",
         "actiu": true
@@ -12445,7 +12562,7 @@
         "alias": "Mateo Kovačić",
         "pais": "Croatia",
         "confederacio": "UEFA",
-        "valor": 121,
+        "valor": 122,
         "inici": "2013",
         "final": "2026",
         "actiu": true

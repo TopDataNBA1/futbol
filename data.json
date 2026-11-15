@@ -12122,6 +12122,128 @@
       },
       "ts": 1794774709.276172,
       "collage": "collages\\cf548668-415a-4e5c-9788-3c864aea33fa.webp"
+    },
+    {
+      "id": "6b723702-42e3-4784-9b01-1554e5254b3d",
+      "text": "Kylian Mbappé surpasses Patrick Vieira and reaches Zinedine Zidane as 7th France, 162nd UEFA, 445th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kylian Mbappé",
+        "pais": "France",
+        "confederacio": "UEFA",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 7,
+        "rank_confederacio": 162,
+        "rank_global": 445,
+        "ambit": "compatriota"
+      },
+      "ts": 1794774751.448549,
+      "collage": "collages\\6b723702-42e3-4784-9b01-1554e5254b3d.webp"
+    },
+    {
+      "id": "fa7f330e-2b46-414f-a36e-6bdb2bb76e15",
+      "text": "Hakan Çalhanoğlu (3rd Turkey) surpasses Niclas Alexandersson, Rafael van der Vaart, Balázs Dzsudzsák, Chris Gunter, Dries Mertens, Jakub Błaszczykowski, Wayne Hennessey and Lukas Hradecky and reaches Carmel Busuttil, Fernando Couto, Kevin Kilbane, John Arne Riise, Fernando Torres and Cesc Fàbregas as 147th UEFA, 403rd global player with 110 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Hakan Çalhanoğlu",
+        "pais": "Turkey",
+        "confederacio": "UEFA",
+        "valor": 110,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Niclas Alexandersson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Rafael van der Vaart",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Balázs Dzsudzsák",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Chris Gunter",
+                "pais": "Wales"
+              },
+              {
+                "nom": "Dries Mertens",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Jakub Błaszczykowski",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Wayne Hennessey",
+                "pais": "Wales"
+              },
+              {
+                "nom": "Lukas Hradecky",
+                "pais": "Finland"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Carmel Busuttil",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Fernando Couto",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Kevin Kilbane",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "John Arne Riise",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Fernando Torres",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Cesc Fàbregas",
+                "pais": "Spain"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 3,
+        "rank_confederacio": 147,
+        "rank_global": 403,
+        "ambit": "confederacio"
+      },
+      "ts": 1794774751.65156,
+      "collage": "collages\\fa7f330e-2b46-414f-a36e-6bdb2bb76e15.webp"
     }
   ],
   "baseline": {
@@ -12445,7 +12567,7 @@
         "alias": "Kylian Mbappé",
         "pais": "France",
         "confederacio": "UEFA",
-        "valor": 107,
+        "valor": 108,
         "inici": "2017",
         "final": "2026",
         "actiu": true
@@ -12725,7 +12847,7 @@
         "alias": "Hakan Çalhanoğlu",
         "pais": "Turkey",
         "confederacio": "UEFA",
-        "valor": 109,
+        "valor": 110,
         "inici": "2013",
         "final": "2026",
         "actiu": true,

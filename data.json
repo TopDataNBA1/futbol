@@ -11868,6 +11868,38 @@
       },
       "ts": 1794654000.0,
       "collage": "collages\\d06c47d3-ed2e-486b-8d26-b11227056f2d.webp"
+    },
+    {
+      "id": "2dec1ea0-137d-4d90-a37e-ecd373f8d34e",
+      "text": "Jesús Gallardo reaches Jorge Campos and Raúl Jiménez as 8th Mexico, 25th CONCACAF, 167th global player with 130 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Jesús Gallardo",
+        "pais": "Mexico",
+        "confederacio": "CONCACAF",
+        "valor": 130,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Jorge Campos",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Raúl Jiménez",
+                "pais": "Mexico"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 25,
+        "rank_global": 167,
+        "ambit": "compatriota"
+      },
+      "ts": 1794707166.689908,
+      "collage": "collages\\2dec1ea0-137d-4d90-a37e-ecd373f8d34e.webp"
     }
   ],
   "baseline": {
@@ -12290,7 +12322,7 @@
         "alias": "Jesús Gallardo",
         "pais": "Mexico",
         "confederacio": "CONCACAF",
-        "valor": 129,
+        "valor": 130,
         "inici": "2016",
         "final": "2026",
         "actiu": true

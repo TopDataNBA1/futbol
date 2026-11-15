@@ -12244,6 +12244,51 @@
       },
       "ts": 1794774751.65156,
       "collage": "collages\\fa7f330e-2b46-414f-a36e-6bdb2bb76e15.webp"
+    },
+    {
+      "id": "3e8ec0ca-4387-4236-9565-a9377a694261",
+      "text": "Kevin De Bruyne (4th Belgium) surpasses Márcio Vieira and Manuel Neuer and reaches Ragnar Klavan and Guram Kashia as 58th UEFA, 178th global player with 129 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Kevin De Bruyne",
+        "pais": "Belgium",
+        "confederacio": "UEFA",
+        "valor": 129,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Márcio Vieira",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Manuel Neuer",
+                "pais": "Germany"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Ragnar Klavan",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Guram Kashia",
+                "pais": "Georgia"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 58,
+        "rank_global": 178,
+        "ambit": "confederacio"
+      },
+      "ts": 1794775055.88184,
+      "collage": "collages\\3e8ec0ca-4387-4236-9565-a9377a694261.webp"
     }
   ],
   "baseline": {
@@ -12531,7 +12576,7 @@
         "alias": "Kevin De Bruyne",
         "pais": "Belgium",
         "confederacio": "UEFA",
-        "valor": 128,
+        "valor": 129,
         "inici": "2010",
         "final": "2026",
         "actiu": true

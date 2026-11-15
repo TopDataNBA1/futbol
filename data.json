@@ -11900,6 +11900,111 @@
       },
       "ts": 1794707166.689908,
       "collage": "collages\\2dec1ea0-137d-4d90-a37e-ecd373f8d34e.webp"
+    },
+    {
+      "id": "19d57a08-20b3-4596-beaf-79a964fa497d",
+      "text": "Elseid Hysaj (1st Albania) surpasses Thorbjørn Svenssen, Ioannis Okkas, Dirk Kuyt, Per Mertesacker, Ivica Olić, Martin Škrtel and Henri Anier and reaches Billy Wright, Jürgen Kohler, Mihails Zemļinskis, Sami Hyypiä, Jonatan Johansson, Stiliyan Petrov, Josip Šimunić, Tomáš Rosický, Branislav Ivanović, Yuri Zhirkov, Domagoj Vida and Ben Davies as 188th UEFA, 506th global player with 105 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Elseid Hysaj",
+        "pais": "Albania",
+        "confederacio": "UEFA",
+        "valor": 105,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Thorbjørn Svenssen",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Ioannis Okkas",
+                "pais": "Cyprus"
+              },
+              {
+                "nom": "Dirk Kuyt",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Per Mertesacker",
+                "pais": "Germany"
+              },
+              {
+                "nom": "Ivica Olić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Martin Škrtel",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Henri Anier",
+                "pais": "Estonia"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Billy Wright",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Kohler",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Mihails Zemļinskis",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Sami Hyypiä",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Jonatan Johansson",
+                "pais": "Finland"
+              },
+              {
+                "nom": "Stiliyan Petrov",
+                "pais": "Bulgaria"
+              },
+              {
+                "nom": "Josip Šimunić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Tomáš Rosický",
+                "pais": "Czech Republic"
+              },
+              {
+                "nom": "Branislav Ivanović",
+                "pais": "Serbia and Montenegro"
+              },
+              {
+                "nom": "Yuri Zhirkov",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Domagoj Vida",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Ben Davies",
+                "pais": "Wales"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 188,
+        "rank_global": 506,
+        "ambit": "confederacio"
+      },
+      "ts": 1794764895.757167,
+      "collage": "collages\\19d57a08-20b3-4596-beaf-79a964fa497d.webp"
     }
   ],
   "baseline": {
@@ -12349,7 +12454,7 @@
         "alias": "Elseid Hysaj",
         "pais": "Albania",
         "confederacio": "UEFA",
-        "valor": 104,
+        "valor": 105,
         "inici": "2013",
         "final": "2026",
         "actiu": true

@@ -12625,6 +12625,99 @@
       },
       "ts": 1794858483.395802,
       "collage": "collages\\e1adfce5-0010-47b3-95bd-7b36a0fae8c4.webp"
+    },
+    {
+      "id": "8e1e29b9-cbc5-49fc-b418-252d8ef27f06",
+      "text": "Aleksandar Mitrović (2nd Serbia) surpasses Patrick Vieira, Miroslav Karhan, Ashley Cole, Gábor Király, Jonny Evans, Marc Vales and Moisés San Nicolás and reaches Bobby Moore, Jürgen Klinsmann, Zinedine Zidane, Thomas Helveg, Rashad Sadygov, Stephan Lichtsteiner, Rui Patrício, Daley Blind and Kylian Mbappé as 162nd UEFA, 445th global player with 108 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Aleksandar Mitrović",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 108,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Patrick Vieira",
+                "pais": "France"
+              },
+              {
+                "nom": "Miroslav Karhan",
+                "pais": "Slovakia"
+              },
+              {
+                "nom": "Ashley Cole",
+                "pais": "England"
+              },
+              {
+                "nom": "Gábor Király",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Jonny Evans",
+                "pais": "Northern Ireland"
+              },
+              {
+                "nom": "Marc Vales",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Moisés San Nicolás",
+                "pais": "Andorra"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Bobby Moore",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Klinsmann",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              },
+              {
+                "nom": "Thomas Helveg",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Rashad Sadygov",
+                "pais": "Azerbaijan"
+              },
+              {
+                "nom": "Stephan Lichtsteiner",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Rui Patrício",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Daley Blind",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 162,
+        "rank_global": 445,
+        "ambit": "confederacio"
+      },
+      "ts": 1794861092.619788,
+      "collage": "collages\\8e1e29b9-cbc5-49fc-b418-252d8ef27f06.webp"
     }
   ],
   "baseline": {
@@ -13298,7 +13391,7 @@
         "alias": "Aleksandar Mitrović",
         "pais": "Serbia",
         "confederacio": "UEFA",
-        "valor": 107,
+        "valor": 108,
         "inici": "2013",
         "final": "2026",
         "actiu": true,

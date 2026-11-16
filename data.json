@@ -12718,6 +12718,34 @@
       },
       "ts": 1794861092.619788,
       "collage": "collages\\8e1e29b9-cbc5-49fc-b418-252d8ef27f06.webp"
+    },
+    {
+      "id": "d3a33cfa-07f1-4f31-81a4-2ebc1da708b2",
+      "text": "Andy Robertson surpasses Kenny Dalglish as 1st Scotland, 209th UEFA, 560th global player with 103 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Andy Robertson",
+        "pais": "Scotland",
+        "confederacio": "UEFA",
+        "valor": 103,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Kenny Dalglish",
+                "pais": "Scotland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 209,
+        "rank_global": 560,
+        "ambit": "compatriota"
+      },
+      "ts": 1794861459.271577,
+      "collage": "collages\\d3a33cfa-07f1-4f31-81a4-2ebc1da708b2.webp"
     }
   ],
   "baseline": {
@@ -13381,7 +13409,7 @@
         "alias": "Andy Robertson",
         "pais": "Scotland",
         "confederacio": "UEFA",
-        "valor": 102,
+        "valor": 103,
         "inici": "2014",
         "final": "2026",
         "actiu": true,

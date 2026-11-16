@@ -6030,6 +6030,16 @@
       "actiu": false,
       "ultim_partit": "2008-11-19"
     },
+    "Michael Amir Murillo": {
+      "alias": "Michael Amir Murillo",
+      "pais": "Panama",
+      "confederacio": "CONCACAF",
+      "valor": 102,
+      "inici": "2016",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-15"
+    },
     "Mario Mutsch": {
       "alias": "Mario Mutsch",
       "pais": "Luxembourg",
@@ -6440,16 +6450,6 @@
       "actiu": false,
       "ultim_partit": "2022-11-16"
     },
-    "Michael Amir Murillo": {
-      "alias": "Michael Amir Murillo",
-      "pais": "Panama",
-      "confederacio": "CONCACAF",
-      "valor": 101,
-      "inici": "2016",
-      "final": "2026",
-      "actiu": true,
-      "ultim_partit": "2026-11-12"
-    },
     "Mohammed Rabia": {
       "alias": "Mohammed Rabia",
       "pais": "Oman",
@@ -6739,6 +6739,16 @@
       "final": "2026",
       "actiu": true,
       "ultim_partit": "2026-06-27"
+    },
+    "Remo Freuler": {
+      "alias": "Remo Freuler",
+      "pais": "Switzerland",
+      "confederacio": "UEFA",
+      "valor": 100,
+      "inici": "2017",
+      "final": "2026",
+      "actiu": true,
+      "ultim_partit": "2026-11-16"
     },
     "Lars Gerson": {
       "alias": "Lars Gerson",
@@ -7059,7 +7069,7 @@
       "valor": 94,
       "inici": "2010",
       "final": "2026",
-      "actiu": true,
+      "actiu": false,
       "data_50e_gol": "2019-10-10"
     },
     "Harry Kane": {

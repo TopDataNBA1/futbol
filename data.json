@@ -12499,6 +12499,67 @@
       },
       "ts": 1794851320.550297,
       "collage": "collages\\e67e37e2-dbb9-409b-a7b7-05855bb74bb6.webp"
+    },
+    {
+      "id": "403e6827-89f8-4ddf-be5c-28dfcc84d35d",
+      "text": "Laurent Jans (1st Luxembourg) surpasses Luís Figo, Dennis Rommedahl, Sergei Ignashevich, Toby Alderweireld, Andriy Yarmolenko and Harry Kane and reaches Márcio Vieira and Manuel Neuer as 61st UEFA, 184th global player with 128 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Laurent Jans",
+        "pais": "Luxembourg",
+        "confederacio": "UEFA",
+        "valor": 128,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Luís Figo",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Dennis Rommedahl",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Sergei Ignashevich",
+                "pais": "Russia"
+              },
+              {
+                "nom": "Toby Alderweireld",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Andriy Yarmolenko",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Harry Kane",
+                "pais": "England"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Márcio Vieira",
+                "pais": "Andorra"
+              },
+              {
+                "nom": "Manuel Neuer",
+                "pais": "Germany"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 61,
+        "rank_global": 184,
+        "ambit": "confederacio"
+      },
+      "ts": 1794851349.536139,
+      "collage": "collages\\403e6827-89f8-4ddf-be5c-28dfcc84d35d.webp"
     }
   ],
   "baseline": {
@@ -12858,7 +12919,7 @@
         "alias": "Laurent Jans",
         "pais": "Luxembourg",
         "confederacio": "UEFA",
-        "valor": 127,
+        "valor": 128,
         "inici": "2012",
         "final": "2026",
         "actiu": true

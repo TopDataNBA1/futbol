@@ -12560,6 +12560,34 @@
       },
       "ts": 1794851349.536139,
       "collage": "collages\\403e6827-89f8-4ddf-be5c-28dfcc84d35d.webp"
+    },
+    {
+      "id": "0cb00680-5a32-4925-b461-0ed9e42396d1",
+      "text": "Aron Gunnarsson reaches Birkir Bjarnason as 1st Iceland, 126th UEFA, 350th global player with 113 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Aron Gunnarsson",
+        "pais": "Iceland",
+        "confederacio": "UEFA",
+        "valor": 113,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Birkir Bjarnason",
+                "pais": "Iceland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 126,
+        "rank_global": 350,
+        "ambit": "compatriota"
+      },
+      "ts": 1794855117.831952,
+      "collage": "collages\\0cb00680-5a32-4925-b461-0ed9e42396d1.webp"
     }
   ],
   "baseline": {
@@ -13108,7 +13136,7 @@
         "alias": "Aron Gunnarsson",
         "pais": "Iceland",
         "confederacio": "UEFA",
-        "valor": 112,
+        "valor": 113,
         "inici": "2008",
         "final": "2026",
         "actiu": true

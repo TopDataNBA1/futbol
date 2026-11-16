@@ -12402,6 +12402,103 @@
       },
       "ts": 1794778764.060488,
       "collage": "collages\\ec6937a5-fd8b-47b3-883c-c4f215e7e006.webp"
+    },
+    {
+      "id": "e67e37e2-dbb9-409b-a7b7-05855bb74bb6",
+      "text": "Karol Mets (12th Estonia) surpasses Bobby Moore, Jürgen Klinsmann, Zinedine Zidane, Thomas Helveg, Rashad Sadygov, Stephan Lichtsteiner, Rui Patrício, Daley Blind and Kylian Mbappé and reaches Niclas Alexandersson, Rafael van der Vaart, Balázs Dzsudzsák, Chris Gunter, Dries Mertens, Jakub Błaszczykowski, Wayne Hennessey and Lukas Hradecky as 154th UEFA, 425th global player with 109 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Karol Mets",
+        "pais": "Estonia",
+        "confederacio": "UEFA",
+        "valor": 109,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Bobby Moore",
+                "pais": "England"
+              },
+              {
+                "nom": "Jürgen Klinsmann",
+                "pais": "West Germany"
+              },
+              {
+                "nom": "Zinedine Zidane",
+                "pais": "France"
+              },
+              {
+                "nom": "Thomas Helveg",
+                "pais": "Denmark"
+              },
+              {
+                "nom": "Rashad Sadygov",
+                "pais": "Azerbaijan"
+              },
+              {
+                "nom": "Stephan Lichtsteiner",
+                "pais": "Switzerland"
+              },
+              {
+                "nom": "Rui Patrício",
+                "pais": "Portugal"
+              },
+              {
+                "nom": "Daley Blind",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Kylian Mbappé",
+                "pais": "France"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Niclas Alexandersson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Rafael van der Vaart",
+                "pais": "Netherlands"
+              },
+              {
+                "nom": "Balázs Dzsudzsák",
+                "pais": "Hungary"
+              },
+              {
+                "nom": "Chris Gunter",
+                "pais": "Wales"
+              },
+              {
+                "nom": "Dries Mertens",
+                "pais": "Belgium"
+              },
+              {
+                "nom": "Jakub Błaszczykowski",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Wayne Hennessey",
+                "pais": "Wales"
+              },
+              {
+                "nom": "Lukas Hradecky",
+                "pais": "Finland"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 12,
+        "rank_confederacio": 154,
+        "rank_global": 425,
+        "ambit": "confederacio"
+      },
+      "ts": 1794851320.550297,
+      "collage": "collages\\e67e37e2-dbb9-409b-a7b7-05855bb74bb6.webp"
     }
   ],
   "baseline": {
@@ -12770,7 +12867,7 @@
         "alias": "Karol Mets",
         "pais": "Estonia",
         "confederacio": "UEFA",
-        "valor": 108,
+        "valor": 109,
         "inici": "2013",
         "final": "2026",
         "actiu": true

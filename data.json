@@ -12588,6 +12588,43 @@
       },
       "ts": 1794855117.831952,
       "collage": "collages\\0cb00680-5a32-4925-b461-0ed9e42396d1.webp"
+    },
+    {
+      "id": "e1adfce5-0010-47b3-95bd-7b36a0fae8c4",
+      "text": "Moisés San Nicolás surpasses Óscar Sonejee and reaches Marc Vales as 4th Andorra, 172nd UEFA, 468th global player with 107 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Moisés San Nicolás",
+        "pais": "Andorra",
+        "confederacio": "UEFA",
+        "valor": 107,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Óscar Sonejee",
+                "pais": "Andorra"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Marc Vales",
+                "pais": "Andorra"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 4,
+        "rank_confederacio": 172,
+        "rank_global": 468,
+        "ambit": "compatriota"
+      },
+      "ts": 1794858483.395802,
+      "collage": "collages\\e1adfce5-0010-47b3-95bd-7b36a0fae8c4.webp"
     }
   ],
   "baseline": {
@@ -12659,7 +12696,7 @@
         "alias": "Moisés San Nicolás",
         "pais": "Andorra",
         "confederacio": "UEFA",
-        "valor": 106,
+        "valor": 107,
         "inici": "2012",
         "final": "2026",
         "actiu": true

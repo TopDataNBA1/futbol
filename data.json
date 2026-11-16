@@ -12803,6 +12803,71 @@
       },
       "ts": 1794861485.725816,
       "collage": "collages\\89444470-0480-4952-a371-36d404bf86a3.webp"
+    },
+    {
+      "id": "bfdc24ec-32e8-45fd-b40c-f1a46944072f",
+      "text": "Dušan Tadić (1st Serbia) surpasses Roland Nilsson, Marcel Desailly, Andrea Pirlo, Kostas Katsouranis and Bernardo Silva and reaches Olof Mellberg, Daniele De Rossi, Giorgio Chiellini and David Alaba as 100th UEFA, 285th global player with 117 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Dušan Tadić",
+        "pais": "Serbia",
+        "confederacio": "UEFA",
+        "valor": 117,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Roland Nilsson",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Marcel Desailly",
+                "pais": "France"
+              },
+              {
+                "nom": "Andrea Pirlo",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Kostas Katsouranis",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Bernardo Silva",
+                "pais": "Portugal"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Olof Mellberg",
+                "pais": "Sweden"
+              },
+              {
+                "nom": "Daniele De Rossi",
+                "pais": "Italy"
+              },
+              {
+                "nom": "Giorgio Chiellini",
+                "pais": "Italy"
+              },
+              {
+                "nom": "David Alaba",
+                "pais": "Austria"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 1,
+        "rank_confederacio": 100,
+        "rank_global": 285,
+        "ambit": "confederacio"
+      },
+      "ts": 1794864958.535549,
+      "collage": "collages\\bfdc24ec-32e8-45fd-b40c-f1a46944072f.webp"
     }
   ],
   "baseline": {
@@ -12991,7 +13056,7 @@
         "alias": "Dušan Tadić",
         "pais": "Serbia",
         "confederacio": "UEFA",
-        "valor": 116,
+        "valor": 117,
         "inici": "2008",
         "final": "2026",
         "actiu": true

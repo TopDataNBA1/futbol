@@ -12868,6 +12868,34 @@
       },
       "ts": 1794864958.535549,
       "collage": "collages\\bfdc24ec-32e8-45fd-b40c-f1a46944072f.webp"
+    },
+    {
+      "id": "67001f10-476b-49e2-86ec-0aeeb03b4db3",
+      "text": "Ricardo Rodriguez (2nd Switzerland) reaches Lothar Matthäus as 15th UEFA, 50th global player with 150 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Ricardo Rodriguez",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 150,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Lothar Matthäus",
+                "pais": "West Germany"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 15,
+        "rank_global": 50,
+        "ambit": "confederacio"
+      },
+      "ts": 1794865279.421669,
+      "collage": "collages\\67001f10-476b-49e2-86ec-0aeeb03b4db3.webp"
     }
   ],
   "baseline": {
@@ -13263,7 +13291,7 @@
         "alias": "Ricardo Rodriguez",
         "pais": "Switzerland",
         "confederacio": "UEFA",
-        "valor": 149,
+        "valor": 150,
         "inici": "2011",
         "final": "2026",
         "actiu": true

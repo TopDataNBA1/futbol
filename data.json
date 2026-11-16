@@ -10482,34 +10482,6 @@
       "collage": "collages\\22c1f3b3-7ab9-4e38-9522-fafc19790872.webp"
     },
     {
-      "id": "2ffbc202-d9db-47b0-ae91-4c321f50d6fa",
-      "text": "Trézéguet surpasses Mohamed Aboutrika as 15th Egypt, 58th CAF, 617th global player with 101 international caps.",
-      "dades": {
-        "categoria": "Partits",
-        "jugador": "Trézéguet",
-        "pais": "Egypt",
-        "confederacio": "CAF",
-        "valor": 101,
-        "accions": [
-          {
-            "verb": "surpasses",
-            "jugadors": [
-              {
-                "nom": "Mohamed Aboutrika",
-                "pais": "Egypt"
-              }
-            ]
-          }
-        ],
-        "rank_nacional": 15,
-        "rank_confederacio": 58,
-        "rank_global": 617,
-        "ambit": "compatriota"
-      },
-      "ts": 1794599313.10404,
-      "collage": "collages\\2ffbc202-d9db-47b0-ae91-4c321f50d6fa.webp"
-    },
-    {
       "id": "8352483b-98bf-448a-8eb9-0fba1365fb13",
       "text": "Laurent Jans (1st Luxembourg) surpasses Andoni Zubizarreta, Paolo Maldini, Enar Jääger, Eden Hazard and Harry Kane and reaches Luís Figo, Dennis Rommedahl, Sergei Ignashevich, Toby Alderweireld and Andriy Yarmolenko as 63rd UEFA, 188th global player with 127 international caps.",
       "dades": {
@@ -12896,6 +12868,114 @@
       },
       "ts": 1794865279.421669,
       "collage": "collages\\67001f10-476b-49e2-86ec-0aeeb03b4db3.webp"
+    },
+    {
+      "id": "822248d4-544c-4a32-bb6c-8454af310a6b",
+      "text": "Remo Freuler (8th Switzerland) reaches Ulf Kirsten, Rúnar Kristinsson, Henning Berg, Dario Šimić, Angelos Basinas, Goce Sedloski, Igors Stepanovs, Damien Duff, Carles Puyol, Arda Turan, Roderick Briffa, Ruslan Rotan, Bojan Jokić, Alexandru Epureanu, Aleksandar Dragović, Grzegorz Krychowiak, Taijo Teniste, Matteo Vitaioli, Lars Gerson, Jóan Símun Edmundsson and Virgil van Dijk as 256th UEFA, 657th global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Remo Freuler",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Ulf Kirsten",
+                "pais": "East Germany"
+              },
+              {
+                "nom": "Rúnar Kristinsson",
+                "pais": "Iceland"
+              },
+              {
+                "nom": "Henning Berg",
+                "pais": "Norway"
+              },
+              {
+                "nom": "Dario Šimić",
+                "pais": "Croatia"
+              },
+              {
+                "nom": "Angelos Basinas",
+                "pais": "Greece"
+              },
+              {
+                "nom": "Goce Sedloski",
+                "pais": "North Macedonia"
+              },
+              {
+                "nom": "Igors Stepanovs",
+                "pais": "Latvia"
+              },
+              {
+                "nom": "Damien Duff",
+                "pais": "Republic of Ireland"
+              },
+              {
+                "nom": "Carles Puyol",
+                "pais": "Spain"
+              },
+              {
+                "nom": "Arda Turan",
+                "pais": "Turkey"
+              },
+              {
+                "nom": "Roderick Briffa",
+                "pais": "Malta"
+              },
+              {
+                "nom": "Ruslan Rotan",
+                "pais": "Ukraine"
+              },
+              {
+                "nom": "Bojan Jokić",
+                "pais": "Slovenia"
+              },
+              {
+                "nom": "Alexandru Epureanu",
+                "pais": "Moldova"
+              },
+              {
+                "nom": "Aleksandar Dragović",
+                "pais": "Austria"
+              },
+              {
+                "nom": "Grzegorz Krychowiak",
+                "pais": "Poland"
+              },
+              {
+                "nom": "Taijo Teniste",
+                "pais": "Estonia"
+              },
+              {
+                "nom": "Matteo Vitaioli",
+                "pais": "San Marino"
+              },
+              {
+                "nom": "Lars Gerson",
+                "pais": "Luxembourg"
+              },
+              {
+                "nom": "Jóan Símun Edmundsson",
+                "pais": "Faroe Islands"
+              },
+              {
+                "nom": "Virgil van Dijk",
+                "pais": "Netherlands"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 8,
+        "rank_confederacio": 256,
+        "rank_global": 657,
+        "ambit": "confederacio"
+      },
+      "ts": 1794826800.0,
+      "collage": "collages\\822248d4-544c-4a32-bb6c-8454af310a6b.webp"
     }
   ],
   "baseline": {
@@ -13549,7 +13629,7 @@
         "alias": "Trézéguet",
         "pais": "Egypt",
         "confederacio": "CAF",
-        "valor": 101,
+        "valor": 100,
         "inici": "2014",
         "final": "2026",
         "actiu": true,
@@ -13624,6 +13704,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-11-14"
+      },
+      "Remo Freuler": {
+        "alias": "Remo Freuler",
+        "pais": "Switzerland",
+        "confederacio": "UEFA",
+        "valor": 100,
+        "inici": "2017",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-11-16"
       }
     },
     "Gols": {
@@ -13694,5 +13784,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-11-16"
+  "ultima_conciliacio": "2026-11-17"
 }

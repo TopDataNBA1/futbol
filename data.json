@@ -12976,6 +12976,58 @@
       },
       "ts": 1794826800.0,
       "collage": "collages\\822248d4-544c-4a32-bb6c-8454af310a6b.webp"
+    },
+    {
+      "id": "08d44014-4ef8-4614-9cf7-00758fe4d146",
+      "text": "Khalid Eisa (13th United Arab Emirates) reaches Santokh Singh, Nazri Nasir, Hani Al-Dhabit, Noor Sabri, Abdulaziz Al-Muqbali, Rohit Chand and Sarach Yooyen as 195th AFC, 661st global player with 100 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Khalid Eisa",
+        "pais": "United Arab Emirates",
+        "confederacio": "AFC",
+        "valor": 100,
+        "accions": [
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Santokh Singh",
+                "pais": "Malaysia"
+              },
+              {
+                "nom": "Nazri Nasir",
+                "pais": "Singapore"
+              },
+              {
+                "nom": "Hani Al-Dhabit",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Noor Sabri",
+                "pais": "Iraq"
+              },
+              {
+                "nom": "Abdulaziz Al-Muqbali",
+                "pais": "Oman"
+              },
+              {
+                "nom": "Rohit Chand",
+                "pais": "Nepal"
+              },
+              {
+                "nom": "Sarach Yooyen",
+                "pais": "Thailand"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 13,
+        "rank_confederacio": 195,
+        "rank_global": 661,
+        "ambit": "confederacio"
+      },
+      "ts": 1794913200.0,
+      "collage": "collages\\08d44014-4ef8-4614-9cf7-00758fe4d146.webp"
     }
   ],
   "baseline": {
@@ -13714,6 +13766,16 @@
         "final": "2026",
         "actiu": true,
         "ultim_partit": "2026-11-16"
+      },
+      "Khalid Eisa": {
+        "alias": "Khalid Eisa",
+        "pais": "United Arab Emirates",
+        "confederacio": "AFC",
+        "valor": 100,
+        "inici": "2011",
+        "final": "2026",
+        "actiu": true,
+        "ultim_partit": "2026-11-17"
       }
     },
     "Gols": {
@@ -13784,5 +13846,5 @@
       }
     }
   },
-  "ultima_conciliacio": "2026-11-17"
+  "ultima_conciliacio": "2026-11-18"
 }

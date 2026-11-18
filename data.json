@@ -13028,6 +13028,116 @@
       },
       "ts": 1794913200.0,
       "collage": "collages\\08d44014-4ef8-4614-9cf7-00758fe4d146.webp"
+    },
+    {
+      "id": "09fd5fda-ac3d-4010-9aae-670045e829e2",
+      "text": "Josué Quijano (2nd Nicaragua) surpasses Stern John, Ricardo Gardner, Francisco Rodríguez, Luis Tejada and Yoel Bárcenas and reaches Alberto García Aspe, Javier Hernández and Eric Davis as 57th CONCACAF, 429th global player with 109 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Josué Quijano",
+        "pais": "Nicaragua",
+        "confederacio": "CONCACAF",
+        "valor": 109,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Stern John",
+                "pais": "Trinidad and Tobago"
+              },
+              {
+                "nom": "Ricardo Gardner",
+                "pais": "Jamaica"
+              },
+              {
+                "nom": "Francisco Rodríguez",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Luis Tejada",
+                "pais": "Panama"
+              },
+              {
+                "nom": "Yoel Bárcenas",
+                "pais": "Panama"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Alberto García Aspe",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Javier Hernández",
+                "pais": "Mexico"
+              },
+              {
+                "nom": "Eric Davis",
+                "pais": "Panama"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 57,
+        "rank_global": 429,
+        "ambit": "confederacio"
+      },
+      "ts": 1795029955.719413,
+      "collage": "collages\\09fd5fda-ac3d-4010-9aae-670045e829e2.webp"
+    },
+    {
+      "id": "71ae590b-22b1-4fa9-9b06-0050e00ce29a",
+      "text": "Juan Barrera (2nd Nicaragua) surpasses Earnie Stewart and Michael Amir Murillo and reaches Warren Barrett, Kasey Keller and Michael Umaña as 74th CONCACAF, 587th global player with 102 international caps.",
+      "dades": {
+        "categoria": "Partits",
+        "jugador": "Juan Barrera",
+        "pais": "Nicaragua",
+        "confederacio": "CONCACAF",
+        "valor": 102,
+        "accions": [
+          {
+            "verb": "surpasses",
+            "jugadors": [
+              {
+                "nom": "Earnie Stewart",
+                "pais": "United States"
+              },
+              {
+                "nom": "Michael Amir Murillo",
+                "pais": "Panama"
+              }
+            ]
+          },
+          {
+            "verb": "reaches",
+            "jugadors": [
+              {
+                "nom": "Warren Barrett",
+                "pais": "Jamaica"
+              },
+              {
+                "nom": "Kasey Keller",
+                "pais": "United States"
+              },
+              {
+                "nom": "Michael Umaña",
+                "pais": "Costa Rica"
+              }
+            ]
+          }
+        ],
+        "rank_nacional": 2,
+        "rank_confederacio": 74,
+        "rank_global": 587,
+        "ambit": "confederacio"
+      },
+      "ts": 1795029956.780111,
+      "collage": "collages\\71ae590b-22b1-4fa9-9b06-0050e00ce29a.webp"
     }
   ],
   "baseline": {
@@ -13721,7 +13831,7 @@
         "alias": "Josué Quijano",
         "pais": "Nicaragua",
         "confederacio": "CONCACAF",
-        "valor": 108,
+        "valor": 109,
         "inici": "2011",
         "final": "2026",
         "actiu": true,
@@ -13731,7 +13841,7 @@
         "alias": "Juan Barrera",
         "pais": "Nicaragua",
         "confederacio": "CONCACAF",
-        "valor": 101,
+        "valor": 102,
         "inici": "2009",
         "final": "2026",
         "actiu": true,
